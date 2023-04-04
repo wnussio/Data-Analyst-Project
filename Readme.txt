@@ -8,6 +8,6 @@ The project consists of several files:
 'Data Printing' - Counting data and creating charts
 'chart' folder - Saved charts
 'Counter - tables' folder - tables with counted data
-Two Tableau Dashboards as JPGs, below is a link to the charts.
+Two Tableau Dashboards as JPGs, below are a links to the charts:
 https://public.tableau.com/views/DataAnalyst_16806211481340/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 https://public.tableau.com/views/DataSciencist/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
