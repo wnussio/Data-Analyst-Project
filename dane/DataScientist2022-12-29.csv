@@ -1,0 +1,401 @@
+,title,company_name,location,via,description,related_links,thumbnail,extensions,detected_extensions,job_id
+0,NGP (Senior) Data Scientist,netguru,Anywhere,via Startup Jobs,"Join Netguru Talent Marketplace, a proven partner for tech-minded freelancers and experts. Thanks to us, you will have access to various project-based opportunities and can collaborate with different companies and industries. As a result, you will not only gain more experience but also develop a variety of skills you didn’t even know you had. Work the way you like, on your terms, with no strings attached.
+
+Project description: • The end client is a big insurance company from the UK. The first phase is aimed for 3-6 months (freelance, full-time). The project is designed for 2-3 years.
+• Availability from mid-January / mid-February is required.
+• It is a very big and complex project: there are already various teams working on different work packages.
+
+Requirements
+
+Apply if you're familiar with the tech stack below. Not all of it is required :) We're looking for Data Scientists with versatile skills. We're not looking for a particular profile but rather for a group of skilled... individuals who together can cover various aspects of Data processing/management/governance, etc.
+
+• Architecture DesignData
+• Solution
+• Technical
+• Cloud
+• Infra
+
+• Business Analysis (Insurance centric)
+• Data Modelling
+• DBSQL
+
+• MDM/RDM
+
+• Reference data management
+• Master data management
+
+• Data Ingestion
+• HVR
+• Kafka Connect
+• Confluent Cloud
+
+• Data Processing
+• KSQL/ KDB
+• KStreams (Java)
+• Databricks (Spark)
+
+• Data Storage
+• Azure Data Lake Storage Gen2
+• Databricks - Unity Catalogue
+• Apache Hive
+
+• Data Publishing and Data Consumption
+• SQL Server
+• Snowflake
+• PowerBI
+• REST APIs
+
+• Data Management
+• Airflow
+• Matillion
+
+• Data Governance
+
+• Data.world
+• Manta
+• Ataccama
+
+• Infrastructure
+• Azure Security
+• Azure Log and Monitoring
+• Redscan
+
+• DataOps
+
+• Docker
+• Kubernetes
+• Rancher
+• Git
+• Teamcity
+• Octopus Deploy
+• Github Actions
+
+Joining Netguru as a (Senior) Data Scientist means: • Using Data to discover relevant insights and build advanced models which are powerful in solving business optimization problems.
+• Refining, challenging, and supporting requests from stakeholders and creating new data analyses based on commonly defined specifications.
+• Analyzing trends in client data and providing insights and explanations to their teams to improve their operations using data.
+• Identifying use cases for Predictive and Prescriptive analytics, forming the scope, and discovering the optimal solution with statistical and machine learning methods.
+• Working in an experienced and knowledgeable team, in an Agile environment.
+• Dev-friendly processes like Continuous Integration and Code Review.
+• Continuous development of your hard and soft skills.
+• Growing yourself and the people around you – you will give and receive regular feedback in a team of open-minded people that will always have your back.
+• Ambitious and verified projects – our clients come from all over the world and from different industries.
+• Enjoying flextime and flexplace – adjust your daily schedule to your individual needs, work fully remotely.
+• A smooth start – we will support you along the way. :)
+
+Benefits
+
+In return, we offer: • 100% remote, flexible work;
+• work with an experienced team of developers and continuous development of your hard and soft skills;
+• dev-friendly processes such as Continuous Integration, Continuous Delivery, Code Review and bug bashes;
+• long-term collaboration on challenging products (FinTech, B2B software, E-commerce and more).
+
+What will happen next? • We would like to know you better, so we will invite you for a meeting with our recruiter.
+• Next, you'll be asked to solve the task or invited to an interview and pair programming with one of our Java Developers.
+• If everything goes well, you will meet your future leader at the final online interview.
+
+Looking for a full-time job? Check out our Career Page and find out more about our open recruitment processes.
+
+If you need any disability-related adaptation at any step of the recruitment process – simply let the recruiter know! We'd be happy to help","[{'link': 'http://www.netguru.co/', 'text': 'netguru.co'}, {'link': 'https://www.google.com/search?q=netguru&sa=X&ved=0ahUKEwicqtXxiZ_8AhULlWoFHUspCtcQmJACCLsJ', 'text': 'See web results for netguru'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTSLodEbBY8ETKHRR_x44HntF018n0E52_Wt4or2w&s,"['3 hours ago', 'Work from home', 'Full-time']","{'posted_at': '3 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJOR1AgKFNlbmlvcikgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6InlvOUF0VkRjUEZrQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVvd0NDc3dCUVVGMFZteGlRMlJ3UkMxdWMzWmlVRjg1T0RoblRVZFhTa3QxVlZaaFdHNDNka3RVZWtKWmIwTnJTRU0zYVRCV1ZITkpOVWg0TjFWdlVFSkJlR0ZYUmxoSFZHZHpPWFkxVFRSbWNEWk5OMHQ0YUY5MFNuUnNWelZpZWw4eVRXWm1jbWxwU2xsemJYQTVVV0pZUm05dlduVTVSemxVTkZCTVZWRktVRXg0VkZaSU1rUllWbFJuVWtnMVZtbEtSVlkxTkhvM1pWbG5hMEUwVFhkS09FeE9UVnBYTnpCVVNGTjZTVEpYVW5GcmNUVXlVVkJJYkZoMFNWazJja2RHZGkxSlVFWjVSMmc1YTFsNlZHdFBFaGRoUzIxMFdUVjZWMGRKZFhGeGRITlFlVGxMYjNWQk1Cb2lRVVJWZVVWSFpISmxVMmw2VUd4WGNWbGpaSGgyZHpaSWVrTjNZa05HYkRSTFFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBTdGFydHVwIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9zdGFydHVwLmpvYnMvbmdwLXNlbmlvci1kYXRhLXNjaWVudGlzdC1uZXRndXJ1LTQwMTI4MDE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+1,Senior Data Scientist,Boeing,"Gdańsk, Poland",via Aviation Jobs,"Job Description
+
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+
+Boeing is the worlds largest aerospace company and leading manufacturer of commercial jetliners, defense, space and security systems, and service provider of aftermarket support.
+
+We are looking for an accomplished Senior Data Scientist to join our team in Gdansk, Poland. Candidates can work from our office in Gdansk or in hybrid mode.
+
+This position will be joining a team of data analysts that support Human Resources and enterprise business leaders. This role will be partnering across multiple functions to lead research projects evaluating the impact of organizational... activities on employee engagement and business objectives.
+
+The ideal candidate for this role would have:
+• A passion for continuous learning, teaching and collaborating.
+• Experience integrating both internal and external data in order to provide robust recommendations on how employee learning, attrition, retention, and engagement impacts business objectives.
+• The ability to define, build and deploy artificial intelligence and machine learning solutions.
+• Excellent communication skills that will enable them to work directly with stakeholders and business leaders to scope problems, explain results clearly and address any concerns in terms that can be understood by a non-technical community of stakeholders.
+
+Position Responsibilities:
+• Develop end-to-end artificial intelligence and machine learning solutions including data processing, feature & model development and production deployment with agility and scale.
+• Lead and mentor small teams of data scientists in the design, development, and implementation of complex and challenging efforts in advanced analytics and machine learning.
+• Partner with the enterprise business functions and collaborate across multiple teams including analytics, product management, and operations to solve problems and identify trends and opportunities.
+• Have passion about working with large and complex unstructured and structured data sets.
+• Lead and contribute to design, algorithm, and code reviews.
+• Able to self-direct and succeed with minimal guidance.
+• Strong communication and interpersonal skills. You should be able to work across functions and effectively present, recommend and communicate a position by demonstrating its value and tradeoffs.
+
+Employer will not sponsor applicants for employment visa status.
+Basic Qualifications (Required Skills/Experience):
+• A technical bachelors degree with 7+ years, or MS/MA degree with 4+ years of relevant work experience, or a relevant PhD degree. A relevant degree is defined as one in a quantitative field such as computer science, statistics, mathematics, operations research, bioinformatics, economics, computational biology, physics or chemistry.
+• Significant programming experience in one or more of the following: Python, Java, SQL, R.
+• 5+ years of experience in database management, programming, statistical modeling and/or machine learning (SQL, R, Python, JMP, Tableau, etc.)
+• Industry work experience or academic research in applied Artificial Intelligence / Machine Learning including deep learning.
+• Experience and success leading small teams of technical experts in the development of advanced analytics, machine learning, or software solutions.
+• Work experience or relevant coursework in software engineering including work with databases (e.g., experience with SQL) and Linux systems.
+
+Preferred Qualifications (Desired Skills/Experience):
+• Masters or PhD Degree preferred.
+• Experience and expertise building and implementing state-of-the-art computer vision models and pipelines.
+• Experience and expertise building and implementing state-of-the-art graph neural networks and pipelines.
+• Experience and expertise building and implementing state-of-the-art natural language processing models and pipelines
+• 2+ years work experience or relevant coursework training machine learning models in a cloud computing environment such as: AWS, Google Cloud Platform, Microsoft Azure, etc.
+• Experience working with analytics technology stacks; Azure, Google Cloud Platform (GCP), Teradata, etc.
+• Good organizational, interpersonal, and problem solving skills
+• Ability to adjust priorities to multiple demands and unanticipated events
+• Highly motivated and must work well in a team environment
+• The ability to communicate effectively, both verbally and in writing
+
+Join us if you want to:
+• Have flexible working hours.
+• Enjoy additional paid days off for Winter break (December 24th-January 1st).
+• Develop professional skills with our virtual learning tools and platforms (O’Reilly Learning, Degreed, Enterprise Mentoring, Communities of Excellence & Practice).
+• Benefit from Employee Recognition Program.
+• Get Medical Plan (Medicover) and life insurance (Warta S.A.) for you and your Family.
+• Participate in Employee Pension Scheme (PPE).
+• Enjoy and create with us friendly and inclusive atmosphere in workplace.
+• Cooperate and exchange knowledge with international team where we support and respect each other.
+
+Apply by sending your CV in English.
+
+On Saturday, 12 March 2022, the President of the Republic of Poland signed a law to assist citizens of Ukraine in connection with the armed conflict in that country. As part of this law, Ukrainian refugees in Poland benefit from access to the Polish labour market. Boeing welcomes applications from Ukrainian refugees who are seeking employment in Poland.
+
+Important information regarding this requisition:
+This requisition is for a locally hired position in POLAND. Candidates must have current legal authorization to live and work in Poland. Benefits and pay are determined at the local level and are not part of Boeing U.S. based payroll.
+
+Relocation:
+This position does not offer relocation. Candidates must live in the immediate area or relocate at their own expense.
+
+Export Control Requirements: Not an export control position
+
+Equal Opportunity Employer:
+
+We are an equal opportunity employer. We do not accept unlawful discrimination in our recruitment or employment practices on any grounds including but not limited to; color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military and veteran status, or other characteristics covered by applicable law.
+
+We have teams in more than 65 countries, and each person plays a role in helping us become one of the world’s most innovative, diverse and inclusive companies. Applicants are encouraged to share with our recruitment team any accommodations required during the recruitment process","[{'link': 'https://www.google.com/search?q=Boeing&sa=X&ved=0ahUKEwicqtXxiZ_8AhULlWoFHUspCtcQmJACCOgJ', 'text': 'See web results for Boeing'}]",,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6IldTX1VPczFBbjFVQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlSRmhGVkZSVk5sQlZSVnBIYUc1UmVtWkxUMUIwVW5seGVuWnRiVVZ2YnpseFkyeFdOVmRwZEZOV2RFUXlZV1I2T1VaSWRXNDVSMmhVVHpkb2NFcHpMWEJLUkhVM1ltOU5VbTVIWW5sc1NsWmthVzlLUW1jdE4wTlRhMGQ1U0RSbGJHbDVUVkZaVmw5UVJWSjRjRlZWVVZFM1dtdHlSazFZYUdrMVFtbFhUMmg2Tmt0SU9YcDROakV4ZWpGVWFtZFpYelZCWkhOclJYcEJTRTVuRWhkaFMyMTBXVFY2VjBkSmRYRnhkSE5RZVRsTGIzVkJNQm9pUVVSVmVVVkhaVWh2WldZNWJUWk1XbTlmT0VsdFpYZE5XVmhqUjA1NVJHZFBkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQXZpYXRpb24gSm9icyIsImxpbmsiOiJodHRwczovL3d3dy5hdmpvYnMuY29tL2pvYnMvcHVibGljLmFzcD9Db21wYW55PUJvZWluZ1x1MDAyNmc9MDFGMzgwMjktMTczOC00NTA5LTlDMTItODMzODBBNzM2QkY1XHUwMDI2dD1TZW5pb3IrRGF0YStTY2llbnRpc3RcdTAwMjZsPUdkYW5zayUyQlBvbWVyYW5pYVx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+2,Data Scientist / AI engineer,Spyrosoft,"Łódź, Poland",via Energy Jobline,"Project descriptionSpyroSoft is reaching yet another level in its impressive growth towards boosting its tech capabilities. Therefore, we wish to invite a Data Science Expert, who will strengthen the Unit and enhance Spyro in the following areas: Collaborate in agile teams to design, implement and deploy end-to-end data science solutions with a strong focus on developing innovative product solutionsInvestigate, analyze and interpret large data sets using the latest technologies and methodsDeveloping algorithms for data preparation, exploration, mining, and modeling Design, implementation, and evaluation of machine learning algorithmsDesign, develop and implement graphs, metrics, dashboards, apps, and reports to visualize data and support business decision making.Autonomous implementation, documentation, and further development of products and servicesDocumentation of results and know-how transfer to internal business units and/or clients.Serving as a subject matter expert in contacts... with clients: providing them with the required expertise, as well as identifying their issues and business needs. About SpyrosoftSpyrosoft is an authentic, cutting-edge software engineering company, established in 2016. In 2021 and 2022, we were among the fastest growing technology companies in Europe, according to the Financial Times. We were founded by a group of tech experts with established backgrounds in software engineering, who created an ‘engineer-to-engineer’ workplace, powered by enthusiasm, fairness and authentic relationships. Having a unique offering, which bridge the gap between technology and business, we specialise in technology solutions for industry 4.0, automotive, geospatial, healthcare & life sciences, employee experience & education and financial services industries","[{'link': 'http://www.spyro-soft.com/', 'text': 'spyro-soft.com'}, {'link': 'https://www.google.com/search?q=Spyrosoft&sa=X&ved=0ahUKEwicqtXxiZ_8AhULlWoFHUspCtcQmJACCJYK', 'text': 'See web results for Spyrosoft'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDGmPhm9NP0TRTibuHTyI6MeHWFhoggQ2xAVakPIM&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAvIEFJIGVuZ2luZWVyIiwiaHRpZG9jaWQiOiJHdmxucUJIMVJka0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVRjBWbXhpUkdZeVFscEpXRFl3YjJaVWMyMWFURWRsY0VSME5XdHlNRGhNTTJWNFMwUndURlkzVVVGTlFsVmlhRVoxYkZOWk5EZGpUbFJpYTBVNFpUUkliVEp2VjFOclYzVTVRMk51U1hkVGQwZHZaMEZLTmtSV1JIQm1iMGRRYW5sMVNWVTBNR3haYmxWaGEwOXNPVlJJT0hvM1REWjJlV0ZKVlVSSVJ6SnhWRE0wYms5NWQzTkdaRzF5TVZBeU5GTnBTelZGTTJWZlpFVjBlV0ZIUkc1aVlXWjVWbnBMZEdWTWNIZEtTblp6UmtkU1IyOVZNRWszYzFZNU9GZExjMDlHU3paMWVFTTJlV1pJRWhkaFMyMTBXVFY2VjBkSmRYRnhkSE5RZVRsTGIzVkJNQm9pUVVSVmVVVkhaVVJ2YTBSV01VTXlTM05vUkZWSlV6ZFpOMFYwY2w5Q05IUmFRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gRW5lcmd5IEpvYmxpbmUiLCJsaW5rIjoiaHR0cHM6Ly93d3cuZW5lcmd5am9ibGluZS5jb20vam9iL2RhdGEtc2NpZW50aXN0LWFpLWVuZ2luZWVyLTE1MjgyODAxP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+3,Data Analyst - Gamma Retail Catalyst,"BCG GAMMA, Boston Consulting Group","Warsaw, Poland",via Boston Consulting Group,"WHAT YOU'LL DO
+
+BCG is seeking a Data Analyst, based in Warsaw, Poland. You will join the rapidly growing Retail Catalyst team, which helps build and implement advanced analytics software for our Retail case teams and clients. Retail Catalyst is part of BCG GAMMA, BCG’s data science and software products business unit. The Warsaw-based team is in charge of building, configuring, and delivering world-class analytics software and apps.
+
+In particular, you will be in charge of:
+• Supporting the Customer Success Managers (CSMs) to deliver excellent and seamless client delivery service
+• Rapidly take responsibility for expanding / improving use cases and help our clients achieve their analytics goals
+• Developing, customizing, and performance-tuning Tableau dashboards
+• Building and maintaining ETL flows in Dataiku
+• Overseeing and executing client data ingestion and data quality control
+• Performing analytics to support the software / apps and generating insights
+• Providing technical... solution and domain expertise to our clients and case teams
+• Coordinating with clients / case teams and maintaining a close sync with our engineering, data science, and devops teams
+• Proactively collecting and incorporating client and case team feedback to make the Retail Catalyst platform the best it can be
+• Over time, become a leader of the Warsaw Retail Catalyst team and take on management responsibility
+
+JOB REQUIREMENTS:
+The Data Analyst will have two major areas of responsibilities:
+Client Service (80%)
+• Support onsite Customer Success Managers (CSMs) to successfully deliver Retail Catalyst projects
+• Work directly with clients, BCG case teams, and product team on a project-by-project basis to conduct hands-on rigorous quantitative analysis, leveraging advanced analysis software (e.g., Dataiku and Tableau for visualization)
+• Ingest, clean, transform, maintain, and analyze client data on Retail Catalyst platform
+• Rapidly configure standard and custom Tableau dashboards per CSM, client, and case team’s directions / requirements
+• Oversee and quality-control all things ETL and Tableau for our client deployments
+• Coordinate the Warsaw delivery team to provide world-class quality output and hyper-responsive client service
+Product and IP development (20%)
+• Maintain library of client-agnostic Tableau dashboards and ETL flows
+• Improve setup and preparation of standard / starting point components so that they can be rapidly deployed and configured for client use cases
+• Support Retail Catalyst product team in client development efforts with ad hoc analysis, problem solving on best analytical approach, and client demos
+• Study and understand Retail sector terminology and industry (analytics-) knowledge
+• Over time, identify new areas of application/use cases for Retail Catalyst and help embed these into the platform and apps
+Your success in this role will be measured in your ability to support our clients and case teams with highly responsive and top quality outputs. You will also be measured on your level of proactivity in terms of improving and expanding the technical platforms and analytical use cases. Finally, we will expect you to, over time, take responsibility for the Warsaw team, including development and mentorship for junior team members and overall quality control
+YOU'RE GOOD AT
+
+Technical skills
+• Tableau (Advanced / World class)
+• ETL / SQL (Advanced / World class)
+• Excel (Advanced)
+• Statistics and math (Intermediate)
+• Python knowledge is a plus
+• Data automation knowledge (e.g., Airflow) is a plus
+• Cloud knowledge (Google Cloud and Azure) is a plus
+
+Non-technical skills
+• Meticulous attention to detail
+• Highly efficient – you get a lot of work done in very little time
+• Willingness to work hard and prioritize team success vs. regular working hours
+• Highly proactive and strong drive for (self-) improvement
+• Dedicated team player
+• Excellent communication skills in English
+• World class problem-solving skills
+• Self-motivated and is able to operate autonomously in a structured manner
+• Ability to coach others
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+
+Education or Certifications
+• Bachelor’s or Master’s degree in engineering, computer science, data science / statistics, or business administration
+
+Work Experience
+• Minimum of 2 years of deep experience in Tableau, including Tableau server tuning, Tableau APIs, Hyper, recent and upcoming product innovations, etc.
+• Minimum of 2 years of deep experience in ETL for very large data sets (terabyte+)
+• Deep expertise in SQL, ideally PostgreSQL
+• Experience in conducting thorough quality checks on ETL flows
+• Experience with data ingestion and automation of ingestion is a big plus
+• Experience with visualized ETL tools (Alteryx, Dataiku) is a big plus
+• Experience in working with global teams
+• Client service experience is a plus
+• Cloud platform experience is a plus
+YOU'LL WORK WITH
+
+• Client success team
+• Tableau delivery team
+• Devops team
+• Product engineering and platform team
+• Commercial and product leadership","[{'link': 'http://www.bcg.com/', 'text': 'bcg.com'}, {'link': 'https://www.google.com/search?q=BCG+GAMMA,+Boston+Consulting+Group&sa=X&ved=0ahUKEwicqtXxiZ_8AhULlWoFHUspCtcQmJACCMQK', 'text': 'See web results for BCG GAMMA, Boston Consulting Group'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE7LGK80sgQuXG9g5Fkoks60uucVDsjR5vVEBv1U&s,"['3 hours ago', 'Full-time']","{'posted_at': '3 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBHYW1tYSBSZXRhaWwgQ2F0YWx5c3QiLCJodGlkb2NpZCI6Imh6dEhZdFFJcnhvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVyY0NDdmNCUVVGMFZteGlRWGhqYVhWbWJsSnFTRzV0TmtaamVHbGlUVVZzWW5STVdtTkRYMjFvWm10dFFWZFhOM0pPVkZrNFkyb3dObUpJU1c1amJFNWhWekZDUjNONlR6WlJiRWxTYjBselRWRnBSa28zU200MU5HdHdVbVJ5WDNRMmEzRjBiRUU1YTBNMmNtSXdWMFZXTW5NNE0zZGpTR001UkRSclJrSXlRVmRaYjNWbFUwWmtRMWh1WWpWdGIzSkpTR1pUYzBadU5rWk5OVUpsTVc1T2NGOXZibHBzVVZOcGQyUlhlbGd3UTFwblFqSnVaMVF0VTA5emNsOUlXR05WUldkT2JtWkRTWGhLZVc5dlNFOW9WQzAxVVhSMloxbEZTRGQ2VnpGUFVtMDJWeTFIUkZGb1VWVTFOMUIxZFRSd2RsaDJaMVo2UVRnMFFSSVhZVXR0ZEZrMWVsZEhTWFZ4Y1hSelVIazVTMjkxUVRBYUlrRkVWWGxGUjJNemFrSjVZazlxWlV0b1drbG5TWEZFVDBOVFJGb3ROWGh1ZG1jIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBCb3N0b24gQ29uc3VsdGluZyBHcm91cCIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuYmNnLmNvbS9qb2IvMTYwMjFCUi9EYXRhLUFuYWx5c3QtR2FtbWEtUmV0YWlsLUNhdGFseXN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+4,Senior Data Scientist - Digital Assurance,EY,"Warsaw, Poland",via LinkedIn,"Let us introduce you the job offer by EY GDS Poland – a member of the global integrated service delivery center network by EY.
+
+The opportunity
+
+EY’s GDS Assurance Digital team’s mission is to develop, implement and integrate technology solutions that better serve our clients and engagement teams. As a member of EY’s core Assurance practice, you’ll develop a deep Audit related technical knowledge and outstanding database, data analytics and programming skills.
+
+Your Key Responsibilities
+
+EY's GDS Assurance Digital team members work side-by-side with the firm's partners, clients and audit technical subject matter experts, to develop and incorporate technology solutions that enhance value-add, improve efficiencies and enable our clients with disruptive and market leading tools supporting Assurance.
+
+GDS Assurance Digital provides solution architecture, application development, testing and maintenance support to the global Assurance service line both on a pro-active basis and in response... to specific requests.
+
+This position is for Data Scientist who can build and design ML/AI based applications/solutions.
+
+Skills And Attributes For Success
+• An ability to quickly understand complex concepts and use technology to support data modeling, analysis, visualization or process automation
+• Demonstration of analytical and systematic approach to problem solving
+• Communication - fluent orally and in writing and ability to present complex technical information to both technical and non-technical audiences
+
+To qualify for the role, you must have
+
+A Bachelor's degree (BE/BTech/MCA & MBA) in Computer Science, Engineering, Information Systems Management, Accounting, Finance or a related field with adequate industry experience.
+
+Overall 5 to 8 Years of IT experience with focus on the following:
+• Statistics
+• Analytics Modelling
+• Simulation and Optimization
+• Natural Language Processing
+• Text Analytics
+• Visualization techniques and tools
+• Big Data Architectures
+• In Memory Processing
+• Machine Learning
+• Deep Learning
+• Distributed processing
+
+Strong technical skills in analytical approaches and tools as well as its associated data environments such as:
+• Python
+• Machine Learning, Deep Learning
+• Natural Language Processing (NLP)
+• TensorFlow
+• Pytorch
+• Question Answering
+• Text Classification
+• NER
+• NLG
+• Sentiment Analysis
+• Text Summarization
+• API Deployment
+
+Ideally, you’ll also have
+• Knowledge of the following technologies: FastAPI, Flask, Azure MLOps, Docker, PDF/Word Data Extraction, SQL Databases, Machine Translation, Transformers
+• Other Relevant technologies: SPSS, SAS, Matlab, KNIME, R, Hadoop, Hortonworks, Cloudera, IBM Big Insights, Mapreduce, Spark, SAP HANA, Oracle Exalytics, Apache Mahout or 0xdata H2O
+• Software development experiences in Java and/or C/C++
+• Data Visualization tools, such as Tableau, Spotfire, Qlikview and others for integration between disparate data sources, design and implementation of KPIs and generation of automatic and scalable visualizations that will facilitate extraction of business insights.
+• Function, Client or Industry specific data exploitation concepts
+• Experience in structuring and overseeing program design, development, testing and debugging activities.
+
+What We Look For
+• Selecting appropriately from applicable standards, methods, tools and applications and uses accordingly
+• Ability to work within a multi-disciplinary team structure, but also independently
+• Able to plan, schedule and monitor work activities in to meet time and quality targets
+• Able to absorb rapidly new technical information, business acumen, and apply it effectively
+• Ability to work in a team environment with strong customer focus, good listening, negotiation and problem-resolution skills
+
+What We Offer
+
+EY Global Delivery Services (GDS) is a dynamic and truly global delivery network. We work across six locations – Argentina, China, India, the Philippines, Poland and the UK – and with teams from all EY service lines, geographies and sectors, playing a vital role in the delivery of the EY growth strategy. From accountants to coders to advisory consultants, we offer a wide variety of fulfilling career opportunities that span all business disciplines. In GDS, you will collaborate with EY teams on exciting projects and work with well-known brands from across the globe. We’ll introduce you to an ever-expanding ecosystem of people, learning, skills and insights that will stay with you throughout your career.
+• Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+• Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+• Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+• Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+About EY
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+
+If you can demonstrate that you meet the criteria above, please contact us as soon as possible","[{'link': 'http://www.ey.com/', 'text': 'ey.com'}, {'link': 'https://www.google.com/search?q=EY&sa=X&ved=0ahUKEwicqtXxiZ_8AhULlWoFHUspCtcQmJACCPIK', 'text': 'See web results for EY'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24qUNLu15pJEpJKPJ_MNVDbky2foh4TCjKZ19h48&s,"['21 hours ago', 'Full-time']","{'posted_at': '21 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QgLSBEaWdpdGFsIEFzc3VyYW5jZSIsImh0aWRvY2lkIjoic3Yxb0ExUFFkbHNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVUYwVm14aVExOUZkemRQWDNWdFMzZG9VVm81U1hoTVpVMDBTelpMVUhOUlFVdElVMlZqZVhoc2ExbFFjbmhDZDFaTFgwSkZjRXd3VkdNMlJERm9SbVUyYlRCVlVrWkZWV1JPVWpFMVVqSmlSbk5PY3pRMmJraDRMVmR1ZUZSb1ZsOXRSR2c0UWpCSFRWVjNRVTVxZEhsVk9FSk1SMWhKY21kVlRqbENZMlo1ZGpNeFVGZDVRbkl5ZW1WMFUxY3lSVlpVUlhSV09WWjVTVkJOWDJ0V1IweGlhVUUyVjNsRk1rUlhiRlZRT1VKbmJYUkdSSEpVVDNFeFgydDRjbWxLWHpWcU5FODJUVVYyVDFNMkVoZGhTMjEwV1RWNlYwZEpkWEZ4ZEhOUWVUbExiM1ZCTUJvaVFVUlZlVVZIWkdKQ1EwRXlYMUY1VWpjM01XdGpjM0I2YjBVMFVuWnZOa1YyUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3ItZGF0YS1zY2llbnRpc3QtZGlnaXRhbC1hc3N1cmFuY2UtYXQtZXktMzMwMDI3MzM5MT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+5,"Software Engineer, DevOps","BCG GAMMA, Boston Consulting Group","Warsaw, Poland",via Boston Consulting Group,"WHAT YOU'LL DO
+
+We are seeking an exceptional and experienced candidate to serve as DevOps Engineer for Retail Catalyst. This high-impact role will work directly with Developers, Data Scientists, Data Architects, other DevOps, Product Managers, Client Success Managers, and vendor partners (Google, Microsoft, Tableau, etc.) to own, define, improve, and implement Retail Catalyst’s DevOps roadmap. He or she will also play a crucial role in ensuring a smooth delivery of client projects, including the very important task of monitoring and improving our cloud-based platform and apps.
+YOU'RE GOOD AT
+
+You have lots of passion for cloud platforms, digital apps, and (large dataset) automation. At the same time, you also think of how to improve the business / processes and where and how you can utilize your skills to help streamline the current state of engineering & infrastructure. You should also have a relentless focus on delivering superior client service and making / keeping your... stakeholders happy.
+
+• Thoroughly understanding DevOps processes and tools like JIRA, Confluence, Octopus, Splunk, etc.
+• Knowing and being very comfortable with Tableau Server including setup, maintenance, user management, performance tuning, upgrades, etc.
+• Bringing deep experience with Google Cloud Platform (GCP), Microsoft Azure, and/or AWS – ideally in settings with very large (= billions of rows) of data
+• Bringing experience with Spark Cluster maintenance and performance tuning (especially auto-scaling)
+• Being on top of the latest security best practices and how to implement strong security / DevSecOps
+For more information on BCG please log onto:
+• Setting up Various Pipelines on Azure DevOps, especially automated deployments
+• Supporting the upgrade and maintenance of data platforms and cloud infrastructure (Dev and Prod)
+• Automating and proactively improving operations around environment provisioning, installation, upgrade and maintenance
+• Architecting, developing, and deploying tools for monitoring, logging, and alerting
+• Conducting hands-on troubleshooting, problem analysis and resolution
+• Supporting the software engineers in building a stronger a CI/CD pipeline using tools such as Gitlab, Octopus, Skaffold (GCP), etc
+• Retail industry / data experience is a plus
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+
+• Passion for providing world-class service levels to our clients and internal stakeholders (some of them very senior)
+• Experience and proven success in working with fast moving, globally distributed tech teams and going above and beyond (including flexing your working hours) to make things happen
+• Bachelors/Master’s degree in software engineering, computer science, mathematics, or related field
+• Experience in deploying / maintaining data platforms & software solutions (ideally GCP and Azure – AWS experience also a plus)
+• Experience working on cloud-based services (including SaaS, PaaS, IaaS) with a solid understanding of continuous integration, delivery and deployment challenges, Configuration management best practices for developing and deploying cloud applications.
+• Deep understanding of latest DevOps tooling and practices (Atlassian JIRA, Confluence, Gitlab, OctopusDeploy, Splunk, etc.)
+• High proficiency with monitoring tools
+
+YOU'LL WORK WITH
+
+Our technology consultants and specialists partner with our clients and colleagues to build and implement digital solutions through a broad spectrum of activities. Technology jobs and engineering jobs include design of IT architectures, large-scale transformation, agile development, software engineering, cybersecurity consulting, and risk management","[{'link': 'http://www.bcg.com/', 'text': 'bcg.com'}, {'link': 'https://www.google.com/search?q=BCG+GAMMA,+Boston+Consulting+Group&sa=X&ved=0ahUKEwicqtXxiZ_8AhULlWoFHUspCtcQmJACCKAL', 'text': 'See web results for BCG GAMMA, Boston Consulting Group'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE7LGK80sgQuXG9g5Fkoks60uucVDsjR5vVEBv1U&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgRGV2T3BzIiwiaHRpZG9jaWQiOiJaOWpfeWhvdncxTUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFcUlDQ3VJQlFVRjBWbXhpUkV3emNEQnRVVzFhVUVreFIyTndkazlST0hCRFRHRTFOM2hmUlhSdWIxVmFWSFZQTmxGWlNHbHdRMHhIV0ZGMVJrOXlUbWxsZUdkb09EVlVWa1pEUjNWdVNqbFVXVWRyWVhScVRsbE5XR1pJVWtWSWEzQnJMVEJ5V0cxMmJXbFpZVXhGUlVkbldFazNiMHhQWldWTlNuQm9OVFI2U2tnd01tZ3hWRnBvTTNaRVlqZEZURGx4ZW5NNFZGZGFielJ0TVhOM1lYZEROVmQ1T1ZGcVpWcDZSMWxuU2s5R1JtRXdVVFkzWVRFd2FXbzFSSGhHUWxaWGNFdHhkWEZxVEU5c2FqaHJTRzFOYzNGSmJUUlFabWR3ZEdKSFRVbHZSRkpUUzBkTFFSSVhZVXR0ZEZrMWVsZEhTWFZ4Y1hSelVIazVTMjkxUVRBYUlrRkVWWGxGUjJOV01HSmFja3ROU1cxbk56RklkRXMwZFZsbk5tVmFabkJCZWxFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTAiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQm9zdG9uIENvbnN1bHRpbmcgR3JvdXAiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLmJjZy5jb20vam9iLzE1ODk2QlIvU29mdHdhcmUtRW5naW5lZXItRGV2T3BzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+6,Software Engineer (Machine Learning OR Data Science),Equinix,"Warsaw, Poland",via Linkedin,"We are looking for a smart, enthusiastic, and creative Junior Machine Learning engineer with background in computer science and engineering. In this position, you will support our team in building and operating innovative end to end machine learning solutions on our petabyte scale Data Center Infrastructure Monitoring (DCIM) IoT platform.
+
+The qualified candidate will have experience on developing machine learning models, data pipelines and operationalizing them. Besides, will have knowledge of most common machine learning techniques and their application.
+
+Roles and Responsibilities
+• Develop and train machine learning models leveraging industry standard framework.
+• Develop and Deploy secure data pipeline at scale.
+• Work on data exploration, data cleansing, ingestion, data wrangling and feature engineering.
+• Work with Data Scientist to develop and operationalize machine learning models at scale in production.
+• Develop test cases and automation for machine learning model and data... pipelines.
+• API enable machine learning models.
+• Participate in design and code reviews.
+
+Qualification
+
+Required
+• Masters with 1+ years of experience and Bachelor with 2+ years of experience in Computer Science, Data Science, or related fields.
+• 2+ years of hands on experience in languages such as Java or Python and SQL.
+• Experience in machine learning libraries and frameworks such as Apache Spark, PyTorch, TensorFlow, Keras, etc.
+• 2+ years of experience of SQL databases such as Oracle.
+• 3+ years of applied machine learning experience in supervised and unsupervised learning techniques with high dimensionality data using algorithms such as multiple linear regression, logistics regression, deep neural network, k mean clustering, k nearest neighbor etc.
+• Excellent verbal and written communication skills in English.
+
+Desired
+• Experience on Big Data/Machine Learning services on cloud providers such as AWS or GCP.
+• Experience with reinforcement learning.
+• Knowledge of data center mechanical cooling systems domain with focus on energy optimization.
+• Knowledge data center domain.
+• Experience in large scale data processing frameworks e.g. Map Reduce and Streaming.
+
+Successful candidate will
+• Have a mindset to put “Customer at center of everything”
+• Be an “Energy Supplier” who gets the team around them to excel.
+• Be a team player with “We before Me” attitude and is persistent, creative and driven to get results relentlessly.
+• Demonstrate “Step up Speak Up” value to challenge the status quo, when needed.
+• Exhibit a high level of curiosity, growth mindset and will keep abreast of the latest trends & technologies to “Find a Better Way” and “Keep Growing”
+• Show pride of ownership and strive for excellence in undertakings","[{'link': 'http://www.equinix.com/', 'text': 'equinix.com'}, {'link': 'https://www.google.com/search?q=Equinix&sa=X&ved=0ahUKEwicqtXxiZ_8AhULlWoFHUspCtcQmJACCM4L', 'text': 'See web results for Equinix'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdO37zIzmnz6OceXsw8CSsRElEhRlzJzYyaMSxgo&s,"['4 hours ago', 'Full-time']","{'posted_at': '4 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciAoTWFjaGluZSBMZWFybmluZyBPUiBEYXRhIFNjaWVuY2UpIiwiaHRpZG9jaWQiOiJPZUU1NUtsdFJKRUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFcUlDQ3VJQlFVRjBWbXhpUkRKWE0xUnZUM2QxU0Uxbk1GOUdWbkJQU1doVVQxWmhWMnRyYkdVNE1XSkVRMTlOWTJOSU9YbHBkRVY2VldGUk0zQllXR0pRUWtoSVNHUm5ZVlJ4UjNoamFsWjFkakE0VW5BMWFGSlNRMVYzZGxRNVV6TkRhbTlZVW1KUmFTMUNhREpHYWs5WmJFVmhTV0UzU0dwek1VNUtlR0poUVU1QlgxTmZhbmR5WlhZNFdsWnNSWFpyYjBoeFFrSldWbXBuVVdscVZHVlFXWFpGY2xaSWFsUnBjREZ4Y2pseFNuWlVia3AyTm5KTGJXODVUVWxLUm5abFFURTRUM0ZwUTJkNlFVRmpabTQxYlhKbWEzWklXRXhGY2s5RFpISmZkekE1UjB4amR4SVhZVXR0ZEZrMWVsZEhTWFZ4Y1hSelVIazVTMjkxUVRBYUlrRkVWWGxGUjJaRVYwOVdVME55VVhaQlgxaFBZV1ExZGkwMU5VVjJUUzFyTFdjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkaW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L3NvZnR3YXJlLWVuZ2luZWVyLW1hY2hpbmUtbGVhcm5pbmctb3ItZGF0YS1zY2llbmNlLWF0LWVxdWluaXgtMzM1ODI1NTAwMD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19

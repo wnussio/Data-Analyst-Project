@@ -1,0 +1,680 @@
+,title,company_name,location,via,description,extensions,detected_extensions,job_id,thumbnail
+0,Backend Engineer (Node.js) + Data scientist,Fitsoftware OU,Anywhere,via AngelList,"Backend Engineer (Node.js) + Data scientist needed!
+• 100% Remotely
+• Up to 80k USD annually depending on the experience...
+• Full-time
+• B2B, long-term permanent contract
+
+Requirements:
+• min. 5 years of commercial experience in programming
+• Good knowledge of JavaScript 6 and TypeScript (version 3 or later)
+• Expertise in NestJS
+• API Design and Development skills (REST, GraphQL)
+• Experience building catalogs of data with Graph databases technology (AWS Neptune or similar) and connecting them with external knowledge graphs (OWL2, RDF)
+• Expertise with ETL patterns and solution
+• Knowledge of NoSQL databases (MongoDB, Elasticsearch, DynamoDB)
+• Experience with unit tests and testing tools (Mocha, Jest)
+• Experience with AWS (EC2, ECS, Lambda, ApiGateway, AWS Sam)
+
+Your responsibilities:
+• Developing RESTful/GraphQL APIs in Node.js
+• Developing knowledge graphs
+• Implementing microservices and streaming ETL
+• Developing new features and improving existing ones
+• Taking the initiative and design & propose your own solutions, participating in code reviews
+• Cooperating with project managers, developers, testers, and customers to increase application quality
+• Developing projects in an Agile environment
+
+What do we offer?
+• Work 100% remotely
+• Salary up to 80k USD annually
+• 2 weeks of paid leave per year
+• Company-provided equipment
+• Wide autonomy and independence
+
+Referral bonus: 5,000 PLN if we hire an engineer based on your recommendation
+
+Fitsoftware OU focuses on Consulting and IT Management. Their company has offices in Estonia. They have a small team that's between 11-50 employees.
+
+You can view their website at https://www.fitsoftware.eu","['20 hours ago', '60K–80K a year', 'Work from home', 'Full-time']","{'posted_at': '20 hours ago', 'schedule_type': 'Full-time', 'salary': '60K–80K a year', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJCYWNrZW5kIEVuZ2luZWVyIChOb2RlLmpzKSArIERhdGEgc2NpZW50aXN0IiwiaHRpZG9jaWQiOiJZUFp4QVdIUXc1WUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVRjBWbXhpUVY5MWMwaHJZVEZ3Y1ZaQ1RHTmxjRWhZUkc0MmMzcFhPVTUzV1ZCeWJtZEhZV2xDYlhkb1MwMVZUWGR6VTFnNUxWOXBRMUJ1ZFhWbE1WOVRRMWhZYmtJelRUVk5PRmxQZWpSamFYZEVaMHBTVW1sNlVVODFiM1ZIWVd0V01tcGhNRGw2ZG1GVllXcEJaVE5zWkhjNVoxcEpZbGhoZUVWM1QxUktjVXBJYjJjMWNVSjJTV3hNZVU1eFNHNTFVR1ZLTkV0ME1IYzJkbEJtZUZONGQzaE5Va3RYYjBSTk5sSnZlVGg1VEV0UVZrSmhNWFZ6WkRGMGFUSTJSVGhVTlZSd1drVnZhbTlhRWhkQ1drdHJXVGREV1Vod01rZHhkSE5RTm1SaFJUWkJWUm9pUVVSVmVVVkhZMEp0WVVsUWVsVlRPVlphUldVd1pFbDVSRUZoZUc0MVNWWkNRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgZGlyZWN0bHkgb24gQW5nZWxMaXN0IiwibGluayI6Imh0dHBzOi8vYW5nZWwuY28vY29tcGFueS9maXRzb2Z0d2FyZS1vdS0xL2pvYnMvMjUxOTk0My1iYWNrZW5kLWVuZ2luZWVyLW5vZGUtanMtZGF0YS1zY2llbnRpc3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,
+1,Data Scientist,Vaillant GmbH,"Katowice, Poland",via Jobrapido.pl,"Data Scientist
+
+WHAT YOU WILL DO
+• In this role you will work in a team of data scientists on Advanced Analytics of machine data ( IoT/IIoT) and customer data as part of Vaillant Group’s digital service portfolio to drive our corporate’s vision of “Taking care of a better climate”.
+• You will support the development of connected products and services by delivering analytical insights into hundreds of thousands of connected heating appliances in smart homes.
+• Thanks to your expertise, you will apply machine learning techniques to improve our products, services and production, by developing novel solutions for energy management and optimization.
+• Furthermore, you will visualize insights in a comprehensible way and present results to stakeholders concisely and clearly.
+• You will provide advice to and share your knowledge regarding advanced analytics with data analysts in different business units and in our community of data enthusiasts.
+• You will use state-of-the-art cloud technology... and continuously extend your knowledge and skills.
+
+WHAT YOU BRING ALONG
+• Experience in the development and evaluation of statistical models and a habit of continuously challenging your results and their statistical validity is a must.
+• You have expertise in at least one relevant programming language (Python, Java, Scala, SQL, etc.) and can visualize data, in tools like Tableau.
+• Ideally you are familiar with cloud services and Data Science related components, preferably in MS Azure.
+• Ability to work in a team, combined with a high degree of curiosity, initiative and the motivation to work in an agile and interdisciplinary environment.
+
+WHAT WE OFFER
+• A fast growing, agile and very dynamic team that challenges established routines and helps transforming the Vaillant Group to a data informed business.
+• Constant learning opportunities for both technical and personal growth through a range of workshops, seminars, events, and e-learnings.
+• Opportunity to become a part of newly created IT Global Hub located in modern office building.
+• Package of additional benefits: private medical care, multi-sport card","['17 hours ago', 'Full-time']","{'posted_at': '17 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoiMGtPRXNHOEphR3dBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVUYwVm14aVFWVlZhVkl6VTBkdUxUQXhNWFpMZFVKbWQzbEdRakl6ZEhkVWMwTkdjR0Z6VGxKVlkxcFRSM0F3ZGtaRVFVMWZlREZTTmkxV1JYRk9TRVp4VmxZdFFWRktTVzEwTlRSVFdVOXZkM1J4TkVSdlRVVnhaVEF3ZEZNeU0yVnlRbXRvTTNWamJFVXpZMVZ5TFV0SlN6TklWa3hZTFdoSFUzWnFSVWhGUkd0NFdUaDRkbGhuTjBzdGFTMXNVbEZOWDNVd1UwZzJVMUZaZVdOTWRXRm1VMWxQUkU1RGVYRlRjbXRGZDNWb1dpMDBkMkZCRWhkQ1drdHJXVGREV1Vod01rZHhkSE5RTm1SaFJUWkJWUm9pUVVSVmVVVkhaVjlTTlVSNk5tdExjMEZIU0dsU1YzSTJlVzV1YUdaaFN6Rk5kdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icmFwaWRvLnBsIiwibGluayI6Imh0dHBzOi8vcGwuam9icmFwaWRvLmNvbS9qb2JwcmV2aWV3Lzc2ODc3NTcxP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,
+2,Mid Data Scientist,Plenti,"Warsaw, Poland",via LinkedIn,"Cześć! Jesteśmy startupem, który działa na rynku od ponad 4 lat. Zajmujemy się wynajmem produktów elektronicznych i zmianą sposobu, w jaki korzystamy ze sprzętów użytkowych! Naszą misją jest zorganizowanie rzeczy na świecie tak, by stały się powszechnie dostępne i użyteczne dla każdego, bez konieczności posiadania ich na własność.
+
+System, w którym pracujemy składa się z aplikacji mobilnej, aplikacji webowej, narzędzi wewnętrznych oraz całej masy nowoczesnego sprzętu, z którego już teraz korzystają nasi klienci w całej Polsce! Mamy wsparcie krajowych i międzynarodowych inwestorów. W tym roku planujemy kilkukrotnie zwiększyć skalę naszej działalności.
+
+Na co dzień pracujemy z najnowszym sprzętem gamingowym, dronami, kamerami, smartfonami, sprzętem audio, e-mobility i inteligentnym AGD. Ty też lubisz elektronikę? Doskonale! Jest nas już ponad 50, pracujemy w luźnej atmosferze, bez korporacyjnej gadki i zbędnych procedur. Dbamy o dobrą komunikację, jasne cele i biznesowe podejście... Cenimy sobie feedback i dobre samopoczucie zespołu. Budujemy atmosferę opartą na otwartości i zaufaniu, w której osoby z inicjatywą i pomysłami mogą wpłynąć na kierunek rozwoju Plenti. Wspólnie z pracownikami wybieramy zarówno technologię jak i styl pracy.
+
+Kogo szukamy?
+
+Osoby, która swoimi umiejętnościami analitycznymi pomoże nam gromadzić, przetwarzać i analizować dane w efektywny sposób. Kogoś, kto na co dzień będzie współpracował z zespołem i wspierał tworzenie opartej na danych strategii biznesowej dotyczącej rozwoju naszych usług. Osoby która pomoże nam w budowaniu data driven company.
+
+Kluczowe Zadania
+• Rozwój “risk engine” - całościowego systemu opartego na danych do oceny, automatyzacji i optymalizacji zarządzania ryzykiem
+• Data Governance danych
+• Budowa modeli i predykcja zdarzeń ryzyka
+• Identyfikacja metryk do ustalania celów w metodyce OKR, w szczególności obliczanie miar ryzyka na podstawie wytycznych metryk, a także praca nad rozwojem i aktualizacją definicji tych miar
+• Optymalizacja konwersji lejka sprzedażowego pod względem miar inkluzywności i ryzyka
+• Raportowanie wyników i wizualizacja danych w formie dashboardów
+• Identyfikacja, analiza oraz interpretowanie trendów i wzorców związanych z wynajmem produktów
+• Wsparcie pozostałych działów w podejmowaniu decyzji opartych na danych
+• Stawianie hipotez, projektowanie testów i wyciąganie wniosków w ramach cyklicznego rozwoju produktu (product feedback loops)
+• Przygotowanie rekomendacji dla zespołu agentów ryzyka/przeciwdziałania wyłudzeniom
+
+Must Have
+• 2-3 lata doświadczenia na stanowisku data scientist, analityka danych lub analityka biznesowego
+• Umiejętność pracy z danymi (dobra znajomość SQL i Python lub bardzo dobra znajomość R)
+• Chęć do współpracy z zespołem projektowym i technicznym, wspólnego generowania i testowania pomysłów
+• Zdolność logicznego myślenia oraz wyciągania wniosków i tworzenia na ich bazie rekomendacji
+• Zdolność klarownej prezentacji danych
+
+Mile Widziane
+• Znajomość narzędzi BI (preferowany PowerBI)
+• Praktyczna znajomość rozwiązań wspierających zarządzanie danymi
+• Doświadczenie z narzędziami Customer Data Platform
+• Znajomość narzędzi chmurowych (preferowane GCP)
+• Praca ze zdalnym repozytorium: Git
+• Zainteresowanie technologiami AI i ML
+• Znajomość specyfiki e-commerce
+• Znajomość branży finansowej
+
+Co Jeszcze Jest Dla Nas Ważne
+• otwartość i elastyczność - praca w startupowym środowisku to częste zmiany, ale także duży wpływ na budowanie produktu i całej firmy
+• inicjatywa - czyli chęć do rozwiązywania problemów i szukania nowych opcji na to, aby nasza aplikacja funkcjonowała jeszcze lepiej
+• komunikatywność - na bazie Twoich analiz będą podejmowane decyzje biznesowe, dlatego ważne jest, abyś potrafił(a) dobrze się komunikować, słuchać i przekazywać informacje i swoje rekomendacje
+
+Co Możemy Zaoferować
+• Wsparcie członków zespołu oraz doświadczonych doradców i inwestorów
+• Stabilną i ciekawą pracę w ambitnym zespole
+• Pracę w pełnym wymiarze czasu pracy w naszym biurze w centrum Warszawy
+• Wynagrodzenie dostosowane do umiejętności, doświadczenia i zakresu obowiązków
+• Wsparcie członków zespołu oraz doświadczonych doradców i inwestorów
+• Oferujemy dofinansowanie do prywatnej opieki i zajęć sportowych (LuxMed, MedicoverSport)
+• Codziennie korzystamy z Officevibe, aby zbierać mikroinformacje na temat różnych aspektów naszej pracy
+• Voucher na wynajem produktów z oferty
+• Pracę nad własnym produktem, a zarazem możliwość bezpośredniej obserwacji, jak tworzone rozwiązania zmieniają biznes
+• Realny wpływ na wytwarzane funkcjonalności, gdyż pracujemy „dla siebie”
+
+Jeśli masz jakieś pytania, pisz do nas śmiało na adres aleksandra@plenti.app. Chętnie porozmawiamy i poznamy Cię lepiej","['4 hours ago', 'Full-time']","{'posted_at': '4 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJNaWQgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6IjNpOE5DMHdqYnNvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlRWEJUYzBkTGFUbEhOR1JEVTBwZk5GUndaWFY1UzFoUFZtZFFhbWxXWXpCWlduSjZXbmR1T1ROc1lXMHRUR1JaYzNCcWQyTlZTV3B4UmtOd1RsRmhSV0ZyZW5Cd2NXZHlhVWRRWlhsclZqVlNRMHhpYlZZdFNtTmFWVXhqZFRoQ1JuTlFiWFV3YUc5SFJUa3habXBVZFhFeGFVdFlWWEJmUWtsaVFtWXRhSFUxVm5KdGFtWXdVMmgwTFZOVU1qbERUbnBUUTNwZlJqRTFTbkJCRWhkQ1drdHJXVGREV1Vod01rZHhkSE5RTm1SaFJUWkJWUm9pUVVSVmVVVkhaVmt4VGtkcVN6SkhVazlNTFZWSFpXaE1hMHh4WkRkVGJVSkdRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L21pZC1kYXRhLXNjaWVudGlzdC1hdC1wbGVudGktMzQxMDQ1Njk3Mj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,
+3,ML Engineer / Data scientist (remote/Dubai),Shapr,Anywhere,via LinkedIn,"About us: Do what you love with people you respect - and you’ll never work a day in your life. That’s what working at Shapr is all about. You’ll be working with some of the best talent in applied AI on the planet, building smart products for interesting growth stage startups and enterprises. Shapr is not just an AI agency, we are a tight community of talented people glued together by an ambition to learn, grow and build groundbreaking products. We are a global team working together with remote tools, but we make sure our community stays tight with frequent online events. Shapr helps growth stage startups and enterprises build AI based solutions and add AI capabilities to their existing ones. We understand the 9-5 life is not for everyone. At Shapr, you can choose to work full time or on a part time basis (min 20h / week)
+
+The Perks
+• The level ups: you’ll learn more in one year as a Shapr consultant than you would in ten years working at an enterprise. Come as you are - leave as a... rockstar.
+• The glory: You will be building things you’ll be proud to showcase to your friends. Our target customers are venture backed growth stage startups and enterprises building cool technology products
+• No dress code. Work from home, a co-working place near you or from our offices in Dubai - you choose. In some cases our clients might want you to work from their offices.This means pants are a must.
+• Be part of a tight community of what we aim to one day represent the best applied AI talent in the planet
+• Get a professional coach to work on your personal development (not mandatory but it’s something we recommend and provide for all Shapr experts)
+• A springboard for building your own startup if you have ambitions of becoming the next Steve Jobs (in-house startups studio)
+
+What you’ll do
+
+You’ll work as a consultant, building AI based products or capabilities for our customers. We work in two models: team augmentation where you’ll work as part of the inhouse team of our customer, or as part of a dedicated AI team consisting of other Shapr consultants building products and AI capabilities for our customers.
+
+What are we looking for
+• “Good people”. We don’t want to work with jerks, no matter how talented they are. We are looking for people who respect others, celebrate diversity and are generally just nice people to be around.
+• Relevant work experience in applied AI preferably from practical data science tasks or building AI/ML capabilities to digital products. For example, you may have built recommendation engines, personalization engines, features using computer vision, NLP or other AI capabilities. Or you may have implemented Machine Learning models and various analyses (Clustering, Recommender systems, Time series analysis, Regression, Classification, Exploratory analysis, etc.) in big data environment.
+• You might have a degree in a quantitative discipline such as Mathematics, Statistics, Engineering or a related field like computer science specialized in ML, OR you can be self educated and learned by doing.
+• Good verbal and written communication skills
+• You need to be fluent in English and it’s a perk if you happen to know Arabic as well
+• Demonstrable track record of delivering on ambiguous projects with incomplete or messy data","['5 hours ago', 'Work from home', 'Contractor']","{'posted_at': '5 hours ago', 'schedule_type': 'Contractor', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJNTCBFbmdpbmVlciAvIERhdGEgc2NpZW50aXN0IChyZW1vdGUvRHViYWkpIiwiaHRpZG9jaWQiOiJNb2dXRHdYak9Hc0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUkdGWU4zcHVNVTVaWjJwRFYwMXRSRVJFVldnNWNXTm5ibGxXWDI5RFYxbGhaUzEyUzBONGR6QlVWMUkyUW1OWFlWQXdXazVJTTJ0TVUxTXRVMGxaVlZOMVgwVTFaREJhYldKTGNISnFXbUpCYkVoc1puZE5VREZrYTNKcFNFMXVWRXB2U2xOSVVVNTZRVzVQV0ROTlVVWlpTVFIzYmtvME4yRjVMWE5OVlhwRlNHOU5NUzFHY2xsd2FFNUxiSGhFWVdkck1rTnhhblZOYVVWWU1sZDRNSGRFYlV4SVUwRnBaVzl3VFhabVozVXdFaGRDV2t0cldUZERXVWh3TWtkeGRITlFObVJoUlRaQlZSb2lRVVJWZVVWSFpXVTVNRnBXZGpCUGIzWTJVMVUxYmpoQ1JXbG5URkpxWVdSd2R3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvbWwtZW5naW5lZXItZGF0YS1zY2llbnRpc3QtcmVtb3RlLWR1YmFpLWF0LXNoYXByLTM0MDcxNTg1OTU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,
+4,Data Scientist in Business Analytics,JPMorgan Chase & Co.,"Warsaw, Poland",via Jobrapido.pl,"JPMorgan Chase & Co. is expanding its consumer business by launching a new digital bank in the UK . We will offer consumers a completely new banking choice when we launch in the coming months. Using the Chase brand , the bank will provide products and features tailored to meet the needs of customers in the U.K., delivered via an innovative mobile app.
+
+Our team is at the heart of this new venture, focused on developing offerings that put the customer at the center. We have created a new organization and we are looking for solution-oriented, commercially minded, customer-focused engineers, used to working in an agile environment who want to be a part of building something new from the ground up within a diverse and inclusive team.
+
+Culture is as important to us and we are looking for intellectually curious individuals with a passion for solving hard problems by using the right technologies to deliver impact. The ideal candidates would like to expand their skills whilst working on a new... exciting venture for the firm. Your work will have a massive impact, both on us as a company, as well as our clients and our business partners around the world.
+
+The success of the business relies on evidence-driven decision making. The Business Analytics team is here to provide analysis, reports, recommendations to stakeholders at all levels of the business – all the way to the CEO and the board – so that the best decision is made every time.
+
+Key Responsibilities
+• Collaborate with key stakeholders, business partners and research teams to understand a business problem.
+• Draw insights from diverse data sets using a variety of software tools and analytical techniques to address the problem and help the business make the right decision.
+• Support your findings with clear, logical summaries and visualizations of data and present those to technical as well as non-technical audiences.
+• Create reports and respond to ad-hoc data queries from regulators, leadership and other stakeholders.
+
+Qualifications
+• Proficiency at data manipulation and data analysis skills with Python and SQL.
+• Understanding of probability and statistics.
+• The ability to communicate effectively with all levels of management and business stakeholders.
+• Data visualisation experience – using Tableau, Looker, matplotlib, Excel or any other technologies.
+• Experience using data to answer open-ended business questions","['17 hours ago', 'Full-time']","{'posted_at': '17 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBpbiBCdXNpbmVzcyBBbmFseXRpY3MiLCJodGlkb2NpZCI6IkFiVTJzN3dsM1JJQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVxSUNDdUlCUVVGMFZteGlRbFZPZVVkcExYVm9WVVpCU2kxRGJWOU1NblJNVlRGbmQxZHZiVEl6ZEU1YWVIQjNjWEp4T1hoNFZUWnZlakJzZUhRMGVuTXlOazgyUW1kTVlWQlJaMlpzUVdsTk1tZFpRMUJFTkcxb2EySm1SVTkyT0ZZMGFTMVZMVlpYWkdkUFFXSjNVRTF3TW5OcFpWVkVUekpXUzJ4R1RXOXlUblJPWlZVMFRIWnplVGhRZUVkRFNrNTVUa3N6UlRoSFkydHRiRE5wYmxocU1XRk1iV0ZrTTB0SU5IQkxNVGgwYmxvMVVsYzNTV042VUVkSVNYQkZSakl0Y1daSlNESXpNVWRqV1hZd1RGOXRjMGhaTWxVMGFITk1SbTB3Vkd4VmN6RkdOR3BXWnhJWFFscExhMWszUTFsSWNESkhjWFJ6VURaa1lVVTJRVlVhSWtGRVZYbEZSMk42TldwTVpEbG1la0pIU1d0cWVEZDBRWE5OTFVzellrWlVNbmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY182IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvYnJhcGlkby5wbCIsImxpbmsiOiJodHRwczovL3BsLmpvYnJhcGlkby5jb20vam9icHJldmlldy83Njg3NzM3NT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGGB3Jjr5Hpqtji293MUNc3AVQwaoSlQoovvgk&s=0
+5,Data Analyst - Gamma Retail Catalyst,"BCG GAMMA, Boston Consulting Group","Warsaw, Poland",via Boston Consulting Group,"WHAT YOU'LL DO
+
+BCG is seeking a Data Analyst, based in Warsaw, Poland. You will join the rapidly growing Retail Catalyst team, which helps build and implement advanced analytics software for our Retail case teams and clients. Retail Catalyst is part of BCG GAMMA, BCG’s data science and software products business unit. The Warsaw-based team is in charge of building, configuring, and delivering world-class analytics software and apps.
+
+In particular, you will be in charge of:
+• Supporting the Customer Success Managers (CSMs) to deliver excellent and seamless client delivery service
+• Rapidly take responsibility for expanding / improving use cases and help our clients achieve their analytics goals
+• Developing, customizing, and performance-tuning Tableau dashboards
+• Building and maintaining ETL flows in Dataiku
+• Overseeing and executing client data ingestion and data quality control
+• Performing analytics to support the software / apps and generating insights
+• Providing technical... solution and domain expertise to our clients and case teams
+• Coordinating with clients / case teams and maintaining a close sync with our engineering, data science, and devops teams
+• Proactively collecting and incorporating client and case team feedback to make the Retail Catalyst platform the best it can be
+• Over time, become a leader of the Warsaw Retail Catalyst team and take on management responsibility
+
+JOB REQUIREMENTS:
+The Data Analyst will have two major areas of responsibilities:
+Client Service (80%)
+• Support onsite Customer Success Managers (CSMs) to successfully deliver Retail Catalyst projects
+• Work directly with clients, BCG case teams, and product team on a project-by-project basis to conduct hands-on rigorous quantitative analysis, leveraging advanced analysis software (e.g., Dataiku and Tableau for visualization)
+• Ingest, clean, transform, maintain, and analyze client data on Retail Catalyst platform
+• Rapidly configure standard and custom Tableau dashboards per CSM, client, and case team’s directions / requirements
+• Oversee and quality-control all things ETL and Tableau for our client deployments
+• Coordinate the Warsaw delivery team to provide world-class quality output and hyper-responsive client service
+Product and IP development (20%)
+• Maintain library of client-agnostic Tableau dashboards and ETL flows
+• Improve setup and preparation of standard / starting point components so that they can be rapidly deployed and configured for client use cases
+• Support Retail Catalyst product team in client development efforts with ad hoc analysis, problem solving on best analytical approach, and client demos
+• Study and understand Retail sector terminology and industry (analytics-) knowledge
+• Over time, identify new areas of application/use cases for Retail Catalyst and help embed these into the platform and apps
+Your success in this role will be measured in your ability to support our clients and case teams with highly responsive and top quality outputs. You will also be measured on your level of proactivity in terms of improving and expanding the technical platforms and analytical use cases. Finally, we will expect you to, over time, take responsibility for the Warsaw team, including development and mentorship for junior team members and overall quality control
+YOU'RE GOOD AT
+
+Technical skills
+• Tableau (Advanced / World class)
+• ETL / SQL (Advanced / World class)
+• Excel (Advanced)
+• Statistics and math (Intermediate)
+• Python knowledge is a plus
+• Data automation knowledge (e.g., Airflow) is a plus
+• Cloud knowledge (Google Cloud and Azure) is a plus
+
+Non-technical skills
+• Meticulous attention to detail
+• Highly efficient – you get a lot of work done in very little time
+• Willingness to work hard and prioritize team success vs. regular working hours
+• Highly proactive and strong drive for (self-) improvement
+• Dedicated team player
+• Excellent communication skills in English
+• World class problem-solving skills
+• Self-motivated and is able to operate autonomously in a structured manner
+• Ability to coach others
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+
+Education or Certifications
+• Bachelor’s or Master’s degree in engineering, computer science, data science / statistics, or business administration
+
+Work Experience
+• Minimum of 2 years of deep experience in Tableau, including Tableau server tuning, Tableau APIs, Hyper, recent and upcoming product innovations, etc.
+• Minimum of 2 years of deep experience in ETL for very large data sets (terabyte+)
+• Deep expertise in SQL, ideally PostgreSQL
+• Experience in conducting thorough quality checks on ETL flows
+• Experience with data ingestion and automation of ingestion is a big plus
+• Experience with visualized ETL tools (Alteryx, Dataiku) is a big plus
+• Experience in working with global teams
+• Client service experience is a plus
+• Cloud platform experience is a plus
+YOU'LL WORK WITH
+
+• Client success team
+• Tableau delivery team
+• Devops team
+• Product engineering and platform team
+• Commercial and product leadership","['1 hour ago', 'Full-time']","{'posted_at': '1 hour ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBHYW1tYSBSZXRhaWwgQ2F0YWx5c3QiLCJodGlkb2NpZCI6Imh6dEhZdFFJcnhvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVyY0NDdmNCUVVGMFZteGlRVFZLVDFSSGVrcExSUzFoWkVwRGVqYzFXVlJaVXpkMVdUTmtkV2QxT1MxS2JWSTJlVzlZTUU1bVkyOWhiRlZhVjJsVGIzY3hNMHBEWm5BMmIwbHRaVkl0ZVc5M05rRmpVMWQwVEV0MGVUSTFWWEkwTVdRNU9XTlNkMjFYY1hSTk4yMUVhMFpSVUhGV1Zub3dhR1JuVEVKNlZVdG1jemxNYWt4aVN6VTFWVkZLTjFkTVIxbzRNRnBMVVVocFRVeE9hWFppZFhaUWJ6bGxjRlI1WlVnNE9GVnVNa3BPUlc5Rk9EVXdPWGM1YzNGYVpFVmlZVkY0TTFCclgxcE9aMnRUV1hBMVdIRkVhbVZFVjBKc1FUWkhUV3RIWlhCTGMxaGlVMGRVZURkelRUaGZSbE54WlRaSFpWWkpNa0p2WjJ4TGR4SVhRbHBMYTFrM1ExbEljREpIY1hSelVEWmtZVVUyUVZVYUlrRkVWWGxGUjJab1ZERkNPRVZuTFc4NVRWSXdhelphYm5kZlYzUlRWa1owUjFFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBCb3N0b24gQ29uc3VsdGluZyBHcm91cCIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuYmNnLmNvbS9qb2IvMTYwMjFCUi9EYXRhLUFuYWx5c3QtR2FtbWEtUmV0YWlsLUNhdGFseXN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE7LGK80sgQuXG9g5Fkoks60uucVDsjR5vVEBv1U&s
+6,Big Data Scientist,VlogIT Sp. z o. o.,"Jaworzno, Poland",via Jobrapido.pl,"Wymagane, Google Cloud Platform, Microsoft Azure, AWSTwój zakres obowiązków, Tworzenie strategii rozwoju analityki dla klienta w zakresie big data, przetwarzania danych i szytych na miarę integracji danych (modele ML/deep learning), Prowadzenie audytów w obszarze analityki danych, zbieranie wymagań i nadzór nad pracami, Szacowanie złożoności systemów, Wspieranie liderów zespołów programistów w decyzjach technologicznychWyższe wykształcenie (najchętniej informatyka, data science, matematyka, fizyka), Bardzo dobra znajomość języka angielskiego (minimum C1) i polskiego (minimum B2), Doświadczenie w roli analityka/konsultanta/programisty w obszarze Big Data i dowolnych z następujących narzędzi: Hive, Spark, NiFi, HBASE, HDFS, Kafka, Kudu, Doświadczenie lub zainteresowanie przetwarzaniem danych w chmurze GCP, Azure lub AWSMile widziane, Doświadczenie zdobyte w firmie konsultingowejTak pracujemy, u klientaTakie dajemy możliwości rozwoju, branżowe platformy e-learningowe, budżet rozwojowyTo... oferujemy, Zatrudnienie na podstawie umowy o pracę (brak możliwości podpisania kontraktu B2B), Praca 100% zdalna, Premie roczne, Ścieżki certyfikacyjne, Budżet na szkolenia, edukację i certyfikaty, prywatna opieka medyczna, karta sportowa, ubezpieczenie na życie, dofinansowania wypoczynku i aktywności, program poleceń pracowniczych, Dostęp do platformy e-learningowejBenefity, dofinansowanie zajęć sportowych, prywatna opieka medyczna, dofinansowanie nauki języków, dofinansowanie szkoleń i kursów, ubezpieczenie na życie, możliwość pracy zdalnej, elastyczny czas pracy, opieka stomatologiczna, dodatkowe świadczenia socjalne, dofinansowanie usług turystycznych, program rekomendacji pracowników, możliwość uzyskania uprawnieńTak się u nas pracuje","['17 hours ago', 'Full-time']","{'posted_at': '17 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJCaWcgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6ImY4V0V3Wl9SbjBjQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVvd0NDc3dCUVVGMFZteGlSRmRpVVhBdFEwMUtTR3RHYmxGNFNVZE9UWFJhWjNwdmFYaGZPR1pFTjI0NVFsWjRlamQxTUhSMlFYVmpaa2huTFU1UE1WZHVOSE52VFdGZlZpMUtZMlV5ZWpsRmFGSkNaMW80VFc0eVRFWlRlR2hpVWsweVVYQTVVVWxNWjNGTk4xRTRMV1ZtYWpaellrMVVTakprYUVNd1NYVlJWV2xyVlVwM1R6ZGtjM04yUnpkaFpFazRNV3RqUmt3eVNHMVZjVlpSUW1ZNU9HOXljbGxhYzNwMlNHSlZRWEJvWDFGUmRVdHBUSEF5V21OcWRXNTFlVEpoY3pGbWJWVmZOblZLT0RNMk0wTkpFaGRDV2t0cldUZERXVWh3TWtkeGRITlFObVJoUlRaQlZSb2lRVVJWZVVWSFpHTmpkR05zVWxaMWNVUk1ObXR1WDFsQmVrNVZkbGxoYlhWa1FRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTAiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icmFwaWRvLnBsIiwibGluayI6Imh0dHBzOi8vcGwuam9icmFwaWRvLmNvbS9qb2JwcmV2aWV3Lzc2ODgxOTAzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,
+7,Senior Data Scientist,Frontiers,Anywhere,via LinkedIn,"We are on a mission to make science open so everyone can live healthy lives on a healthy planet
+
+Who We Are
+
+Frontiers is an award-winning open science platform and leading open access scholarly publisher.
+
+We are one of the largest and most cited publishers globally. To date, our 200,000 freely available research articles have received more than 1 billion views and downloads and 2 million citations. Our journals span science, health, humanities and social sciences, engineering, and sustainability. And we continue to expand into new academic disciplines so more researchers can publish open access.
+
+Be part of the publishing revolution and help us transform the way research is published, evaluated, and communicated to the world.
+
+About the opportunity:
+
+Frontiers catalog is growing. Every month we need to handle more journals, articles, and research topics, to process more data and enable new features for our users.
+
+We are looking for an enthusiastic and hands-on Data Scientist to... help us to empower Frontiers with highly precise data, suggestions and predictions. You’ll also help us tackle complex problems and produce solutions that will propel open science forward.
+
+The role will involve working with data at scale built from several external and internal sources and applying Data Science models to it. We are therefore looking for talented individuals who have hands-on experience in designing data-intensive applications and big data solutions with a good knowledge of all types of data storage.
+
+Tech Stack & Key Requirements:
+• Experience with python development.
+• Experience working with classifiers that scale well with a large number of samples (e.g. approximate kNN).
+• Experience working with Natural Language Processing (text classification, word & sentence embeddings, name entity recognition)
+• Knowledge of NLP libraries (NLTK, SpaCy)
+• Knowledge of clustering algorithms that scale well with large numbers of samples (e.g. minibatch K-means, OPTICS, BIRCH).
+• Knowledge of recommender systems (e.g. Matrix factorization).
+• Expertise in the processing of large datasets (e.g. via Spark, Azure Databricks) using large-data storage (e.g. Parquet on Azure blob storage, Databricks Delta).
+• Ability to prioritize
+• Experience working in a team environment.
+• Familiarity with Agile framework
+• Good English skills
+
+Your Main responsibilities:
+• Design, implement, monitor, and optimize our data platforms storing key information to power our internal recommender systems and other ML pipelines
+• Understand functional requirements for defining the Data science tools to solve the problem at hand.
+• Collaborate closely with Machine Learning and Data Science Teams in order tackle larger problems.
+
+Challenges you will face:
+• Apply Machine Learning and NLP methods to extract out specific tokens from unstructured text belonging to specific categories such as author names, organization names, geographical location.
+• Creating models that can tell apart authors with similar names (author disambiguation)
+• Creating models that are able to classify research papers.
+• Evaluating our pipelines and coming up with ways to improve their performance.
+
+Benefits
+
+With more than 50 nationalities represented in our global team, you will work regularly with teammates in other countries, and with our community of researchers, editors, and authors from around the globe.
+
+Our mission to create solutions for healthy lives also extends to the working environment we provide for our employees.
+
+This includes:
+
+100% remote working
+
+Employees now have the flexibility to choose where they want to work, with remote working available on a part- or full-time basis (not applicable to some Workplace/IT jobs due to nature of role requiring presence onsite, in the office).
+
+Learning and development
+
+All employees have access to LinkedIn Learning (and Pluralsight for our technology team), an annual personal learning budget, and dedicated L&D time.
+
+Wellbeing
+
+We offer free online yoga classes, an employee assistance plan, access to the Headspace app, and four wellbeing days on top of your annual leave allowance.
+
+Volunteering opportunities
+
+Employees can dedicate three days each year to volunteer for a personal cause or through our volunteering partner platform, Alaya.
+
+Frontiers actively embraces diversity and is a safe and welcoming workplace. Recruitment is free from discrimination – including based on race, national or ethnic origin, age, religion, disability, sex, gender identity or sexual orientation. With over 600 employees from more than 50 different nations, our diversity creates vibrant teams and constantly challenges us to appreciate multiple perspectives","['5 hours ago', 'Work from home', 'Full-time']","{'posted_at': '5 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6IkxBTUxQY1o2OXNjQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlRbk51UVRKRlZHd3lUM0JJWjAwMmJITnVVMHBwTkZvMllUSk1iakpUUzNKcmMwazRibGR6YzB4b1ZWbEdkREJCV25sSmFuSnhabk5IYms1eFozbEJkVk5mWWtOM2QydGpNREZmUlRGcmNIaDRiMGc0TjFocmRXZGlkVmc0YVZCbE9YZERUWGt5VEVGUGMweDFjamN4UTBsQ1NHUnRWbVIyTTFwTGRUQnFNblpQUlVWeE1HZ3pVVEI0Ym1WeU5tRk5kazF5TVhOUmJXZDVlSGN4UXpSbmJGQk1NbWsxTWw5S1pFdFhUVkUzVEVrd0VoZENXa3RyV1RkRFdVaHdNa2R4ZEhOUU5tUmhSVFpCVlJvaVFVUlZlVVZIWlU1ak5XWXpia05QUjNGVGFYQkRkVEkxTTNwcU5WRkRaakJDZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc2VuaW9yLWRhdGEtc2NpZW50aXN0LWF0LWZyb250aWVycy0zMzQxMjgzNjkwP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_8gpUZX4e8-8JgY2H_GiSw0K4ERAFo5SFw2--9CI&s
+8,Lead Data Scientist,EPAM Systems,Anywhere,via LinkedIn,"Description
+
+In this role, you will be the leading subject matter expert driving the business enablement both on the client side defining the architectural choices during all stages of exciting presales opportunities for world leading companies and on delivery side implementing them, as well as providing thought leadership within the fast-growing Data Practice and Competency Center.
+
+We are supporting Employment Contract or B2B, depending on your preferences.
+
+Responsibilities
+• Business Enablement:
+• Lead the strategic planning, development and implementation of medium-to-large data science solutions or a component of a larger solution, including predictive modeling, unsupervised and supervised learning, and machine learning techniques
+• Lead on all stages of presales activities for such projects, owning the whole presale process from the Competency Center perspective when required. Manage the delivery of architectural POCs, where required
+• Interact with clients, advise, and drive... the translation of business requirements and models into appropriate architectural designs to ensure that business needs are met
+• Work directly and collaboratively with clients, external data providers, and other key stakeholders to ensure that the solution’s concept/vision is understood and agreed upon
+• Actively participate in project review and planning sessions. As needed, lead the solution development, drive, and supervise end-to-end development cycle (SDLC) or participate in the projects start-up
+• Be accountable for applications-related quality, performance, availability, scalability, security, and integrity, ensuring application usability, for instance, through a high-quality functional interface to applications. Identify and mitigate risks associated with specific solution in known contexts
+• Be accountable for ensuring architectural consistency of recommended technology and its integration with the client’s applications and infrastructure. Identify and mitigate risks associated the implemented solution in all relevant contexts of the project and wider program
+• Manage the architectural knowledge transfer from the project development team to the post-go-live support team. Oversea or effect the creation of architectural case study for EPAM’s repository of reusable assets
+• Technology Vision, Thought Leadership, and Depth:
+• Drive the strategic visioning activities for the practice and competency center. Develop reusable assets, development methods, processes, best practices to accelerate delivery. Coordinate SA pool on those activities
+• Drive the program of evaluating the hardware and software platforms, benchmarking of alternative solution architectures, supervise a defined process for provision of structured, reusable results. Coordinate the direction of R&D activities by SA pool
+• Keep pace with the innovative technologies and consider possibilities of creating relevant solution offerings. Coordinate architects in developmental direction choice
+• Consult and supervise all team members, share knowledge. Participate in the assessment of the candidates for SA position. Mentor other Solution Architects in practical SA activities. Provide technical guidance and career-planning assistance
+• Write broad topic and strategic white papers during industry and technology research
+• Maintain high competency visibility by regular posting in internal newsletters, blogs as well as speaking at internal and external conferences and other events; Create blueprints on customer request. Create technology road
+• Analyze large data sets to discover trends, identify performance metrics, and uncover optimization opportunities
+• Apply machine learning algorithms and statistical methods to large sets of raw data
+• Continuously improve algorithms and develop best practice for instrumentation
+• Work to acquire Enterprise Architecture theoretical knowledge
+
+Requirements
+• Capable of leadership (influence management) and pragmatism
+• Strong experience prototyping classification and regression models with python is required other languages could be advantage
+• Experience with large-scale log processing or big data (e.g. Elastic MapReduce, Hadoop Streaming, Pig, Hive, Spark, etc.)
+• Experience with cloud solutions
+• Experience working with relational and non-relational databases to retrieve structured, unstructured, and semi-structured data sets
+• Knowledge of business domains (Travel and Hospitality, Finance, Retail, Telecommunication, Farmacy etc.)
+• Track record of working directly with the customer (i.e., regularly facing customer directly) both remotely and on-site
+• Demonstrated experience with full life cycle of software development processes like RUP or ""Waterfall"", Agile (SCRUM, XP, etc.)
+• Experience with different data science domains, like computer vision, natural language processing, recommender systems, reinforcement learning etc
+
+Nice to have
+• Presale activities with exposure to customers on billable accounts
+• Experience in Data Architecture, Data modeling, and Database design
+• Demonstrated experience in solution cost estimation (including tools, tasks, complexity, labor, and time) at coarse grain and fine grain levels, with supporting material evidence
+• Demonstrated experience in validating the overall solution from the perspective of performance, scalability, security, and capacity
+• Experience in people management (growing teams, mentoring etc.)
+
+We offer
+• Team & working conditions:
+• Friendly team and enjoyable working environment
+• Engineering community of industry’s professionals
+• Flexible schedule and opportunity to work remotely
+• Relocation within our offices
+• Corporate and social events
+• Benefits package (health insurance, multisport, shopping vouchers)
+• Stable income:
+• Employment Contract or B2B
+• Regular assessments and salary reviews
+• Participation in the Employee Stock Purchase Plan
+• Referral bonuses
+• Career development:
+• Innovative solutions delivery and engineering excellence
+• Outstanding career roadmap
+• Leadership development, career advising, soft skills and well-being programs
+• Certification (GCP, Azure, AWS)
+• Unlimited access to LinkedIn Learning, Get Abstract, O’Reilly, Cloud Guru
+• Language classes on English and Polish for foreigners
+• Please note that only selected candidates will be contacted","['5 hours ago', 'Work from home', 'Full-time']","{'posted_at': '5 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgU2NpZW50aXN0IiwiaHRpZG9jaWQiOiJBVm9TVElRS0FCWUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUWpoTlkzWlZVRWxhVDNaUWIwWnpkMEp6ZFRkM2RtUmxWVkJLYUdsNmIzVjFSSEJCWW5BNWNHTmFNVUo2Um5OcWVGQXliUzFIZW5OS1pHSmZkekZ2Y2psV1NteHBUMTk0Y2toeGJHOWlkbTFpU1daT1gwSkRMVFEzU1hCTWFqZDZPV1ZQZFdkUVRITkZVME15ZVZKemRFeG9OMUZSTWswd1ZuWklNMFY0VlRsTFZVUmFiSGx6VVRaT1dXUlFVbTEyUVhoblZXWnBhRjkzVGpCWlNrNWlOVlF0WWpBdGRpMVNUSE4wZERCbVQyeFpFaGRDV2t0cldUZERXVWh3TWtkeGRITlFObVJoUlRaQlZSb2lRVVJWZVVWSFpHVkhWRk01UkZKNFMyUkZaV3N0ZUhOb0xYQXhPSEJLT1c1UFp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L2xlYWQtZGF0YS1zY2llbnRpc3QtYXQtZXBhbS1zeXN0ZW1zLTMyNjkzMDczNjk/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjxGnHOpGu_OUg_BGJ1WtDgOC8jWWMNiLPeAvfWg&s
+9,Principal Clinical Data Scientist,Syneos Health,Anywhere,via LinkedIn,"Description
+
+Principal Clinical Data Scientist
+
+Syneos Health is the only fully integrated biopharmaceutical solutions organization purpose-built to accelerate customer success. We lead with a product development mindset, seamlessly connecting our capabilities to add high-value insights to speed therapies to patients and provide practical value to help our customers achieve their objectives.
+
+Our Clinical Development model brings the customer and the patient to the center of everything that we do. We are continuously looking for ways to simplify and streamline our work to not only make Syneos Health easier to work with, but to make us easier to work for.
+
+Whether you join us in a Functional Service Provider partnership or a Full-Service environment, you’ll collaborate with passionate problem solvers, innovating as a team to help our customers achieve their goals. We are agile and driven to accelerate the delivery of therapies, because we are passionate to change lives.
+
+Discover what... our 29,000 employees, across 110 countries already know:
+
+WORK HERE MATTERS EVERYWHERE
+
+Why Syneos Health
+• We are passionate about developing our people, through career development and progression; supportive and engaged line management; technical and therapeutic area training; peer recognition and total rewards program.
+• We are committed to our Total Self culture – where you can authentically be yourself. Our Total Self culture is what unites us globally, and we are dedicated to taking care of our people.
+• We are continuously building the company we all want to work for and our customers want to work with. Why? Because when we bring together diversity of thoughts, backgrounds, cultures, and perspectives – we’re able to create a place where everyone feels like they belong.
+
+Job Responsibilities
+• Serves as Functional Lead for Clinical Data Science on complex project with diverse scope, including primary contact for internal liaison between Clinical Data Science and Project Management, Clinical Monitoring, and other functional groups.
+• Acts as central steward of clinical data quality, monitors risks through the holistic review of clinical and operational data, using detailed knowledge of the protocol, taking into account the specific therapeutic area aspects of the protocol related to the data collected and aligning with cross functional operational plans to drive comprehensive clinical data quality
+• Ensures the required data elements and corresponding data quality oversight steps are identified to support the defined study analysis
+• Works with assigned project teams to communicate, address, troubleshoot and resolve complex data related questions and recommends potential solutions; escalates issues which potentially impact patient safety and study analysis
+• Coordinates cross functional data cleaning activities to ensure quality standards and timelines are met for clinical data deliverables
+• Develops the clinical data acquisition plan and corresponding data flow diagram for complex studies, assess risks associated with protocol design or program level strategies, study set parameters that could impact the credibility and reliability of the trial results within a program of studies. Aligns data flow with the study protocol to ensure data collected meets regulatory and study endpoint requirements.
+• Design and drives the development of analytical tools, utilizes analytical platform/dashboard to detect potentially unreliable data that may impact the validity of the trial results.
+• Demonstrates understanding of advanced technology method and the scope of applicability for study or program of studies
+• Performs analytic reviews as defined in scope of work and data acquisition plan, identifies root cause to systematically resolve complex data issues
+• Monitors and communicates project progress to the Sponsor and project team including use of project status reports and tracking tools/metrics
+• Ensures launch, delivery and completion of all Clinical Data Sciences activities and milestones according to contractual agreement and relevant Standard Operating Procedures (SOPs), guidelines, and regulations
+• Perform metric collection and data analysis to support continuous process improvement
+• Review, maintain budget and identify out of scope for Clinical Sciences activities, raise to PM to be implemented in required change order
+• Plans, manages, and requests Clinical Data Science resources for assigned projects
+• Coordinates the work of the assigned Clinical Data Science team
+• Develops and maintains project plans, specifications, and documentation in line with SOP requirements
+• Maintains documentation on an ongoing basis and ensures that all TMF filing is up to date for necessary files
+• Participates in, and presents at internal, Sponsor, third-party, and investigator meetings on behalf of clinical data science responsibilities
+• Prepares input, and participates in proposal bid defense meetings and request for proposals on behalf of clinical data science responsibilities
+• Actively promote new clinical data science business opportunities aligned with sponsor strategies.
+• Plans for and creates necessary documentation to support internal and external audits; participates in such audits on behalf of clinical data sciences responsibilities
+• Trains and mentors new or junior team members
+• Maintains proficiency in Clinical Data Science systems and processes through regular training. May attend/represent the company at professional meetings/conferences
+• Performs other work-related duties as assigned. Minimal travel may be required (up to 25%)
+
+Qualifications
+
+What we’re looking for
+• BA/BS in the biological sciences, computer sciences, mathematics, or data sciences and/or related disciplines in the natural science/health care space. MS degree is preferred. In lieu of degree, equivalent relevant work experience
+• Clinical Data Science experience or an equivalent combination of education and experience
+• Experience in Clinical Data Science practices and relational database management software systems
+• In-depth knowledge of the drug development process and its impact on data quality, in particular riskbased approach, biometrics procedures, workflows.
+• Sound knowledge of analytic modeling methods such as regression, classification and clustering
+• Strong project management skills and knowledge of project management methodologies
+• Strong analytical skills and knowledge of Artificial intelligence /machine learning methodologies preferred
+• Demonstrated staff leadership skills
+• Knowledge of ALCOA++ data quality principles
+• Expertise in protocol interpretation, data collection and data cleaning specification development
+• Experienced with data analysis/data review and visualization tool sets including but not limited to Python, R, Spotfire, SAS
+• Knowledge of medical terminology, clinical data, and ICH/GCP regulatory requirements for clinical studies, in particular requirements applicable to Clinical Data Sciences
+• Proficiency in MS Windows navigation, Word, Excel, PowerPoint, and email applications
+• Effective oral and written communication and presentation skills
+• Good organizational, planning, and time management skills with the ability to multitask under tight deadlines while providing attention to detail
+• Ability to be flexible and adapt to change, to work independently, as well as part of a multi-disciplinary team
+• Ability to make effective decisions and manage multiple priorities in a highly dynamic environment
+
+Get to know Syneos Health
+
+Over the past 5 years, we have worked with 94% of all Novel FDA Approved Drugs, 95% of EMA Authorized Products and over 200 Studies across 73,000 Sites and 675,000+ Trial patients.
+
+No matter what your role is, you’ll take the initiative and challenge the status quo with us in a highly competitive and ever-changing environment. Learn more about Syneos Health
+
+Additional Information
+
+Tasks, duties, and responsibilities as listed in this job description are not exhaustive. The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities. Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description. The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above. Further, nothing contained herein should be construed to create an employment contract. Occasionally, required skills/experiences for jobs are expressed in brief terms. Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees. The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job","['7 hours ago', 'Work from home', 'Full-time']","{'posted_at': '7 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgQ2xpbmljYWwgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6ImRWSEVTejhjaE1jQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVvd0NDc3dCUVVGMFZteGlRMjkyU0VKNUxWOUllakY1VDJwUk5UUldSV3RSVWpkdVdYRmZaeTFXVERoek5sTnNaakoyTkRRelVWcFlielpzTmpKVVlXSXpTakptZGpob2RVTmxNRVZWVjFZM1NEbGFjWEpuWVdkcmJGOUdkbmh5UjA1d1NVNXJNVlpEWmt0WWMwcEphbEp6YjNORVdGaEpkVmhyWnpSSVVqY3RVMjFwYjJkaVlYVllTWFpCWlVSUVJsZGhlV2hLTm5oaVFpMDRXalExY2tsUE4zQjNTRUowVXpWMVp6VnhXbU13VVdVeWJIa3hkMWsxTldKUVRsbExaRmh6ZFhnNGVGVXlNMHBLVUhGblZGZFNFaGRDV2t0cldUZERXVWh3TWtkeGRITlFObVJoUlRaQlZSb2lRVVJWZVVWSFpuTkNOV1Z6ZEhwZlpUazJZVlJGTFU5YVZFcDFhbXhGWXpnMVp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L3ByaW5jaXBhbC1jbGluaWNhbC1kYXRhLXNjaWVudGlzdC1hdC1zeW5lb3MtaGVhbHRoLTMzNDM1NDMwOTU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLq0-Ogz5hJtkfUkEuAwvr0WQeWYaWCIfpIqXhFt8&s
+0,Senior Data Scientist - Team Marketing Intelligence,Flix,"Warsaw, Poland",via LinkedIn,"We're looking for a motivated and driven Senior Data Scientist (m/f/d) to join our Marketing Intelligence, CRM & Automation team.
+
+In this role, you will closely work together with all our Marketing, Yield, Pricing, IT and Reporting teams to assure that system developments reflect Marketing Managers' needs and are optimized continuously with findings and ideas from Web economics science and your research.
+
+Your Tasks – Paint the world green
+• You develop advanced models and analytics together with our marketing management teams to optimize our marketing strategies
+• You continuously enhance and steer the process of automated customer acquisition through data insights and data-driven decision making
+• You improve our current incrementality analysis developments and experiments, and make the best use of the knowledge gained within our media mix models and budget allocation tech-products
+• You keep an overview of our revenue management automation systems and implementation details and... integrate our customer acquisition models to ensure best economic outcome for our customers and us
+
+Your Profile – Ready to hop on board
+• Bachelor's/Master's degree in applied math, physics, econometrics, statistics, or similar
+• Profound experience in a relevant role, minimum 2 years
+• Experience in designing and implementing algorithms and data structures in Python, Scala or other programming languages.
+• Strong commercial experience and evidence of improving business performance, and the ability to interpret and communicate actionable findings
+• Understanding of modern software development techniques is a must in combination with strong data access and management capabilities, knowledge of version control tools. You need to understand the importance of reproducibility and interpretability.
+
+Our Perks – More than just a job
+• You have an impact. With innovation and smart technology, we are creating the easiest way to travel. We want your ideas and give you autonomy to make them reality.
+• Flix is flexible. Organize your own schedule, and balance work between the office and home as it’s best for you. We give you trust-based hours and a flexible smart working policy.
+• Travelling is our passion. Discover the world with your free Flix rides and bring along your friends and family for half price.
+• Teamwork makes the dream work. Our FlixTeam has people from over 80 different nations. We work in a multicultural environment where we can challenge and support each other.
+• We're not only green in color. We’re building for the long term, and that means protecting our planet. We constantly test new green technologies and compensate for the CO2 after all our business travel since 2018.
+• Your well-being is important to us. To treat your mind and body we will give you a competitive paid time off package, mental health support including 1:1 consultations with a psychologist, and a neat discount on UrbanSportsClub memberships.
+
+Want to rewrite the history of mobility with us? Then join our ride and apply now. We're excited to hear from you!
+
+About Flix
+
+We are a global mobility provider with headquarters in Europe and the United States. Since 2013, we have changed the way millions of people have traveled, offering new alternatives for convenient, affordable and eco-friendly travel. Thanks to a unique business model and innovative technology, we have quickly established one of the largest long-distance mobility networks in the world – and our journey has just begun.
+
+Flix is proud to be an Equal Opportunity Employer. We celebrate diversity and do not discriminate on the basis of race, color, religion, gender (including pregnancy and gender identity), national, social or ethnic origin, political affiliation, sexual orientation, marital status, disability, age, veteran status, or other legally protected characteristics. All employment decisions are based on business needs, job requirements, competence and merit","['5 hours ago', 'Full-time']","{'posted_at': '5 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QgLSBUZWFtIE1hcmtldGluZyBJbnRlbGxpZ2VuY2UiLCJodGlkb2NpZCI6ImZUT1hMOEVvcjBzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVxSUNDdUlCUVVGMFZteGlRVTVWVG5wNVJEUjBUbEJsWXpKUFZrNHhkMnBaT1VGbmFGVnNNRXBFVUhKM2RWVjJiRTlXU205TVdFMTZPR2hUU0Y5TGRraFVXVEpUV0VrMVJXOUhaMVJIUm14bGNIVm5RVEJ0V1hSU016WlBlak15TFhWeE1YQjFSVlZWVUhaNVNWOUNhMGR2ZFV0cU9YZFJaMWhZY1d0VGMwTkNaRWM0VVY5WWIweGxXSEozYmpWQmMzYzVjMlpPVkZwQlVqSkVRa1ZST0RrNU0wTk5ZV04xVnkwdFdsOVFiM1JqZVhOc1RHUlRla1ZrUVZwc1dUVm9USEI2VkdaRlpFTkZkalUwUm14bVYxOXplV05wY2xZM1lVOTRia0ppYzJ4aU1rTk5RbGMwUVJJWFEwcExhMWxmVEMxRk9XMDBjWFJ6VUhkMmNTMXZRVGdhSWtGRVZYbEZSMlpFWDAxc01FZzROblpsZEUxV01VaFpSMFUzU2pWTGJWRktXa0UiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3ItZGF0YS1zY2llbnRpc3QtdGVhbS1tYXJrZXRpbmctaW50ZWxsaWdlbmNlLWF0LWZsaXgtMzM5NDk2NjA1Mz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4HTRNFyprRbxMEzY4yUhUzI8ECqNK6mG0t3L2EAM&s
+1,Data Engineer,QIAGEN,"Wrocław, Poland",via LinkedIn,"Position Description
+• Designing and implementing data pipelines that source data from different data sources
+• Delivering analytical solutions together with data scientists and analysts
+• Development of scalable data architectures (machine learning) on MS Azure platform
+• Converting data into insights
+
+Technologies we use:
+Azure Databricks / Azure Data Factory / SQL Server / Azure DevOps /
+PowerBI / Azure Data Lake Gen2 Storage / CosmosDB / Azure Stream Analytics /
+Azure Machine Learning / Azure Key Vault / Jira / Azure Functions / IoT Hub
+
+What we offer:
+Deep understanding of the domain knowledge in the field of molecular biology
+Exposure and hands on experience in the development of modern cloud data solutions
+Ability to deliver proof of concept solutions and chance to experiment with different technologies
+Opportunity to work with experienced data scientists and domain experts
+
+At the heart of QIAGEN are our people who drive our success. We act with passion, always challenging the... status quo to drive innovation and continuous improvement. We inspire with our leadership and make an impact with our actions. We create a collaborative, safe and engaging workplace which forms the basis for high performing individuals and teams. We drive accountability and entrepreneurial decision-making and want you to excel your growth and shape the future of QIAGEN.
+
+We offer:
+- Possibility to develop in an international company
+- Training and development programs
+- Private medical care
+- Group Life Insurance
+- Multisport card
+- Flexible benefits platform
+- Language classes
+- Pension Scheme (PPE) after 12 months
+- Childcare subsidy
+- Happy Monday :)
+- Friendly atmosphere
+- Casual dress code
+- Attractive location (Sky Tower)
+
+Please make sure to send an English version of your CV!
+
+QIAGEN is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, or disability","['3 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '3 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJadlNmVXZfWk5NNEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdUlCQ3FJQlFVRjBWbXhpUVcxclFqVktWMlF4ZVVNeVpWQTNjMUJHUzNKV2VXaHRhRUl3YmtWRWJDMVBSa2REZHpsTmVuaEZUVmRuTTJ0c2FXTkNXazlrTWt4ZlZEVXdiREZsUlV4WGNsSTVObWd0U0U1M2FFMDNTWE5mZUVwSU9EZEhjV1pOVVVJd1oyNHpVWGhKVTBKdFJWaFNVek5sYUc1dlJscHdUSFZEYW0xME4xTnlZMWxRTjJ0c1QwVTBRVWxQZEhKQmFGRk5Xblp1WVZGZk5tMDVPREJ0TTJ0UkVoZERTa3RyV1Y5TUxVVTViVFJ4ZEhOUWQzWnhMVzlCT0JvaVFVUlZlVVZIWmxkTFlqRkZlak5pUVROakxUaENiVFpDZGxCUlFVTmhSVlJSZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9kYXRhLWVuZ2luZWVyLWF0LXFpYWdlbi0zNDA3MTk4NzQ2P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZWNMC5_ziAbV014lN3494Wpzq9FCu-qvZMGjr2A&s
+2,"Senior Data Analyst (Bangkok Based, relocation provided)",Agoda,"Wrocław, Poland",via LinkedIn,"About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know our Team:
+
+The Performance Marketing Team of Agoda is a world leader in online marketing. This department is highly data-driven and focused on developing at-scale marketing programs that improve the lifetime value of Agoda customers through measurable marketing programs and channels. The team is a blend of the best analysts, marketing strategists, and data scientists in the world. The marketing leadership at Agoda have deep experience in data science, product... strategy, and other marketing fields and have built an organization that thrives on data, creative ideas, and technology. The Performance Marketing Team also fosters a great learning environment. You will be able to learn and grow by working closely with experts from a variety of backgrounds from all over the world.
+
+In this Role, you’ll get to:
+• Search: Experiment with text ads, bidding, and campaign structures on Google, Bing, Baidu, Naver, and other search engines. Adapt to new product features and roll out changes from successful tests
+• Display: Test, analyze, and optimize campaigns on Facebook, Twitter, Instagram, and others
+• Modeling: Analyze the vast amounts of data generated by experiments, develop models we can use for optimization, and build dashboards for account managers
+
+What you’ll Need to Succeed:
+• Bachelor’s Degree or higher from top university in a quantitative subject (computer science, mathematics, engineering, statistics or science)
+• Ability to communicate fluently in English
+• Exposure to one or more data analysis packages or databases, e.g., SAS, R, SPSS, Python, VBA, SQL, Tableau
+• Good numerical reasoning skills
+• Proficiency in Excel
+• Intellectual curiosity and analytical skills
+
+It’s Great if you Have:
+• Experience in digital marketing
+• Academic research experience
+
+#STRA#ANLS#MRKT#3 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #washdc #tirana #yerevan #sydney #melbourne #perth #vienna #graz #linz #baku #minsk #brussels #antwerp #ghent #charleroi #liege #saopaolo #sofia #toronto #vancouver #montreal #shanghai #beijing #shenzhen #zagreb #cyprus #prague #Brno #Ostrava #copenhagen #cairo #alexandria #giza #estonia #helsinki #paris #nice #marseille #rouen #lyon #toulouse #tbilisi #berlin #munich #hamburg #stuttgart #cologne #frankfurt #dusseldorf #dortmund #essen #Bremen #leipzig #dresden #hanover #nuremberg #athens #hongkong #budapest #bangalore #newdelhi #jakarta #bali #bandung #dublin #telaviv #milan #rome #naples #turin #palermo #venice #bologna #florence #tokyo #osaka #yokohama #nagoya #okinawa #fukuoka #sapporo #amman #irbid #riga #beirut #tripoli #vilnius #luxembourg #kualalumpur #malta #chisinau #amsterdam #oslo #jerusalem #manila #warsaw #krakow #sintra #lisbon #porto #braga #cascais #loures #amadora #almada #doha #alrayyan #bucharest #moscow #saintpetersburg #riyadh #jeddah #mecca #medina #belgrade #singapore #bratislava #capetown #johannesburg #seoul #barcelona #madrid #valencia #seville #bilbao #malaga #oviedo #alicante #laspalmas #zaragozbanga #stockholm #zurich #geneva #basel #taipei #tainan #taichung #kaohsiung #Phuket #bangkok #istanbul #ankara #izmir #dubai #abudhabi #sharjah #london #manchester #liverpool #edinburgh #kiev #hcmc #hanoi #sanaa #taiz #aden #gibraltar #marrakech #lodz #wroclaw #poznan #Gdansk #szczecin #bydgoszcz #lublin #katowice #rio #salvador #fortaleza #brasilia #belo #belem #manaus #curitiba #portoalegre #saoluis data representation data analysis SQL data analytics analytics python (programming language) data mining data science r (programming language) tableau analytical skills data visualization databases business analysis business intelligence (bi) microsoft sql server machine learning statistics microsoft power bi java finance shopee traveloka google facebook ctrip trip.com makemytrip grab amazon pandas (software) artificial intelligence (ai) information technology capital one accenture upwork deloitte mckinsey bain microsoft uber lyft gojek lazada alibaba shopify expedia skyscanner
+
+Equal Opportunity Employer
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes","['6 hours ago', 'Full-time']","{'posted_at': '6 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IChCYW5na29rIEJhc2VkLCByZWxvY2F0aW9uIHByb3ZpZGVkKSIsImh0aWRvY2lkIjoiaUNrM0didDJfUklBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXFJQ0N1SUJRVUYwVm14aVExTmxTMlJLUkhsbFJFNXZWM2xDZWw4NFpVUnpUa3RaWTNoRFZURk9jMDVFTTNKbFRFNXZVamRIUWxwNU1HOWZhM2d4TURBMlUxbGtOemN4ZG5SRkxXdExXa2t5TUhrME9VTnBPR3N5VkcxMGQwTllZVmRMTWpkMFptZFlOWEZsVlhaRlIzQm9URkJ0TVZWelJHZG5kR3hSTTNodVluQkZXbGxyTjFGUlowbEZWRGh3UTB0eWEyZFFOV2R5VW1nMGFrUlRSV2d6YTNOamJtTlJiRTQyTlVaM1NHUlRSSFZKZWpOcmRsTm1XVXQxUkVGSVoxWkhNRk5VVWtOMWNUUmZWbVpZY2t4dFpHTkhXV0pEUmw5dGFISnBUWFp6Y1dwZlZsZFRVUklYUTBwTGExbGZUQzFGT1cwMGNYUnpVSGQyY1MxdlFUZ2FJa0ZFVlhsRlIyTkZWWGs1ZEVvMlRDMDVlVkJRV0d4allqSndXRlJwUlRka1ZtYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L3Nlbmlvci1kYXRhLWFuYWx5c3QtYmFuZ2tvay1iYXNlZC1yZWxvY2F0aW9uLXByb3ZpZGVkLWF0LWFnb2RhLTM0MDY0ODAxNjY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlAAl3lHop538cKW63Inc8NOSOXelrEednawpd3z0&s
+3,Senior Data Analyst,Flix,"Warsaw, Poland",via LinkedIn,"We are looking for a motivated and determined Senior Data Analyst who will use the latest technologies and sophisticated concepts to shape the data landscape in Ancillary Services and take our team and the company to the next level.
+
+Your Tasks – Paint the world green
+• You shape the standards for online data collection in e-commerce for Ancillary Services on a global level and are the specialist for data analytics, data modeling and data visualization in our team
+• You create and develop the methods and tools for our performance management and provide or further develop regular reports and dashboards for monitoring our product portfolio
+• You create data analyses and models as a basis for decisions on the further development and optimization of our product offering
+• You enjoy your creative freedom in developing solution concepts for problems and proactively work with product experts, BI and the agile development teams to identify suitable data sources, collection methods and data... connections and ensure high data quality
+• You will support us in the development of the dynamic Ancillary Pricing concept and develop business rules as well as alert systems for price control
+• You are responsible for the data migration to Snowflake and actively drive automation processes forward
+• You communicate and present analytical approaches and results in a way that is appropriate for the target group
+
+Your Profile – Ready to hop on board
+• You have a successfully completed university degree, preferably in the field of business administration, mathematics, statistics, social sciences, business informatics, economics or similar
+• You have professional experience as a data analyst, business analyst, data scientist, controller or in a comparable position and are ideally familiar with the analysis of digital products
+• You are experienced with A/B Test definition, set-up and especially analysis, used to work with CVR data, MDE etc.
+• You have strong analytical skills and are enthusiastic about complex data structures and algorithms
+• You bring very good knowledge of SQL, ideally you are proficient in a programming language (e.g. R or Python) and have the will to develop it. Experience in the use of cloud-based infrastructures is an advantage
+• You are familiar with common methods and tools for cleaning and merging different data sources as well as data preparation and visualization (e.g. advanced knowledge in PowerBI or Tableau)
+• You have a good understanding of business contexts and a quick grasp of complex issues
+• You have strong communication skills and a high degree of initiative
+• You have a good command of German and English, any other foreign language is a plus
+
+Our Perks – More than just a job
+• You have an impact. With innovation and smart technology, we are creating the easiest way to travel. We want your ideas and give you autonomy to make them reality.
+• Flix is flexible. Organize your own schedule, and balance work between the office and home as it’s best for you. We give you trust-based hours and a flexible smart working policy.
+• Travelling is our passion. Discover the world with your free Flix rides and bring along your friends and family for half price.
+• Teamwork makes the dream work. Our FlixTeam has people from over 80 different nations. We work in a multicultural environment where we can challenge and support each other.
+• We're not only green in color. We’re building for the long term, and that means protecting our planet. We constantly test new green technologies and compensate for the CO2 after all our business travel since 2018.
+• Your well-being is important to us. To treat your mind and body we will give you a competitive paid time off package, mental health support including 1:1 consultations with a psychologist, and a neat discount on sport memberships.
+
+Want to rewrite the history of mobility with us? Then join our ride and apply now. We're excited to hear from you!
+
+About FlixMobility
+
+We are a global mobility provider with headquarters in Europe and the United States. Since 2013, we have changed the way millions of people have traveled, offering new alternatives for convenient, affordable and eco-friendly travel. Thanks to a unique business model and innovative technology, we have quickly established one of the largest long-distance mobility networks in the world – and our journey has just begun.
+
+FlixMobility is proud to be an Equal Opportunity Employer. We celebrate diversity and do not discriminate on the basis of race, color, religion, gender (including pregnancy and gender identity), national, social or ethnic origin, political affiliation, sexual orientation, marital status, disability, age, veteran status, or other legally protected characteristics. All employment decisions are based on business needs, job requirements, competence and merit","['5 hours ago', 'Full-time']","{'posted_at': '5 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJ6V0xMS0ljYm8yVUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUTFKVWVFeFBkRXhOTlhrdGVWSk1hVU5vVG0wdGJVeDNlWFU1TWs5Zk5qRkVNa2hUWDNSTFNWUkhaa2xPZG5GSU56VmhORE16T0hsR1R6QkxObDlKZEVZd1VqaHVaVlF4UTNwek5sUmlOVWhRVjBKbVIyUXRZMGhaVDFOWlkzSlVUa2gwTTIwelVqWnZka3BaYVZsck56bDBNMnBFZUUxcmNrazJRWEl5TVVkT2RWOVpSVFpqVFRWaGFFc3RRa2QwUWtSaFJIQk9SV05LV1RCWlRHOXZNRmN6TFd0V2FtMUNhM015ZVhFdFNsSTBFaGREU2t0cldWOU1MVVU1YlRSeGRITlFkM1p4TFc5Qk9Cb2lRVVJWZVVWSFpuVlhiVzFLWlVOWlh6VklWQzFUVERoM2VFSkJTVXhMVUhaWFp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc2VuaW9yLWRhdGEtYW5hbHlzdC1hdC1mbGl4LTMzOTQ5NjI1NDE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4HTRNFyprRbxMEzY4yUhUzI8ECqNK6mG0t3L2EAM&s
+4,Senior Data Engineer – Cloud Solutions,Aptiv,"Kraków, Poland",via LinkedIn,"The Senior Data Engineer will be a key member of Aptiv Connected Services’ Data & Analytics team. The position will support product management, software developers, data architects, data scientists, and MLOps engineers and will ensure delivery and maintenance of self-service, automated, standardized and cloud-based data products.
+
+Your Role
+• Participate in requirements gathering, technical specification, design and development of automated, standardized, scalable and portable end-to-end data platform
+• Design, re-design and build service-based infrastructure for improved scalability and operational efficiency by optimizing the extraction, transformation, and loading of data from a wide variety of data sources using ‘big data’ technologies
+• Collaborate with data scientists, architects, software developers, MLOps and DevOps engineers on anything related to the data platform, from ideation, prototyping, to implementation and post-production
+• Work with large and fast-evolving data from... connected vehicles on multiple cloud platforms and external systems
+• Have a data-centric instead of application-centric mindset. Use whatever techniques necessary to store, retrieve, and process (big) data efficiently, cost-effectively while being compliant with regulations
+• Perform research and proof of concepts on MLOps-related technologies, tools, and approaches
+
+Your background
+• University degree in computer science, information technology, mathematics, statistics, or related technical field (STEM)
+• Understanding of computing and networking fundamentals, such as CPU/memory usage, TCP/IP, and distributed systems
+• Hands-on experience in working with at least one of the cloud environments such as GCP, AWS, or Azure in a production setup
+• Hands-on experience with programming languages such as Python, Java, Bash, etc.
+• Experience with SQL relational databases and at least some knowledge of NoSQL databases (e.g., MongoDB, DynamoDB, Cosmos DB)
+• Familiarity with agile development and lean principles
+• Willingness to collaborate and share knowledge with teammates
+
+Benefits
+• Hybrid work in Kraków or remotely anywhere in Poland
+• Smart Office, with interactive areas for mixed online and offline presence (touch screen TVs, etc.)
+• Startup essentials: high-quality coffee, tea and chocolate, playroom, chill-out areas, fruits, and snacks
+• Training budget for all employees, ability to attend and present in conferences
+• Possibility to travel to the US a few times a year to meet the extended team (post-COVID)
+• Competitive health benefits
+• Discount programs with various car manufacturers and retailers
+• Meaningful work that makes a difference in the world
+• Relocation assistance (if applicable)
+
+Get a list of benefits such as private health care, child fund, life insurance, Employee Pension Plan (+ 3,5% on each gross salary), trainings, sports activities Multisport card and hybrid type of work.
+
+Some see differences. We see perspectives that make us stronger.
+
+Diversity and Inclusion are sources of innovation and creativity, both of which are essential to Aptiv’s success. Everyday our diverse team comes together, drives innovation, pursues solutions, and meets challenges using their unique abilities, perspectives and talents, changing what tomorrow brings. When you join our team, you’ll get encouraged to think boldly, express your viewpoint and innovate as a matter of habit.
+
+Some See Technology. We See a Way to Make Connections.
+
+At Aptiv, we don’t just see the world differently; we work to change reality. That means developing technology that rewrites the rules of what’s possible in the pursuit of making transportation safer, greener and more connected. Today there are more than 180,000 of us globally, located in 46 countries, and united by one mission. Join the movement and together, let’s change tomorrow.
+
+‘We are one of the largest vehicle technology suppliers and our customers include the 25 largest automotive original equipment manufacturers (“OEMs”) in the world. We operate 127 major manufacturing facilities and 12 major technical centers utilizing a regional service model that enables us to efficiently and effectively serve our global customers from best cost countries. We have a presence in 46 countries and have approximately 18,900 scientists, engineers and technicians focused on developing market relevant product solutions for our customers’
+
+Privacy Notice - Active Candidates: https://www.aptiv.com/privacy-notice-active-candidates
+
+Aptiv is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law","['30 minutes ago', 'Full-time']","{'posted_at': '30 minutes ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciDigJMgQ2xvdWQgU29sdXRpb25zIiwiaHRpZG9jaWQiOiJpTXg4VXBtT0RXY0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVRjBWbXhpUkZwclRIWkZkRjk1T0Vnd05YVmZiVVJZWkhCamFVdFZWMDFKVVZBNVNGVlZURFZOVHpGRmMxbGhOWGQxVEVKcmFXODFjazVsWkU5cU5UVjZlRFZPU1ROdE5ETjBjREppWTJkc2VGUlVSR1JZTnpKbE9FVTBNMmhoUTJ0R1gySmphREJCYjBKbWIxWmZjRkpuU2xKcVlXTnNjWHBwTURkeVQzQk5jbUZGVldZd1JVaGxkR3MxYzJwZlV6bGlkakJmVFd0ellrOWtZbEpFWW5Sb1IxTlJSSE4yTFVkUFJUTkhXVEJFVW5kc2VDMTRZak5SZVZkdFZXeFRUbEpxVW5WS00xVTRVbWt3RWhkRFNrdHJXVjlNTFVVNWJUUnhkSE5RZDNaeExXOUJPQm9pUVVSVmVVVkhabEJJZG5GaE1uTkRWRTl3WDA1eVNYVnFlVVI2TUVsamFubE9RUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L3Nlbmlvci1kYXRhLWVuZ2luZWVyLSVFMiU4MCU5My1jbG91ZC1zb2x1dGlvbnMtYXQtYXB0aXYtMzM5NDQwNjg3NT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu78ucWF5EAYtxL61F5MbLFP2pqhtxZuK5VRKm53Q&s
+5,Senior Data Engineer,Aptiv,"Kraków, Poland",via LinkedIn,"#GPO
+
+Join our Innovative Team
+
+Want to do more than just imagine the ways our world will move tomorrow? Join the technology company that’s transforming the future of mobility today.
+
+About This Position
+
+The Senior Data Engineer position is located in our Cracow office. This role will be responsible to develop cloud computing platforms and tools to generate meta data/ KPIs utilizing large pool of real world and synthetic data to improve the performance of ADAS/ AD feature functions. Works closely with ADAS/ AD system engineers, algorithm engineers, software developers, product managers, leadership team extract insight full information out of the data lake. You will be responsible to design highly scalable & user-friendly data processing pipelines/ frameworks that will serve as a platform to deploy big data analytics scripts on HPCC environment.
+
+Responsibilities And Duties
+• Work with stakeholders regarding their big data analytics needs and come up with optimal data engineering... solutions
+• Build cloud computing tools that improves the quality of the ADAS/AD feature and functions
+• Come up with innovative solutions to simplify workflows, automate tasks to improve the efficiency, productivity of development process.
+• Train stake holders on how to use the cloud computing tools most efficiently for their use case.
+• Design frameworks/ tools architecture that efficient use of hybrid cloud computing infrastructure
+
+Need To Haves (Basic Qualifications)
+• Bachelor’s/ Master’s/ PhD degree in the field of Computer Engineering, Electrical Engineering or Electronics Engineering or equivalent
+• 3+ years of experience in Data Engineering/ back-end/ full stack Software Engineering
+• 3+ years of work experience with strong proficiency with Python and SQL
+• Experience with building and maintaining distributed data pipelines
+• 1+ years of experience in MapReduce frameworks
+• 2+ years of hands-on experience with configuring CICD pipeline in GitLabs
+• 1+ years of experience in developing application dockers and deploying into AWS EKS cluster
+• Creative, inventive, and passionate about seeking new solutions to problems and opportunities
+
+Nice To Haves (Preferred Qualifications)
+• 2+ years of experience in developing tools / frameworks to process large data set pertaining to ADAS/ AD application.
+• Agile software development experience and understanding of DevOps principles
+
+Traits We're Seeking
+• Curiously investigate everything – ability to solve problems analytically, creatively and collaboratively
+• Lead with confidence – thought leaders who empower those around them
+• Learn by doing – an entrepreneurial mindset that’s driven by hands-on experimentation
+• Embrace resilience – seeing every challenge as a learning opportunity and invitation to grow
+
+Get a list of benefits such as private health care, child fund, life insurance, Employee Pension Plan (+ 3,5% on each gross salary), trainings, sports activities Multisport card and hybrid type of work.
+
+Some see differences. We see perspectives that make us stronger.
+
+Diversity and Inclusion are sources of innovation and creativity, both of which are essential to Aptiv’s success. Everyday our diverse team comes together, drives innovation, pursues solutions, and meets challenges using their unique abilities, perspectives and talents, changing what tomorrow brings. When you join our team, you’ll get encouraged to think boldly, express your viewpoint and innovate as a matter of habit.
+
+Some See Technology. We See a Way to Make Connections.
+
+At Aptiv, we don’t just see the world differently; we work to change reality. That means developing technology that rewrites the rules of what’s possible in the pursuit of making transportation safer, greener and more connected. Today there are more than 180,000 of us globally, located in 46 countries, and united by one mission. Join the movement and together, let’s change tomorrow.
+
+‘We are one of the largest vehicle technology suppliers and our customers include the 25 largest automotive original equipment manufacturers (“OEMs”) in the world. We operate 127 major manufacturing facilities and 12 major technical centers utilizing a regional service model that enables us to efficiently and effectively serve our global customers from best cost countries. We have a presence in 46 countries and have approximately 18,900 scientists, engineers and technicians focused on developing market relevant product solutions for our customers’
+
+Privacy Notice - Active Candidates: https://www.aptiv.com/privacy-notice-active-candidates
+
+Aptiv is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law","['30 minutes ago', 'Full-time']","{'posted_at': '30 minutes ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciIsImh0aWRvY2lkIjoiazZpTF95aDdaZkFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVUYwVm14aVJHNDJTelJNZURJd1NHcHlaM0pKWWpWcWFtdHliRk4zVUVKSVJuUnViRmRWTVVkS1ZHOHRSbVppVWpSSmF6ZDVla3R6ZEhSMWNIZHlVSEF6VEhsRWNXUmFOWEJYTkhOTE1rbHlaV1JCUlc0d1JWSmpRbWN0WDFkeE5XSTNVSGhmT1dWTVVqVkpXVlYzWmpKbU5tNHpSVWxCUmxwb1VEZGpVMUJIZDBOMVZWQnBWbTV6TkdwUVMyTnpURGs0UzBKd1VtMUpTRzVXVFU4NVJrOUlNSHA2WVVjMVlWZFNVMnRLUm01Q05YWmhhbmRKRWhkRFNrdHJXVjlNTFVVNWJUUnhkSE5RZDNaeExXOUJPQm9pUVVSVmVVVkhZM0JETkZBM0xXZGxhbnBmZVVGSVFtOUZaVlJ1ZFV0RlF6UmtkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3ItZGF0YS1lbmdpbmVlci1hdC1hcHRpdi0zNDAyMzQ5NzA5P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu78ucWF5EAYtxL61F5MbLFP2pqhtxZuK5VRKm53Q&s

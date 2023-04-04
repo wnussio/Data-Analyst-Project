@@ -1,0 +1,492 @@
+,title,company_name,location,via,description,thumbnail,extensions,detected_extensions,job_id
+0,Data Scientist - Building the future of tech,McKinsey & Company,"Warsaw, Poland",via Jobrapido.pl,"Your role is part of 'Building the future of tech - Europe': an opportunity forindividuals who self-identify as womenin the digital space to discover a career in management consulting. For further details, please visit https://mckinsey.com/careers/building-the-future-of-tech-europe
+
+Applications close on February 16th 2023.
+
+Your colleagues
+
+Work with other data scientists, data engineers, machine learning engineers, designers and project managers on interdisciplinary projects, using maths, stats and machine learning to derive structure and knowledge from raw data across various industry sectors.
+
+Who you are
+
+You are a highly collaborative individual who is capable of laying aside your own agenda, listening to and learning from colleagues, challenging thoughtfully and prioritising impact. You search for ways to improve things and work collaboratively with colleagues. You believe in iterative change, experimenting with new approaches, learning and improving to move forward... quickly.
+
+Our Tech Stack
+
+While we advocate for using the right tech for the right task, we often leverage the following technologies: Python, PySpark, TensorFlow, PyTorch, SQL, Airflow, Databricks, our own OSS called Kedro(check out a Kedro tutorial video here), container technologies such as Docker and Kubernetes, cloud solutions such as AWS, GCP or Azure, and more!
+
+As a data scientist at QuantumBlack,you will work in multi-disciplinary environments harnessing data to provide real-world impact for organisations globally. You will influence many of the recommendations our clients need to positively change their businesses and enhance performance.
+
+Role responsibilities
+• Work on complex and extremely varied data sets from some of the world’s largest organisations to solve real world problems
+• Develop data science products and solutions for clients as well as for our data science team
+• Write highly optimized code to advance our internal Data Science Toolbox
+• Work in a multi-disciplinary environment with specialists in machine learning, engineering and design
+• Focus on modelling by working alongside the Data Engineering team
+• Add real-world impact to your academic expertise, as you are encouraged to write papers and present at meetings and conferences should you wish
+• Take part in R&D (video: R&D at QuantumBlack); attend conferences such as NIPS and ICML as well as data science retrospectives where you will have the opportunity to share and learn from your co-workers
+• Work in one of the most advanced data science teams globally
+
+What you’ll learn
+• How successful projections on real world problems across a variety of industries are completed through referencing past deliveries of end to end machine learning pipelines
+• Build products alongside the Core engineering team and evolve the engineering process to scale with data, handling complex problems and advanced client situations
+• Best practices in software development and productionise machine learning by working with our Machine Learning Engineering teams which optimise code for model development and scale it
+• Work with our UX and Visual Design teams to interpret your complex models into stunning and user-focused visualisations
+• Using new technologies and problem-solving skills in a multicultural and creative environment
+
+You will work on the frameworks and libraries that our teams of data scientists and data engineers use to progress from data to impact. Watch our Protocols series video tutorial. You will guide global companies through data science solutions to transform their businesses and enhance performance across industries including healthcare, automotive, energy and elite sport.
+• Real-World Impact– No project is ever the same; we work across multiple sectors, providing unique learning and development opportunities internationally.
+• Fusing Tech & Leadership– We work with the latest technologies and methodologies and offer first class learning programmes at all levels.
+• Multidisciplinary Teamwork- Our teams include data scientists, engineers, project managers, UX and visual designers who work collaboratively to enhance performance.
+• Innovative Work Culture– Creativity, insight and passion come from being balanced. We cultivate a modern work environment through an emphasis on wellness, insightful talks and training sessions.
+• Striving for Diversity– With colleagues from over 40 nationalities, we recognise the benefits of working with people from all walks of life... check out our Women Transforming Tech highlights reel and our Kedro playlist
+• Undergraduate degree in maths, statistics, physics, computer science or engineering required
+• Up to 3 years of professional experience in programming; experience applied to business problems is a plus
+• Programming (focus on machine learning): Python (must), R (highly valued), SPSS, SAS, Ruby, Hadoop (valued)
+• Data treatment/data mining, e.g. SQL, AWK, Access, Spark& Excel (highly valued)
+• Statistical knowledge is a plus
+• Demonstrated aptitude for analytics
+• Proven record of leadership in a work setting and/or through extracurricular activities
+• Ability to work collaboratively in a team environment
+• Ability to work effectively with people at all levels in an organization
+• Skills to communicate complex ideas effectively
+• Ability to communicate complex ideas effectively – both verbally and in writing – in English
+• Knowledge of local language is a plus",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPbw9ZL0xF1gbrBe4t_LgmplpG25qKZ1Ey5Q8&s=0,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAtIEJ1aWxkaW5nIHRoZSBmdXR1cmUgb2YgdGVjaCIsImh0aWRvY2lkIjoiY2tDNERpMmh5LUVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXFJQ0N1SUJRVUYwVm14aVEyMU5TamRNWmpsb2JERlJNRjlEWTJ4UlFrZDBaSFl3YzIxT01VUXdhRjlKZEVoS2NuRm5RamRxVkdGaVowSk1SbUZKUnpaMFRXMHRWMnhNV21SdWVqSmlXRmhvY2kxdVJWOVJRVzlDUldkMFRISlFOMjlvTm14QlZ6QklRVFJzVFdneVgwOW5OamgwV0RaT2FIVkhXR1JJUWs5dE5rOVhWWHBNTldaa1lrTlBjMDVWTW1RMk0yaEZRVVpZWW5ZMVRHdHRkVzFMZGs4elpDMVNhR1I1U0hWQk5WZzFaMFpHTnpaWFpYYzRSakZNZHpkYVgyRklZa2d3V2w5dmJuRllNek5sU1dndGVGSnpjVEI0Tm5oSGVVbFZjRkJrYmkxeU5EbHJkeElYV1RWcFpsazJVRUpCWkhWVk9YVTRVR3MyVTNSblFYY2FJa0ZFVlhsRlIyWjZXWG8zVlZWUlVuVmZUeTFyZVdGTVJERk1jR1JWYUhKSVZVRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gSm9icmFwaWRvLnBsIiwibGluayI6Imh0dHBzOi8vcGwuam9icmFwaWRvLmNvbS9qb2JwcmV2aWV3Lzc2ODQ3MTc2P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+1,(Senior) Data Science Consultant (Data Scientist),Capgemini,"Warsaw, Poland",via LinkedIn,"Short Description
+
+Capgemini Invent is the global consulting unit of the Capgemini Group for Digital Innovation and Transformation. It helps CxOs plan and shape the future of their businesses. The team combines strategy, technology, data science and creative design with in-depth industry expertise to develop new digital solutions and the business models of the future. Capgemini Invent employs more than 7,000 people at more than 30 locations and 25 creative studios worldwide
+
+We are a rapidly growing team of talented Data Science enthusiasts which have dedicated themselves to building innovative and data-driven products & services for customers across industries. Our aim is to rapidly develop cutting-edge solutions by applying the latest technologies and data science techniques.
+
+What do you need to start?
+
+A data science enthusiast who is energetic and curious, who will help us discover the information hidden in vast amounts of data, and help stakeholders make smarter, more... data-driven decisions and boost their businesses. Primary focus will be in applying data science techniques, statistical analysis, and building high quality machine learning algorithms.
+
+In a Nutshell You Should Have
+• Team-player attitude with extensive communications skills (English is a must, German is a plus) appreciating international client-facing activities (travelling across Europe might be required)
+• At least 3 years of experience in the data science domain
+• Grounded working knowledge of statistical methods and their implementation (including Deep Learning and/or Natural Language Processing)
+• Experience in programming languages such as Python/R (front-end is a plus)
+• Experience working agile with Git, CI/CD, multi-services
+• Experience with building and deploying machine learning models
+• Experience with cloud computing platforms, preferably Azure
+• Expertise in at least one business domain (banking, finance, automotive, manufacturing, life science, etc.)
+• BI experience is a plus
+
+What duties will help you grow?
+
+As an integral part of global Data Science community within Capgemini Invent and Capgemini Group, you will help our Clients towards transformations using AI / Data Science or automation technology to at the very forefront of innovation in different sectors. You will have the opportunity to shape the future of business operations, build new models or solutions including prototyping. We seek focused and inspired individuals who have the special power to build the close, trusting relationships that are key to delivering the seamless and efficient transitions that Clients expect from Capgemini.
+• Develop end-to-end data science solutions using machine learning frameworks and big data technologies (e.g. Python/R/Databricks/Spark)
+• Work as a team member or leader in data science projects across various industries and sectors
+• Participate in initiatives and sales offerings in the data science field
+• Feature selection, model building and optimizing classifiers / regressors, etc. using machine learning techniques. Develop Models using open source packages e.g. Python and R.
+• Prepare workshop for requirement gathering and developing solutions.
+• Work to design and develop analytical/ data mining/ machine learning/deep learning models as part of data science solutions.
+• Design and build an end-to-end prototype data science solution to a business problem in any specific sector/ function, more specific to any manufacturing and asset intensive industry domains.
+• Process, cleans, and verify the integrity of data used for analysis.
+• Use state-of-the-art methods for data mining and performing EDAs.
+• Help enhance data collection procedures to include information that is relevant for building analytical systems.
+• Doing ad-hoc analysis and presenting results in a clear manner",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1s-hIk1EhiswW8tit0mCSj9d0zIb8Eav4qrQ5BBQ&s,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiIoU2VuaW9yKSBEYXRhIFNjaWVuY2UgQ29uc3VsdGFudCAoRGF0YSBTY2llbnRpc3QpIiwiaHRpZG9jaWQiOiJRWHdER2Z5dFFzZ0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFcUlDQ3VJQlFVRjBWbXhpUVc5RGNVVktRa2h0YTBWcWEzbGhNblJNVkY4eWFtdG1SV1JOY204eFFtaHlWWFV5ZW05U1ZHaFdlbEY1UlRWWlZVa3dRVmQyY2twRFQwb3liRnB5Tm1OSGVrRXdMVTVwZGxkeFQwRm5iR2h6V1V4eldHRjJZa0ZVYjFsTWFXUTFjRGhNUlRKWmF5MTFUbEphUTFkMWIxRktTMHA1YmtKM1dUbDJUbmhuYjJFeGNsOWhVV0l6Y21OTVdEaHNUbXBWTmpGQlUzZFVZamQyVURCaVJrRmxibEp4YkRsRmJtNVJTVGxNU1dKcVozTlFablpwUm5SSU1FaDFTRko2VjBSQmJ6ZE9iazVuU1ROWFgyZGFTSFYwUldRNVN5MTRMVEpYVlhoZlFSSVhXVFZwWmxrMlVFSkJaSFZWT1hVNFVHczJVM1JuUVhjYUlrRkVWWGxGUjJaYU56TkRaWFpDTUV4dllrODJUR2MyZFU0M1VqUkRWVWwwWVhjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc2VuaW9yLWRhdGEtc2NpZW5jZS1jb25zdWx0YW50LWRhdGEtc2NpZW50aXN0LWF0LWNhcGdlbWluaS0zMzk4MTI2MzAyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+2,Data Analyst - Gamma Retail Catalyst,"BCG GAMMA, Boston Consulting Group","Warsaw, Poland",via Boston Consulting Group,"WHAT YOU'LL DO
+
+BCG is seeking a Data Analyst, based in Warsaw, Poland. You will join the rapidly growing Retail Catalyst team, which helps build and implement advanced analytics software for our Retail case teams and clients. Retail Catalyst is part of BCG GAMMA, BCG’s data science and software products business unit. The Warsaw-based team is in charge of building, configuring, and delivering world-class analytics software and apps.
+
+In particular, you will be in charge of:
+• Supporting the Customer Success Managers (CSMs) to deliver excellent and seamless client delivery service
+• Rapidly take responsibility for expanding / improving use cases and help our clients achieve their analytics goals
+• Developing, customizing, and performance-tuning Tableau dashboards
+• Building and maintaining ETL flows in Dataiku
+• Overseeing and executing client data ingestion and data quality control
+• Performing analytics to support the software / apps and generating insights
+• Providing technical... solution and domain expertise to our clients and case teams
+• Coordinating with clients / case teams and maintaining a close sync with our engineering, data science, and devops teams
+• Proactively collecting and incorporating client and case team feedback to make the Retail Catalyst platform the best it can be
+• Over time, become a leader of the Warsaw Retail Catalyst team and take on management responsibility
+
+JOB REQUIREMENTS:
+The Data Analyst will have two major areas of responsibilities:
+Client Service (80%)
+• Support onsite Customer Success Managers (CSMs) to successfully deliver Retail Catalyst projects
+• Work directly with clients, BCG case teams, and product team on a project-by-project basis to conduct hands-on rigorous quantitative analysis, leveraging advanced analysis software (e.g., Dataiku and Tableau for visualization)
+• Ingest, clean, transform, maintain, and analyze client data on Retail Catalyst platform
+• Rapidly configure standard and custom Tableau dashboards per CSM, client, and case team’s directions / requirements
+• Oversee and quality-control all things ETL and Tableau for our client deployments
+• Coordinate the Warsaw delivery team to provide world-class quality output and hyper-responsive client service
+Product and IP development (20%)
+• Maintain library of client-agnostic Tableau dashboards and ETL flows
+• Improve setup and preparation of standard / starting point components so that they can be rapidly deployed and configured for client use cases
+• Support Retail Catalyst product team in client development efforts with ad hoc analysis, problem solving on best analytical approach, and client demos
+• Study and understand Retail sector terminology and industry (analytics-) knowledge
+• Over time, identify new areas of application/use cases for Retail Catalyst and help embed these into the platform and apps
+Your success in this role will be measured in your ability to support our clients and case teams with highly responsive and top quality outputs. You will also be measured on your level of proactivity in terms of improving and expanding the technical platforms and analytical use cases. Finally, we will expect you to, over time, take responsibility for the Warsaw team, including development and mentorship for junior team members and overall quality control
+YOU'RE GOOD AT
+
+Technical skills
+• Tableau (Advanced / World class)
+• ETL / SQL (Advanced / World class)
+• Excel (Advanced)
+• Statistics and math (Intermediate)
+• Python knowledge is a plus
+• Data automation knowledge (e.g., Airflow) is a plus
+• Cloud knowledge (Google Cloud and Azure) is a plus
+
+Non-technical skills
+• Meticulous attention to detail
+• Highly efficient – you get a lot of work done in very little time
+• Willingness to work hard and prioritize team success vs. regular working hours
+• Highly proactive and strong drive for (self-) improvement
+• Dedicated team player
+• Excellent communication skills in English
+• World class problem-solving skills
+• Self-motivated and is able to operate autonomously in a structured manner
+• Ability to coach others
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+
+Education or Certifications
+• Bachelor’s or Master’s degree in engineering, computer science, data science / statistics, or business administration
+
+Work Experience
+• Minimum of 2 years of deep experience in Tableau, including Tableau server tuning, Tableau APIs, Hyper, recent and upcoming product innovations, etc.
+• Minimum of 2 years of deep experience in ETL for very large data sets (terabyte+)
+• Deep expertise in SQL, ideally PostgreSQL
+• Experience in conducting thorough quality checks on ETL flows
+• Experience with data ingestion and automation of ingestion is a big plus
+• Experience with visualized ETL tools (Alteryx, Dataiku) is a big plus
+• Experience in working with global teams
+• Client service experience is a plus
+• Cloud platform experience is a plus
+YOU'LL WORK WITH
+
+• Client success team
+• Tableau delivery team
+• Devops team
+• Product engineering and platform team
+• Commercial and product leadership",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE7LGK80sgQuXG9g5Fkoks60uucVDsjR5vVEBv1U&s,"['7 hours ago', 'Full-time']","{'posted_at': '7 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBHYW1tYSBSZXRhaWwgQ2F0YWx5c3QiLCJodGlkb2NpZCI6Imh6dEhZdFFJcnhvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVyY0NDdmNCUVVGMFZteGlSRkpJYldnM00yRTVUMUpUYW5aa01EVlNRbVpZYURoTVZWaHdOV2swVnpoelZHSnFkak5QUnpKNllXZFlhMFoxWVRGalkwMUtVakpQV0cxV2MwcFRXSGhEVlRoRmJVODFNVFZFYVdGV1JFaDZReTFmWWswMllUaHZPRzlNVjBGNU1YQkxVbXM1TTNkVlZEQmtjVVV4UlRocVQyVlFkMnhxWHpCS1QwNVdhVmxZV1VWdFYyRlpVMVJDWmtkM2FtUlNOMVZ6ZVRGSU5IWm1kVU4yWDBaMVJGUndka2N4WjJ0V1JWTldXRFJmVEdaUmVERTJVVGw1VFRKRFlVdG9hVzFOVTNCMVVuRkJjR3BIV2tKcWMxWmZVVk5DVVVkVmEzUndVMmRmZURGRVZIQkVaV0l6U0VwaVlqbDVjVTFFYTJWR2N4SVhXVFZwWmxrMlVFSkJaSFZWT1hVNFVHczJVM1JuUVhjYUlrRkVWWGxGUjJWSWRGSlRkRE40Wm5OMldIcFNjRXhMUWpneldUVlROblE0U0hjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBCb3N0b24gQ29uc3VsdGluZyBHcm91cCIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuYmNnLmNvbS9qb2IvMTYwMjFCUi9EYXRhLUFuYWx5c3QtR2FtbWEtUmV0YWlsLUNhdGFseXN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+3,(Senior) Data Science Consultant (Data Scientist),Capgemini,Poland,via LinkedIn,"Recruitment process for this position and onboarding trainings are conducted online.
+
+What do you need to start?
+
+A data science enthusiast who is energetic and curious, who will help us discover the information hidden in vast amounts of data, and help stakeholders make smarter, more data-driven decisions and boost their businesses. Primary focus will be in applying data science techniques, statistical analysis, and building high quality machine learning algorithms.
+
+In a Nutshell You Should Have
+• Team-player attitude with extensive communications skills (English is a must, German is a plus) appreciating international client-facing activities (travelling across Europe might be required)
+• At least 3 years of experience in the data science domain
+• Grounded working knowledge of statistical methods and their implementation (including Deep Learning and/or Natural Language Processing)
+• Experience in programming languages such as Python/R (front-end is a plus)
+• Experience working agile... with Git, CI/CD, multi-services
+• Experience with building and deploying machine learning models
+• Experience with cloud computing platforms, preferably Azure
+• Expertise in at least one business domain (banking, finance, automotive, manufacturing, life science, etc.)
+• BI experience is a plus
+
+What duties will help you grow?
+
+As an integral part of global Data Science community within Capgemini Invent and Capgemini Group, you will help our Clients towards transformations using AI / Data Science or automation technology to at the very forefront of innovation in different sectors. You will have the opportunity to shape the future of business operations, build new models or solutions including prototyping. We seek focused and inspired individuals who have the special power to build the close, trusting relationships that are key to delivering the seamless and efficient transitions that Clients expect from Capgemini.
+• Develop end-to-end data science solutions using machine learning frameworks and big data technologies (e.g. Python/R/Databricks/Spark)
+• Work as a team member or leader in data science projects across various industries and sectors
+• Participate in initiatives and sales offerings in the data science field
+• Feature selection, model building and optimizing classifiers / regressors, etc. using machine learning techniques. Develop Models using open source packages e.g. Python and R.
+• Prepare workshop for requirement gathering and developing solutions.
+• Work to design and develop analytical/ data mining/ machine learning/deep learning models as part of data science solutions.
+• Design and build an end-to-end prototype data science solution to a business problem in any specific sector/ function, more specific to any manufacturing and asset intensive industry domains.
+• Process, cleans, and verify the integrity of data used for analysis.
+• Use state-of-the-art methods for data mining and performing EDAs.
+• Help enhance data collection procedures to include information that is relevant for building analytical systems.
+• Doing ad-hoc analysis and presenting results in a clear manner.
+
+What have we prepared for you?
+
+Space Where You Can Develop Yourself
+• Development programs, external courses & conferences, co-funding for certificates, NEXT platform with free access to TED talks, Coursera materials, articles and virtual trainings: MS Azure, AWS, Google Cloud or ServiceNow.
+• You will have possibility to join various technical communities.
+• Flexible working hours thanks to a variety of projects. Ask your recruiter about possible options.
+
+Our Famous Atmosphere
+• We don’t have a rigid dress code, but what we do have are awesome communities and world – changing initiatives. There’s always someone happy to start a day with a cup of coffee with you – even virtually! We are a big company with unique atmosphere – we make friendships, share important moments, and… simply like each other!
+
+A Lot Of Benefits
+• Possibility to work in terms of Flexible Work Policy, which include work in a hybrid model, flexible working hours, equipment package and more.
+• Well-being package (private medical care, additional life insurance & StayWell helpline).
+• Referral bonuses for recommending your friends to Capgemini.
+• Development programs, courses and conferences, Coursera, Pluralsight
+• Certificates funding: MS Azure, AWS, Google Cloud or ServiceNow
+• Inspiro Audiobooks & Nais access.
+• Access to international technical communities
+• Offices in great locations, car leasing program.
+
+Who are we?
+
+As the digital innovation, consulting and transformation brand of the Capgemini Group, Capgemini Invent helps CxOs envision and build what’s next for their organizations. Located in more than 30 offices and 22 creative studios around the world, it´s 6,000+ strong team combines strategy, technology, data science and creative design with deep industry expertise and insights, to develop new digital solutions and business models of the future.
+
+We are a rapidly growing team of talented data science experts located in more than 30 offices and 22 creative studios around the world which have dedicated themselves to build innovative and data-driven products and services. Our aim is to rapidly develop cutting-edge solutions by applying state-of-the-art technologies and data science techniques.
+
+Do you have any additional questions about our job offers? Check our Instagram (@capgeminipl) or visit our Facebook profile (Capgemini Polska",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1s-hIk1EhiswW8tit0mCSj9d0zIb8Eav4qrQ5BBQ&s,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiIoU2VuaW9yKSBEYXRhIFNjaWVuY2UgQ29uc3VsdGFudCAoRGF0YSBTY2llbnRpc3QpIiwiaHRpZG9jaWQiOiI1anRiVVBxTkRTd0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVRjBWbXhpUVRrdE9XWjZMVU5XYkhCdFUyWjVSazh6YkVaeU4zRjFXbmgyYzFGemNrVnpjVWxrV0RWT1VsSXlNR2t5Y0dvMldGRTNTRTg1WVdreGEyMXZhRUoxTUd4WGFWQlBTbXRmVVVzemRFTktXVGhCZEVwVWNFa3hTVFJVVkRoZmRFVkVkM1ZLT0VSMWJGaFFOMDFtY25wRE5GcDNWRE40WlhZdGIxTkZTM2RsTFV0cVZrTkJZamRxYkV4aFUyNVpOaTFKUkhOTlFVaEljR280UzI1TVZUUjFTVUpMYld0MFJsWmFRbFJIYUhSMU5tYzVWSGRhVEZwdmEzZFFhMEpFVEUxWVlsZG9UQzA0RWhkWk5XbG1XVFpRUWtGa2RWVTVkVGhRYXpaVGRHZEJkeG9pUVVSVmVVVkhaRkZGWmtGeFZUZzRZbXcxVTNob09XTnJha1ExVVY5bGNsUkNkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L3Nlbmlvci1kYXRhLXNjaWVuY2UtY29uc3VsdGFudC1kYXRhLXNjaWVudGlzdC1hdC1jYXBnZW1pbmktMzM5ODEyNjAxOT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+4,Junior Data Scientist,Capgemini,"Warsaw, Poland",via LinkedIn,"Recruitment process for this position and onboarding trainings are conducted online.
+
+What do you need to start?
+• Team-player attitude with extensive communications skills (English is a must, German is a plus) appreciating international client-facing activities (travelling across Europe might be required)
+• Solid knowledge of statistical methods and their implementation (including Deep Learning and/or Natural Language Processing)
+• Experience in Python
+• Excellent grades are great to have, passion is even better
+
+What duties will help you grow?
+• A data science enthusiast who is energetic and curious, who will help us discover the information hidden in vast amounts of data, and help stakeholders make smarter, more data-driven decisions and boost their businesses.
+• Primary focus will be in applying data science techniques, statistical analysis, and building high quality machine learning algorithms.
+• As an integral part of global Data Science community within Capgemini Invent and... Capgemini Group, you will help our Clients towards transformations using AI / Data Science or automation technology to at the very forefront of innovation in different sectors. You will have the opportunity to shape the future of business operations, build new models or solutions including prototyping.
+• We seek focused and inspired individuals who have the special power to build the close, trusting relationships that are key to delivering the seamless and efficient transitions that Clients expect from Capgemini.
+
+What have we prepared for you?
+
+Space Where You Can Develop Yourself
+• Development programs, external courses & conferences, co-funding for certificates, NEXT platform with free access to TED talks, Coursera materials, articles and virtual trainings: MS Azure, AWS, Google Cloud or ServiceNow.
+• You will have possibility to join various technical communities.
+• Flexible working hours thanks to a variety of projects. Ask your recruiter about possible options.
+
+Our Famous Atmosphere
+
+We don’t have a rigid dress code, but what we do have are awesome communities and world – changing initiatives. There’s always someone happy to start a day with a cup of coffee with you – even virtually! We are a big company with unique atmosphere – we make friendships, share important moments, and… simply like each other!
+
+A Lot Of Benefits
+• Possibility to work in terms of Flexible Work Policy, which include work in a hybrid model, flexible working hours, equipment package and more.
+• Well-being package (private medical care, additional life insurance & StayWell helpline).
+• Referral bonuses for recommending your friends to Capgemini.
+• Inspiro Audiobooks & Nais access.
+• Offices in great locations, car leasing program.
+
+Who are we?
+
+As the digital innovation, consulting and transformation brand of the Capgemini Group, Capgemini Invent helps CxOs envision and build what’s next for their organizations. Located in more than 30 offices and 22 creative studios around the world, it´s 6,000+ strong team combines strategy, technology, data science and creative design with deep industry expertise and insights, to develop new digital solutions and business models of the future.
+
+We are a rapidly growing team of talented Data Science enthusiasts which have dedicated themselves to building innovative and data-driven products & services for customers across industries. Our aim is to rapidly develop cutting-edge solutions by applying the latest technologies and data science techniques.
+
+Do you have any additional questions about our job offers? Check our Instagram (@capgeminipl) or visit our Facebook profile (Capgemini Polska",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1s-hIk1EhiswW8tit0mCSj9d0zIb8Eav4qrQ5BBQ&s,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6IjJYTFhIMVVYZzFNQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlSRGRFYnkxRWNqZERjRVZVU2xNNU1rNUtOQzFRVUZRNGVqSmtaMVJYY0dsa2NrdzFTMDVqVEhSS1RWWllUMEp3VUVnMVZXMVNhWE4zV25wcE4yNTNWV055YVVOV2RHWmZZMUpLZW5aNE1GUlpRVzVxUlVSdE5rWkhabmwyVkVNeVVVcDFSRnAzUzNGMmVIZE1lbVpPTTBkSlZGTnZOMXBXUWxKbGFrazNaM1JCYUc4NVJuTklXRlpVTVVSbk1EbExVazFTVFV0TmVFNU9aelJrVVRkYVNrZHZSVUZDZFZCQk5reEROMnh3WjNBd0VoZFpOV2xtV1RaUVFrRmtkVlU1ZFRoUWF6WlRkR2RCZHhvaVFVUlZlVVZIWkVzM1ZsZEZTSEZGVVc1a2IxVXRTWFZGT0Zob2JGUldNMnh6UVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY185IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9qdW5pb3ItZGF0YS1zY2llbnRpc3QtYXQtY2FwZ2VtaW5pLTMzOTgxMjgwMTM/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+5,(Senior) Cloud Engineer (m/f/d),Machine Learning Reply,"Katowice, Poland",via XING,"Job description
+
+At Machine Learning Reply Poland we strive to work on leading-edge data science projects with our clients for which we are seeking Cloud Engineer consultants with a strong technical background.
+
+Machine Learning Reply, with its sister companies in Italy and Germany and over 8500 employees at Reply globally, is a fast-growing consultancy focused on solving problems with Data Science, Cloud technologies and the right organizational frameworks as their backbone. We are a tight knit, laid back, but seriously motivated unit that aims to be involved at conferences and in community of practice with our tech partners.
+
+We offer tailor-made end-to-end cloud-based solutions in the Data Science area that cover the entire project life cycle - from initial strategy consulting to data architecture and infrastructure issues to data processing and deployment of production-ready algorithms.
+
+We have a vast expertise in every step of the Data Science implementation spectrum in all key... industries of the German HDAX-companies. With focus on open source and cloud technologies we enable our customers to successfully introduce and implement new data-driven solutions and to optimize already existing processes and products while simultaneously adapting to cloud technologies.
+
+Job Responsibilities:
+• Define solution architectures using cloud technologies and discuss them with the client.
+• Combine expertise in data pipelines and machine learning with innovative thinking to deliver excellent client work.
+• Work together with Data Scientists and Data Engineers to develop pipelines for the implementation of fully-fledeged MLOps Pipelines.
+• Help the customer with important decisions as a Senior Consultant.
+• Draft Cloud adoption strategies for customers in all maturity levels.
+• Support the customer in operating the solution in a professional way.
+• Stay on top of emerging technologies, and partner with market-leading technology organizations to understand and leverage their products.
+• Take advantage of our team, learning resources, hackathons, and other sources to drive your technical development and be present in the machine learning community.
+
+Why us?
+• Work in a great multicultural team on interesting projects with new technologies.
+• Join a network of data science and cloud experts and enthusiasts from our sister companies.
+• Dedicated training days for your professional growth.
+• Bonuses are focused on personal growth (e.g. trainings) or sharing knowledge with the team and are mutually agreed with your Manager.
+• We have several team-building events throughout the year (Knowledge Shares, Reply XChange, Summer & Winter workshop, Hackathons, Webinars, Brown Bag sessions etc.)
+• Free German Lessons.
+• Easy to get involved on topics of running a consulting business: HR, Sales, Marketing, Project Staffing.
+• Buddy Program: You will get a Buddy to help you get started.
+
+Requirements
+• You have at least 2 years of work experience in industry or consulting and developed systems that are in production.
+• Experience with Cloud Technologies, such as AWS, Azure or GCP.
+• Experience working with DevOps: CI/CD Pipelines, Git and technologies such as Gitlab, Jenkins, Travis CI, etc.
+• Experience with Infrastructure-as-Code (IaC): AWS CloudFormation, Terraform or Ansible.
+• Experience developing code in Java or Python; object oriented design, and good coding standards.
+• Experience in designing cloud architectures including networking, microservices, user and permission management, etc.
+• Experience with container technologies, such as K8s, Docker, etc.
+• Knowledge of databases SQL, NoSQL and distributed systems.
+• A good understanding of Data Science is a plus.
+• High level of customer orientation and excellent communication skills.
+• Willingness to travel.
+• Fluency in English and German would be beneficial.
+• Proactive mindset and constant willingness to learn.
+• You hold a Bachelor’s and/or Master’s degree in informatics, business informatics, mathematics, statistics or equivalent field of study",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbL609XtGLgK-rqdoD4eY9vmd-9S8HLaWUVk2m9o&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiIoU2VuaW9yKSBDbG91ZCBFbmdpbmVlciAobS9mL2QpIiwiaHRpZG9jaWQiOiJRVnJmcjBLdlZnQUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVRjBWbXhpUkhkblZVNXJVMlJFWWpsM1JWOXpZVzFPWTBsU04yVXdaRkJ5VGpWd09EVnZkVWw1WlU5UFpUZEVWMXBGY21sQk1rRjFTbmxDZGtzMlVFMUpUamhYTVVSTlpFVnJNbVZ5VW1sUU5ucERSR3BDTkU5MU16Tk5kRll4VHpsT2JFMHdjakpLZDA5RlZVMTRSRkE1YUROV1UyVmlNR2hJTFZkNFFXTldaRzlZTW10SWFFSllWMnB5ZGtoUVgxTmpaV05FUzJWaWFFZEljRFpFUlVSbVZtOWxOVk15U25sdk1scFljbFJJVWtkVGJXUnJiWFEyVVRab1ltWTNjSFpQU21NeFp6WmlVblo0RWhkWk5XbG1XVFpRUWtGa2RWVTVkVGhRYXpaVGRHZEJkeG9pUVVSVmVVVkhaRE4wT1RkeFREbHpSVVpEUVRKT05uRlVOSFJTWTJzME16UlpkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFhJTkciLCJsaW5rIjoiaHR0cHM6Ly93d3cueGluZy5jb20vam9icy9rYXR0b3dpdHotc2VuaW9yLWNsb3VkLWVuZ2luZWVyLTk0OTcwODc3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+6,"Data Engineer, Data & Analytics",GE,Poland,via Recruit.net,"Job Description Summary
+As a Senior Data Engineer for D&A, your role is to work closely with the team and to provide support on Continuous Improvement, maintaining existing Systems and working on Dashboards creation, Visualization. Performance Tuning. You will be a member of an integrated team (data scientists, data engineers, software engineers and a product owner) to deliver successful outcomes driving efficiency and creating new revenue streams.
+As a Data Engineer, you will need to understand the essence of large data sets, find the rhythm and collaborate with all business stakeholders and the technical team, also to excel in translating business process and needs into technical aspects and structures.
+We count on your creativity, fresh ideas and outside-in perspective to get even better, even further, even faster!
+
+Job Description
+
+Essential Responsibilities:
+• Excellent written and oral communication skills
+• Excellent interpersonal skills
+• Ability to articulate ideas to both... technical and non-technical audiences
+• Exceptionally self-motivated and directed
+• Comfortable to perform well under pressure.
+
+Area of Expertise:
+• Performance optimization of ADF pipelines and Synapse Datawarehouse
+• Knowledge of current business function and information technologies
+• Strong interpersonal skills
+• Fluent English (written and spoken)
+• Previous experience of working within a multi-disciplinary team
+• Knowledge of Enterprise Architecture Fundamentals; exposure to Enterprise Architecture software tools desirable
+• Knowledge of technology Azure Cloud Services
+• Collaborate with business stakeholders and data stewards to assess current pain points and areas for improvement.
+• Must be able to understand and communicate the data requirements of any future infrastructure needs.
+• Problem solving skills that use techniques to identify the root cause of the issue and then ability to clearly communicate (verbal/orally) this position.
+• Comfortable in adapting working hours to align with demands of communication across multiple time zones.
+• Overall pragmatism between keeping it simple and necessary complexities
+• Positive attitude and team player
+
+Min. Qualifications
+• Bachelor’s Degree in Information Systems, Information Technology, Computer Science, or Engineering
+• Minimum of 6 plus years of experience in creating logical and physical data models; demonstrated experience with relational and star schema data modelling; working with ADF pipelines and Databricks, Tableau/PowerBi Tools
+
+Desired Characteristics
+• Collaboration
+• Cultivates innovation
+• Customer focus
+• Demonstrates courage
+• Drives results
+• Ensures accountability
+• Instills trust and exemplifies integrity
+
+Additional Job Description
+
+Additional Information
+
+Compensation Grade
+LPB2
+
+Relocation Assistance Provided: No",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdUyU5Zj4n1NlDWNHBMREbl2-acCu5rAJTYDQE8ck&s,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyLCBEYXRhIFx1MDAyNiBBbmFseXRpY3MiLCJodGlkb2NpZCI6ImprU0t2MVBKczdjQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlRVzFGVVVGRGJrVlBMVEJ3ZW5rMWExWlphbGxYZUVKcVNHeFNaemRmVW5Gb1kweFNTVXRMY3pka05VaHRkalJTUW1wVlVteHhVMU01WjJ4bU5EWmxOekJGT0dOU2RWSkdhMHAzTFdnMWJGSlVWVlZvTTNaaVpVVjRSbU5QUmtocWNITmpSekI1VFc1NllVY3RNWEpHYTNOSk9FUlVaRzFzTjNaVmVIWjVWVTU2VjJ4eGFFNUhZV1JoYkVGM05YWklNbGhwVmxScmNtOUpURzU1YmtzMmMzcEllbVJDY2psbE1HdFNjazFVT0dKTkVoZFpOV2xtV1RaUVFrRmtkVlU1ZFRoUWF6WlRkR2RCZHhvaVFVUlZlVVZIWXpjMlNUSjJhMGhTTFZwSVUwNHliR2RKWDI4dFNtSkVTVkZyUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBSZWNydWl0Lm5ldCIsImxpbmsiOiJodHRwczovL3d3dy5yZWNydWl0Lm5ldC9qb2IvZGF0YS1lbmdpbmVlci1qb2JzLzk3QkM2QTQ5Mjk5NDc0MTE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+7,Data Engineer - Building the future of tech,McKinsey & Company,"Warsaw, Poland",via Jobrapido.pl,"Your role is part of 'Building the future of tech - Europe': an opportunity forindividuals who self-identify as womenin the digital space to discover a career in management consulting. For further details, please visit https://mckinsey.com/careers/building-the-future-of-tech-europe
+
+Applications close on February 16th 2023.
+
+Your colleagues
+You'll be part of a global data engineering community and work in cross-functional, agile project teams alongside project managers, data scientists, other data engineers and industry experts.
+
+You'll work hand in hand with our clients, from data owners and users to C-level executives
+
+Who you areYou are a highly collaborative individual and enjoy solving problems that focus on adding business value.You have a sense of ownership and enjoy hands-on technical work. Our values resonate with yours.The Tech stack you'll work withWhile we advocate for using the right tech for the right task, we often leverage the following technologies: Python, PySpark... SQL, Airflow, Databricks, our own OSS called Kedro, container technologies such as Docker and Kubernetes, cloud solutions such as AWS, GCP or Azure and more!
+
+As a Data Engineer at QuantumBlack you will...
+• Partner with our clients, from data owners and users to C-level executives, to understand their needs and build impactful analytics solutions
+• Design and build data pipelines to support data science projects following software engineering best practices
+• Use state of the art technologies to acquire, ingest and transform big datasets
+• Map data fields to hypothesis, curate, wrangle and prepare data to be used in advanced analytics models
+• Create and manage data environments in the cloud or on premise
+• Ensure information security standards are maintained at all time
+• Contribute to cross-functional problem-solving sessions with your team and deliver presentations to colleagues and clients
+• Be flexible to travel to our clients' offices to deliver presentations, gather information or share knowledge
+• Have the opportunity to contribute to R&D and internal asset development projects
+
+What you'll benefit from
+• Real-World Impact– No project is ever the same. We work with top-tier clients across multiple sectors, providing unique learning and development opportunities internationally.
+• Fusing Tech & Leadership– We work with the latest technologies and methodologies and offer first class learning programmes at all levels.
+• Multidisciplinary Teamwork- Our teams include data scientists, engineers, project managers, UX and visual designers who work collaboratively to enhance performance.
+• Innovative Work Culture– Creativity, insight and passion come from being balanced. We cultivate a modern work environment through an emphasis on wellness, insightful talks and training sessions.
+• Striving for Diversity– With colleagues from over 40 nationalities, we recognise the benefits of working with people from all walks of life.
+• Degree in computer science, engineering, mathematics or equivalent experience
+• Up to 5 years commercial experience in a data-driven role
+• Ability to write clean, maintainable and robust code in Python, Scala, Java or similar languages
+• Knowledge of software engineering concepts and best practices
+• Familiarity with the latest OSS, cloud, container, query languages and database technologies
+• Confirmed experience building data pipelines in production; ability to work across structured, semi-structured and unstructured data
+• Experience preparing data for analytics and following a data science workflow
+• Commercial client-facing or senior stakeholder management experience
+• Ability to communicate complex ideas effectively – both verbally and in writing – in English
+• Knowledge of local language is a plus",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPbw9ZL0xF1gbrBe4t_LgmplpG25qKZ1Ey5Q8&s=0,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIC0gQnVpbGRpbmcgdGhlIGZ1dHVyZSBvZiB0ZWNoIiwiaHRpZG9jaWQiOiJad1BKZXVKMFFXOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFcUlDQ3VJQlFVRjBWbXhpUVVkYVlTMVNXSEJDTkV0Zk1tUkZURmxUVnpZeGJIbEhTbTFSYUMxdlNYTjJaR3B5UTJSTlptNTJhemxtWkRScU4zbGxia3ROVkVObldrNU5aemhYWW1oT2NUbEZRbTFHYjNoWFgzZzRjV3MxTmxKM1NVSnJlbkk0ZEZsRmNFOHlSR0ZxY1RrNE5XYzBWelZRTm10c2JucG5UV3Q1Um1oMU9FVkNUM2hHV1hRMFZrTlVRV3AyZUhOMk9IZEtabk50YUVSdFdEaHFkbkJ2Ym1SNVpEVjZWSEU0V0ZGSE1HOXFRVTR0VkdFeVJtdDFTbnBCZVZkYWNtWlBhWEY1VjBKVVdVOTVaMnhMVGtWVVoxRnFlREE0TnkxallXMTZkbVF4TTNCU1p4SVhXVFZwWmxrMlVFSkJaSFZWT1hVNFVHczJVM1JuUVhjYUlrRkVWWGxGUjJaT1RHWlNXalpZWTAxNlIzUXhiVEZpUTNrME5ucG9lbVZQVVhjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icmFwaWRvLnBsIiwibGluayI6Imh0dHBzOi8vcGwuam9icmFwaWRvLmNvbS9qb2JwcmV2aWV3Lzc2ODQ4NDg2P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+8,Senior AI & Analytics Consultant,Capgemini,"Kraków, Poland",via Jobrapido.pl,"Recruitment process for this position and onboarding trainings are conducted online.
+
+What do you need to start?
+• 3+ years experience in 1+ of areas: Cloud Data / Data Analytics / Data Science
+• Very good knowledge about at least 1 of analytics tools e.g. Power BI, Tableau, Qlik, other
+• Good knowledge of at least 1 of programming skills: SQL, Python, R, Scala, other
+• Practical knowledge around Cloud Data Analytics/Platform within at least 1 of related platforms AWS/Azure/Google Cloud Platform
+• Practical knowledge of Big Data & Data Lake
+
+It's not essential, but we appreciate if you also have:
+• Hadoop/Kafka/RedShift
+• Kubernetes or knowledge around containerization
+• Power Shell
+
+What duties will help you grow?
+• Help to leverage the power of data for our clients
+• Participate in different AI & Analytics or Data Management solution implementation stages, including requirements gathering, data integration, modeling/ETL, development as well as handover & documentation
+• Work along... with senior consultants on bigger solutions or single-handedly on smaller projects
+• Participate in different projects
+• Support solutioning & planning activities
+• Work in a fast-paced international environment
+
+What your development path can look like?
+
+We will give possibility to grow in professional career among 60+ other AI & Analytics team members. You will be able to diversify and develop skills within area of Data Science, Analytics & Cloud with different technologies.
+
+There are 6 career steps available only within our team! You may advance in your career in different directions for many years ahead and become e.g. Data Scientist, Analytics Expert, AI & Analytics Consultant, even further Tech Lead, Architect or People manager). You may also discover totally new path and change your direction among other capabilities in Capgemini.
+
+What have we prepared for you?
+
+Space where you can develop yourself:
+• Development programs, external courses, education & certificates co-funding, NEXT platform with free access to TED talks, Coursera materials, and virtual trainings: e.g. MS Azure, AWS, Google or ServiceNow.
+
+Our legendary atmosphere:
+• We don't have a rigid dress code, but what we do have are awesome communities and world– changing initiatives like Grant Program. We are a big company with unique atmosphere – we make friendships, share important moments, and simply… like each other!
+
+A lot of benefits:
+• Home office: it’s your choice when you want to work from home.
+• Private medical care which can be extended by a package of dental services purchased on preferential terms.
+• Private life insurance which can be extended by oncology package purchased on preferential terms.
+• Referral bonuses for recommending your friends to Capgemini.
+• Access to Inspiro Audiobooks & MyBenefit (cinema tickets, Multisport and more).
+• Offices in great locations, car leasing program, carpooling options and bicycle parking",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQjOPvV-LCr6vXzXmfGhT44dW61QQAB_S5f39&s=0,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgQUkgXHUwMDI2IEFuYWx5dGljcyBDb25zdWx0YW50IiwiaHRpZG9jaWQiOiJWLWJ4M21GVjMzY0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVRjBWbXhpUTNoclkxbDJjM013YXpaRU1UWnNaRVZMVGtnd1RFcEtURmh3ZFhsM1gzYzNRbXhOTUhSWlZrSndka3MzVWxndGNsaDJORUo1Wm5sNlNHWlljbTlxYVZGTFFYaFJVMDlZZVcxemJHSkxiVnBCTTJGNlJVVnRkR2w1WmtZeVlXVjRRM2N3ZHpoVU0xZHFSbEZsYjBSYVpYbEVVVEZpZWtWSVJVNVlSV1J2YTJWb1NtYzNkREF0VERSMWNURm9kMWM1TVZOcU4zTlFZa2hUUW5rMFMwUmlVV3hPVWxoNk0yMVdNekYyT0VWS2EyMTNNUzFPWkVVdGVYaDRkVjlXTFVwcVIwTlJXVWRQRWhkWk5XbG1XVFpRUWtGa2RWVTVkVGhRYXpaVGRHZEJkeG9pUVVSVmVVVkhaVGxhUzJkME9VSllkakF0WTJGVGFqbENjRWsxWHpGU00zUnBVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE2IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvYnJhcGlkby5wbCIsImxpbmsiOiJodHRwczovL3BsLmpvYnJhcGlkby5jb20vam9icHJldmlldy83Njg0ODU1MD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+9,Senior Data Engineer (with Python),Capgemini,Poland,via LinkedIn,"Recruitment process for this position and onboarding trainings are conducted online.
+
+Capgemini Engineering provides premium software engineering services to leading technology companies. Our customers usually range from startups to the leaders on the market, which drives a culture of acceleration and innovation. We are convinced that team extension is the only engagement model, which works best.
+
+We are building a Data Engineering team of 4 people from scratch for one of our top clients: a leading American company in the food delivery service field. You are going be part of the new international team on the ongoing project.
+
+As a Data Engineer, you will build distributed data processing solutions and highly loaded database solutions for various business cases including reporting, product analytics, marketing optimization and financial reporting. Contribute as part of self-organized team of experienced Data Engineers working in a challenging, innovative environment for our client... creating the foundation for decision-making at a company dealing with billions of events per day. You are going to investigate, create, and implement the solutions for already existing technical challenges, as well as provide guidance, instruction, direction, leadership to a development team with the purpose of achieving project goals.
+
+What do you need to start?
+• Vast experience in Spark, Airflow, and Kafka
+• Proficiency in programming languages such as Python (Java or Scala would be a plus)
+• 5+ years of professional experience
+• 3+ years experience working in Data Engineering, Business Intelligence, or a similar role
+• 3+ years of experience in ETL orchestration and workflow management tools
+• Experienced in Database fundamentals, SQL and Distributed Computing
+• Experience with the Distributed Data/similar ecosystem
+• Communication skills and experience working with technical and non-technical teams
+
+What are you going to do?
+• Provide estimations, agree task duration with the manager and contribute to project plan of assigned area.
+• Analyze scope of alternative solutions and makes decision about area implementation
+• Ensure that assigned area/areas are delivered within set deadlines and required quality objectives.
+• Address area-level risks, provides and implement mitigation plan.
+• Report about area readiness/quality, and raise red flags in crisis situations.
+• Be responsible for resolving crisis situations.
+• Initiate and conduct code reviews, follow code standards, conventions and guidelines.
+• Suggest technical and functional improvements to add value to the product;
+• Constantly improve your own professional level.
+
+What have we prepared for you?
+
+Our Famous Atmosphere
+
+Capgemini Engineering is recognized for its flexibility when it comes to its employees’ preferences, caring for the employees’ well-being, and promoting its own values. We are trying our best to match the project with the talent. We also give our team members an opportunity to choose what career path they want to pursue.
+
+Space Where You Can Develop Yourself
+• Focus on Innovation and R&D: while working at Capgemini Engineering, you will be using cutting-edge technologies to work on global international projects (both large scale ones and start-ups) to gain multi-sector expertise.
+• Training/Learning opportunities: external courses, education & certificates co-funding, 70+ certification preparation pathways with further certification (e.g., MS Azure, AWS, Google) on our NEXT learning platform, as well as a free access to Pluralsight, Service Now, TED Talks, Coursera courses, and virtual trainings.
+
+A Lot Of Benefits
+• Elastic working hours/working models.
+• Private medical care which can be extended by a package of dental services purchased on preferential terms.
+• Private life insurance which can be extended by oncology package purchased on preferential terms.
+• Referral bonuses for recommending your friends to Capgemini.
+• Access to our Nais benefit platform (40+ options available: Netflix, Spotify, Multisport, cinema tickets, etc.).
+• Offices in great locations, car leasing program, carpooling options, and bicycle parking.
+
+Who are we?
+
+As an integral part of the Capgemini Group, Capgemini Engineering combines world-leading engineering, research and development services with digital manufacturing expertise to create innovative and world-changing solutions on an international scale.
+
+Our team is more than 52,000 engineers and scientists in over 30 countries across sectors including Aeronautics, Automotive, Railways, Communications, Energy, Life Sciences, Semiconductors, Software & Internet, Aerospace & Defense, and Consumer Products.
+
+Do you want to get to know us better? Visit our website: https://capgeminiengineering.com/en",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1s-hIk1EhiswW8tit0mCSj9d0zIb8Eav4qrQ5BBQ&s,"['23 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciAod2l0aCBQeXRob24pIiwiaHRpZG9jaWQiOiJaeXcta2xtTEFlQUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUWt4VWQyZHFiak5ZYzFad2R5MXBiSFJWZGw5WlZXTnZlVzUyWlcxRlNqazNNMVIwWlVsS1lrbzNXakZaUVY4elpqVlNWR2Q1UnpCcWIyVmpTMGt6WmpselRFZGhjVlZGVjFReGNrZ3hSV3cwZEY5ZlRHUlJXVzVKT1cxSVZWOUpSVlI0WWpGMWVHMU1YMDlsWlU5ZlJHaHZhRFpMVVZGM2RGSmxiMHRwZVdSVk9Ga3lUM0ZZVDBWdVRtMXlWMGxrTm5KdlZtaHhRV05CZVV3eGMxY3hVVTF5U0RaMFZGTmZXbVl3Tm1Fd1JsODBFaGRaTldsbVdUWlFRa0ZrZFZVNWRUaFFhelpUZEdkQmR4b2lRVVJWZVVWSFpIRm1VVTEyWDNkTFkyRlpVazFMYzBaVlprdFBWblJoWjAxblVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTgiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L3Nlbmlvci1kYXRhLWVuZ2luZWVyLXdpdGgtcHl0aG9uLWF0LWNhcGdlbWluaS0zMzk4MTI2MDgwP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=

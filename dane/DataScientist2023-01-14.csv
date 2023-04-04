@@ -1,0 +1,366 @@
+,title,company_name,location,via,description,related_links,extensions,detected_extensions,job_id,thumbnail
+0,Senior Data Scientist,Standard Chartered GBS Sp. z o.o.,"Warsaw, Poland",via Jooble,"Linux (junior)
+Windows (junior)
+Bash (regular)
+Python (regular)
+Cloud (regular)
+spl (regular)
+data analytics (regular)
+Cybersecurity (advanced)
+Computer science (advanced)
+Data (advanced)
+
+Senior Data Scientist
+
+YOU WILL BE RESPONSIBLE FOR:
+• Provide threat research, detection content development & technical expertise to the Security Monitoring & Analytics (SMA) Service Line.
+• Support the SMA Service Line and contribute to SMA’s Threat Use Case Lifecycle in designing and implementing anomaly-based detection capabilities.
+• Gathering and preparation of data to use in anomaly detection.
+• Using analytical tools to detect various patterns, relationships and trends in large data sets.
+• Development of statistical and predictive models.
+• Contribute to building SMA’s knowledge base on threat research.
+• Work closely with content engineering team to monitor and tune alerts.
+• Conduct research on attack patterns, techniques, and develop creative solutions to detect/prevent adversarial... tools, techniques and procedures.
+• Collaborate with the Purple Team to enhance the use case efficacy testing through adversary simulation capabilities.
+• Collaborate with key stakeholders to continuously enhance threat use cases as new products, logs, and capabilities are introduced to the organization.
+• Collaborate with key stakeholders in improving the bank’s detection posture.
+
+APPLY IF YOU HAVE:
+• Diploma or bachelor’s degree in engineering, Computer Science / Information Technology or its equivalent is preferred.
+• Relevant industry experience in cyber security.
+• Proven experience as a Data Scientist or Data Analyst.
+• Basic knowledge of Splunk Search Processing Language (SPL) for rule and content development for alerting, metrics, and/or reporting.
+• Good understanding of security threats across multiple platforms/environments (e.g., Windows/*nix/Cloud/Mainframe).
+• Basic knowledge of Cloud and Container security and in developing security content to detect threats across these (various cloud and container) platforms and/or technologies.
+• Very Good Scripting Knowledge (bash / Python / SQL DB’s / API’s).
+• Experience with attacks and mitigation methods, with experience working in two or more of the following:
+• Network protocols and secure network design;
+• Operating system internals and hardening (e.g. Windows, Linux, OS X, Android);
+• Web application and browser security;
+• Security assessments and penetration testing;
+• Authentication and access control;
+• Applied cryptography and security protocols;
+• Security monitoring and intrusion detection,
+• Incident response and forensics;
+• Development of security tools, automation or frameworks.
+
+Good to have:
+• Developer or DevOps experience in AWS and/or Azure.
+• Previous experience in Linux/Windows administration & automation.
+• Previous experience as DevOps or DevSecOps is highly beneficial.
+• Previous experience in Splunk App development is highly beneficial
+• Relevant industry certifications (e.g., OSCP, OSCE, GREM, GPEN, GFNA, GCFA)
+
+YOU WILL BE OFFERED:
+• Career development in a fast-growing company with a clear business strategy
+• Opportunity to expand international experience and build global professional relations
+• Competitive benefits package (incl. health & life insurance, pension plan, meal & sports cards)
+• 3 days of paid volunteering leave our employees can use to support the cause of their choice
+• Convenient location (next to Rondo Daszyńskiego) with subway, tram and bus lines and comfortable office space with chillout areas, free coffee/tea & fruit supply
+• 26 days of leave per year for all the employees
+
+About Standard Chartered
+
+We're an international bank, nimble enough to act, big enough for impact. For more than 160 years, we've worked to make a positive difference for our clients, communities, and each other. We question the status quo, love a challenge and enjoy finding new opportunities to grow and do better than before. If you're looking for a career with purpose and you want to work for a bank making a difference, we want to hear from you. You can count on us to celebrate your unique talents. And we can't wait to see the talents you can bring us.
+
+Our purpose, to drive commerce and prosperity through our unique diversity, together with our brand promise, to be here for good are achieved by how we each live our valued behaviours. When you work with us, you'll see how we value difference and advocate inclusion. Together we:
+• Do the right thing and are assertive, challenge one another, and live with integrity, while putting the client at the heart of what we do
+• Never settle, continuously striving to improve and innovate, keeping things simple and learning from doing well, and not so well
+• Be better together, we can be ourselves, be inclusive, see more good in others, and work collectively to build for the long term
+
+Recruitment assessments - some of our roles use assessments to help us understand how suitable you are for the role you've applied to. If you are invited to take an assessment, this is great news. It means your application has progressed to an important stage of our recruitment process.
+
+Visit our careers website","[{'link': 'https://www.google.com/search?q=Standard+Chartered+GBS+Sp.+z+o.o.&sa=X&ved=0ahUKEwi6966R6cf8AhXWmmoFHTUgB3QQmJACCNsK', 'text': 'See web results for Standard Chartered GBS Sp. z o.o.'}]","['24 hours ago', 'Full-time']","{'posted_at': '24 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6IlB2dG9MQzFCTFBnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVvd0NDc3dCUVVOUWQycHFVMXBhZFROdE1XY3dZVEZVYldOaGJIWnBja05wT0V0dlVEYzVXbkZzZEVaRlRFaE5XbTlqTlV0Zk9GQk9URzEzUzJ4TGJHMVZha0ZOVGw5b2JGUm1MWGh4Vlc4NFkyWnJUblJwYm5vMlgxZzJNVUp0U0cxcVNtOTBjRUZuVDJzM09FMXFNRlV5YTFKNmIybzJMVkJ3VEV0TWQzSnVTRXA2Wm1GeWNVeFBXalZHYldndGVEZExUSFpLUWtsQlpHMTBNVU0xV1ZKb1UzTTRSamxJT0hWcUxURnRRelpXVEVwbkxVRlpOa3RvZDJWMVFqUmpkRVV5YzBaVE0xRTJhMWQ0Ymt4dVZFMUhFaGRmVVZoRVdWOXhSVTFPWVRGeGRITlFkR05EWTI5Qll4b2lRVVpmTmsxQlQzQkNZakprTTNWdlRWSXdlR3d3YlRoYVN6RmhiRGxsWkROTFVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBKb29ibGUiLCJsaW5rIjoiaHR0cHM6Ly91YS5qb29ibGUub3JnL2pkcC8tODYzMDU0NjExMjkzMTM5NTg4OS9TZW5pb3ItRGF0YS1TY2llbnRpc3QtJUQwJTkyJUQwJUIwJUQxJTgwJUQxJTg4JUQwJUIwJUQwJUIyJUQwJUIwJTJDLSVEMCU5RiVEMCVCRSVEMCVCQiVEMSU4QyVEMSU4OCVEMCVCMD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,
+1,Data Scientist - Credit Rating Model Developer,Citi,"Warsaw, Poland",via Recruit.net,"Description:
+
+Credit and Obligor Risk Analytics (CORA) is looking to add a Model Developer to the Credit Risk Rating Analytics (CRRA) Team. CRRA team is responsible for the development of all credit rating models for SMEs / MMEs, Large Corporates, Financial Institutions and Public Sector on a Global basis.
+
+This is a highly visible position with many career opportunities and cooperation with different Citi’s Teams whole over the world.
+
+Responsibilities:
+
+The responsibilities of the successful candidate include but not limited to the following activities:
+• Obtain and prepare model development data
+• Select the champion modelling methodology after evaluating multiple options
+• Develop different statistical models
+• Perform all required tests (e.g. sensitivity and back-testing)
+• Lead annual model reviews and performance testing and/or redevelop as needed
+• Deliver comprehensive technical and non-technical model documentation
+• Work closely with cross functional teams, including... country/region’s business stakeholders, model validation and governance teams, and model implementation team
+• Apply critical thinking in solving complex business problems with quantitative tools in a collaborative, fast-paced environment.
+• Prepare responses for a regulator and internal audit on all models built
+
+Qualifications:
+• Masters in Econometrics, Statistics, Math, Finance, Economics, or an Applied Science. CFA or FRM is a plus.
+• 2+ years of experience in quantitative area, experience in credit risk management area is a plus.
+• Hands-on experience with the research, development, and implementation of credit risk models, including technical and non-technical documentation.
+• Strong programming skills in Python, R, or other objected oriented languages would be a significant plus.
+• Familiar with statistics packages and regression models.
+• Strong working knowledge of Accounting and Corporate Finance is a significant plus.
+• Excellent communication skills, verbal as well as written.
+• Ability to make decisions / balance aggressive timelines for deliverables amidst conflicting priorities.
+
+We offer:
+• Opportunity to work in an international, multi-cultural environment
+• Cooperation with a high-quality team in a challenging area of the financial industry with one of the world's leading companies
+• Access to the latest technologies and tools
+• Opportunity to learn through participation in various projects and cross training
+• Attractive conditions of employment and benefits
+• High exposure coming from direct cooperation with senior management
+
+-------------------------------------------------
+
+Job Family Group:
+Risk Management
+
+-------------------------------------------------
+
+Job Family:
+Risk Analytics, Modeling, and Validation
+
+------------------------------------------------------
+
+Time Type:
+Full time
+
+------------------------------------------------------
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries (""Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the ""EEO is the Law"" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting","[{'link': 'http://www.citigroup.com/', 'text': 'citigroup.com'}, {'link': 'https://www.google.com/search?q=Citi&sa=X&ved=0ahUKEwi6966R6cf8AhXWmmoFHTUgB3QQmJACCIkL', 'text': 'See web results for Citi'}]","['20 hours ago', 'Full-time']","{'posted_at': '20 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAtIENyZWRpdCBSYXRpbmcgTW9kZWwgRGV2ZWxvcGVyIiwiaHRpZG9jaWQiOiIxSGFxWFNmWmh2RUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVTlFkMnBxVkZod1VHOUZjM1JUTmpoQmJFbHpkamxRVmtkSFQzaHlVbmt4VlV0TVdUUkRZbXA0VkU5R1QySXhXRXAyUm1KTVdGZHBOamQwY2pocGVGVllZVlpvYUhFeFlqSXdOM0pNWmxoaloxbGhla3BQWm1WU1MxWldjSEJ0VFhGNU9UZGlkRFYzUkZGblgweFdWM2hGYkU1R2RVUm9ZWGd5WmpWME5EZGZOR2hWUjNSbmN5MWhNVmhWU0Y5bFRYWndXa2xRWmpZeGFrOVFjREIzYzI1elRHSlpTR001VFMxQldqUnVjakpuU0ZCMlFUUTJlR3hpWkZKcFprVnZaekJJTmxCRFMzRTJjRE0zRWhkZlVWaEVXVjl4UlUxT1lURnhkSE5RZEdORFkyOUJZeG9pUVVaZk5rMUJUekkwZW0xak1UUnBaWFJsT1ZCSlExbHFYMUJxWHpWWGIzUXRVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gUmVjcnVpdC5uZXQiLCJsaW5rIjoiaHR0cHM6Ly93d3cucmVjcnVpdC5uZXQvam9iL21vZGVsLWpvYnMvQjYyNUExOTVCNDczQTVGNz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAUaya0VbOqG8bqF5zveHzqhI3C43F_2BKjXWbTio&s
+2,"Data Engineer, Data & Analytics",General Electric: GE,"Łozienica, Poland",via Energy Jobline,"Job Description SummaryAs a Senior Data Engineer for D&A, your role is to work closely with the team and to provide support on Continuous Improvement, maintaining existing Systems and working on Dashboards creation, Visualization. Performance Tuning. You will be a member of an integrated team (data scientists, data engineers, software engineers and a product owner) to deliver successful outcomes driving efficiency and creating new revenue streams.
+As a Data Engineer, you will need to understand the essence of large data sets, find the rhythm and collaborate with all business stakeholders and the technical team, also to excel in translating business process and needs into technical aspects and structures.
+We count on your creativity, fresh ideas and outside-in perspective to get even better, even further, even faster!
+
+Job Description
+
+Essential Responsibilities:
+• Excellent written and oral communication skills
+• Excellent interpersonal skills
+• Ability to articulate ideas to both... technical and non-technical audiences
+• Exceptionally self-motivated and directed
+• Comfortable to perform well under pressure.
+
+Area of Expertise:
+• Performance optimization of ADF pipelines and Synapse Datawarehouse
+• Knowledge of current business function and information technologies
+• Strong interpersonal skills
+• Fluent English (written and spoken)
+• Previous experience of working within a multi-disciplinary team
+• Knowledge of Enterprise Architecture Fundamentals; exposure to Enterprise Architecture software tools desirable
+• Knowledge of technology Azure Cloud Services
+• Collaborate with business stakeholders and data stewards to assess current pain points and areas for improvement.
+• Must be able to understand and communicate the data requirements of any future infrastructure needs.
+• Problem solving skills that use techniques to identify the root cause of the issue and then ability to clearly communicate (verbal/orally) this position.
+• Comfortable in adapting working hours to align with demands of communication across multiple time zones.
+• Overall pragmatism between keeping it simple and necessary complexities
+• Positive attitude and team player
+
+Min. Qualifications
+• Bachelor’s Degree in Information Systems, Information Technology, Computer Science, or Engineering
+• Minimum of 6 plus years of experience in creating logical and physical data models; demonstrated experience with relational and star schema data modelling; working with ADF pipelines and Databricks, Tableau/PowerBi Tools
+
+Desired Characteristics
+• Collaboration
+• Cultivates innovation
+• Customer focus
+• Demonstrates courage
+• Drives results
+• Ensures accountability
+• Instills trust and exemplifies integrity
+
+Additional Information
+
+Relocation Assistance Provided: No","[{'link': 'http://www.ge.com/', 'text': 'ge.com'}, {'link': 'https://www.google.com/search?q=General+Electric:+GE&sa=X&ved=0ahUKEwi6966R6cf8AhXWmmoFHTUgB3QQmJACCLcL', 'text': 'See web results for General Electric: GE'}]","['20 hours ago', 'Full-time']","{'posted_at': '20 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyLCBEYXRhIFx1MDAyNiBBbmFseXRpY3MiLCJodGlkb2NpZCI6IjByVmlUZXpNdjhzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVxSUNDdUlCUVVOUWQycHFVbWRIWmpCNWRXZEZURmRKYUZkMlgxbDFNRzFTWVZWdlNIbFhNVXMyV1ZSdGRucElPRTlGWVRsS2RqUklRWEY1TFd4WVVsQklURVZGZEdSalJFUkhjbEZ1Y3psRU1tRkpZM2R2YVdkQ2N5MXFXRUZ5Tm5BMVJFRnRla1JtYlRoM0xYWmlNbGhLWkdWNlkyVk5MVkI2YVc5NWFESnVMWEF3UjNGakxUa3lTR3hVVEVaWFdtc3RSRFl4UmxWYWJVdFBMV2xLYkVjellrTnNhRTlsV21SbWMxbGtSWFZWU2kxelVXMXBlQzF0WDJWeGJqbHNOMEpYYWxkd1NWSkJNMGM1T0ZGVE0xWnpiMDFYV1hOcGNHUXlSV3BmTjB0NlUyRkdZM296WnhJWFgxRllSRmxmY1VWTlRtRXhjWFJ6VUhSalEyTnZRV01hSWtGR1h6Wk5RVTFqZUdsRmFURmpWbmxxTkVaMmJUUnNRalpJVW5acFRtazFZa0UiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY180IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEVuZXJneSBKb2JsaW5lIiwibGluayI6Imh0dHBzOi8vd3d3LmVuZXJneWpvYmxpbmUuY29tL2pvYi9kYXRhLWVuZ2luZWVyLWRhdGEtYW5hbHl0aWNzLTE1OTM3NDYzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPYnsTHRgUZ4bKBmGM6GK7hsS1rH_jK3KQHizUYcs&s
+3,Applied Data Scientist,Aloha Consulting Group,Poland,via Jobrapido.com,"Job Description
+
+This is a remote position.
+Our client is the first experience platform for communications service providers in SaaS in the globe who is searching for a qualified candidate to join their firm:
+• Lead the development of machine learning algorithms on health/fitness data
+• Improve existing machine learning pipeline scalability, usability, and performance
+• Work closely with cross-functional teams to tackle challenges around time series data coming from sensors and edge devices
+• Connect the gap between R&D and production and collaborate with our product managers, data scientists, and firmware engineers to ensure the delivery of high quality and robust solutions for our users
+
+Requirements
+• BS/MS/PhD in Computer Science, Electrical Engineering, or related technical field
+• At least 3+ years of industry experience in developing ML systems
+• Strong programming skills in Python
+• Proficiency manipulating big data with Apache Spark (PySpark)
+• Experience with leading machine... learning product development on time-series data (sensor, IOT devices, health/fitness tracking, audio, etc.)
+• Strong knowledge in software architecture design, debugging, source control management, testing, performance, scaling, and operations.
+• Experience and demonstrated capability to handle challenges with vague or abstract problem definition
+
+Benefits
+Requirements
+BS/MS/PhD in Computer Science, Electrical Engineering, or related technical field At least 3+ years of industry experience in developing ML systems Strong programming skills in Python Proficiency manipulating big data with Apache Spark (PySpark) Experience with leading machine learning product development on time-series data (sensor, IOT devices, health/fitness tracking, audio, etc.) Strong knowledge in software architecture design, debugging, source control management, testing, performance, scaling, and operations. Experience and demonstrated capability to handle challenges with vague or abstract problem definition","[{'link': 'https://www.google.com/search?q=Aloha+Consulting+Group&sa=X&ved=0ahUKEwi6966R6cf8AhXWmmoFHTUgB3QQmJACCOML', 'text': 'See web results for Aloha Consulting Group'}]","['20 hours ago', 'Full-time']","{'posted_at': '20 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJBcHBsaWVkIERhdGEgU2NpZW50aXN0IiwiaHRpZG9jaWQiOiIxRDNhOF82Sndub0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVVRacFZGbFFRbXB2ZG1ka1RuaEhXRUZsVUZGMFFtdDRaMmRaZFd4cWJERmhNVk5zVWtoeWNqUTBNVlo1VDE5elZEZEZTbmxzWWxkQmQwWmhWSGQ0UVdOU2JsRTViM2wyTFdGS2RreHRjWE0wYW00elEyY3hYM2xHU25GTk16WjVjSGhCWDJWTlp6bDNTa1ZSVG5ac1NuUmhRbXRXVW5VMGRrNTRNMll0V1RsZmJHWm9ORFpaZFU1VU5VcGhZMk5NY0RWMFIxZGhUakJsUWsxdGRYbHVWRkJaZGxWdGNWTm1NMVJaUm5RNVpUSkJFaGRmVVZoRVdWOXhSVTFPWVRGeGRITlFkR05EWTI5Qll4b2lRVVpmTmsxQlRXRlliazV2YVdSUFMzQXllSEJoZUVOTWQwMVhlRUZ1WW5nd1p3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBKb2JyYXBpZG8uY29tIiwibGluayI6Imh0dHBzOi8vcGwuam9icmFwaWRvLmNvbS9qb2JwcmV2aWV3Lzc3MzI2MzI0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,
+4,Data Scientist Lead,NatWest Group,"Warsaw, Poland",via Forces Families Jobs,"Join us as a Data Scientist
+• You’ll be identifying and working with large, complex data sets to solve difficult, non-routine analysis problems, applying advanced analytical methods as needed
+• We’ll look to you to actively participate in the data community to identify and deliver opportunities to support the bank’s strategic direction through better use of data
+• This is an opportunity to achieve excellent exposure in a challenging role and to make a real impact with your work 
+
+What you'll do
+
+As a Data Scientist, you’ll be evaluating and improving business processes and products using scientific rigour and statistical methods. You’ll be supporting and collaborating with multidisciplinary teams of data engineers and analysts on a wide range of business problems including the prevention of financial crime, understanding customer interactions with the bank and the management of credit risk.
+
+You’ll also be:
+• Developing and deepening your knowledge of data structures and metrics... advocating for changes where needed for product development
+• Communicating effectively across the organisation to make business recommendations, gaining business buy-in to solutions tailored to customers' needs
+• Conducting analysis that includes data gathering and requirements specification in collaboration with business stakeholders
+• Iteratively building and prototyping data analysis pipelines to provide insights that will ultimately lead to production deployment
+• Identifying new methods, tools, techniques and opportunities to deliver business value via cost reduction, income generation or improved customer experience through the application of data science
+
+The skills you'll need
+
+We’re recruiting for multiple roles across a range to levels, up to and including experienced Managers.
+
+To succeed in these roles, you’ll need evidence of previous project implementation and work experience gained in a data analysis related field as part of a multidisciplinary team. Additionally, you’ll hold a degree in a quantitative discipline or have evidence of equivalent practical experience.
+
+You'll have experience with Python and Scala based data science development using standard data science libraries and big data processing frameworks, as well as experience of the software development and DevOps life cycle and in using tools such as Git, TeamCity, and MLflow. You'll also ideally have experience of building MVP web applications such as Flask and Django.
+
+You’ll also demonstrate:
+• Extensive experience with data science software, database languages, big data technologies and cloud environments
+• Experience articulating and translating business questions and using data science techniques, such as supervised and unsupervised ML, deep learning and graph based models, to arrive at an answer using available data
+• Understanding (conceptual) of latest approaches (BERT, Transfer Learning etc.) 
+• Experience designing and building end-to-end machine learning based pipelines
+• The ability to demonstrate leadership, self-direction and a willingness to both teach others and learn new techniques
+• Effective written and verbal communication skills and the ability to adapt the communication style to a specific audience
+• Extensive relevant work experience, including expertise with statistical data analysis such as linear models, multivariate analysis, stochastic models and sampling methods
+• Experience developing scalable, robust and production level code with Object oriented programming (OOP) concepts. 
+• Experience working with Agile delivery process. 
+
+Hours
+
+40","[{'link': 'http://www.rbs.com/', 'text': 'rbs.com'}, {'link': 'https://www.google.com/search?q=NatWest+Group&sa=X&ved=0ahUKEwi6966R6cf8AhXWmmoFHTUgB3QQmJACCJEM', 'text': 'See web results for NatWest Group'}]","['8 hours ago', 'Full-time']","{'posted_at': '8 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBMZWFkIiwiaHRpZG9jaWQiOiJ0MW5yQ3ZoV0ZEa0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVkhKeU4zRlRibEphWTJWdU0xbE9VMU5LWVY5MmFWWmxTRzlrYkdodE5teDVibUpFU0VaVk5tMVBWbFZsZDBZd1ltSkVVbHBXU1ZWT1dXMXFhR1kyVkdGSFpXbDNXSHB3T0RsSVJWb3RWMlJGYjFvM1JsVlJURjlEUWpKWlIyMDRVVGxCWVZVMWFrdGpMVEIxWkZCVGEzazRhRlkzV213dFUyZHRVV1Z6Y2xkcGJtaEZPVzluTWxjdGRFTmhSazkyZURoQ09YSXpaSFpqUTJGUFYxSnBXRE0xUVY5Vk5qTllObDk0TjJkRE5qQTRFaGRmVVZoRVdWOXhSVTFPWVRGeGRITlFkR05EWTI5Qll4b2lRVVpmTmsxQlVFUnFSVkJ5WTJkQmFXcHFXRTR5VFROeVJrUmxlbFV3TWpWSVp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBGb3JjZXMgRmFtaWxpZXMgSm9icyIsImxpbmsiOiJodHRwczovL3d3dy5mb3JjZXNmYW1pbGllc2pvYnMuY28udWsvam9icy9kYXRhLXNjaWVudGlzdC1sZWFkLXdhcnN6YXdhLzIxOTQwMC0xLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcaxT4BWqFLP7Mdwe-Tv5K7izWx0gv5OecuYzft3M&s
+5,Senior - Data Scientist,ING,"Masovian Voivodeship, Poland",via Jobrapido.com,"Forma zatrudnienia: umowa o pracę
+
+Lokalizacja: Warszawa(praca zdalna, praca hybrydowa)
+
+Widełki wynagrodzenia: 6600zł brutto- 16000zł brutto
+
+O projekcie:
+
+Pracujemy w Centrum Eksperckim AI będącym centrum rozwiązań sztucznej inteligencji w banku. Dzięki współpracy z różnymi jednostkami zmieniamy rzeczywistość poprzez proponowanie, współtworzenie i wdrażanie zaawansowanych rozwiązań w obszarze sztucznej inteligencji. Współtworzymy rozwiązania AI wspierające naszych Klientów w osiąganiu ich celi. Ułatwiamy im interakcje z bankiem oraz budujemy doskonałość operacyjną aby zapewnić im jak najlepsze doświadczenia.
+
+Technologie i narzędzia, których używamy:
+
+#Git #Spark #Hadoop #Linux #SQL #Cloudera #Data #Platform #Python #ML #Ops #Google #Kubernetes #Engine #Apache Kafka
+
+Twoje zadania:
+• budowa modeli Machine Learningowych
+• wdrażanie i utrzymanie zbudowanych modeli
+• zbieranie wymagań dla tworzonych modeli i procesów
+• implementacja procesów przetwarzania danych
+• wykonywanie... zaawansowanych analiz w języku Python
+
+Nasze oczekiwania:
+• przynajmniej 2 lata doświadczenia w pracy na stanowisku Data Scientist lub pokrewnym
+• doświadczenie w programowaniu oraz umiejętność pisania czystego kodu w języku Python (złożone, komercyjne projekty)
+• dbałość o wysoką jakość pisanego kodu
+• umiejętność poruszania się na platformie Hadoop (HDFS, Hive, HBase, Spark)
+• wiedza w obszarze modeli uczenia nadzorowanego oraz nienadzorowanego
+• umiejętność tworzenia zapytań w SQL
+• sprawne poruszanie się w systemie Linux
+• ukończone studia wyższe na kierunku: informatyka, matematyka, ekonometria lub pokrewnym
+• znajomość języka angielskiego na poziomie B2 lub wyższym","[{'link': 'http://www.ing.com/', 'text': 'ing.com'}, {'link': 'https://www.google.com/search?q=ING&sa=X&ved=0ahUKEwi6966R6cf8AhXWmmoFHTUgB3QQmJACCL8M', 'text': 'See web results for ING'}]","['20 hours ago', 'Full-time']","{'posted_at': '20 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgLSBEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoiLVJwT01ITExOWmdBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXVJQkNxSUJRVU5RZDJwcVVVdENWVUl3WlY5dVFWZGxXakJQY1dWMVRXNHROakpIU1VZME16ZHZRbTFyYlVKdVlreGFObEpxWW5aUU5XUjRkRkZMTVhnMVdWZFJiSEpHWVdaVlpsTjJVWE5QUWw5M1ZIUlZabEpSV2t0dlFUQndUbkptTjFONFIwdElkVGhVZEhwMlNrSldTVXBJUkc0elNGUjRRelZ2VjFOaFpHTXlhMDl3UTNKclNTMUlla2RxVmtKQldWSmhkalowVUZwQ1J6aEZOSGRtVGxOQk1FRkJFaGRmVVZoRVdWOXhSVTFPWVRGeGRITlFkR05EWTI5Qll4b2lRVVpmTmsxQlRqVldRV05mUkV4UlEwbE1SRUUzYTB0dVJtcGZTWFJpU0U1SFp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBKb2JyYXBpZG8uY29tIiwibGluayI6Imh0dHBzOi8vcGwuam9icmFwaWRvLmNvbS9qb2JwcmV2aWV3Lzc3MzM3NDU3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,
+6,Data Science Lead,Reckitt,"Warsaw, Poland",via Linkedin,"Description
+
+Want to make information technology smarter? As Data Science Lead, you’ll have the freedom to think strategically, lead commercially and harness emerging trends to grow our business.
+
+Data Science Lead
+
+Warszawa, Mazovia Province
+
+You'll...
+• Lead a team of data scientists to develop innovative models and solutions for data-driven business initiatives
+• Contribute to strategic decisions about Data Science standards, architecture, and ways of working
+• Collaborate with stakeholders across functions to define and prioritize data science projects
+• Stay up-to-date on the latest trends and best practices in the data science field
+You'll succeed because You have...
+• M.Sc. or Ph.D. in Computer Science, Statistics, Mathematics, Physics
+• Min. 5 years of industry experience in handling structured and unstructured data, with a proven track record of leveraging data to drive business impact.
+• Strong Programming skills in Python and SQL
+• Experience in data science capacity within... the complex business environments, including data mining, machine learning, NLP AI, and predictive modeling.
+• Experience working with large datasets using various data wrangling and visualization tools.
+• Use of various Business Intelligence tools (preferably Power BI)
+• Some team management experience or a strong interest to learn
+• Develop a good working knowledge of available technology capabilities and how and where to deploy them
+• Lead data discovery process with key stakeholders to identify business requirements and expected outcomes
+• Consumer Goods industry understanding is a strong advantage
+You’ll love it because…
+• A unique opportunity to gain experience in working in a multi-functional / multi-national environment
+• Potential to build a career within a large multinational organization
+• Permanent contract with a wide package of additional benefits
+
+Equality
+
+All qualified applicants will receive consideration for employment without regard to age, disability or medical condition; colour, ethnicity, race, citizenship, and national origin; religion; pregnancy, family status and caring responsibilities; sexual orientation; sex, gender identity, gender expression, and transgender identity; protected veteran status; size or any other basis protected by appropriate law","[{'link': 'http://www.rb.com/', 'text': 'rb.com'}, {'link': 'https://www.google.com/search?q=Reckitt&sa=X&ved=0ahUKEwi6966R6cf8AhXWmmoFHTUgB3QQmJACCO0M', 'text': 'See web results for Reckitt'}]","['9 hours ago', 'Full-time']","{'posted_at': '9 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVuY2UgTGVhZCIsImh0aWRvY2lkIjoiWUhpbl9sVFVubG9BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVU5RZDJwcVVqbFdhRFpYTjFaSlEzZDZaa1phYldOeVR6WXphSEZhWWxCMFUwdHJaVUpDTmtoR1FVOVNTRWRvWjJGcldFaGhObTlsVmxoaE1XZFNYMlZ3YzJoak5GQnVjbTh5T1hGbFpHcFpXamhDV0UxQ1MxVklXbk5tVkROcGVGWmFhRVJIVW05TVdqTjNVV0pZTkhoWlkwcDJSa3g1YUVabU1VaHhSR05NWTFoTE9GWjJaV3g1Tmtrek4wdFBTbUp5Y0U5SGNWZzFRVWczVmxaRFNFOVVWeTExWmpOdlZrbDZkMjF4TTAwdE1HSlRlRWhaRWhkZlVWaEVXVjl4UlUxT1lURnhkSE5RZEdORFkyOUJZeG9pUVVaZk5rMUJUMVZoTlhSeGJqVmhVWFJvT0RaU1NVdDJiRVExYlVGa2NFb3RkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZGluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9kYXRhLXNjaWVuY2UtbGVhZC1hdC1yZWNraXR0LTMzNTQ3OTE2MDI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs-qoB9l7W6yBGDGL6REXTyTgbBxVlJAS-StQcpPY&s
+7,Data Engineer,NatWest Group,"Warsaw, Poland",via Forces Families Jobs,"Join us as a Data Engineer
+• This is an exciting opportunity to use your technical expertise to collaborate with colleagues and build effortless, digital first customer experiences
+• You’ll be simplifying the bank through developing innovative data driven solutions, inspiring to be commercially successful through insight, and keeping our customers and the bank safe and secure
+• Participating actively in the data engineering community, you’ll deliver opportunities to support our strategic direction while building your network across the bank
+• We’re recruiting for multiple roles across a range to levels
+
+What you'll do
+
+We’ll look to you to drive value for the customer through modelling, sourcing and data transformation. Working closely with universal analysts, platform engineers and data scientists, you’ll carry out data engineering tasks to build a scalable data architecture, including data extractions and data transformation.
+
+As well as this, you’ll be:
+• Delivering the automation... of data engineering pipelines through the removal of manual stages
+• Developing solutions for streaming data ingestion and transformations in line with streaming strategy
+• Developing comprehensive knowledge of data platform cost levers to build cost effective and strategic solutions
+• Participating in the data engineering community to deliver opportunities to support the bank's strategic direction
+
+The skills you'll need
+
+To be successful in this role, you’ll need to be a programmer and data engineer with a qualification in Computer Science or Software Engineering. You’ll also need a strong understanding of data usage and dependencies with wider teams and the end customer, as well as a proven track record in extracting value and features from large scale data.
+
+You’ll need knowledge of programming languages in data engineering such as Python or PySpark, SQL, Java, and Scala. And you’ll have an understanding of Apache Spark and ETL tools like Informatica PowerCenter, Informatica BDM or DEI, Stream Sets and Apache Airflow.
+
+You’ll also demonstrate:
+• Knowledge of messaging, event or streaming technology such as Apache Kafka
+• Knowledge of big data platforms such as Snowflake, AWS Redshift, Postgres, MongoDB, Neo4J and Hadoop
+• Good knowledge of cloud technologies such as Amazon Web Services, Google Cloud Platform and Microsoft Azure
+• Experience of ETL technical design, automated data quality testing, QA and documentation, data warehousing, data modelling and data wrangling
+• Extensive experience using RDMS and ETL pipelines
+• A good understanding of modern code development practices
+• Good critical thinking and proven problem solving abilities","[{'link': 'http://www.rbs.com/', 'text': 'rbs.com'}, {'link': 'https://www.google.com/search?q=NatWest+Group&sa=X&ved=0ahUKEwi6966R6cf8AhXWmmoFHTUgB3QQmJACCJwN', 'text': 'See web results for NatWest Group'}]","['8 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '8 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJGM21ZeldwYzhiNEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVTJORGVUaGhTWGN0YWtwTE5GVm9SRzF6V1Y4eVZFWTJRak40Y1ROeVQwRmhlbXRHTkRCSk9ITklkVzlLYjAxWFozQndNMUJpUkVwcFJFTTVURzQ0UzBsaVNUUTFiVk5pVlZSb1VYaHZaeTFoZFU5elpUZFlMVTlPTjNWVE16SktRMHR5U25kbVQwTlNlSEIyYjBkeGREUkhObmM1TkMweE1sSjZSak0zVlhvd1FsaHVORFpqTldOaUxXUXhWbXBWWmswNU1qZzFaVGx1TW1WMU9FRXRhbkIyU0ZaWWNuTk1NWEZIVUdGamRFRkpFaGRmVVZoRVdWOXhSVTFPWVRGeGRITlFkR05EWTI5Qll4b2lRVVpmTmsxQlR6RTJTWEpNVUhCV05IZHBkMHBKVG05RlpFaHhiMmhMUzFBMVFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gRm9yY2VzIEZhbWlsaWVzIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuZm9yY2VzZmFtaWxpZXNqb2JzLmNvLnVrL2pvYnMvZGF0YS1lbmdpbmVlci13YXJzemF3YS8yMTkzOTktMS8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcaxT4BWqFLP7Mdwe-Tv5K7izWx0gv5OecuYzft3M&s
+8,Data Talent Lab #TechInPwC,PwC Polska,"Kraków, Poland",via Linkedin,"Job Description & Summary
+
+Data Talent Lab to 3 miesięczny program mentoringowy, który pokaże Ci prawdziwe oblicze obszaru data science w biznesie. W trakcie VI edycji programu możesz zdobyć swoje pierwsze doświadczenie w trakcie pracy nad prawdziwym kejsem biznesowym, sesjach z mentorem, jak i warsztatach.
+
+Program realizuje nasz zespół Data Analytics, który składa się ze specjalistów o profilach takich jak Data Scientist, ML Engineer, UI/UX Designer, BI Developer, Data czy Software Engineer – uwielbiających przekładanie problemów biznesowych na aplikacje oparte o dane i modelowanie.
+
+Dołącz do nas, jeśli:
+• chcesz się rozwijać w Data Science i posiadasz podstawową wiedzę z programowania w Pythonie, SQLu i/lub na platformie Microsoft Azure,
+• interesujesz się ekonometrią, statystyką, modelowaniem i inżynierią danych, machine learningiem,
+• od marca znajdziesz ok. 20 godzin w miesiącu, które poświęcisz na pracę nad zadaniem oraz spotkania online.
+
+Dlaczego warto?
+• wraz z grupą... projektową podejmiesz problematykę “nowcastingu” za pomocą najnowocześniejszych podejść machine learningowych i zbiorów danych,
+• wykorzystasz elementy różnych technik przetwarzania i prezentacji danych, jak również nauczysz się nowych technologii,
+• zapewniamy wsparcie mentora, z którym wspólnie pracujesz nad rozwojem swoich kompetencji,
+• otrzymasz dostęp do profesjonalnych szkoleń na platformach DataCamp, Coursera, czy edX.
+
+Jak wygląda proces rekrutacji?
+• uzupełnij formularz oraz prześlij CV,
+• pokaż swoje mocne strony - rozwiąż kejs,
+• spotkaj się z naszym zespołem - assessmenty planujemy pomiędzy 25.01-3.02,
+• do 10.02 oczekuj informacji zwrotnej.
+
+Pamiętaj!
+
+Jeżeli będziesz miał problem z wypełnieniem aplikacji skontaktuj się z nami: pl_kariera@pwc.com.
+
+Poznaj PwC
+
+At PwC innovative and technological projects are our everyday life. We deliver the highest quality through integrity, objectivity and investment in data, tools, tech, products and services. By bringing together unexpected combinations of skills, experience and technology, we can help shape tomorrow. Join our #communityofsolvers.
+
+Administratorem danych osobowych przetwarzanych w celu przeprowadzenia rekrutacji jest PwC Advisory sp. z o.o. sp.k., lub inna spółka z sieci PwC (lista spółek), do której kierowana jest aplikacja. Jeśli wyraziłeś/aś odrębną zgodę, dane osobowe będą przetwarzane również w innych celach zgodnie z treścią udzielonych zgód. Pełną informację o przetwarzaniu danych osobowych, w tym informacje o przysługujących Ci prawach znajdziesz w Polityce Prywatności","[{'link': 'https://www.google.com/search?q=PwC+Polska&sa=X&ved=0ahUKEwi6966R6cf8AhXWmmoFHTUgB3QQmJACCMoN', 'text': 'See web results for PwC Polska'}]","['7 hours ago', 'Part-time']","{'posted_at': '7 hours ago', 'schedule_type': 'Part-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFRhbGVudCBMYWIgI1RlY2hJblB3QyIsImh0aWRvY2lkIjoidXU1T0ZNV3hSMmtBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVU5RZDJwcVVsSlFOMFY1TkdGaFYySkJaMDlZT0hSdWNWZEtOREV0VG14SVdtOWZSelJzZUVwdU9XcGhXVkpFWlVZeFVESTVRVmR4WTFFeVNIaHFSVU5XY2sxTE0wcG5ObkJ3TFhGc2RDMHpVM0ZtUVV0NlMxTlpkRUUwTFd4S2JERnlXV1prYzJWTGNXbDFSRXBuVVU1ZlJ6TlhVR3hyTmpCb2VYSkpaa0pyZDFWZmRIaGplREJMVDFGc2NsZzFTa1pNTXpaZmFFVm1NRGQyT1dZeGJIWklUa0l0TlRGbFVIcG9USGwzVjFGNVZ6WkxlRFZMZFVsNlF6TTVPVXQyTmxCMGEyVnlTRkJoZGpkTEVoZGZVVmhFV1Y5eFJVMU9ZVEZ4ZEhOUWRHTkRZMjlCWXhvaVFVWmZOazFCVG1JM09XTXdObUZUWVcxVVlWcEVWRE40WkZwUWJGUlBkRGhXWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRpbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvZGF0YS10YWxlbnQtbGFiLSUyM3RlY2hpbnB3Yy1hdC1wd2MtcG9sc2thLTM0MDU2MDEzNTQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzE26nefpcGl1Z9A33uL0ly37l69aO_StpwNSEfhs&s

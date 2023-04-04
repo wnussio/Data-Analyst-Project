@@ -1,0 +1,217 @@
+,title,company_name,location,via,description,related_links,thumbnail,extensions,detected_extensions,job_id
+0,Senior Data Scientist,Bolt,Poland (+1 other),via AngelList,"We are building a top European data science team focused on urban mobility and are looking for exceptional people to join our team. You will enjoy an opportunity to use your creativity in algorithm design and apply cutting-edge technologies to develop models, automate and optimize data-driven decisions and enable the entire organization to tap into the value of ML technologies. We partner with people from strong technology companies and computer science institutes.Some examples of real life projects we work on:
+• Balancing demand and supply through algorithmic pricing
+• Optimising the potential investment portfolio over markets and product lines
+• Processing documents at scale through computer vision and OCR
+• Using recent traffic patterns for predicting accurate ETAs
+• Inferring missing map elements using the GPS traces of our drivers
+• A/B experimentation platform and agent-based simulation of cities
+• User behavior pattern analysis and prediction
+
+Your daily adventures will... include:
+• Working with a technical stack consisting of Python, Docker, SageMaker, Airflow, Spark, Redshift
+• Solving real world problems using gradient boosted trees, uplift modelling, mathematical optimisation, time series forecasting, recommender systems, deep learning and more
+• Translating business problems to technical specifications
+• Handling the entire lifecycle from exploratory queries and notebook prototypes to a working machine learning model or other automation that might be serving thousands of calls per second in production
+• Leveraging our in-house data and model platform that allow you to launch new projects in a matter of days
+• Working in product feature teams together with data analysts, product managers and software engineers
+• Discussing the problems and technical innovations within the broader data science team that provides a pool of peers and mentors
+• Deploy and validate solutions for millions of users, enabling fast feedback and measurable added value to customers
+
+We are looking for:
+• Industry experience in data science and machine learning (5+ years recommended)
+• Awareness of both business and technical aspects of data science
+• Experience in Python programming, including libraries like Pandas/Numpy/sklearn/OR-tools
+• Experience writing complex SQL queries
+• Understanding and practical experience with statistical hypothesis testing
+• Proactive mindset, willingness to take initiative and work with little supervision
+• Enthusiasm to collaborate with different roles in product, analytics and engineering to identify problems, explore trends and untap growth opportunities
+• Strong verbal and written communication skills in English
+• Track record of deploying models to production and measuring the impact
+
+You will get extra credits for:
+• Product development experience in a technology company
+• Experience with experimentation or simulation
+• Experience with causal inference from observational data
+• Familiarity with any cloud systems (AWS, Azure, Google app engine)
+• PhD, MSc or BSc in a quantitative field
+
+Bolt focuses on Transportation, Technology, Urban Mobility, Food Tech, and Ride Sharing. Their company has offices in Europe, Africa, and Tallinn. They have a very large team that's between 1001-5000 employees. To date, Bolt has raised $2.013B of funding; their latest round was closed on January 2022 at a valuation of $8.4B.
+
+You can view their website at http://www.bolt.eu or find them on Twitter, Facebook, and LinkedIn","[{'link': 'https://www.google.com/search?q=Bolt&sa=X&ved=0ahUKEwj6tJrsstn8AhVtFFkFHW0ICl4QmJACCLgJ', 'text': 'See web results for Bolt'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZtIrE3QeuKZ9mDOUq86aD_MjNiXBEL2vNmgdbbA&s,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6IlJxUFYzTTNHY2FnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVOUWQycHFVVEJXT1daeU9UWmhNa0pXWkVzM2IyMVhORzVHVDBGUmVrVlVWMnRVTjNnMFMzb3lValZIUWpWNlVEZHlRbGhPVlZOd1dtOWZSSFZHWkZKNmNVUTBNMHN4YkV4cFFrVkVXR2c1WDNCYVEzbDZhRFZ2UzE5R1NqWkdSRzlrU2xoeVpFNTZYell6ZUcxTkxWVmhaekpaZGtRdFFUVkxTbFZUYjFneWVYZDBTVTlwUlZONk1WaElTMkY1WTFreGNWRlNiMHBpWTNsd2FISmFkak5CRWhjdGVucE5XVGR5VEVwMU1tODFUbTlRTjFwRGJ6aEJWUm9pUVVaZk5rMUJUa0ZyVDNCNWFrbEVaVWxoY1hSRFZqZEpjV05WTlRsV1ZFRk1RUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgZGlyZWN0bHkgb24gQW5nZWxMaXN0IiwibGluayI6Imh0dHBzOi8vYW5nZWwuY28vY29tcGFueS9ib2x0YXBwL2pvYnMvMjU0ODczMi1zZW5pb3ItZGF0YS1zY2llbnRpc3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+1,Cyber Security Data Engineer (Data Scientist),Bosch Group,"Warsaw, Poland",via Ai-Jobs.net,"Company DescriptionAt Bosch, we shape the future by inventing high-quality technologies and services that spark enthusiasm and enrich people’s lives. Our promise to our associates is rock-solid: we grow together, we enjoy our work, and we inspire each other. Join in and feel the difference!Job DescriptionTasks:Be a key part of the Cybersecurity Development, Operations and Automation team.Analyze data from different sources (Vulnerability Scanners, SIEM, Asset Inventories, Management Platforms, etc.)Plan and conduct the further development of cyber security data analyticsSupport the team with the data engineering expertiseQualificationsProfile:Advanced data analytics skillsExperience with advanced SQL & T-SQLExperience in at least one of the cyber security areas (vulnerability management, secure-SDLC, network security, etc.)Understanding of computer networks and protocolsPython and/or PySpark basics will be a plusGood communication with English in the international... environmentAdditional InformationBenefits:We would like to offer you number of amenities for you and your loved ones.Work #LikeABosch:Contract of employment and a competitive salary (together with annual bonus)Flexible working hours with home office after the pandemic as wellReferral Bonus ProgramCopyright costs for IT employeesCanteen in the office with co-financed lunchesGrow #LikeABosch:Complex environment of working, professional support and possibility to share knowledge and best practicesOn-going development opportunities in a multinational environmentBroad access to professional trainings, conferences and webinarsLanguage coursesLive #LikeABosch:Private medical care and life insuranceMultisport card and sports teamsNumber of benefits for families (for instance summer camps for kids)Non working days on the 24th and 31st of DecemberDiscounts for Bosch products","[{'link': 'http://www.bosch.com/', 'text': 'bosch.com'}, {'link': 'https://www.google.com/search?q=Bosch+Group&sa=X&ved=0ahUKEwj6tJrsstn8AhVtFFkFHW0ICl4QmJACCOcJ', 'text': 'See web results for Bosch Group'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0rSIJpdaEhxJwqtU0eRLwsEyYUp8BGxBj4N9I3U&s,"['18 hours ago', '115K–180K a year', 'Full-time']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time', 'salary': '115K–180K a year'}",eyJqb2JfdGl0bGUiOiJDeWJlciBTZWN1cml0eSBEYXRhIEVuZ2luZWVyIChEYXRhIFNjaWVudGlzdCkiLCJodGlkb2NpZCI6Inh0dTNsNjNMcUpFQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVxSUNDdUlCUVVOUWQycHFWRGhaZDBFM04yeDNVWEkyVkY5MmFWOHlTazUyVEU5UU1XSjVkalJhVFVwdVNYbFBkRVZmYWtRd2VFeHlOWEpFVTA1V2VDMHdNMVpyYVVJMGJHSk5aRkpOUTA1bU1FSXhaM0JaTkZKWVFrMTNWazU2ZFRaTlVXdFpMVlV4VVdwdWRURXRNRzAwY0RSVWIzZDBWVE54VkhaWlZuVkdlbTFwYVVOdFZ5MUJSakJYZFhwaGVIUmtjVXh0Y3pGVE1GSXhRbkJrY2pkTE0wTTJZVkprYVRCNGNXTlFlRU5wUkdkMGNVVnRkakJSVlV4NWRuVjBjbkl5YVhBNVpWZHJkVTVvYVZWQ2JsOWtTRlIyUVdoUU1tVkllak42YVRkb1RuVkpiM0pyVVJJWExYcDZUVmszY2t4S2RUSnZOVTV2VURkYVEyODRRVlVhSWtGR1h6Wk5RVTl1TTNkNlluTkpTV016VVRVM2NqaG5TbmhzTkRGa1prMWxRbWMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18yIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEFpLUpvYnMubmV0IiwibGluayI6Imh0dHBzOi8vYWktam9icy5uZXQvam9iLzM4NTU1LWN5YmVyLXNlY3VyaXR5LWRhdGEtZW5naW5lZXItZGF0YS1zY2llbnRpc3QvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+2,Applied Data Scientist,dunnhumby,"Kraków, Poland",via LinkedIn,"Most companies try to meet expectations, dunnhumby exists to defy them. Using big data, deep expertise and AI-driven platforms to decode the 21st century human experience – then redefine it in meaningful and surprising ways that put customers first. Across digital, mobile and retail. For brands like Tesco, Coca-Cola, Procter & Gamble and PepsiCo.
+
+We’re looking for an Applied Data Scientist who expects more from their career. It’s a chance to apply your expertise to distil complex problems into compelling insights using the best of machine learning and human creativity to deliver effective and impactful solutions for clients. Joining our advanced data science team, you’ll investigate, develop, implement and deploy a range of complex applications and components while working alongside super-smart colleagues challenging and rewriting the rules, not just following them.
+
+What We Expect From You
+• Degree in a relevant subject
+• Programming skills (Hadoop, Spark, SQL, Python)
+•... Prototyping
+• Statistical Modelling
+• Analytical Techniques and Technology
+• Quality Assurance and Testing
+
+What You Can Expect From Us
+
+We won’t just meet your expectations. We’ll defy them. So you’ll enjoy the comprehensive rewards package you’d expect from a leading technology company. But also, a degree of personal flexibility you might not.
+
+Plus, thoughtful perks, like early finish Friday and your birthday off.
+
+You’ll also benefit from an investment in cutting-edge technology that reflects our global ambition. But with a nimble, small-business feel that gives you the freedom to play, experiment and learn.
+
+And we don’t just talk about diversity and inclusion. We live it every day – with thriving networks including dh Women’s Network, dh Proud, dh Parent’s & Carer’s, dh One and dh Thrive as the living proof. Everyone’s invited.
+
+Our approach to Flexible Working
+
+At dunnhumby, we value and respect difference and are committed to building an inclusive culture by creating an environment where you can balance a successful career with your commitments and interests outside of work.
+
+We believe that you will do your best at work if you have a work / life balance. Some roles lend themselves to flexible options more than others, so if this is important to you please raise this with your recruiter, as we are open to discussing agile working opportunities during the hiring process.
+
+For further information about how we collect and use your personal information please see our Privacy Notice which can be found (here","[{'link': 'http://www.dunnhumby.com/', 'text': 'dunnhumby.com'}, {'link': 'https://www.google.com/search?q=dunnhumby&sa=X&ved=0ahUKEwj6tJrsstn8AhVtFFkFHW0ICl4QmJACCJYK', 'text': 'See web results for dunnhumby'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIimKSgXDPY-1xUMwgZWHcVdhsEvotl7_CgJcqKZE&s,"['6 hours ago', 'Full-time']","{'posted_at': '6 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJBcHBsaWVkIERhdGEgU2NpZW50aXN0IiwiaHRpZG9jaWQiOiJIOTRlby1qdlJFa0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVW5GM2NXOUVaRll5VVRoT1oxSkxOblJTZEVWQlpIUkRhMEY1VHkwM1gxOTFjWGxHYmpkNlYyZEZMV1ZXUTA5NFZrSlphbUYyVGtaeU1rWmpSR054VkhveE9WQk5MVlZEVVdaR1RVaGZRa2RVYldOR2NIWlRRVUpZVGxoclFtaHFUM0ptYzAwNVRraHZVVXg1VFZRME1UUmFXSEZxWkdsdWIwNHhibXA1ZVRkTmVIRkdjek5DVUVZMFMzZGhiekpPYzFaTVlUbGlabTlEUld0WE5sSnZiRmwyUkVaS1VYZENSR1JOUWkxUlVuRlJFaGN0ZW5wTldUZHlURXAxTW04MVRtOVFOMXBEYnpoQlZSb2lRVVpmTmsxQlVEUjRjalJxTm1aUmF6QmZVRGx1TjNkUFFtaFRlVVphY1Uxa1FRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvYXBwbGllZC1kYXRhLXNjaWVudGlzdC1hdC1kdW5uaHVtYnktMzMyNjc0NDgxMj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+3,Data/Machine Learning Engineer,Irdeto,"Wrocław, Poland",via LinkedIn,"Who we are:
+
+Irdeto is the world leader in digital platform cybersecurity, empowering businesses to innovate for a secure, connected future. Building on over 50 years of expertise in security, Irdeto’s services and solutions protect revenue, enable growth and fight cybercrime in video entertainment, video games, and connected industries including transport, health and infrastructure. With teams and offices around the world, Irdeto’s greatest asset is its people and diversity is celebrated through an inclusive workplace, where everyone has an equal opportunity to drive innovation and support Irdeto’s success. Irdeto is dedicated to being the security partner to empower a secure world where people can connect with confidence.
+
+The Role:
+
+In this role you will be responsible for designing, building and managing the infrastructure used in large scale data and machine learning projects. You will play a major role in developing the on-premises and cloud-based architecture to analyse and... process data according to the needs of Irdeto’s internal business, Irdeto’s portfolio of products and services, as well as participate in research and innovation projects. You will work within small team configurations that includes researchers, software engineers, data scientists, and enterprise data architects to achieve this. Projects cover a wide variety of business segments, including video entertainment, online gaming, connected transport, connected manufacturing, and connected health. These projects typically have a cyber-security element to them.
+
+Your mission at Irdeto:
+• Work closely with business and product leaders, developers, architects, analysts and researchers on innovation and early-stage product development across the company
+• Interface with internal and external customers to capture and analyze requirements relating to data and AI/ML projects
+• Work with enterprise architecture, data scientists, and data warehousing teams to set data strategy that supports Irdeto’s corporate strategy and objectives
+• Design, implement and maintain optimal cloud-based data pipelines and AI/ML architectures
+• Implement data architectures, data integrations, and data migrations, covering Irdeto’s own products as well as 3rd party systems
+• Assemble large, complex data sets that meet functional/non-functional business requirements
+• Clean and preprocess various data sets for AI/ML projects
+• Deploy AI/ML models in production, as well as maintain a continuous integration pipeline, including monitoring and optimization of the system’s performance and cost
+
+How you can add value to the team?
+• BSc or MSc in Computer Science, Applied Mathematics, or similar fields
+• Relevant Experience in a Software Engineering role, of which you have experience in Data Engineering
+• Advanced knowledge of Python and SQL
+• Advanced experience with big data technology, such as Spark, Kafka, etc.
+• Experience working/developing in a DevOps environment (CI/CD, Docker, Git, Terraform)
+• Experience architecting and developing based on AWS services, such S3, Athena, EMR, Kenesis, Elasticsearch, Fargate, etc. Alternatively, similar experience on Google Cloud Platform or Azure would also be considered. Appropriate certification is desirable.
+• Knowledge of machine learning algorithms and feature engineering techniques
+• Experience manipulating, processing and extracting value from large, disconnected datasets
+• Experience working with relational and non-relational databases
+• Experience supporting and working with cross-functional teams in a dynamic environment
+• Ability to work in a team environment in a collaborative manner (Agile/Scrum)
+
+What you can expect from us:
+
+Irdeto is a people first organization where you can secure your future. Our values of Trust, Accountability, Agility and Innovation inform our culture. We believe in connecting people and developing careers with a strong focus on collaboration, creativity, health and happiness among our globally diverse workforce.
+
+In addition to competitive remuneration and extensive benefits we offer:
+• An international & multicultural environment where diversity and inclusivity are celebrated and embraced
+• Professional educational opportunities and training program
+• Innovation sabbatical
+• Volunteer Day
+• State of the art office space
+• On the job coaching and mentoring
+• Flexible work arrangements – via our Work Hard Anywhere policy.
+• Some of us run city marathons and even go on snowboarding trips together!
+• Casual Friday? Casual every day!
+• US$ 500 net for your home office setup after you passed your trial period
+• And many additional perks customized to global locations (canteen, fresh fruit, amazing coffee, parking, on-site gym, yoga room to name a few)
+
+With over 50 successful years of business innovation behind us, and an exciting digital and connected future ahead of us, Irdeto is a progressive company to join. We are looking for people who will keep us at the forefront of innovation and creativity.
+
+Irdeto encourages applications from people with disabilities, as we provide accommodation on request of the candidates that take part in all aspects of the selection processes.
+
+Welcome to Irdeto!
+
+Irdeto is proud to be an equal opportunity employer and do not discriminate on identity or innate characteristics, instead we aim to build a diverse, inclusive culture where your talent counts.
+
+At Irdeto, we appoint based on merit, following a fair and transparent process and we welcome applications from everyone regardless of age, gender, ethnicity, sexual orientation, faith or disability","[{'link': 'http://www.irdeto.com/', 'text': 'irdeto.com'}, {'link': 'https://www.google.com/search?q=Irdeto&sa=X&ved=0ahUKEwj6tJrsstn8AhVtFFkFHW0ICl4QmJACCMQK', 'text': 'See web results for Irdeto'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMa5UjLEeQaahJya5tPedh4Va9nLypm0NERKnQUiI&s,"['7 hours ago', 'Full-time']","{'posted_at': '7 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhL01hY2hpbmUgTGVhcm5pbmcgRW5naW5lZXIiLCJodGlkb2NpZCI6ImxibGVyQktrT1UwQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVvd0NDc3dCUVVOUWQycHFVaTEwT1hVNFZqSlJkRVpWYjFCZlZrNDVUMHMyTUZkeFUwcE1SVk42UkcxWk4xOTJZbXBNZURBMmVFRTNOa3hZYkVkTmNrOWhObGRyVVhGUVFXOXJaMGh0Ulhsdk1GUkxjVzExVmkxeGFXYzJlVTVFVDI1bmExUlhOVFUxV0RkWFNUUjRjVGgyTTBGbFZETlFjMFkwT1Y4NE0xcFpSRVUwYTAxTmQzVnJaV294VGxrMmNFeGFVMmhtU2s5WGRVOWpRVkI1Y2pscmEzcDJRVTk0WDNkRk5WTm9hMEpLYWpNMmFHbGFVVXBMUjFwTFFUSlNUV3A1VldRd1psbEhORjlrYTNSalkwdERFaGN0ZW5wTldUZHlURXAxTW04MVRtOVFOMXBEYnpoQlZSb2lRVVpmTmsxQlVGZGZiazgyYVZodU4wSkhTVzVRYVZBMFZXdHdaSGxXUWxFelp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvZGF0YS1tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVyLWF0LWlyZGV0by0zNDE5NzA0NjcyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+4,Senior Machine Learning Engineer,Equinix,"Warsaw, Poland",via LinkedIn,"We are looking for a smart, enthusiastic, and creative Senior Machine Learning engineer with a strong background in computer science and engineering. In this position, you will play a pivotal role in designing, building, scaling and operating innovative end to end machine learning solutions on our petabyte scale Data Center Infrastructure Monitoring (DCIM) IoT platform.
+
+The qualified candidate will have hands on experience on developing machine learning models, data pipelines and operationalizing them at scale. Besides, will have working knowledge of most common machine learning techniques and their application using large data sets.
+
+Responsibilities
+• Design & Build secure data pipelines for handling real-time data streams and integrating with machine learning models at scale.
+• Work on data exploration, data cleansing, ingestion, data wrangling and feature engineering.
+• Work with Data Scientist and Machine Learning Engineer to integrate with and operationalize machine learning... models at scale in production.
+• Understand and analyze large, complex data sets to identify anomalies and data quality issues.
+• Design and Build Data quality and anomaly detection framework for IoT timeseries data.
+• Build data pipeline with Apache Spark in Python.
+• Develop test cases and automation for data pipeline.
+• Work with cross functional stakeholders to assist with their data needs via optimal & reusable data pipelines.
+• Participate in design and code reviews.
+
+Qualifications
+• Masters with 5+ years of experience and Bachelor with 7+ years of experience in Computer Science, Data Science, or related fields.
+• Highly Proficient in Python programming language with Java programming skills as a huge plus.
+• 3+ years of hands on experience in building and optimizing big data pipelines using Apache Spark in Python and Java programming languages.
+• 3+ years of hands on experience of building & integrating data pipelines with machine learning models.
+• 3+ years pf experience with big data tools e.g Kafka, Cassandra, Hadoop, Storm and Spark.
+• 3+ years pf experience on data quality analysis and detection.
+• Excellent verbal and written communication.
+
+What We Offer
+• Full-time job agreement
+• Competitive salary and benefits (including stock options plans, VIP medical coverage)
+• Pre-paid lunch cards
+• Employment in a stable company with an established position in the market;
+• International business travels for trainings
+• Training package to further master your hard as well as soft skills
+• Office in Warsaw city centre and in hybrid model/remote work available
+• Employment on contract of work or B2B","[{'link': 'http://www.equinix.com/', 'text': 'equinix.com'}, {'link': 'https://www.google.com/search?q=Equinix&sa=X&ved=0ahUKEwj6tJrsstn8AhVtFFkFHW0ICl4QmJACCPIK', 'text': 'See web results for Equinix'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdO37zIzmnz6OceXsw8CSsRElEhRlzJzYyaMSxgo&s,"['8 hours ago', 'Full-time']","{'posted_at': '8 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciIsImh0aWRvY2lkIjoiS25CYjl2bDNzQ0lBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVU5RZDJwcVVYcDJXVXN6ZFZGeVJreGhOMUkyVGtoYVEwNTFiMjlwWXpkeFNuRmtVbFZpZEZoQ1lscDJRbU0zYWtFeWJIcGxPWHB3YldVeUxUWk1hR2RXZFZkdlF6TkZOSG8xY1RneVZ6TXhYMGd4YXpkWFlWaDZTbTlZYjNOUFJHcEZTM1p2U21kRmEwNWFOM2QzVTNwNVFWbDVZVkpyUjFOUFlqbDBhSHBVZGs0M01VSk5NRFY1TTAxcFoyRTBTMVo1VVZkb1dVVnFkRFZ0VFRCa2JEZEZaRVZOY0dvd1NFdHBMV3A1TVdSUVlsZDVlRGh6ZUV4c00zcHphSGRCTUhOdVEwSmZaV1JhWkdORUVoY3RlbnBOV1RkeVRFcDFNbTgxVG05UU4xcERiemhCVlJvaVFVWmZOazFCVUVGdmN6YzVkUzEyVjBwSmVscFNOR3BYWW1VeE9FeGFhRnB1UVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1hdC1lcXVpbml4LTMzOTA3Mzk0NjA/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+5,HR Systems OM Data Analyst,McCormick & Company,"Łódź, Poland",via LinkedIn,"Position: HR Systems OM Data Analyst
+
+Based: Lodz, Poland
+
+This position is responsible for the execution of day-to-day organizational management (OM), including the processing of manage pending hires, set up of new foundational objects in SuccessFactors Employee Central (SFEC) & SAP HCM OM, proactive monitoring of OM data fields to ensure proper data governance & take corrective action necessary to resolve OM related issues within and between SFEC & SAP HCM. This role will have input to the establishment of data standards, process improvements, global data accuracy and quality, data replication and data monitoring. As a part of the HR Systems Operations Team, serves as a subject matter expert of SFEC & SAP HCM OM data management & replication OM content type failures between the two systems.
+
+Main Responsibilities
+• Owns “Manage Pending Hire” process for all MPS supported locations in EMEA & NA. Works as a liaison between Talent Acquisition Recruiters & Location HR to ensure proper ... timely set up of new hires, rehires, promotions & transfers.
+• Creates new foundational objects upon request & based on larger organizational changes. This includes (1) creation of positions & position attributes (MIB, Cost Center, Job, Department), (2) creation of departments & org unit attributes (supervisor, hierarchy), & (3) monitoring of jobs & validation of job attributes (title, grade, function, EEOC job category, job group).
+• Monitors OM content type replication failures daily. Makes corrections as necessary to resolve errors for successful replication. Provides detailed analysis of OM related replication failures, identifies root cause and makes recommendations to improve processes to prevent recurrences.
+• Works with HR Data Scientists to develop & validate automated routine reports for OM data monitoring to proactively identify OM related errors/discrepancies & leads the process of data corrections.
+• Manages initial access set up for position changes. Proactively works with IT to ensure minimal disruption to existing access as employees transition to new roles within the organization.
+• Works with Location HR to manage retroactive OM updates to ensure changes will not create downstream issues to data management processes, existing integrations and/or payroll/finance related processes.
+• Assists with special projects including configuration testing, integrations & data mapping, & adhoc report requests.
+• Provides assistance & OM related direction to non-MPS supported locations & coordinates global data OM maintenance as necessary.
+
+CANDIDATE PROFILE
+• Bachelor’s Degree in IT, Business, Finance or HR. Related system experience will be considered in lieu of a degree.
+• 1 - 3 years’ experience in HRIS data management in a multinational company with experience of high-volume data processing for multiple countries.
+• Taking Initiative
+• Tenacity to keep data root cause analysis, process improvements & cleansing efforts moving forward
+• Proactive mindset to prevent future data related issues
+• Building collaborative relationships and regular communication with regional and global partners
+• Strong knowledge of Excel with experience using advanced functions for the purpose of data comparisons/validation
+• Project and change management
+• Attention to detail and accuracy
+• Influence to ensure data accuracy efforts are a priority
+• Ability to work within virtual teams across all regions of the organization
+• Ability to Speak English
+
+Preferred Qualifications
+• Knowledge of OM related data management processes and data replication
+• Ability to use Tableau or related analytical software to deliver insights to the business
+• Ability to create complex reports in HRIS systems
+• Knowledge of automation processes preformed with HRIS system including basic understanding of robotics functionality
+• Ability to speak Multiple Languages (French, Spanish & Polish)
+
+Company
+
+At McCormick, we bring our passion for flavor to work each day. We encourage growth, respect everyone's contributions and do what's right for our business, our people, our communities and our planet. Join us on our quest to make every meal and moment better.
+
+Founded in Baltimore, MD in 1889 in a room and a cellar by 25-year-old Willoughby McCormick with three employees, McCormick is a global leader in flavour. With 11,000 employees around the world and more than $5 Billion in annual sales., the Company manufactures, markets and distributes spices, seasoning mixes, condiments and other flavourful products to the entire food industry, retail outlets, food manufactures, food service businesses and consumers.
+
+While our global headquarters are in the Baltimore, Maryland, USA area, McCormick operates and serves customers from nearly 50 locations in 27 countries and 135 markets in Asia-Pacific, China, Europe, Middle East and Africa, and the Americas, including North, South and Central America with recognized brands including Kamis.
+
+At McCormick, we have over a 100-year legacy based on our “Power of People” principle. This principle fosters an unusually dedicated workforce requiring a culture of respect, recognition, inclusion and collaboration based on the highest ethical values.
+
+TO APPLY
+
+If you are looking for a new challenge and want to join a highly motivated team in a rewarding environment, seeking a competitive salary and benefits package and opportunity to work with a global flavour leader. Then please apply via our careers centre at http://www.mccormickcorporation.com/Career-Center
+
+Agencies: McCormick as needed will work with external recruitment vendors through our Agency Portal. Unless previously contacted, McCormick does not accept unsolicited resumes from external recruiting agencies.
+
+McCormick & Company is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, colour, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by law.
+
+As users of the disability confident scheme, we guarantee to interview all disabled applicants who meet the minimum criteria for the vacancy/ies","[{'link': 'https://www.mccormick.com/', 'text': 'mccormick.com'}, {'link': 'https://www.google.com/search?q=McCormick+%26+Company&sa=X&ved=0ahUKEwj6tJrsstn8AhVtFFkFHW0ICl4QmJACCKAL', 'text': 'See web results for McCormick & Company'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABeiiregcWstSG_MaVWb23K2rYygRQfZUOL_ssq4&s,"['8 hours ago', 'Full-time']","{'posted_at': '8 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJIUiBTeXN0ZW1zIE9NIERhdGEgQW5hbHlzdCIsImh0aWRvY2lkIjoiV3BSWmhVNGtCMU1BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVU5RZDJwcVZGZHVUMnRLTTNOMlRtbGhibUZsY2t4QmFtWlRWMnBMYzNVeFNtVjNUM1JDTm5SbFIweGxaazV4UTFSUVRtNUZlRTg1U2tGUU1uQktSMGN4TUZwTldtdG9iVmxUWldGWFVtazRUSFpqU2t4cFl6VkRXREJsVW5oWFYxTnRibTFMZEdwVlZYTk5lRlpRT0hseFJUaE1Ua2hVWTBkeVIxSnBMWGR3V2taeVRGQk9PSHBmWkhsblYzQnFVRUpUV2xwUVJFb3lRM2RNYTFOak9HMXNWVWg0WjE5aVpGSnNSMmRyVUdOTk9HVkJOa1pFT0ZnNFNYbDBiMjlIWjJkTVMwNWliVlZtYVhCNUVoY3RlbnBOV1RkeVRFcDFNbTgxVG05UU4xcERiemhCVlJvaVFVWmZOazFCVHpRMlRIWmhkMXBmYzJOUlNWUlJhMU4yV1RnMWFWaFBhSFo1WnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvaHItc3lzdGVtcy1vbS1kYXRhLWFuYWx5c3QtYXQtbWNjb3JtaWNrLWNvbXBhbnktMzQyMDY0ODI4Mz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19

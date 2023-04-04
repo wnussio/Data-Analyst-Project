@@ -1,0 +1,1332 @@
+,title,company_name,location,via,description,related_links,thumbnail,extensions,detected_extensions,job_id
+0,Senior Data Analyst – East Europe,Unilever,"Warsaw, Poland",via Careers At Unilever,"Context:
+
+We are driving digital transformation to enable UL to become an analytical competitor and deliver 4G growth. The Europe D&A team’s vision is to transform Europe business performance and set up EU D&A as the catalyst for growth for Europe, informing outperformance decisions and initiatives to re-instate Europe as the key contributor to growth in Unilever. Our mission is to Transform the European organization to a digital-first culture, delivered by a world-class data and insights team, leaping ahead of our competition in everything we do.
+
+The Europe D&A team is composed of data engineers, data analysts, business analysts, data scientists, and product managers, whose role is to quickly understand the business context and challenges, apply advanced mathematics and/or statistics to large data sets; and operate in cloud-based environments where data, models, and user interfaces reside in the same platforms-core technologies, to create growth choices for Europe. The scope of the... Europe team has rapidly expanded, to now cover all 38 countries in Europe and the 5 Europe business units, and the focus on D&A informing business decisions in Europe is greater than ever.
+
+We are now creating a new Data and Analytics team in East Europe, to provide leadership in data and analytics across all East Europe regions, and all 5 Business Units.
+
+We are looking for an experienced D&A Data Analyst to join the East Europe D&A team. This role can be based anywhere in East Europe and will report into East Europe D&A Lead as part of our wider European D&A organization.
+
+MAIN JOB PURPOSE:
+
+We are looking for a Data Analyst with experience in Microsoft data modeling and visualization who can implement high-performant data analytics solutions that use our data to solve complex business issues and create value for Unilever.
+
+Our Data & Analytics team is uniquely partnered within the business organization to ensure that we are delivering the best possible insights to help our business grow. You will be accountable for the delivery of insights from various data sources, working alongside a dynamic team of Data Scientists and Data Engineers
+
+Main Accountabilities:
+• Understand business and technical requirements to document, develop and implement analytics solutions
+• Work with the Data Engineering team to ingest large amounts of data required for analysis
+• Extracting and dealing with data from multiple data sources (e.g. financial systems, external data sources, marketing databases, etc.)
+• Perform exploratory analysis and document findings
+• Create insight reporting and data-led recommendations for the business
+• Ingest, Clean, Transform and Model data following best practices and tools inc. M/Power Query and DAX
+• Coding, testing, debugging, and validation of deployed solutions
+• Creation and visualization of PowerBI reports, dashboards, and apps including ongoing maintenance
+• Leverage different statistical techniques to create insights for the business
+• Hands-on delivery of solutions throughout the entire life cycle, including day-to-day management of ongoing engagements
+• Ensure that deliverables meet or exceed functional, technical, and performance requirements
+• Contribute to the development of your own and the business’s technical acumen and skills
+• Continuous learning of new tools & programming languages via external sources that bring direct value to the business
+• Future Fit- Building and actively using a network of peers across Unilever Europe and Globally to both export & import best practices
+
+Relevant experience:
+• B.S. or M.S in a relevant field (Business Analytics, Operations Research), or PhD, M.S. in a relevant technical field (Operations Research, Computer Science, Statistics, Business Analytics, Econometrics, or Mathematics)
+• Overall experience of 5+ years preferred
+• Strong analytical skills with experience in problem-solving and being able to implement and deliver solutions
+• Ability to rapidly connect + match analytics and data products to business needs
+• Expert knowledge in the whole analytics process (business requirements, data ingestion, data modelling, and data visualization)
+• Proficient in an analysis tool such as Microsoft PowerBI (essential), and Advanced Excel
+• Proficiency in M (Power Query) and DAX (essential) and Python (preferable)
+• Proficiency in connecting to Microsoft Azure and publishing to PowerBI service to develop scaled analytic models in the cloud
+• Ability to manage multiple requests and priorities simultaneously in a highly VUCA and competitive market
+• Passion for empirical research and for answering hard questions with data
+• Ability to apply an agile analytic approach that allows for results at varying levels of precision
+• Ability to communicate complex quantitative insights in a precise, and actionable manner
+
+Key Leadership Qualities
+• Growth mindset and a bias for action
+• Ability to challenge established norms in a constructive way and drive change
+• Ability to manage a large and complex set of stakeholders & hold others accountable
+• Ability to make the complex and technical simple to a non-technical audience
+• Working effectively in cross-functional, cross-geography teams
+
+Technical Skills
+• Data Transformation and Cleaning Fully Operational
+• Analytical Modelling and Patterns Fully Operational
+• PowerBI Environment Fully Operational
+• M/Power Query Fully Operational
+• DAX Language Fully Operational
+• Python Working Knowledge
+• SQL Working Knowledge
+• Data Visualisation Fully Operational
+
+Unilever is an organisation committed to equity, inclusion and diversity to drive our business results and create a better future, every day, for our diverse employees, global consumers, partners, and communities. We believe a diverse workforce allows us to match our growth ambitions and drive inclusion across the business. At Unilever we are interested in every individual bringing their ‘Whole Self’ to work and this includes you! Thus if you require any support or access requirements, we encourage you to advise us at the time of your application so that we can support you through your recruitment journey","[{'link': 'http://www.unilever.com/', 'text': 'unilever.com'}, {'link': 'https://www.google.com/search?q=Unilever&sa=X&ved=0ahUKEwiTz-iTzcz8AhWBmokEHZrfAXMQmJACCN0K', 'text': 'See web results for Unilever'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFIxpLetZocTuaOQUE--I909Ro9iqNzeTSfLg&s=0,"['17 hours ago', 'Full-time']","{'posted_at': '17 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IOKAkyBFYXN0IEV1cm9wZSIsImh0aWRvY2lkIjoiMEdBMHJKT2pLUlVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVU5RZDJwcVV6WjZVM2xtZDA5S09GWmZNVUkyVm5SMmQyWm5TbXhXTVRrNE0zZDVVR1pGU1dKbFJESmFYemRXWlY5cVpWOHhWMHBLU0VaTGRtcFdiRE0wY2tWQ1dtaFRaRVUxWmpkd1JqSXRTRzAwWld0WGJYaE9TblEyWDJ0eVFYRkZOalpMTmxkdGNXZFJkRUZuVUdSU2FWTTNRMHhKTkRORVVFTnBSekZVTlVaRFlXOW9hVFJuUjI5dVRFZHpTbXRDTjBkU2IybzRTRlF4UjNwbVozSmlUWE5VWkdkalp6WmpkWFV5ZERoWVlXZzRTRkU1UVd3NFZFbFljMEZWZVhCaFpUZHNTV3hmYkRWVEVoZDJXV1pHV1RsUU9FZFpSekZ3ZEZGUWJYSXRTRzFCWXhvaVFVWmZOazFCVUZCclIzRnFUMkYxVUdrMFJIbzJUQzF3VVc5VlIyUmtia05mWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIENhcmVlcnMgQXQgVW5pbGV2ZXIiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLnVuaWxldmVyLmNvbS9qb2Ivd2Fyc2F3L3Nlbmlvci1kYXRhLWFuYWx5c3QtZWFzdC1ldXJvcGUvMzQxNTUvNDMxNzE3NDc5Njg/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+1,Staff Data Analyst @ GetInData | Part of Xebia,GetInData | Part of Xebia,Anywhere,via No Fluff Jobs,Staff Data Analyst @ GetInData | Part of Xebia Fully remote job 180-210 (B2B) PLN / hour,"[{'link': 'https://www.google.com/search?q=GetInData+%7C+Part+of+Xebia&sa=X&ved=0ahUKEwiTz-iTzcz8AhWBmokEHZrfAXMQmJACCIoL', 'text': 'See web results for GetInData | Part of Xebia'}]",,"['17 hours ago', 'PLN\xa0210 an hour', 'Work from home', 'Contractor', 'No degree mentioned']","{'posted_at': '17 hours ago', 'schedule_type': 'Contractor', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJTdGFmZiBEYXRhIEFuYWx5c3QgQCBHZXRJbkRhdGEgfCBQYXJ0IG9mIFhlYmlhIiwiaHRpZG9jaWQiOiJWdHl1RkxLaS1DOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFcUlDQ3VJQlFVTlFkMnBxVkZWTWVHcFZiREJ3ZWpreFVEUm9OVXhHU1VKT1VYWTVTRFV6T1ZWU2VtbGZaek53U0ROSGJGaFJkME5WWTNwUFJFSkVRa0UzZGkxdmJreEllWGMzV1V0S1kwbGliMGhUTWpKRlJHUnVTRlJQWjB4VGJYZDNMVEpEUlZCb2JqUk5VVWRSYzBWdE1GbHhZamxXV2poZldUaHBjWFpmVWpaRU9HZFlNamxKTUV0amJqaGljbTQ0VVU1V1ZYRXljWEpMUnpaSldGaE1hbXRJTlU1d05GQmhZM1ZCWWxKeFIxWmZSMHQzVGtwMVkwMUpNR0ZwUXpkVVoxZEJlbUZHUzA5MmVYa3dXbmRRZDNaU2RIb3dWbXRqYmpSWmIzQjNhRFkzYzNCcmR4SVhkbGxtUmxrNVVEaEhXVWN4Y0hSUlVHMXlMVWh0UVdNYUlrRkdYelpOUVU5cGJXcFFjMnhMTjFSdVVWVkRVR0UwTVVsTVlsSk1WRzFYUzBFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBObyBGbHVmZiBKb2JzIiwibGluayI6Imh0dHBzOi8vbm9mbHVmZmpvYnMuY29tL2pvYi9zdGFmZi1kYXRhLWFuYWx5c3QtZ2V0aW5kYXRhLXBhcnQtb2YteGViaWEtcmVtb3RlLTJ6eXhzbjk5P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+2,Data Analyst (Remote OR Hybrid),Relativity,"Kraków, Poland",via LinkedIn,"Are you looking to be in a workplace where colleagues inspire one another? Are you interested in competitive and impactful benefits? Do you prefer flexible work arrangements?
+
+The Data Analyst is responsible for supporting the Service Delivery department in advanced data analysis and reporting. You will participate in projects that partner with multiple areas of the business, as well as help with goal setting and KPIs. Your strong analytical and reporting skills will allow you to report on Service Delivery metrics and make meaningful recommendations that advance the priorities and efficiency of the team. You’ll work closely with Service Delivery leaders on target setting, capacity planning, customer experience reporting, performance reporting and other data analysis projects.
+
+Role Responsibilities
+• Accountable in being the subject matter expert as it pertains to data governance for Service Delivery.
+• Create moderate to complex reporting solutions (Tableau, SalesForce) based on... existing datasets
+• Run, interpret and share data and performance results with stakeholders, including standardized reports on a daily, weekly, and monthly basis from various inputs (Salesforce, JIRA, telephony solution, etc.) using various outputs (Excel, PPT, Tableau).
+• Surface insights and contribute to planning through accurate reporting and data analysis for our Service Delivery teams.
+• Assist in the discovery work needed for Service Delivery Operations programs, including but not limited to, data collection, scrubbing and presenting.
+• Report on departmental and team goals, maintain dashboards, and provide data analysis to your leader to make strong recommendations that meaningfully contribute to Relativity’s Service Delivery strategy.
+• Adhere to best practices in reporting and data quality that allow the Service Delivery team to accurately report on key activities.
+• Participate in business-critical operational projects that partner, collaborate, and strategize with teams inside and outside of Service Delivery.
+• Run ad hoc projects as needed that are data driven, focusing on success metrics specific to teams.
+
+Minimum Qualifications
+• Experience with a SaaS or subscription-based software company.
+• Intermediate knowledge of a CRM tool, preferably Salesforce.com
+• Exceptional skills in Microsoft Office with an emphasis on Excel
+• 1+ years experience building or enhancing dashboards within data visualization tools (eg. Tableau, PowerBI, Qlik)
+• Familiarity with SQL and relational databases
+• Familiarity with statistical analysis / data mining techniques and software
+• Ability to analyze and document complex business processes.
+
+Relativity is a diverse workplace with different skills and life experiences—and we love and celebrate those differences. We believe that employees are happiest when they're empowered to be their full, authentic selves, regardless how you identify.
+
+Benefit Highlights
+
+Comprehensive health plans
+
+Flexible work arrangements
+
+Two, week-long company breaks per year
+
+Unlimited time off
+
+Long-term incentive program
+
+Training investment program
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law","[{'link': 'http://www.relativity.com/', 'text': 'relativity.com'}, {'link': 'https://www.google.com/search?q=Relativity&sa=X&ved=0ahUKEwiTz-iTzcz8AhWBmokEHZrfAXMQmJACCLwL', 'text': 'See web results for Relativity'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP92i5iAbNi0O_UgZeM6L3vq5nbpnXy7xDkbB4av0&s,"['3 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '3 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKFJlbW90ZSBPUiBIeWJyaWQpIiwiaHRpZG9jaWQiOiJKZl9ndGluU1lnd0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVTlFkMnBxVkc4NWJqaGtVVVZZZWtacGJsbEZjbUZTUjJSNE1HMHdaMnhIVlV3NVZYZGtORkU0ZUVScWJDMVNjbXBhTTBKWVNWVndXbmsxV1c5SGNqUk5PVGcwZG1JMGNFTlNNamg0VlVGTFdETTJRVzVsWWs4M056TXRRVUpWYXpoNlYwWXdhM2hYYWs1eVQyWkRORmQ2VnpWVldXTkZaUzA0YkV4b1RUbEVURFZyTWxReWNqQlpVMGd6VEZZeFYzcFVjRGRNVTFKWE16WXhObm96UjNoR1dHdExkbVp6YkZCa1owdGFaM1pzVVV0RFNVMXhiV280Y201aVNVMWZla3BGUVU0eWFEQldhMjB6RWhkMldXWkdXVGxRT0VkWlJ6RndkRkZRYlhJdFNHMUJZeG9pUVVaZk5rMUJUVlpoVWxNMU5EQnBaRVpvV1hwdFRXVTNOV1ZsZUdrMmVuWk9VUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L2RhdGEtYW5hbHlzdC1yZW1vdGUtb3ItaHlicmlkLWF0LXJlbGF0aXZpdHktMzQ0MDkyMDUyMj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+3,Cloud Data Analyst,Siemens,"Warsaw, Poland",via Trabajo.org,"Job Description
+What role will you play? We have lots of ideas about how to successfully drive digitalization in companies. For example, with open cloud platforms, highly developed security systems, precise analytics algorithms, and clever tools for developers. What is your role in this? Move the world from behind the scenes with your IT expertise and passion for game-changing information technology. Rethink IT and steer projects in completely new directions. Be bold when others would have given up and lead one of Siemens’ key data delivery teams within the domain of “Factory Data” to bring value to our business by developing and deploying next gen solutions for the Factory Data Cloud.As the Cloud Data Analyst you develop cloud solutions and data models on Snowflake for our customers from the domain across multiple locations to drive the Siemens’ digitalization. You will be responsible for: Supporting the data factory team to leverage enterprise data solutions and drive business value... Mining and analyzing data to drive efficiency and optimization, develop custom data models and algorithms, and develop processes and tools to monitor production systems and data accuracy Identifying, creating, preparing data required for modern BI solutions using new cloud technologies Interacting with clients, providing cloud support, and make recommendations based on client needs We are looking for: Experience as Cloud Data Analyst or similar role Experience with Data Warehousing and Dimensional Data Modeling Proficiency in SQL Experience with ETL/ELT processes Prior experience with Snowflake cloud based data warehouse You have a good understanding and experience in cloud technologies(AWS Preferred) Experience with Version control tools such as Git, GitLab Ability to understand technical concepts and turn them into business terms Experience working with international teams Excellent communication and mediation skills Business fluent English language skills (written and spoken) Bonus Qualifications: Experience with Financials and Sales data models Experience in visualization technologies ( Qlik, Tableau, PowerBI) Experience with scripting languages (Python,R,Java) Experience with data transformation tool dbt Experience in agile methodologies ( SCRUM) #Siemens #ITMakesUsMove Siemens is committed to creating a diverse environment and is glad to be an equal opportunity employer. We strongly encourage applications from a diverse talent pool
+
+Organization: Information Technology
+
+Company: Siemens
+
+Experience Level: Mid-level Professional
+
+Full / Part time: Full-time","[{'link': 'http://www.siemens.com/', 'text': 'siemens.com'}, {'link': 'https://www.google.com/search?q=Siemens&sa=X&ved=0ahUKEwiTz-iTzcz8AhWBmokEHZrfAXMQmJACCOwL', 'text': 'See web results for Siemens'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['11 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '11 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJDbG91ZCBEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6ImZOVTNJSWI4MEJFQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVOUWQycHFVa2hQVEZSaFNtNVdURFZ1UjBneGJEaHFRbkpvZG1oeVZURkpZbEUxTURGUlRIRnhVRlYwTkRKSVkzcEtSV0kyWlRONGRGRXlhSGRCYlUxT05tOU5VMEZYU1RNeGMyb3lUR1U0U25WcGJqWnVVR3RoVjNGNWVuTk5XbTVNUm1Jek4wWnFhMW94WWxsQmMxcFFiV3BVTkRJM2JHMDBRV05SVWxCT2JHNU1UVlpqVkZsTloxVXhVRE0wVHpCdmVGUm5MV2hITWxWUk1GRndUVVkzVXpSTE1raHBNVEp4VTBNdFpYVXpTbmt6VWtvd0VoZDJXV1pHV1RsUU9FZFpSekZ3ZEZGUWJYSXRTRzFCWXhvaVFVWmZOazFCVUMxZk9YWjROMmhyWWtsd1oxUm5jbnBCU2xCVlJURnBWalZoWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY182IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTkzNS0yMDIzMDExNi00MWFjNTY3NzU1MTNmNDJlNWE2MDYyMDFmYTkxYzFlMz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+4,Senior Data Analyst,Groupon,Anywhere,via LinkedIn,"Groupon is an experiences marketplace that brings people more ways to get the most out of their city or wherever they may be. By enabling real-time mobile commerce across local businesses, live events and travel destinations, Groupon helps people find and discover experiences––big and small, new and familiar––that make for a full, fun and rewarding life. Groupon helps local businesses grow and strengthen customer relationships––resulting in strong, vibrant communities. Even with thousands of employees spread across multiple continents, we still maintain a culture that inspires innovation, rewards risk-taking and celebrates success.
+
+Groupon is building an Analytics Center of Excellence and seeking an analyst who will help us manage and scale our analytical solutions. We are looking for someone who loves to observe data, is curious to learn, and is keen to identify trends that may enhance our value to customers and merchants. The team isn't simply proficient in SQL and statistics; they... also have a genuine love for using data to solve problems, a drive to pursue innovative new concepts, and a willingness to go the extra mile for execution.
+
+We're a ""best of both worlds"" kind of company. We're big enough to have resources and scale, but small enough that a single person has a surprising amount of autonomy and the potential to make a meaningful impact. We're curious, fun, a little intense, and kind of obsessed with helping local businesses thrive. Does that sound like an exciting place to work?
+
+We are searching for someone who is passionate about enabling data-informed decision-making, enjoys finding root causes, fosters a growth mindset, and is continuously aiming to improve the quality of insights.
+
+You’ll spend time on the following:
+
+Acquiring business acumen
+• Partner with decision-makers to comprehend the issues that our customers and merchants are facing
+• What features/initiatives are planned, and what problems/benefits are they intended to address?
+• Discover the Groupon customer/merchant journey and explore the specifics of each touchpoint
+• What Key Performance Indicators are used to track the performance of businesses?
+• What effect does a process or product have on our north star metrics and goals?
+• What KPIs are important to the leaders of different lines of business?
+• How does your work support Groupon's goals?
+
+Insights development and socialising
+• Measuring and tracking customer/merchant engagement, as well as the effects of a particular initiative or feature
+• Scope, create, manage, improve, and scale an insights infrastructure to support data-informed choices
+• Use SQL and Python/R to manipulate data
+• Utilize visuals to transform data into actionable insights
+• Develop and routinely enhance insightful, UX-friendly dashboards
+• Surface knowledge and understanding to aid stakeholders in comprehending changes in KPIs and leading indicators
+• Discover relationships in data
+• Build and promote ""what if"" analysis to increase our ability to create recommendations
+• Identify opportunities, quantify them, and highlight the potential of your proposals
+
+We’re excited about you if you have:
+• Solid understanding of regression, probability, correlation, and its application in analytics
+• 5+ years of experience as an analyst
+• 5+ years of experience using SQL
+• 2+ years of experience using Python (Pandas, Numpy, Matplotlib) / R (Dplyr, Ggplot2, Tidyr)
+• 3+ years of experience with data visualization applications. Tableau preferred.
+• Understanding of A/B testing
+• A track record of using learnings to solve business problems
+• Bachelor's degree in any discipline
+
+Groupon’s purpose is to build strong communities through thriving small businesses. To learn more about the world’s largest local ecommerce marketplace, click here for the latest Groupon news . Plus, be sure to check out the values that shape our culture, guide our strategy and make our company a great place to work. And just don’t take our word for it. Hear from real Groupon team members, learn more about our inclusive employee groups, and check out our benefits. If all of this sounds like something that’s a great fit for you, then click apply and let’s see where this takes us.
+
+Groupon is an Equal Opportunity Employer
+
+Qualifications for employment, promotion, and other terms and conditions of employment are based upon the ability to perform the job. Equal-employment opportunities are provided to all applicants and employees without regard to race, creed, religion, color, age, national origin, sex, disability, medical condition, sexual orientation, gender identity or expression, genetic information, ancestry, marital status, military discharge status (excluding dishonorable discharge), veteran status, citizenship status, or other legally protected status. We are all responsible for maintaining this policy. Groupon is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may email us at hraccommodations at groupon.com. If you have concerns related to Groupon’s equal employment opportunities, you may contact Groupon’s Ethics Reporting Service Ethicspoint ","[{'link': 'http://www.groupon.com/', 'text': 'groupon.com'}, {'link': 'https://www.google.com/search?q=Groupon&sa=X&ved=0ahUKEwiTz-iTzcz8AhWBmokEHZrfAXMQmJACCJwM', 'text': 'See web results for Groupon'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0X0qaft3HjhKiyfH6q33XeTxfjXYBLfI88kd5Qm0&s,"['7 hours ago', 'Work from home', 'Full-time']","{'posted_at': '7 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJtaWplWnlLa05GZ0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdUlCQ3FJQlFVTlFkMnBxVVRCTGRFczBlRnBNTUVoMFkzbDJZVGxHVWtFd1pHTnJTbVZUTjFOMlJ6aE1YMVYzVTNVd1ZIQnRjMjUzU0VOT1JYSm9jbVJCTVVGclZFTlRSM0owVEROdWQzVkdOVVpsVG1vd1NtTmhjRzFYYzNsclRVcEdYM0ZUYjFweVQwVnNMVWhFZDJOdGJuRlJkRE5NVDBoRE5uVkVkRzE1V1RoaVlrTlVUa3BCUzFCWFkySjNkbE5mY3pSd1FuTldiWFpPTFhkRVdGRlRUbTEyTUVwQkVoZDJXV1pHV1RsUU9FZFpSekZ3ZEZGUWJYSXRTRzFCWXhvaVFVWmZOazFCVGtWVGRIWnFVVVp6VW04dGF6aG9kVE5pYUdjNFpXNUxZMjlZUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3ItZGF0YS1hbmFseXN0LWF0LWdyb3Vwb24tMzQ0MDYyOTE3MD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+5,Senior Data Analyst (Remote),Omni Calculator,"Kraków, Poland",via HR Software For Growing Businesses | Freshteam,"Senior Data Analyst
+
+Omni Calculator is a Polish startup that brings you 3000+ custom-built calculators (and still growing!). Each of them solves a real-life problem that, while tiny, is shared by millions across the globe. Our calculators take only seconds to use and give you precisely the numbers you need.
+
+We are visited over 16 million times per month and have been covered in media outlets such as The New York Times, The Guardian, and National Geographic.
+
+We are looking for a Senior Product Analyst who will bring data-driven insight into everything we do. Your recommendations will shape the product we’ll offer to our users and their experience, as well as help us make critical decisions on the strategic level.
+Responsibilities
+• Working with the Senior Product Manager on creating our products: identifying opportunities for improvements and verifying the effectiveness of introduced changes. The upcoming milestones on our roadmap are:
+• Internationalization of the Omni Calculator... website;
+• Full redesign of our website;
+• Delivery mobile app;
+• …. and more
+• Running analytics for the existing product: gathering information and analyzing users’ behavior, as well as providing actionable suggestions for changes.
+• Providing A/B Tests to support our Product Development
+• Working with the CEO by providing data, calculations and actionable insights necessary to make strategic decisions.
+• Preparing ad hoc analyses for other departments: marketing, HR, and research/content.
+• Scoping and creating an insights infrastructure to support data-informed decision making.
+
+Our Requirements
+• 3+ years of experience in a data/product analyst position with huge traffic.
+• Experience with web analytics, marketing funnels, and user conversion
+• Everyday use on expert level Google Data Tools (GA4, Optimize) and Data visualization tool.
+• Working knowledge of various business models and monetization methods, especially programmatic ad revenue.
+• Experience with supporting stakeholders in the data-driven decision-making process.
+• Excellent communication (in English :) and organizational skills.
+
+Nice to have
+Experience with working on SEO on large-scale websites
+• Experience with Atlassian Tools & GSuite
+• Experience with UX Research
+
+What we can offer you
+• Employment type of your choosing - B2B or Contract of Employment
+• Salary: B2B 15000 - 20000 PLN net + VAT/CoE 13000 - 17000 PLN gross
+• Remote work or hybrid work with the possibility of working from our centrally-located office in Kraków, Poland (200 m from the Main Square)
+• Work from home equipment fully provided
+• Other benefits include a Multisport card, funding of language courses, etc.
+
+What does the recruitment process look like?
+• An introduction call with the recruiter where you will learn more about the position (30-40 mins).
+• Call with COO and Head of HR to introduce you to the company culture (40 min)
+• Recruitment task.
+• Final call with the PM, External expert, and CEO to tell you more about the role","[{'link': 'https://www.google.com/search?q=Omni+Calculator&sa=X&ved=0ahUKEwiTz-iTzcz8AhWBmokEHZrfAXMQmJACCMoM', 'text': 'See web results for Omni Calculator'}]",,"['4 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '4 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IChSZW1vdGUpIiwiaHRpZG9jaWQiOiJfR01tdTFSSDlKOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVVhGdlUyWlJhMDF6VjJKU1NHSlpTMDFrWkhORGJYVkpWRjl2TmpsSmJFZHJRWGhDV1dwblEyWk9jMlpzZG1GS2VsaEROV2wzUWtoV1duQlpXbDl3Y1ZwVWRVWnNSVFZTYUVsTll6Z3paV2xUT1Y4M1JFeEZZa0pVVkZsRlpuWm1UR2wwVTB0SFgxbzRRVGRaZVZSeVgwTjBRM1I0UkVwQ1lqVmtiSFZXZW1OM0xWcDNaRUpNVW1oa2VYRlJiVkpFZVhwT01rUnhNbWRqZERGdlowUjJWVU41TlVSTVpGOTBTRGhqVVUxUWFuSlpFaGQyV1daR1dUbFFPRWRaUnpGd2RGRlFiWEl0U0cxQll4b2lRVVpmTmsxQlRWcFViMmRxYzFab1ZGUmtZMFphY21OTFltVnlPRGRYVld4U1p3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTAiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSFIgU29mdHdhcmUgRm9yIEdyb3dpbmcgQnVzaW5lc3NlcyB8IEZyZXNodGVhbSIsImxpbmsiOiJodHRwczovL29tbmljYWxjdWxhdG9yLmZyZXNodGVhbS5jb20vam9icy9RNXZ0M0hmV1dMbDEvc2VuaW9yLWRhdGEtYW5hbHlzdC1yZW1vdGU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+6,Product Manager Data & Analytics,Aon,"Kraków, Poland",via Aon - Talentify,"As a Product Manager (Data & Analytics) you will play a central role in the ACIA, gathering valuable information from various stakeholders and customers.
+
+You will lead all aspects of data and product development and management across the portfolio of data and analytics product suite. You will build and own the product roadmap, defining product changes, as well as process and user journey enhancements. As part of day to day product management, you will manage product related assets and supporting processes covering both acquisition and base management activity. You will also need to quickly identify, assess and prioritise various product-related opportunities to drive value.
+
+Forward thinking, effective planning and initiative execution is critical. Meaningful analysis, business case development, requirements drafting, and effective change and stakeholder management are also key to being successful in this role.
+
+About you:
+
+You will work alongside an agile team including, Product... Owners, developers and analysts. You will be responsible for guiding the success of products and leading cross-functional teams that are responsible for improvement initiatives.
+
+Aon is in the business of better decisions
+
+At Aon, we shape decisions for the better to protect and enrich the lives of people around the world.
+
+As an organization, we are united through trust as one inclusive, diverse team, and we are passionate about helping our colleagues and clients succeed.
+
+What the day will look like
+• Deliver projects and features on the product roadmap from conception through requirements gathering to development and post launch.
+• Communicate with key business stakeholders and relevant areas of the business about project status, technical capabilities, issues, and enhancements.
+• Lead delivery teams and act as Product Owner in the delivery of product backlogs and product releases.
+• Embed customer/market insights into the product development process at all stages from product inception to delivery of customer-centric solutions.
+• Collaborate with business stakeholders and Head of Product to refine feature roadmap and product backlog.
+• Define the strategic direction and product roadmap.
+• Support the active development of the Product Management function throughout the business through the introduction of new agile techniques and approaches to product backlog management and delivery.
+• Promote data literacy and guide a modern culture of data in an environment of experimentation and innovation where everyone can and does use data to make decisions – “data as an asset”.
+• Drive the strategic alignment of data and product needs across the organization, supported by strong data governance and development of trust in the data.
+
+Skills and experience that will lead to success
+• 3+ years working in a Product Management, Data /Analytics Manager role
+• experience working in large scale data and analytics programs within multi-national environment
+• Knowledge of enterprise BI platforms such as Tableau, Qlikview, Power BI and technology
+• Experience with agile product management tools (Jira, Confluence, other similar)
+• Experience in leading requirements workshops and working with senior stakeholders.
+• Clear and engaging communication skills – ability to lead workshops and articulate the commercial value of data and analytics to C-suite level senior stakeholders/clients (internal & external).
+• Prior experience as business or data analyst or similar roles
+• Engaging interpersonal skills and experience in working with cross-functional teams.
+• You have brought the voice of the customer to a technical team.
+• Excellent People management skills across a diverse, matrixed organization.
+
+How we support our colleagues
+
+In addition to our comprehensive benefits package, we encourage a diverse workforce. Plus, our agile, inclusive environment allows you to manage your wellbeing and work/life balance, ensuring you can be your best self at Aon. Furthermore, all colleagues enjoy two “Global Wellbeing Days” each year, encouraging you to take time to focus on yourself. We offer a variety of working style solutions, but we also recognise that flexibility goes beyond just the place of work... and we are all for it. We call this Smart Working!
+
+Our continuous learning culture inspires and equips you to learn, share and grow, helping you achieve your fullest potential. As a result, at Aon, you are more connected, more relevant, and more valued.
+
+We provide individuals with disabilities reasonable accommodations to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment in accordance with applicable law. Please contact us to request an accommodation on ReasonableAdjustments@Aon.com
+
+Aon values an innovative, diverse workplace where all colleagues feel empowered to be their authentic selves. Aon is proud to be an equal opportunity workplace.
+
+#technology&security
+
+#LI-AS2
+#LI-REMOTE 2522293","[{'link': 'http://www.aon.com/', 'text': 'aon.com'}, {'link': 'https://www.google.com/search?q=Aon&sa=X&ved=0ahUKEwiTz-iTzcz8AhWBmokEHZrfAXMQmJACCPoM', 'text': 'See web results for Aon'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKq8_a1mUZPtbw5TBhJdh10BOATmY1bCyp-cIVtg&s,"['17 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '17 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJQcm9kdWN0IE1hbmFnZXIgRGF0YSBcdTAwMjYgQW5hbHl0aWNzIiwiaHRpZG9jaWQiOiJva3ZBU0xhM1YxSUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVXpOUU5pMVNiR3haY1Y5dFRtOU9VVlI1YUV0Rk5FVnFlbGt4WDBoek1EQmhjbWxLUXpjdE1rcHdaV1ZyY21WdmRGcEpUa1ZtUzJGdE5ta3RUek5oTVVRd2VWTktPR3ByYzBWR1VtMUhSMFZoZEhGeE5pMDFTMUpNU1dWTGFWVk1PVGxhWkVkVWFUWTVNM3BUVkdKaFducFBWVTlVZG1ack9WTXRkVnB6UkUxYU5EYzJkVUZHTUhwYVdHVlVNbEY0TVhaMk1FZ3lkWG96TW1Ka1NrcGhRWEZuZVd4dFkweEpUVmR5U2tSR1EzWXdFaGQyV1daR1dUbFFPRWRaUnpGd2RGRlFiWEl0U0cxQll4b2lRVVpmTmsxQlRsZHdZVWcyYTJoT1JEUndVamRGUVhkWlRHNVphRm90ZEdsb1VRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQW9uIC0gVGFsZW50aWZ5IiwibGluayI6Imh0dHBzOi8vYW9uLnRhbGVudGlmeS5pby9qb2IvcHJvZHVjdC1tYW5hZ2VyLWRhdGEtYW5kLWFuYWx5dGljcy1jcmFjb3ctbXAtYW9uLTYzMTQ4P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+7,Data Analyst with foreign language,Capgemini,"Warsaw, Poland",via Capgemini,"Recruitment process for this position and onboarding trainings are conducted online.
+
+What do you need to start?
+• Analytical skills with attention to details and accuracy for numerical work
+• Hands-on Excel experience
+• Very good command of English and one of these languages : French, German, Portuguese, Spanish or Russian
+• Outcome focused, independent and pro-active personality
+• Ability to manage heavy workload (to meet the deadlines and deliver high standards of work by planning and prioritizing)
+
+It's not essential, but we appreciate if you also have:
+• Knowledge of other MS Office Programs
+• Ability to use web searching techniques
+
+What duties will help you grow?
+• Analysing and summarizing information and trends to gain insights on large client data.
+• Reviewing raw data outputs, processing data, documenting data and gain extracting actionable intelligence
+• Communicate complex data findings in a clear, understandable manner among multiple teams or to the data analyst leads
+•... Help the leads in root cause analysis. Proactively identify issues and risks, and work with the team for timely resolutions
+• Cooperation with other team members to work on solutions on various issues
+
+What have we prepared for you?
+
+Space where you can develop yourself:
+
+• Development programs, external courses & conferences, co-funding for certificates, NEXT platform with free access to TED talks, Coursera materials, articles and virtual trainings: MS Azure, AWS, Google Cloud or ServiceNow.
+
+• You will have possibility to join various technical communities.
+
+• Flexible working hours thanks to a variety of projects. Ask your recruiter about possible options.
+
+Our famous atmosphere:
+
+We don’t have a rigid dress code, but what we do have are awesome communities and world – changing initiatives. There’s always someone happy to start a day with a cup of coffee with you – even virtually! We are a big company with unique atmosphere – we make friendships, share important moments, and… simply like each other!
+
+A lot of benefits:
+
+• Possibility to work in terms of Flexible Work Policy, which include work in a hybrid model, flexible working hours, equipment package and more.
+
+• Well-being package (private medical care, additional life insurance & StayWell helpline).
+
+• Referral bonuses for recommending your friends to Capgemini.
+
+• Inspiro Audiobooks & Nais access.
+
+• Offices in great locations, car leasing program.
+
+Who are we?
+
+As the digital innovation, consulting and transformation brand of the Capgemini Group, Capgemini Invent helps CxOs envision and build what’s next for their organizations. Located in more than 30 offices and 22 creative studios around the world, it´s 6,000+ strong team combines strategy, technology, data science and creative design with deep industry expertise and insights, to develop new digital solutions and business models of the future.
+
+We are a rapidly growing team of talented Data Science enthusiasts which have dedicated themselves to building innovative and data-driven products & services for customers across industries. Our aim is to rapidly develop cutting-edge solutions by applying the latest technologies and data science techniques.
+
+Do you have any additional questions about our job offers? Check our Instagram (@capgeminipl) or visit our Facebook profile (Capgemini Polska","[{'link': 'http://www.capgemini.com/', 'text': 'capgemini.com'}, {'link': 'https://www.google.com/search?q=Capgemini&sa=X&ved=0ahUKEwiTz-iTzcz8AhWBmokEHZrfAXMQmJACCKoN', 'text': 'See web results for Capgemini'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQjOPvV-LCr6vXzXmfGhT44dW61QQAB_S5f39&s=0,"['15 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3Qgd2l0aCBmb3JlaWduIGxhbmd1YWdlIiwiaHRpZG9jaWQiOiI2RzRKMUtzaWQzQUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVTlFkMnBxVTNneFYxaHRlVzFKYVVoQk4xSmxSRXRITlVoTVdFdzFVbE51YzE5Qk0zTnVUbFpaYTBZMFFqSlRSVlJxYzA1NlNqWk5SemhwVm10M2VVZDBiMFpVTFZSdVJUSmpWMjh6YTBoc00zTk9aRzEyWDA1dVEwaGtjRVp2U0ZaeWFIbHZWblV4YVdRMGNrMVlSMlZzVFdZemJqSk1SVTUxVEhoU01XSnFUbGxSU0dkUFR6aHZOVEF0VkVSNk5UTXRUazU1ZGs5WVVtTlhiSEJrTVRWeFppMWZNVlV0UmtKUldFMUZkQzAzUkhkWVdUWmFNa3BNUjJwMlRXSlNabEoyUTNWQk1WRmZiV0p3RWhkMldXWkdXVGxRT0VkWlJ6RndkRkZRYlhJdFNHMUJZeG9pUVVaZk5rMUJUa290ZG1kQlZHa3lhRm93UlVKWVlVOURjRXhYUWkxblduRkhVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIENhcGdlbWluaSIsImxpbmsiOiJodHRwczovL2pvYnMuY2FwZ2VtaW5pLmNvbS9wbC1nYi9qb2IvV2Fyc3phd2EtRGF0YS1BbmFseXN0LXdpdGgtZm9yZWlnbi1sYW5ndWFnZS84NTI3NDE1MDEvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+8,Data Analyst,HRO Digital,Anywhere,via LinkedIn,"HRO Digital is an international company providing recruitment support within #Fintech, #Finance and #Banking market in EMEA. We connect the most innovative organizations with the best people in the market. We conduct systematic market research, which allows our Digital Teams to be a step ahead of the competition.
+
+Do you want to work for one of the world’s largest global banks? Want to be a part of its exciting digital transformation?
+
+Well, our Client offers just that. It’s exciting times here and if you’re looking for a role that will give you the opportunity to grow. Whether you want a career to take you to the top or simply take you in a new direction, we offer fantastic opportunities, support and rewards that will help expand your career.
+
+About the team:
+• Cybersecurity Team is responsible for enabling businesses and functions to manage their information security risks as well as ensuring risk and controls are assessed and implemented appropriately, objectively and independently... through professional and specialized subject matter experts.
+• The People Data Analyst is an internal facing role being part of Cybersecurity Education and Awareness team. The team has the specific responsibility for delivering Cybersecurity Education, Training, and Awareness material to all colleagues and Executives. You will report to Cybersecurity Education and Awareness Platform Lead.
+• The purpose of this role is to provide data-driven insights on user engagement, behaviour and risk metrics by developing BI dashboards, establishing/enhancing API-based data feeds, trend analysis and basic exploratory analysis.
+
+Key Accountabilities:
+• Develop a suite of BI dashboards on education and awareness activities across learning platforms, communication channels and phishing simulation
+• Collaborate with a developer to build API data feeds based predominantly on GraphQL
+• Use trend analysis and basic exploratory analysis to identify patterns, gaps and improvement areas within education and awareness initiatives
+• Manage the accuracy and consistency of existing reporting dashboards
+• Closely collaborate with Cybersecurity Sciences and Analytics team in order to exchange knowledge and develop new dashboards oriented around people data
+• Provide insights and data storytelling for the wider Cybersecurity team, including senior Executives
+• Develop an understanding and working knowledge of the tools and solutions currently present for BI and data analytics
+• Engage with peers and team members within the Cybersecurity functions to exchange knowledge, keep abreast with developments and work on continuously improving the Cybersecurity Training and Awareness activities
+
+Requirements:
+• Hands-on proficiency with BI tools such as Power BI, Splunk, Qlik, Tableau
+• Expertise in GraphQL, SQL, R or Python
+• Positive and professional attitude, team player, flexible and adaptable
+• Confident and takes responsibility and ownership for work and personal development
+• Ability to produce clear and concise reports for targeted audiences including senior management
+• Ability to build strong relationships and communicate on complex issues with a wide spectrum of stakeholders
+
+Knowledge is desirable, but not essential in the following:
+• Agile methodologies – Scrum, Kanban
+• Agile Tooling – Jira, Confluence, Slack
+• Learning Management Systems
+• Online research tools
+• 3 - 5 years of experience in Cybersecurity at large, complex financial organizations
+
+What's in it for you?
+• Long-term job in one of the largest banking and financial services organization in the world
+• Competitive salary, UoP or B2B contrtact
+• 100% remote work (Poland based) and flexible working hours
+• Contact with the best IT technologies available in the market
+• Guarantee that solution built will be wildly used and globally recognized, hopefully making customers happy by simplifying their interaction with a bank
+• Personal development and growth opportunities within the bank, long term relationship
+• Ability to work in an environment where quality is put over quantity, where it is understood that technical excellence speeds up not delays delivery
+• A place where you will be given space to take ownership and accountability for your work
+• Private health care and multisport card
+• Friendly teams and people-focused attitude
+• Parking few minutes away from the office, relax room, game room, bicycle racks in the underground garage, showers dedicated to cyclists","[{'link': 'https://www.google.com/search?q=HRO+Digital&sa=X&ved=0ahUKEwiTz-iTzcz8AhWBmokEHZrfAXMQmJACCNkN', 'text': 'See web results for HRO Digital'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2SzWcf2qXJGiMQmGqPqJMx0nmLa5u6G20AupEXk&s,"['4 hours ago', 'Work from home', 'Full-time', 'No degree mentioned']","{'posted_at': '4 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IkE2MjBNOUFWNFdRQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVOUWQycHFVVk5QYkhvMExXZGhlazFzVHpsSU9YcHZiMk54VEhkcFUzTkhObGhuZWpkWWNGUktSMmhZYlZKQ2VGWXlSM0ZVU0hndGNFeEtVa0oyZG5BM1VUVlJZMjVSVm1sd01rUTJVemRmZFRSSk5FZDNUMkZYYlVFMWJYVkVOSEZOVVdac1lVUldUa3BJTkVsSlJXbzNVemRqTkhVMlNITlJWRVptTkU5MVdVRlpTbGhoWm5kTU1YWnpXREprVjB0UlgwUTJjWGh4UjBwS1ZXSkhWVUZuRWhkMldXWkdXVGxRT0VkWlJ6RndkRkZRYlhJdFNHMUJZeG9pUVVaZk5rMUJUVTR4UkUwM2FHRkRSbFY2ZERKNGNFNUpSSFpCYUVSa1JXcFZVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9kYXRhLWFuYWx5c3QtYXQtaHJvLWRpZ2l0YWwtMzQ0MDkwMzQyMT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+9,Alpha Client Metrics Reporting Analyst – Officer,State Street,Poland,via Usekiwi.co,"Who we are looking for
+
+The State Street’s Alpha Sextant is seeking a versatile individual with data analysis and data reporting skills to support
+
+our new product offering. The product will provide meaningful and actionable insight from operational data throughout
+
+the asset servicing lifecycle through the creation of a fully integrated set of measurements for transmissions received
+
+from a Client’s Blackrock Aladdin Trade Order Management Application. These measurements will allow traceability
+
+and transparency from trade creation all the way through the asset servicing lifecycle. This integrated view will enable
+
+both our Clients’ and State Street to better understand and identify areas of risk reduction and operational efficiency
+
+improvements
+
+Why this role is important to us
+
+The team you will be joining is a part of Alpha. Sextant team within Alpha is a State Street business unit that provides
+
+data, analytics and reportings solutions to asset owners and asset managers, as well... as banks and insurance
+
+companies. Sextant helps our clients to reduce costs and to make more informed investment decisions.
+
+Join us if making your mark in research for the investment industry from day one is a challenge you are up for.
+
+What you will be responsible for
+
+As Client Metrics Reporting Analyst you will:
+
+· Proactively contribute to the design and build of metrics/visualizations that help managers and stakeholders
+
+understand the value and impact to both our Clients and State Street.
+
+· Support the creation and distribution of regular reporting packages to State Street clients on a regular basis.
+
+· Be responsible for the accuracy of reported information and able to clearly answer (both verbally and written) any
+
+questions that arise about this reporting.
+
+· Work collaboratively with other members of the team to build out evidence based analyses and help identify
+
+anomalies/patterns within the datasets to uncover areas of efficiency opportunity.
+
+· Support the creation of a suite of integrated data based measurements, analyses and visualizations.
+
+What we value
+
+These skills will help you succeed in this role
+
+· Strong analytical and strategic thinking skills with an ability to communicate complex ideas through pointed analysis
+
+and data visualization.
+
+· Ability to manage multiple deliverables through to completion, often under tight deadlines.
+
+· Attention to detail and the ability to consistently generate a high quality work product.
+
+· Solutions/client service orientation with focus and desire to deliver high quality client solutions.
+
+· Good numerical and analytical abilities.
+
+Education & Preferred Qualifications
+
+· Typically 4+ years of experience in Financial Services.
+
+· Experience or a demonstrated familiarity with the concepts of aligning data visualizations/KPIs
+
+· with underlying workflow processes.
+
+· Advanced skills in one or more data management or business intelligence tools such as
+
+· Excel, Alteryx, SQL, Tableau/Tableau Server, Teradata, Hadoop etc.
+
+· Familiarity with financial instruments.
+
+About State Street
+
+What we do. State Street is one of the largest custodian banks, asset managers and asset intelligence companies in
+
+the world. From technology to product innovation we’re making our mark on the financial services industry. For more
+
+than two centuries, we’ve been helping our clients safeguard and steward the investments of millions of people. We
+
+provide investment servicing, data & analytics, investment research & trading and investment management to
+
+institutional clients.
+
+Work, Live and Grow. We make all efforts to create a great work environment. Our benefits packages are competitive and comprehensive. Details vary in locations, but you may expect generous medical care, insurance and savings plans among other perks. You’ll have access to flexible Work Program to help you match your needs. And our wealth of development programs and educational support will help you reach your full potential. Inclusion, Diversity and Social Responsibility. We truly believe our employees’ diverse backgrounds, experiences and perspective are a powerful contributor to creating an inclusive environment where everyone can thrive and reach their maximum potential while adding value to both our organization and our clients. We warmly welcome the candidates of diverse origin, background, ability, age, sexual orientation, gender identity and personality. Another fundamental value at State Street is active engagement with our communities around the world, both as a partner and a leader. You will have tools to help balance your professional and personal life, paid volunteer days, matching gift program and access to employee networks that help you stay connected to what matters to you. State Street is an equal opportunity and affirmative action employer. Discover more at StateStreet.com/careers","[{'link': 'http://www.statestreet.com/', 'text': 'statestreet.com'}, {'link': 'https://www.google.com/search?q=State+Street&sa=X&ved=0ahUKEwiTz-iTzcz8AhWBmokEHZrfAXMQmJACCIoO', 'text': 'See web results for State Street'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5m3-aPhQbrlHq47_3YTRL0KGplOs7jsKrFEa&s=0,"['16 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '16 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJBbHBoYSBDbGllbnQgTWV0cmljcyBSZXBvcnRpbmcgQW5hbHlzdCDigJMgT2ZmaWNlciIsImh0aWRvY2lkIjoiV0JRbk1xTEtXdVFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXFJQ0N1SUJRVU5RZDJwcVUzbGtWRkl5VEZBNUxXUkhjaTFMVFRCMGNIZHlXRlZXWDNvMGNUbFJhR1pUUVU1eWExRmhRamszZDJ0QloxTlZlVkpXV0RVeldXWmZSRVZTWmxndFJ6bG1USGt0ZVU4elNYaHZiMTl5Y1dVeWF6Vk1ialpxZG5CS1ZHZDVTV0UyUzBwRU5YQXRjV3N0VFdoUU1FTldaa0pTTkdaVGIyRk1ia1YyYzFGeWNVRm5NVGg2UjNkWFlVVk1kVzExWDBWV01saExZVFIxUzI0ME9UbHdWRXRWWjBsalMxZGtUa2xVZWxoWWJUUnNRazVaVEc5Mk5VNDJRbVJTUW5SbVJta3hialV3UjJJNFdHNTROVE4yTFhsM056QmpUbXRmVkhKVVYySk9aeElYZGxsbVJsazVVRGhIV1VjeGNIUlJVRzF5TFVodFFXTWFJa0ZHWHpaTlFVNDJPWHBxZEc5MmQzZDVNRkZtT0V0SVVGaDRlR3c1V0dOcWMwRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE2IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFVzZWtpd2kuY28iLCJsaW5rIjoiaHR0cHM6Ly91c2VraXdpLmNvL2pvYi9hbHBoYS1jbGllbnQtbWV0cmljcy1yZXBvcnRpbmctYW5hbHlzdC1vZmZpY2VyLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+0,Senior Data Analyst,IPF Digital,"Warsaw, Poland",via LinkedIn,"Who are we?
+
+IPF Digital is a FinTech owned by IPF Group that offers online lending & mobile wallet solutions under the brands Credit24 and Creditea, operating in Estonia, Spain, Finland, Lithuania, Latvia, Australia, and Mexico. Our mission is to make life easier by offering simple and personalized financial solutions. At IPF Digital, our future is engrained in building a better world through financial inclusion. In effect, that is our purpose. We’re always searching for great people to help us achieve our purpose. We are people-light and technology-heavy and your role is to work as part of the IPF Digital Hub Data Team.
+
+You'll be joining a team of high-energy and passionate people, who pride themselves on how we work together as a team. We also truly believe in the importance of delivering great experiences for our customers, so we keep them at the forefront of everything we do.
+
+At IPF Digital, we embrace the pursuit of ensuring a great work-life balance for all. We work hard... however, we acknowledge the importance of flexibility and balancing our internal & external priorities. We also practice a culture of consistently reflecting and celebrating our wins and achievements with one another.
+
+The role
+
+This amazing opportunity offers a once-in-a-lifetime chance to be a part of the rapid expansion and growth of our fintech business.
+
+In your role, as part of the IPF Digital Hub Data team, you will be a hands-on, commercially focused Data Analyst that gets a buzz from seeing a direct link between the results of your work in the area of data technology and the bottom line, whilst working across a broad range of operational areas. You will work closely and act also as a middleman between IPF Digital functions (credit risk, finance, collections, sales, CRM, and marketing) and the technology area. This will be a varied role so you will need to be comfortable managing, analyzing, and visualizing data, developing software, and providing and presenting recommendations for strategic decisions and actions.
+
+The daily
+
+Here’s an example of your day-to-day activities:
+• Provide advanced analytical support as required on an ad hoc basis
+• Build end-to-end automated reporting and analytical solutions using Python, SQL (MySQL and T-SQL), Excel, and Tableau
+• Design clear data visualizations and report layouts
+• Participate in statistical model development projects
+• Introduce new technologies and tools which will improve and enhance Team’s toolset
+• Get stuck into the detail, noticing key trends and patterns across the business KPIs landscape and quickly acting upon them, recommending new strategies and approaches
+• Present reports, analyses, and recommendations to the team and business area leaders
+• Maintain and ensure effective and high-quality reporting, being open to challenge and feedback
+• Always look to do the best for your customers, whether internal or external
+
+What are we looking for?
+
+Here’s what experience we need from you:
+• Minimum 5 years experience in working with data analyses (within financial services - desirable)
+• Good knowledge of SQL
+• Knowledge of Python programming
+• Expert knowledge of MS Excel
+• Familiarity with BI and data visualization tools (e.g., Tableau, Power BI, QlikSense, Grafana etc.)
+• Thorough knowledge of data analytics and reporting techniques
+• Fluent in verbal and written English
+• Team player with the ability to work independently
+• Positive mindset – ‘can-do attitude’
+• Sense of humor! :)
+
+What we can offer you
+
+The culture at IPFD is driven by our shared values. People are put first, we accept differences and encourage individuality. Due to our flat business structure, we enjoy collaborating together. Although recognition is highly valued, failure is accepted...as long as it’s fast. Enjoying some good times together is also highly encouraged!
+• Hybrid working model - with flexible work-from-home arrangements 🏠
+• Global exposure 🌎
+• Office weekly lunches 🫕
+• Various team building events 🗓️
+• A true people first and family culture 🫂
+• Employee assistance program ℹ️
+• Development opportunities 📚
+
+If your answer is yes, please send us a brief cover letter outlining your experience and your CV.
+
+IPF Digital is an Equal Opportunity Employer and we value diversity and inclusion in the workplace. We seek to recruit, develop and retain the most talented people from diverse cultures, perspectives, skills, and experiences within our workforce. All employment will be based on merit, competence, performance, and business needs.
+
+Only short-listed candidates will be contacted. All shortlisted candidates will be invited to do an initial online screening as part of the recruitment process","[{'link': 'https://www.google.com/search?q=IPF+Digital&sa=X&ved=0ahUKEwiK-LOWzcz8AhWoMlkFHSBFBB44ChCYkAII3Ao', 'text': 'See web results for IPF Digital'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS1Xpw110saaIRAFXPyVnyqhTPLyf6v27K5zIcTBk&s,"['10 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '10 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJDc0ZZRFlJLWJoSUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdUlCQ3FJQlFVTlFkMnBxVkZoc2QyRk5OSEZLWVhjd2RqaGphMnhYVlV4WlpYVkRWVXhJUlV0blpEUkpSREp2ZWxoS05IZFFUM295U0dKMVpHSlVZbWt0Y1hWNE5XSkhTMWh1ZFV0Q01uWkRNazUyTm1ZNGFYQmtSSGhHYlZkeWQydzFTRlYyTnpWcVJEQnJUVmxTVFZGQmVXUTRWMVZZUnpNMmN6QXpWVzh3ZDJsTFMxSTFiMmhQVTBSeWVVZzJWRzFIVW10VlUyWnFNRzFQZUdoTmIyVTNhbE0zWTJabkVoZDNiMlpHV1RSeFVFNUxhbXcxVG05UWIwbHhVamhCUlJvaVFVWmZOazFCVDJVMVZIcGxSbUZuZG5FelZqRnBZbmRwZFU5YWREaDRibWRaZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3ItZGF0YS1hbmFseXN0LWF0LWlwZi1kaWdpdGFsLTM0NDA0NjQ1ODU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+1,Data Provisioning Business Analyst,AstraZeneca,"Warsaw, Poland",via Jobrapido.com,"Data Provisioning Business Analyst
+
+Macclesfield UK, Warsaw PLN, Barcelona ESP, Gothenburg SWE .
+
+Competitive Salary + Benefits
+
+Be empowered to be innovative and creative where difference is valued
+
+Would you like to be a part of a Data Science & Artificial Intelligence (DS&AI) group who has direct strategic impact on drug development, playing a key role in getting medicines to patients?
+
+At AstraZeneca, we are constantly pushing the boundaries of science to deliver life-changing medicines to patients, with a real passion for discovery and a pipeline to show for it. Here, you’ll have the opportunity to make a difference in people’s lives every single day.
+
+Data Science & Artificial Intelligence (DS&AI) group who has direct strategic impact on drug development, playing a key role in getting medicines to patients?
+
+At AstraZeneca, we are constantly pushing the boundaries of science to deliver life-changing medicines to patients, with a real passion for discovery and a pipeline to show... for it. Here, you’ll have the opportunity to make a difference in people’s lives every single day.
+
+AstraZeneca is investing in data management and analysis capabilities, through its long-term Growth Through Innovation Strategy. The DS&AI team collaborates across R&D to drive innovation through
+
+data science and AI. Together we seek to:
+• Improve our understanding of disease and uncovering new targets
+• Transform R&D processes
+• Speed the design and delivery of new medicines for patients
+
+The R&D Data Office, within DS&AI, is a key organisation to deliver upon AstraZeneca’s strategy. Data Office operates a central capability, with R&D wide accountability, to ensure that we harness the power of data to drive innovative science. Data Office will govern data, drive data quality and ensure our data is readied for analytics, creating paved-paths for scientists to perform data-driven research, without compromising our legal restrictions or ethical principles.
+
+Within Data Office, your role is Data Provisioning Business Analyst, a member of a dedicated Data Provisioning Operations team. This team perform data provisioning activities for AstraZeneca R&D, supporting data-driven science across our key therapy areas and all stages of drug discovery and development.
+
+As a Business Analyst, you will support two key themes of work. First, you will support end-to-end requirements engineering activities for our highest priority and potentially complex data provisioning projects. Second, you will be aligned to driving improvement of the Data Provisioning team operations including defining and monitoring team performance against KPIs, conducting process improvements in response to additional data scope, new team capabilities, evolving data governance and policies.
+
+In addition to core business analysis skills, to be successful in this role, you must demonstrate an excellent ability to communicate and analyse stakeholder needs across a broad range of disciplines and have a passion for driving business value to customer groups.
+
+In performing this role, your work will enable efficient data provisioning activities, ensuring that our data scientists are accelerated in their work, in turn, driving innovative science and ultimately, creation of novel life-changing medicines for patients globally.
+
+Typical Accountabilities
+• Supporting our engagement leads to scope-out data provisioning projects with R&D stakeholders.
+• Stakeholder analysis
+• Developing and executing on business analysis plans to drive success of data provisioning projects.
+• End-to-end requirements engineering for data provisioning projects, including planning and running requirements analysis activities (e.g., interviews, workshops), analysing user requirements and requirements documentation.
+• Following projects through to completion and ensuring our R&D partners achieve their desired outcomes, feeding back to the team and helping to plan tactical and strategic improvements.
+• As-is and to-be process mapping in response to additional data scope, new team and technology capabilities and
+• Helping the operations team lead to establish KPIs and subsequently monitoring team performance and evolving data governance and policies.
+• Process mapping conversion into operating manuals for services and new technology introduction
+• Analysis of metrics to create operational dashboards in Business intelligence tools
+
+Education, skills and experience required
+• Have a minimum of 5 years as a business analyst with a track record of successful business change project work.
+• Hold a degree or equivalent in a scientific, technical or engineering discipline.
+• Business process modelling notation.
+• Strong requirements gathering technique.
+• Ability to structure and generate robust and testable requirements.
+• Stakeholder analysis and management capabilities.
+• Hold an industry recognised qualification in business analysis, e.g., BCS or IIBA.
+• Experience from Pharma industry is significant advantage.
+• Experience working with data-related legislation and policy (e.g., GDPR) an advantage.
+• Lean Six Sigma experience strongly desired
+
+Why we love it
+
+If your passion is science and you want to be part of a team that makes a bigger impact on patients’ lives, then there’s no better place to be. Here we truly understand science and apply it every day to strengthen and grow our pipeline","[{'link': 'http://www.astrazeneca.com/', 'text': 'astrazeneca.com'}, {'link': 'https://www.google.com/search?q=AstraZeneca&sa=X&ved=0ahUKEwiK-LOWzcz8AhWoMlkFHSBFBB44ChCYkAIIiws', 'text': 'See web results for AstraZeneca'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvC-Z5aDtIf6Shq5M_3NV4IHaOCXlU3iUXmuSN&s=0,"['17 hours ago', 'Full-time']","{'posted_at': '17 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFByb3Zpc2lvbmluZyBCdXNpbmVzcyBBbmFseXN0IiwiaHRpZG9jaWQiOiJwWUZGZURDOXJpUUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVTlFkMnBxVVZsUVFuRTBlRFptV25veVFXVmtlRlppV2s4MVJrSnhSV05OUTIxWlRVWjFjV1EzU2toc09UQlFUbFZEYzAxTGNIUlBTa3hMYmpGNlF5MWtPV2gxU1VGbU1EUm1ORkZsWTNoSVkyazNVVFpuVEhSblYwUjZiRlppTnpaNVluZHFhbnByVjJOWE5tOHhhSFpVZFZsNE1GaGFkVjlSZVZORmNVRmtNMDVXWm5Zd1RFWTFORU41TVhjMVNHbFJURVpDZUhsMVpYVlNaVFJuUjBsR01VRmZRVTh6YW1SelZtbEphRzlVVlVvMWVFMVpaWFZuWjBKS1puVXdhRVZ4YTB4Vk5WTjZWbEZxRWhkM2IyWkdXVFJ4VUU1TGFtdzFUbTlRYjBseFVqaEJSUm9pUVVaZk5rMUJUelEyVGxoYVdXeGxSVmt0Y25aSWVVdHNibTF6UlZKbVowWXpadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icmFwaWRvLmNvbSIsImxpbmsiOiJodHRwczovL3BsLmpvYnJhcGlkby5jb20vam9icHJldmlldy83NzM0NzcwND91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+2,Data analyst / engineer – staż w Pionie Zarządzania Ryzykiem ...,Santander Bank Polska,"Wrocław, Poland",via Theprotocol.it,Data analyst / engineer – staż w Pionie Zarządzania Ryzykiem / Tribe Bussines Inteligence,"[{'link': 'http://www.santander.pl/', 'text': 'santander.pl'}, {'link': 'https://www.google.com/search?q=Santander+Bank+Polska&sa=X&ved=0ahUKEwiK-LOWzcz8AhWoMlkFHSBFBB44ChCYkAIItws', 'text': 'See web results for Santander Bank Polska'}]",,"['7 hours ago', 'Internship']","{'posted_at': '7 hours ago', 'schedule_type': 'Internship'}",eyJqb2JfdGl0bGUiOiJEYXRhIGFuYWx5c3QgLyBlbmdpbmVlciDigJMgc3RhxbwgdyBQaW9uaWUgWmFyesSFZHphbmlhIFJ5enlraWVtIC8gVHJpYmUgQnVzc2luZXMgSW50ZWxpZ2VuY2UiLCJodGlkb2NpZCI6Imp5UFBYMDdvRHRFQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0NDcmNDUVVOUWQycHFVVlJ3VnpSaVEyVnRjekJXWW5CUlNWWjJOSEpJT0VoM05FbEVXRTlNT1ZsdmNYcDVaMkZhVFUxZmVFbEhURmh5YlZrNVJraGhSMVZVV1RkQlZGSm5SVzlRWWtzd2NGSXRlRWhYU1RKT1NrOTVkVWRQVldjeVowWlNWa1pHVmpSNU9XOXliMk5LY0Zoa1ZGVmpRbmx4TTBaV2J6aHZkMjFMVFdvdE1raDRNblZ4VW01Qk5Wa3RYekZ4UkVKYVJsVk5jVU5sYm1GVVVETlJTV3R6V1c5bk56aDRRa2d6UjNCQ1ltNXNWVlJvTlUxMVJsVTVZVzV2T0hkeVNDMUlXVnBqYjFCSGVXMUtkSFl5ZDFkUWRFcEtSMjA1VTFGR1lVMVBUM3BKYWprd1YzRTJXVFpCTXpCaGVtdHZia3hYTkZjeFpWY3RaR1l4WW1ocFFsSXlNVm8zZG5aR2MybGZOelF5T1VNMlpVTk9TMGxqZDFSSVlYZFplbUkyUzBGR2NEVXdRVzQxYTNaZmNtUTVRemRDUmswelkxVVNGM2R2WmtaWk5IRlFUa3RxYkRWT2IxQnZTWEZTT0VGRkdpSkJSbDgyVFVGUWRFWnJjeTFFYzBrMWVUWjNSelZVU2xGUmJWTTRUM3B3UmpCbiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVGhlcHJvdG9jb2wuaXQiLCJsaW5rIjoiaHR0cHM6Ly90aGVwcm90b2NvbC5pdC9zemN6ZWdvbHkvcHJhY2EvZGF0YS1hbmFseXN0LS0tZW5naW5lZXItc3Rhei0tdy1waW9uaWUtemFyemEtZHphbmlhLXJ5enlraWVtLS0tdHJpYmUtYnVzc2luZXMtaW50ZWxpZ2VuY2Utd3JvY2F3LG9mZXJ0YSxjZjZjMDAwMC1lNjc1LTJhMWEtN2EzZC0wOGRhZjdhN2ZhZTU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+3,Senior/Expert Data Analyst in Strategic Change Team,ING Hubs Poland,Poland,via LinkedIn,"At ING we value and support our employees before recruiting external talent. If you think this vacancy is the right next step in your ING career, we’d encourage you to apply. Should you have questions about the vacancy or need to hear more before you feel you can apply. Please do not hesitate to reach out to the responsible recruiter.
+
+We are looking for you if:
+• You have at least 5 years of professional experience,
+• You have working experience in cooperation with stakeholders, requirements gathering & analysis,
+• Knowledge of techniques used in business analysis,
+• Independent, creative and proactive way of thinking,
+• You have working experience in a bank or financial institution,
+• You have hands-on working experience with SQL/PL SQL/T-SQL,
+• You have hands-on working experience with SAS 4GL/Python,
+• You have hands-on working experience with one of the reporting tool: Power BI/SAS Visual Analytics/IBM Cognos,
+• English level - C1.
+
+You'll get extra points for:
+• Knowledge of... Risk aspects in a Bank
+• Experience in working with Agile / Scrum
+• Experience in regulatory reporting (ECB, EBA)
+• Experience in working with credit or market risk modelling (PD, LGD, EAD, IFRS9, IRB)
+
+Your responsibilities:
+• Communication with Stakeholders, gathering & analysis of the requirements
+• Performing data analytical activities: sources investigation, reports preparation, creation of dashboards, automations
+• Possibility to participate in projects related to Machine Learning
+• Analysis of the processes and proposals for improvements
+• Performing analysis to assess quality and meaning of data
+• Analysis of internal and external regulations
+• Preparation of functional documentation
+
+Information about the team:
+• We are looking for senior specialists / experts to join the squad under Strategic Change and Business Management Team. This is part of Risk area in a bank. The aim of the team is to modify existing processes to improve their effectiveness, efficiency and implement changes related to technologies that are currently used. Ultimately, unification of the processes, structures and environments. It is required to propose new solutions for data processing. In addition, collecting, analyzing and documenting business requirements. We work in an international environment we use English on a daily basis (written and spoken","[{'link': 'https://www.google.com/search?q=ING+Hubs+Poland&sa=X&ved=0ahUKEwiK-LOWzcz8AhWoMlkFHSBFBB44ChCYkAII5As', 'text': 'See web results for ING Hubs Poland'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjE84-E0xIPrFMlj95AD_OwnpqGeaNkre3XBDJlpg&s,"['4 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '4 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IvRXhwZXJ0IERhdGEgQW5hbHlzdCBpbiBTdHJhdGVnaWMgQ2hhbmdlIFRlYW0iLCJodGlkb2NpZCI6IkJRaVdpUEF3NlJzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVvd0NDc3dCUVVOUWQycHFVV1ZsWnpaR01GTXdaekV3VFZCQlIwOHdXVWsyVUVoRk5sTmxWbU10TmxkTU1tWndYMVYyTm1KNlIwRmpTRGRSZFdab2VuRTVWMFZ0YmswMWMydzVVVUZXZG5wWFgzYzNjVEpxWW1jNExXTmFWMjlaZW5kUlFrWkphRXhFWlRsRlNuSmlYMUkwYVV3eGEweDFaMGhtWDE5SE5rcHpUVWRLY3paUkxXMHRNMHBoWTNNMlRubHJPVzlHUVRKdlZtZEpTak5rUmxaaWIwTkdSM1Y0Wm1RMWVFVktkVWhaY1VWRlRGQTNaMVF5VVVwRWJGVkZXa0YzYlVSUlptWnVVa1paV1c5bWVqTk5FaGQzYjJaR1dUUnhVRTVMYW13MVRtOVFiMGx4VWpoQlJSb2lRVVpmTmsxQlRqaEVhRGhwVEd4Tk1uRjRkSFJYVTBkeVlrNUJUbDl6TkROV2R3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc2VuaW9yLWV4cGVydC1kYXRhLWFuYWx5c3QtaW4tc3RyYXRlZ2ljLWNoYW5nZS10ZWFtLWF0LWluZy1odWJzLXBvbGFuZC0zNDM4MjYyMTkyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+4,Senior Command Center Specialist - Data Analyst,Capgemini,"Kraków, Poland",via Capgemini,"Recruitment process for this position and onboarding trainings are conducted online.
+
+What do you need to start?
+• Fluent in English.
+• Hands-on experience in reports & analytics.
+• Knowledge of VBA and basic knowledge of HTML, Javascript
+• Ability to recognize and interpret business requirement and turn this need into technical solution.
+• Ability to clearly communicate technical details to business and working in close alignment with various stakeholders.
+• Demonstrating good organizational skills.
+• Knowledge of Python or other scripting language would be an asset
+• Knowledge of Microsoft Cloud Technologies would be an asset.
+
+What duties will help you grow?
+• Building the data reporting (financial and non-financial) and analytics function & processes for the Digital Employee Operations Practice.
+• Developing measurement of volumes, activities (services) and performance (quality).
+• Building reports and dashboards in Microsoft Power BI.
+• Designing and creating data models and... support Power BI Data modelling.
+• Support business initiatives by identifying necessary data sources, metrics and analytical methods.
+
+What have we prepared for you?
+
+Personal and professional development:
+• Development programs, external courses, education & certificates co-funding
+• NEXT platform with free access to Pluralsight, TED talks, Coursera materials, and virtual trainings: Excel, VBA, RPA, customer care and more.
+
+Our legendary atmosphere:
+• We don't have a rigid dress code, but what we do have are awesome communities (e.g OUTfront, Women@Capgemini, Foreigners Community) and world – changing initiatives like Grant Program. We are a big company with unique atmosphere – we make friendships, share important moments, and… simply like each other!
+
+A lot of benefits:
+• Private medical care, which can be extended by a package of dental services purchased on preferential terms.
+• Private life insurance which can be extended by oncology package purchased on preferential terms.
+• Referral bonuses for recommending your friends to Capgemini.
+• Access to Inspiro Audiobooks & Nais (cinema tickets, Multisport and more).
+• Offices in great locations, car leasing program, carpooling options and bicycle parking.
+
+Who are we?
+
+Being one of us means stability of employment and constant development among other great people. We want to share with you our experience and exchange it for yours in a mutual partnership.
+
+Capgemini is a global leader in consulting, technology services and digital transformation. Our scope is wide. One of our units is Business Services created by extraordinary people who provide solutions to our international clients in areas such as HR, Finance & Accounting, Supply Chain or Business Transformation.
+
+Do you want to get to know us better? Watch a short video: https://youtu.be/K8v_UJ7CH8c
+
+Do you have any additional questions about working at Capgemini? Check our Instagram (@capgeminipl) or visit our Facebook profile (Capgemini Polska","[{'link': 'http://www.capgemini.com/', 'text': 'capgemini.com'}, {'link': 'https://www.google.com/search?q=Capgemini&sa=X&ved=0ahUKEwiK-LOWzcz8AhWoMlkFHSBFBB44ChCYkAIIlAw', 'text': 'See web results for Capgemini'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQjOPvV-LCr6vXzXmfGhT44dW61QQAB_S5f39&s=0,"['15 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgQ29tbWFuZCBDZW50ZXIgU3BlY2lhbGlzdCAtIERhdGEgQW5hbHlzdCIsImh0aWRvY2lkIjoiUERiSEpfc1JJd2tBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXFJQ0N1SUJRVU5RZDJwcVUwVnJTemQ0ZHpCQ1FXTk1RVWxEVldaeWRsTnJNR1pSY3pkc1ZtTnRPVnB2YTNkUE16Uk9PRmRMYnpSWlUxOTBRVlZuWjI1dmRUWjViako0WTFCQ1MzWlJhRGQzV2tzMWRHUnhiV0ZKZUdWdFVrWlRVRUZPUVVwVlpFTmpWbXQzTkRWR09VbEtiWEJ2Y21SNVZETXplbFJDVVRnMVRYUk9TRjlJVTA1Sk5uQkVSbU0wYWtWaFZXWnRTMEU0TVVwV01FUkZRM0JVT0VKaWNVOUtjV1pUTjFSTk5XWTFibEozTUVOWVJuQXRkMFV4U1cxWGVITnRPREZQYlVKWlluWXpRazlmZFZSMGIwMTZSbnBOUWtOUVdrNDVSWEJSWkZSVGRYZHJkeElYZDI5bVJsazBjVkJPUzJwc05VNXZVRzlKY1ZJNFFVVWFJa0ZHWHpaTlFVOWtiblJqUkdoeWFsQk9NbXBOU0U1Q1lVOVVXa3hWYW1sVVZFRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ2FwZ2VtaW5pIiwibGluayI6Imh0dHBzOi8vam9icy5jYXBnZW1pbmkuY29tL3BsLWdiL2pvYi9LcmFrJUMzJUIzdy1TZW5pb3ItQ29tbWFuZC1DZW50ZXItU3BlY2lhbGlzdC83ODA2MTY5MDEvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+5,Mid Data Engineer,Acaisoft,"Warsaw, Poland",via Trabajo.org,"AWS (nice to have)
+Azure Data Lake Store (nice to have)
+IoT (junior)
+Big Data (regular)
+Airflow (regular)
+Spark (regular)
+Python (regular)
+ETL (regular)
+
+Hi there If you’re looking for a high-impact position in an ambitious software house we’ve got a match for you
+
+We are looking for Mid Data Engineer to work with our client - an American company from the advertising industry. Our customer's solution is a data-led intelligence platform that uses purchase signals to help other organizations deliver emotionally resonant experiences.
+Join the crew and become our next Data Engineer
+
+Your main responsibilities for this position will be:
+• Implementing Big Data Architecture in Azure IoT.
+• Working with ETL processes using, for example, Databricks.
+• Developing, testing, and implementing Spark jobs.
+• Ensuring the top level of data quality.
+• Understanding business logic and applying it in the processing.
+• Participating in the requirement discussion meetings and providing feedback on... inconsistencies.
+
+This offer will be a perfect match for you if you have:
+• Minimum 2.5 years of experience working in a related position.
+• Hands-on years of experience with Python.
+• Big Data experience.
+• Knowledge of Airflow, and Spark.
+• Fluent in English (min. B2).
+
+It is worth joining us because of:
+• Flexibility - working hours are flexible just like the work mode, you can work remotely or in a hybrid model from one of our modern offices in Białystok, Warszawa, or Gdańsk.
+• Great atmosphere - we value a friendly, informal atmosphere, and direct contact with everyone in the company.
+• Outstanding People - we understand that great teams are about personalities, not just skills. Therefore our team accommodates a fantastic blend of individuals and management that removes roadblocks.
+• Modern technologies - we use proven technologies that are currently up-to-date. Even if you have not used all of them, you can make up for it with us
+• Unlimited possibilities - you’ll get the opportunity to develop your qualifications thanks to sponsorship for the industry's meetups and conferences as well as working on challenging international projects with the latest technologies.
+• Private medical care and Multisport - we care about your health and wellbeing so you’ll get access to private medical care for you and your family, and partial funding for a sports card.
+• Office perks - such as chillout rooms, delicious coffee, fruit Mondays, pizza Fridays, etc.
+","[{'link': 'https://www.google.com/search?q=Acaisoft&sa=X&ved=0ahUKEwiK-LOWzcz8AhWoMlkFHSBFBB44ChCYkAIIwgw', 'text': 'See web results for Acaisoft'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['2 minutes ago', 'Full-time', 'No degree mentioned']","{'posted_at': '2 minutes ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJNaWQgRGF0YSBFbmdpbmVlciIsImh0aWRvY2lkIjoiQmRBcVBoVXRWeFlBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXVJQkNxSUJRVU5RZDJwcVUwMW9RWEJLYkhoVVVHOHdjM1ZNZWtFd2RqaHRjbGRZU2pOSVpHMVVaMmxoZFZOSmEweEVPRGhYYjFwNmJFWnlhRms1V1ZFNWNsWm9XRTVmZDBGdVVreHpkV0p0TTNSVGRFbEpiMUZKV1dkVVpHdG5hMUIzUlV0NE5UVlpXR0paTFc5SGRuSjZXbkJ2TTA1SWJIaFNVVEp2V21aNFRVTlVUWEkzU1RsR2RETTFVRXB1ZDNkcGNsY3RlalYyUm04MWNFaG5iMnBVV0hwS05WVlJFaGQzYjJaR1dUUnhVRTVMYW13MVRtOVFiMGx4VWpoQlJSb2lRVVpmTmsxQlVDMTJSR1paYW5Ka01qZHhSa2g1VUZoMlRXNXpibnBmWkZoamR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTEyNTUtMjAyMzAxMTYtMmNjZTQwODQ3NzNjZmY5ODY4ZTFlOGYyYjViMDNkYTU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+6,Business Analyst,AstraZeneca,"Warsaw, Poland",via Trabajo.org,"At AstraZeneca, we are united by a common purpose: to push the boundaries of science to deliver life-changing medicines. Every day, we make a difference by delivering potentially life-changing medicines to millions of people worldwide. Our purpose is results-oriented and so is our approach. Becoming a more agile and creative company means building a dynamic, inspiring culture where we celebrate diverse, bold thinking, are curious, creative, and open to new insights and ways of working.
+
+As part of the Innovation & Business Excellence (IBEX) team AstraZeneca's Marketing Company Poland the Business Analyst will be responsible for c lose cooperation with Finance Business Partner and Business Units aiming at analytics on financial and products as well as insights development.
+
+Your responsibilities
+• Coordination and analysis of data from a variety of sources,
+• Providing analytical support for brand forecasting and budgeting
+• Providing ad hoc information to support business decisions,
+•... Performing patients’ journey modelling
+• Monthly reports and commentaries,
+• Taking active part in forecasting of market performance
+• Communicating with Business regarding the forecast data collection,
+• subsequent ad hoc analysis and reports preparation,
+• extracting value and ensure effective data management.
+• Working with outside consultants to perform complex analyses
+
+Our requirements
+• At least 3 years of professional experience within finance/data analysis,
+• Ability to work well in and across diverse teams,
+• Fluent English both written and spoken,
+• Very good analytical skills and focus on details
+• Knowledge of innovative pharmaceuticals market
+• Very good PC skills, including advanced Excel. SAP, BI Tools will be an asset
+
+Join AstraZeneca and help us deliver life-changing medicines. Be among our employees who continue to make us an innovation-driven company that stands firmly among the world’s leaders in biopharmaceuticals. APPLY","[{'link': 'http://www.astrazeneca.com/', 'text': 'astrazeneca.com'}, {'link': 'https://www.google.com/search?q=AstraZeneca&sa=X&ved=0ahUKEwiK-LOWzcz8AhWoMlkFHSBFBB44ChCYkAII8Qw', 'text': 'See web results for AstraZeneca'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['7 hours ago', 'Full-time']","{'posted_at': '7 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBBbmFseXN0IiwiaHRpZG9jaWQiOiJ1blJHdVJ5TW5qa0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVVRkRWFscFVVWFZvVnpSZk1FUmFjazFrUjAxbFlURm5kVzF4WWkxUk4xbFpRbTlwTjFOeFExVnVORGs1YzBsaU1GTXhMWEpxTWxGNGJXeElPWEYzTldkTFQzZExUSFk0VldSTlVtbExUMVptYVdGeGVrdFpVekJGUlVoTWFVbFhSbE5pVkhCWFJHdDZZMDVqUkcxMk5UZFdNblI0ZEhNdFNXNVhNM0pRWmpkQ2JsQk1jRzFMWm1oQ1FXVkNZVzV3TTNSeWFVeEVSSFY1WldOcFNVdFJkRjlJTWtScVZGRlZYMjR6WTB0MFRuSlJFaGQzYjJaR1dUUnhVRTVMYW13MVRtOVFiMGx4VWpoQlJSb2lRVVpmTmsxQlQycHlOVFJmV2taSGFYSnJka2xRV0RWRVExZFhVVnBIV2pOQ1VRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTAiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xNDI0LTIwMjMwMTE2LTA5Zjg3MjhkZjUxMGRiYzlmZWMwMjhhOGY4OWJhMmI0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+7,Analityk Big Data,Selectivv,"Warsaw, Poland",via LinkedIn,"Opis stanowiska
+
+· przetwarzanie, analiza i eksploracja danych mobile
+
+· tworzenie raportów i analiz
+
+· wparcie analityczne dla działu Sales
+
+· monitorowanie kompletności i jakości danych
+
+· rozwój metodologii, sposobu i zakresu przeprowadzanych badań przy użyciu Big Data i AI
+
+· budowa i utrzymanie systemu raportowania
+
+Wymagania
+
+· znajomość programowania w języku Python,
+
+· umiejętność pracy za pomocą zapytań SQL
+
+· analityczny sposób myślenia
+
+· wykształcenie: licencjat w dziedzinie matematyki, informatyki, statystyki, dziedzin pokrewnych lub ostatni rok studiów na wymienionych kierunkach,
+
+Opcjonalnie
+
+· Doświadczenie z narzędziami do wizualizacji, np. Google Data Studio (lub PowerBI/Tableau)
+
+· Doświadczenie z bibliotekami pandas, numpy, mathplotlib (Python)
+
+· Znajomość algorytmów Machine Learning, Data Modelling, Predictive Analytics
+
+Oferujemy
+
+· atrakcyjne wynagrodzenie podstawowe oraz premię za osiągane wyniki;
+
+· pracę w profesjonalnym, młodym i przyjaznym zespole;
+
+·... rozwój i zdobywanie doświadczenia w jednej z wiodących agencji digital na rynku polskim
+
+· nowoczesne biuro w dogodnej lokalizacji – Saska Kępa, Warszawa.
+
+· biblioteka dla pracowników (również online),
+
+· ciekawe spotkania integracyjne,
+
+· prezenty na rocznicę pracy w firmie,
+
+· dostęp do platformy językowej.
+
+Więcej o nas: selectivv.com
+
+Prośba o przesyłanie CV na maila: job@selectivv.com z zaznaczeniem nazwy stanowiska pracy
+
+Prosimy o zamieszczenie w CV klauzuli o treści ""Zgadzam się na przetwarzanie moich danych
+
+osobowych przez Selectivv Sp. z o.o. KRS: 0000564540, NIP:7773252049, REGON: 361871755 w
+
+związku z udziałem w postępowaniu rekrutacyjnym","[{'link': 'https://www.google.com/search?q=Selectivv&sa=X&ved=0ahUKEwiK-LOWzcz8AhWoMlkFHSBFBB44ChCYkAIInQ0', 'text': 'See web results for Selectivv'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3_27UYxC9_xZP7GLso3CYPsejsUqZ3h3znZbe4bU&s,"['10 hours ago', 'Full-time']","{'posted_at': '10 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJBbmFsaXR5ayBCaWcgRGF0YSIsImh0aWRvY2lkIjoiNjNhaG12ZUJkZFFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXVJQkNxSUJRVU5RZDJwcVZEQlZSVWM1VGxCQk1FRTFTMncxYUU5Rk1qaDVNVE5sU0Rac1oyZDRhRXBVVDJwak4wRkVUazkwT0ZoelRXTkVTbXhLTlVZMVZHOVBRVFJQZWpBM1lsRkdZMFl6WDBnNU1GZEdSSEpWZG5wUU16WlJiMVE0UlZkbGNuRnVPR1JCUmkxdWRWbFFRWFkxVGw4ME9XUmliV05aYVRCR1ZWQlBabms0TTE5cmJHaFZWWGhSWDNsUVdIZFVWM1ZmTUhKWVluSnVSbTlmVlRCdFFYaDNFaGQzYjJaR1dUUnhVRTVMYW13MVRtOVFiMGx4VWpoQlJSb2lRVVpmTmsxQlVEZzJkMjg1T0RFMVgyWXdVbGwzU2t4aExXMXBZV3BxU2xoZlFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L2FuYWxpdHlrLWJpZy1kYXRhLWF0LXNlbGVjdGl2di0zNDM4MDg5MzU3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+8,Business Analyst & PowerBI,DSV ISS,"Warsaw, Poland",via Theprotocol.it,Business Analyst & PowerBI,"[{'link': 'https://www.google.com/search?q=DSV+ISS&sa=X&ved=0ahUKEwiK-LOWzcz8AhWoMlkFHSBFBB44ChCYkAIIxw0', 'text': 'See web results for DSV ISS'}]",,"['8 hours ago', 'Contractor']","{'posted_at': '8 hours ago', 'schedule_type': 'Contractor'}",eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBBbmFseXN0IFx1MDAyNiBQb3dlckJJIiwiaHRpZG9jaWQiOiJkaHNyYVJBV0dhb0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVW1aelJVWkJNSEJ0WkRadlgzQkdTVlJEWlV4bmJ6WlZUR3ByUjJkek1tTTNUMXA2YUdoclVWbE5ibEZmZG5wclJEQTNkRGhhYlZGT2RGZDVla3RqVm1GMFNIUm5kV2xZZUdGcWJVTm5NbUpuZEV0aGJVYzNVSFJxVkdkZkxUWjZTR3BhT1RGU2NuUXpiMHBJVlZOa1RrMHlNM0V4V2xCelowOW9PRTlXY2xkQlVIUnFYMjFqUkZSMFpuVnpibWhFWWt4TExUY3pkbVZpZG5aVlJGcFNVa1p4WW5ZNU5GQmtkMnAxWWxOZmVYbEJFaGQzYjJaR1dUUnhVRTVMYW13MVRtOVFiMGx4VWpoQlJSb2lRVVpmTmsxQlRqVmlWWEJNVVRKbmNIWktlRU4xYm1ZeVVHeDNhR0UzWjNsMlVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVGhlcHJvdG9jb2wuaXQiLCJsaW5rIjoiaHR0cHM6Ly90aGVwcm90b2NvbC5pdC9zemN6ZWdvbHkvcHJhY2EvYnVzaW5lc3MtYW5hbHlzdC1wb3dlcmJpLXdhcnN6YXdhLXRhcy1tb3dhLTEwLG9mZXJ0YSxhNmM0MDAwMC0wZTc3LWUyY2QtZDBjMS0wOGRhZjdhMjZiMzc/cz0xODYzOTg4MzJcdTAwMjZzZWFyY2hJZD04OWU2MzJlMC05NTg0LTExZWQtOGU4Ny0zZjJmYTIzMzQ0NGJcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+9,Data Scientist,SCS Expert Sp. zo.o.,"Warsaw, Poland",via Trabajo.org,"j.angielski (advanced)
+SAS 4GL (advanced)
+Python (advanced)
+SQL (advanced)
+
+SCS Expert - jesteśmy firmą konsultingową i specjalizujemy się w obszarze analityki biznesowej i zarządzania danymi. We wdrożeniach naszych rozwiązań wykorzystujemy oprogramowanie SAS i Open Source. Nasz zespół liczy ponad 150 specjalistów, architektów, inżynierów danych, ekspertów data mining i Project Managerów. Świadczymy usługi dla firm polskich i zagranicznych, począwszy od instalacji oprogramowania poprzez realizację wdrożenia aż po utrzymanie i administrację zbudowanego rozwiązania. W SCS Expert jesteśmy nastawieni na rozwój pracowników oraz dostarczanie im ciekawych i rozwijających projektów. Liczymy, że osoby, które wzmocnią nasz zespół pomogą nam dalej budować pozycję na rynku.
+
+Data Scientist generują setki prognoz, modeli predykcyjnych, wniosków i rekomendacji biznesowych sprawiając, że nasi klienci otrzymują wiarygodne informacje co do aktualnych potrzeb i przyszłości swojego biznesu dzięki czemu... mogą podejmować odpowiednie decyzje. Wykorzystujemy najnowsze narzędzia i metody ze świata statystki, uczenia maszynowego i sztucznej inteligencji. Też chcesz brać w tym udział? Zapraszamy do nas Praca na dużych zbiorach danych i zaawansowana analityka to nasza specjalność. Tworzymy innowacyjne i najefektowniejsze rozwiązania zmieniające biznes naszych klientów na rynku Polskim i na Świecie.
+
+Twój zakres obowiązków
+
+· Praca na projektach dla wiodących na polskim rynku organizacjach z branży retail, ubezpieczeniowej, telekomunikacyjnej, finansowej. Możliwość udziału w projektach międzynarodowych.
+
+· Udział w projektach we wdrażaniu systemów informatycznych wsparcia sprzedaży, logistyki, obsługi klienta (m.in. CRM analityczny i operacyjny, wykrywanie nadużyć, ocena i zarządzanie ryzykiem, optymalizacja łańcucha dostaw) opartych o rozwiązania SAS i open-source
+
+· Praca na dużych zbiorach danych - analiza, zastosowanie algorytmów ML i wyciąganie wniosków oraz wizualizacja wyników
+
+· Rozwiązywanie praktycznych i teoretycznych problemów, a także zagłębianie się w prace twórczą i kreatywną
+
+· Analiza zachowań klientów i budowanie modeli prognostycznych, predykcyjnych, statystycznych i segmentacyjnych
+
+· Budowa koncepcji wykorzystania danych i zaawansowanej analityki w praktycznych zastosowaniach biznesowych wspomagających decyzje i procesy w organizacjach
+
+· Kreowanie i adresowanie wymagań biznesowych klientów
+
+· Pełnienie wiodącej roli w fazie analitycznej projektów
+
+· Mapowanie wymagań biznesowych na techniczną koncepcję implementacji rozwiązań
+
+· Opracowanie założeń, przypadków użycia, specyfikacji funkcjonalnej wdrażanych rozwiązań
+
+· Prowadzenie warsztatów, prezentacji i demonstracji biznesowych i technicznych
+
+· Zapewnienie wysokiej jakości wytwarzanych produktów
+
+Nasze wymagania
+
+· Oczekujesz pracy kreatywnej i twórczej, lubisz rozwiązywać złożone zagadnienia
+
+· Posiadasz umiejętność analitycznego myślenia, łączenia faktów, klarownej prezentacji własnych wniosków i potrafisz przekonać do swojego rozwiązania
+
+· Masz doświadczenie w projektach informatycznych przygotowujących analizy np. w działach CRM, logistyki, oceny ryzyka, obszarze wykrywania nadużyć
+
+· Masz minimum 2-letnie doświadczenie w wiodącej roli biznesowego projektanta systemów analitycznych (np. tworzących/wykorzystujących modele analityczne)
+
+· Posiadasz wykształcenie wyższe, preferowane metody ilościowe, ekonometria, matematyka, statystyka lub pokrewne, informatyka
+
+· Posiadasz i chcesz poszerzać wiedzę i umiejętności dotyczące zagadnień związanych z analizą danych i tworzeniem modeli analitycznych (statystycznych/ data mining/ machine learning/ data science)/budową kampanii marketingowych/wykrywaniem nadużyć (sieci powiązań)
+
+· Masz doświadczenie w zbieraniu wymagań, tworzeniu specyfikacji dla systemów informatycznych
+
+· Biegle posługujesz się narzędziami przetwarzania danych: SQL, Python, SAS 4GL
+
+· Masz doświadczenie w budowaniu modeli/rozwiązań analitycznych i predykcyjnych w Pythonie lub R
+
+· Mile widziana znajomość rozwiązań SAS (w szczególności 4GL, Enterprise Guide, Enterprise Miner, Visual Data Mining & Machine Learning)
+
+· Mile widziane doświadczenie w pracy z narzędziami Business Intelligence (SAS Visual Analytics, Tableau, Power BI)
+
+· Łatwo nawiązujesz kontakty, budujesz relacje i lubisz pracować w zespole
+
+· Potrafisz współpracować z interesariuszami, aby zrozumieć ich potrzeby i korelacje biznesowe analizowanych danych
+
+· Umiesz prowadzić spotkania biznesowe, prezentacje, szkolenia
+
+· Znasz angielski na poziomie praktycznego się komunikowania
+
+Oferujemy
+• Preferowaną przez kandydata formę zatrudnienia (umowa o pracę, współpraca B2B)
+• Benefity: opieka medyczna (również dla partnera/rodziny), ubezpieczenie grupowe, kartę Multisport, kurs języka angielskiego on-line, system kafeteryjny tj. vouchery na produkty i wydarzenia
+• Dostęp do różnych technologii oraz możliwość rozwoju zawodowego i podnoszenia kwalifikacji (m.in. szkolenia w zakresie technologii SAS)
+• Możliwość zdobycia cennego doświadczenia oraz współpracę ze specjalistami w swojej dziedzinie
+• praca hybrydowa (2 dni z biura, 3 dni zdalnie)
+","[{'link': 'https://www.google.com/search?q=SCS+Expert+Sp.+zo.o.&sa=X&ved=0ahUKEwiK-LOWzcz8AhWoMlkFHSBFBB44ChCYkAII8w0', 'text': 'See web results for SCS Expert Sp. zo.o.'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['2 minutes ago', 'Full-time']","{'posted_at': '2 minutes ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoiYzFkSGxIZ1QzWjBBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVU5RZDJwcVUzVnVWV3hQYm5KWldqTjBhVVpCV21zNVdrZHBlV3gzUkdWUFZIZFhjeTEyUkhGWVFtaENVa1ZKTWxkb1dGaFpkMUJaUkVOaU0xZGtRMnhaVG1SS2RYb3lhMU16WVRONWFrVnFVVEZCUkZCd2VXZFRVbGR2TVZZMVpEZzVRamRRUzFoRFYxcGxabkE1UjJOSlVHTlZabEZ4TURocE1HbHhOekpoY25GdE5UZ3Rla0pPUVRkRWJESmxiVkl0V0ZCRVUzVXhRM05YWjFsNFUyUlNRMUp0WW5aMk5tdHZZVlF6YTFGMGJqWXpVRTB3RWhkM2IyWkdXVFJ4VUU1TGFtdzFUbTlRYjBseFVqaEJSUm9pUVVaZk5rMUJVRWRvWDBsT2FXaE1UazgyWTFWak0xRllXR2R2VUhBNVEwaDVkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE0IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTI1NS0yMDIzMDExNi02YWNiYjBhZTdlYjFhYjY1MmZhMGE4MGU4MTcxOWFiMj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+0,Data Analyst,Product Madness 📱🎮,Poland,via LinkedIn,"Company Summary
+
+Product Madness is one of the world's largest mobile game studios, with a global presence. Founded in 2007, we’re today a top-grossing leader in social casino mobile games that are crafted with passion and commitment. Our ambition is to entertain millions of players around the world with our remarkable titles that include Heart of Vegas, Cashman Casino, Lighting Link and FaFaFa™ Gold.
+
+We are Mad about games and the way they bring people together, and that passion and culture is what holds us together as a studio, connects us with the partners we collaborate with, and is what links us to our sister studios across the world.
+
+Job Posting Title
+
+Data Analyst
+
+Summary
+
+We are growing our teams and this is an opportunity for you to join our sunny Barcelona office as a Data Analyst. You will be working together with other data analysts and data scientists focused on creating a holistic understanding of user journeys, life cycle management and user acquisition through... online performance marketing and other media. As a Data Analyst you will have a key role in defining, extracting and actioning data from big and complex datasets. Thus, covering the full scope from data mining to reporting. In addition you will also be responsible to evangelize the usage of data via dashboards and/or other means of visualizations to key stakeholders throughout the company.
+
+What You'll Do
+
+Why this role?
+
+This role is intended to strengthen the existing growth team in Product Madness and to ensure we are using the right data for the right decisions. Your key responsibilities will be to:
+• Work closely with other team members, data engineers and business stakeholders to ensure the data we are consuming is clean, robust and relevant.
+• Work closely with other team members to ensure they have easy access to reliable and relevant data in their work optimizing channels and campaigns by delivering self-service data though dashboards.
+• Perform on-demand quantitative analysis and reports to inform growth and/or operational strategy.
+• Execute and evangelize actionable insights within the team to optimise growth marketing.
+• Proactively work with our partners such as Apple, Google, Appsflyer etc. to ensure we maintain our ability to derive insights from the data we are provided with.
+
+What We're Looking For
+
+To do this successfully we believe you are:
+• Passionate about quantitative analysis and will have the ability to generate actionable business insights for the growth team, game teams and Product Madness as a whole.
+• Intuitive with regards to data interpretation, e.g. spotting anomalies without giving it a second thought.
+• Having a good understanding of core statistical concepts and techniques.
+
+Requirements
+• 2+ years work experience as a data analyst or data scientist in a similar field
+• Advanced knowledge of SQL
+• Experience with visualization tools such as Looker/Tableau/etc.
+• Strong in mathematics and quantitative analysis with a passion for numbers and data
+• Fluent in English
+
+Meriting skills
+• A masters degree in Computer Science, Data Science, Mathematics or a similar discipline
+• Experience with Python and/or R
+• Experience with building and tweaking attribution models
+• Experience with regression modelling and statistical analysis
+• Experience with setting up and analyzing A/B-tests
+• Experience from working with other F2P games, social casino titles or RMG or general knowledge about the mobile games industry or similarly sophisticated customer-facing digital businesses.
+• Interested in gaming and the mobile game industry
+
+Why Product Madness?
+
+Product Madness is so much more than just a Pool table and a foosball game.
+
+We believe in an honest and transparent approach with our teammates. Company wide weekly Town Halls, All Hands and strategy meetings are just a few ways in which we encourage an open and honest path to achieving complete transparency.
+
+Despite a pandemic, there isn’t a day where we don’t feel connected to one another.
+
+With frequent events, workshops, giveaways, slack coffee and donut sessions we have definitely brought on our office culture to this new virtual world of zoom calls.
+
+We also try to cater for all our staff’s needs – be that a freshly brewed cappuccino made by our professional barista in our free coffee shop or by providing a bountiful supply of tasty snacks to keep us refueled and buzzing.
+
+We love to organise plenty of social get-togethers and action-packed activity days, be it slipping inside an inflatable bumper ball for a mad session of football zorbing or throwing caution to the wind and traversing giddy treetop rope courses at Go Ape. On top of these team-building activities, our lunch and learn workshops, not to mention the lavish Christmas and summer parties, foster that ‘work hard, play hard’ mantra. Our offices are based in the heart of the metropolises of London and Lviv, surrounded by an abundance of diversity and inspiration to keep those ideas flowing.
+
+Our Values
+• People First
+
+We have the deepest respect for our people and their well being. We know they are exceptionally talented and will always have a choice. We want them to re-choose us every day. We are committed to building a culture where each person's voice will always be heard and addressed.
+• MAD for More
+
+Always improving, innovating and never settling for the existing. We push all boundaries with courage and ambition to become the world’s best games company.
+• Champion Together We excel at what we do but yet remain humble and helpful to our teammates. We champion one another and hold each other to high standards without any egos.
+• Globally Inclusive
+
+We are all Equal - regardless of the language we speak, where we live, our gender, religion or culture we come from. We want to build a global home, where everyone has the equal opportunity to make an impact.
+• Customer Focused
+
+We always think from the customer's perspective - be it players or internal customers.
+
+Improving their experience and joy is what drives us. Every client's success is our big win!
+
+R0011735","[{'link': 'http://www.productmadness.com/', 'text': 'productmadness.com'}, {'link': 'https://www.google.com/search?q=Product+Madness+%F0%9F%93%B1%F0%9F%8E%AE&sa=X&ved=0ahUKEwja95qXzcz8AhWUkIkEHXhrA4w4FBCYkAII3Qo', 'text': 'See web results for Product Madness 📱🎮'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXLbYIVUDnR6tXUYvGZySbBmrKWu06eGsWIBVvvSA&s,"['7 hours ago', 'Full-time']","{'posted_at': '7 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6ImVhSmhHb2F6OHl3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVOUWQycHFVMEpCVlV4Q2IzbHJOWGR1TFVkc04zQkhVbnBDUTNwelJVeHJVazF5VG5KS1ltNUdZbkJrYzFoQ05GTnNSRVp2YTJwWGR6bFJjRmhyUzNkcFgyOWZVbGt4V1hZdFpDMUhVV2hhZVdobVdGQlBkMmhvYTBsd01GQm5TRWRzYm5Gd1YzQnVVemRqY1ZoTE5XTmlWMXB1YTB0cmJ6RlpXRVF3V0RSUVRtcFBYME16YW5ZME9VRmZNR2xpYTJWNlRtMWhkRVJyVWtwdWNGSjRUVnB3U0RkZlMzaHhjRXROT0hkdWQyRnZjbFp3TVdOM0VoZDRTV1pHV1RseFJrbGFVMmh3ZEZGUUxVNWhUalJCWnhvaVFVWmZOazFCVFRWNGJVdExMVnA0Wmpoc01HdzVNVEJIV1d4NFJIbGtWVVpqWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9kYXRhLWFuYWx5c3QtYXQtcHJvZHVjdC1tYWRuZXNzLSVGMCU5RiU5MyVCMSVGMCU5RiU4RSVBRS0zMzYxMTUzMjU4P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+1,System Analyst Specialist,UniCredit Services,Anywhere,via LinkedIn,"UniCredit offers all services in the areas of Information and Communication Technology (ICT), Back Office and Middle Office Operations, Security and Procurement. We rely on more than 7,000 professionals and oversee activities in 11 countries. We aim to be a reliable and trusted enabler for the Group, developing simple, efficient, cost-effective solutions for customers by leveraging on flexible delivery, an agile approach, a fast response time and easy to deal with but innovative solutions.
+
+We are searching for a System Analyst Specialist for our new team dedicated to Custody Global Platform application. The team will be responsible for a full lifecycle of a custody application dedicated to:
+• collection of trade processing data from the whole UniCredit Group
+• settlements, clearing & asset servicing for Custodians.
+• integrations & parameter/configurations changes
+
+To join our international team located in Warsaw, we are searching for a System Analyst Specialist of custody... application that will be responsible for:
+• support of business users and incidents resolution,
+• rise the tickets, monitor, track final resolutions by using helpdesk applications (experienced in Remedy, Bugzilla or other ticketing systems)
+• be a customer’s support product specialist
+• communication with the software vendor Customer Service Representative to address and resolve application issues
+• participation in the project lifecycle from requirement gathering to production rollout, using both agile and classic methods
+• test of new functionalities in the application
+• integration or configurations of new solutions into the overall process & IT landscape
+
+Requirements
+• university degree in following area: IT, Mathematics, Finance
+• at least 2-years of experience related to Settlements of Cash and Securities (within the overall Financial Services / Banking industry), including familiarity with Corporate Actions. Preference for experience in IT areas supporting Custody, Trust, or Wealth Management business. Must be familiar with custody products and processes.
+• very good analytical and multitasking skills,
+• good communication skills and desire to work in a team
+• good knowledge and understanding of general IT systems Database, Data warehouse, integration infrastructure
+• stress resistant / ability to work under time pressure
+• ability to work self-dependent and pro-active
+• ability to business requirement collection
+• solution & goal-oriented mind-set
+• experience in participation in IT projects and its delivery life cycle and familiarity with IT projects methodologies
+• fluent English (working language, international team)
+• Nice to have experience in participating of project team, business and technical analyst dedicated to the custody services, skillful in SQL.
+
+PLEASE NOTE THAT:
+
+· We offer a standard work contract (no B2B possible), stability, but also flexibility in international and multicultural environment.
+
+· We are NOT seeking for a person to join us only for a project - we are looking forward to establishing a long-term professional relation.
+
+· We offer a wide range of benefits and up to 2 days of remote work in regular circumstances (in COVID-times we are working fully remotely).
+• **************************************************************
+
+Information on the processing of personal data of candidates for work, based on art.
+
+13 and 14th of General Data Protection Regulation (GDPR)
+
+We hereby inform you about the processing of personal data as part of the recruitment process and about the rights and claims regarding personal data that you have.
+
+1. Who is responsible for data processing and who can you contact?
+
+The data controller of your personal data is: UniCredit Services S.C.p.A. Spółka Akcyjna o charakterze Konsorcjum Oddział w Polsce ul. 1 Maja 38/39 71-627 Szczecin
+
+Starting from 25 May 2018, you can contact your local Branch Data Protection Officer, available at the following e-mail address: oiod-scpa.ubis@unicredit.eu
+
+2. What data are processed and from what sources these data come from?
+
+We process personal data that we receive from you in the recruitment process.
+
+3. For what purposes and on which legal basis are the data processed?
+
+We process your personal data in accordance with the General Data Protection Regulation (GDPR) and the Polish data protection law:
+
+- based on your consent (Art. 6 (1a) GDPR):
+
+Within the scope in which we ask you for consent to the processing of your data, the processing is going to take place only in the scope and for the purpose specified in your consent. Your consent can be withdrawn at any time, with effect for the future.
+
+- in order to protect legitimate interests (Art. 6 (1f) GDPR):
+
+To the extent necessary, in the interest of the data controller or a third party, the processing of data may be performed for the purpose, non-compliant with the scope of the consent, of protection of our legitimate interests or such interests of third parties. In the following cases, the processing of personal data is intended to protect legitimate interests of:
+
+- Conducting legal proceedings and securing claims.
+
+4. Who receives my data?
+
+In situations where the processing of your data is necessary for the performance of the agreement, fulfilment of statutory obligations, regulatory or protection of legitimate interests, access to your data shall be obtained by the organs and employees of our organization.
+
+In addition, trusted data processors (in particular IT service providers) and contractors (such as recruitment agencies and other recruitment service providers) are going to receive your data in the scope that it is necessary for the provision of their services. In order to protect the legitimate interests of the controller, some of your personal data may be forwarded to law firms and to institutions for the recovery of claims (including bailiffs). All entities that process data are required by virtue of concluded agreements to treat your data confidentially and only for the purpose of performing the services provided.
+
+5. How long are my data going to be stored?
+
+We process your personal data during the recruitment period for the position you apply for. If you have agreed to the use of your personal data in future recruitment, we shall process your data also for the purposes of future recruitment, but no longer than for two years from when you provided us your consent.
+
+In some cases, the period of storage of your personal data may be extended by a period of limitation of claims. As a rule, the period of limitation for claims in employee cases is 3 years, but may also be longer.
+
+6. What are my privacy rights?
+
+At any time, within the scope provided for by the law on the protection of personal data, you have the right to information, rectification, deletion or restriction of the processing of your data, the right to object to the processing, as well as the right to data transfer. Complaints may be submitted to the Personal Data Protection Office, ul. Stawki 2 00193 Warszawa
+
+7. Do I have to provide my personal data?
+
+As part of the recruitment process, you must provide personal data to enable us to assess your candidacy. If you do not provide us with this data, we shall not be able to include your candidacy in the recruitment process","[{'link': 'https://www.google.com/search?q=UniCredit+Services&sa=X&ved=0ahUKEwja95qXzcz8AhWUkIkEHXhrA4w4FBCYkAIIiws', 'text': 'See web results for UniCredit Services'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kbvJiH1W67zHf04_QpGT0OdXngRdbbbD55O-b70&s,"['4 hours ago', 'Work from home', 'Full-time']","{'posted_at': '4 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJTeXN0ZW0gQW5hbHlzdCBTcGVjaWFsaXN0IiwiaHRpZG9jaWQiOiJIRHZ6cnpabFJId0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVTlFkMnBxVkRVMlpHeE1kMVZTVVMxcmRGaFZVakF4VlRscldtbzVUR2R3YURScGVVMW9Ua2g0ZVhsRExVeDJjbVZ4YWxGaFZWOXhPVmhxZVRsVlJXMHdZeloyYUZSMVMyUlVSVXgwTUZGbllsVkViM2RqV0RsVlRURXpNVEJVWWxnMWFYSmlUV05pVG5OcWEzZHJkSEoxTVZOWU9VMTNNek56Y1dOb05qQjNVa1I1VEhaVFFVZG5NM1JpVUV4Rk5Xb3pkRmxNZEdaeFNtVjViVEJaTWxSSFlsZzJaRzU2TVVkcGRqWXhNVXA1WjFGTVZIVkxVVlpaVEc5bE1saDNWREpPZGtReFFtMUhOVGQ0RWhkNFNXWkdXVGx4UmtsYVUyaHdkRkZRTFU1aFRqUkJaeG9pUVVaZk5rMUJVRVpZVFdOdlkycFhNak52TjJWT1NVdzBTWEpxYm5SM01tbHZVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L3N5c3RlbS1hbmFseXN0LXNwZWNpYWxpc3QtYXQtdW5pY3JlZGl0LXNlcnZpY2VzLTM0MzgyNjg1Njc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+2,Product Manager Data & Analytics,Aon,Anywhere,via LinkedIn,"As a Product Manager (Data & Analytics) you will play a central role in the ACIA, gathering valuable information from various stakeholders and customers.
+
+You will lead all aspects of data and product development and management across the portfolio of data and analytics product suite. You will build and own the product roadmap, defining product changes, as well as process and user journey enhancements. As part of day to day product management, you will manage product related assets and supporting processes covering both acquisition and base management activity. You will also need to quickly identify, assess and prioritise various product-related opportunities to drive value.
+
+Forward thinking, effective planning and initiative execution is critical. Meaningful analysis, business case development, requirements drafting, and effective change and stakeholder management are also key to being successful in this role.
+
+About you:
+
+You will work alongside an agile team including, Product... Owners, developers and analysts. You will be responsible for guiding the success of products and leading cross-functional teams that are responsible for improvement initiatives.
+
+Aon is in the business of better decisions
+
+At Aon, we shape decisions for the better to protect and enrich the lives of people around the world.
+
+As an organization, we are united through trust as one inclusive, diverse team, and we are passionate about helping our colleagues and clients succeed.
+
+What The Day Will Look Like
+• Deliver projects and features on the product roadmap from conception through requirements gathering to development and post launch.
+• Communicate with key business stakeholders and relevant areas of the business about project status, technical capabilities, issues, and enhancements.
+• Lead delivery teams and act as Product Owner in the delivery of product backlogs and product releases.
+• Embed customer/market insights into the product development process at all stages from product inception to delivery of customer-centric solutions.
+• Collaborate with business stakeholders and Head of Product to refine feature roadmap and product backlog.
+• Define the strategic direction and product roadmap.
+• Support the active development of the Product Management function throughout the business through the introduction of new agile techniques and approaches to product backlog management and delivery.
+• Promote data literacy and guide a modern culture of data in an environment of experimentation and innovation where everyone can and does use data to make decisions - “data as an asset”.
+• Drive the strategic alignment of data and product needs across the organization, supported by strong data governance and development of trust in the data.
+
+Skills And Experience That Will Lead To Success
+• 3+ years working in a Product Management, Data /Analytics Manager role
+• experience working in large scale data and analytics programs within multi-national environment
+• Knowledge of enterprise BI platforms such as Tableau, Qlikview, Power BI and technology
+• Experience with agile product management tools (Jira, Confluence, other similar)
+• Experience in leading requirements workshops and working with senior stakeholders.
+• Clear and engaging communication skills - ability to lead workshops and articulate the commercial value of data and analytics to C-suite level senior stakeholders/clients (internal & external).
+• Prior experience as business or data analyst or similar roles
+• Engaging interpersonal skills and experience in working with cross-functional teams.
+• You have brought the voice of the customer to a technical team.
+• Excellent People management skills across a diverse, matrixed organization.
+
+How We Support Our Colleagues
+
+In addition to our comprehensive benefits package, we encourage a diverse workforce. Plus, our agile, inclusive environment allows you to manage your wellbeing and work/life balance, ensuring you can be your best self at Aon. Furthermore, all colleagues enjoy two “Global Wellbeing Days” each year, encouraging you to take time to focus on yourself. We offer a variety of working style solutions, but we also recognise that flexibility goes beyond just the place of work... and we are all for it. We call this Smart Working!
+
+Our continuous learning culture inspires and equips you to learn, share and grow, helping you achieve your fullest potential. As a result, at Aon, you are more connected, more relevant, and more valued.
+
+We provide individuals with disabilities reasonable accommodations to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment in accordance with applicable law. Please contact us to request an accommodation on ReasonableAdjustments@Aon.com
+
+Aon values an innovative, diverse workplace where all colleagues feel empowered to be their authentic selves. Aon is proud to be an equal opportunity workplace.
+
+#technology&security
+
+2522293","[{'link': 'http://www.aon.com/', 'text': 'aon.com'}, {'link': 'https://www.google.com/search?q=Aon&sa=X&ved=0ahUKEwja95qXzcz8AhWUkIkEHXhrA4w4FBCYkAIIvAs', 'text': 'See web results for Aon'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTTJZwfN7ztFX7A-M12PRDGwSPzhf-Ds62qW3x43c&s,"['17 hours ago', 'Work from home', 'Full-time', 'No degree mentioned']","{'posted_at': '17 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJQcm9kdWN0IE1hbmFnZXIgRGF0YSBcdTAwMjYgQW5hbHl0aWNzIiwiaHRpZG9jaWQiOiJWaWl3azV0dVl0d0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVTBKU2RGUTNlSGxmUkdzeVprSklVMEk0U1VsVlZtZ3pjak5MVUd0VmVETlRiVmg1VTFCYU4xQlBMV3hKYzNaUk1FaDJRM1pEWldWdVVsVnpPRVZXVGxWV1ZuRTNjRzF0ZG5aZlRFWlZiemt4Tkc4NVUyd3RTMDR6VTNWTlNHaGlRMDV2Y0ZSTVdIZFZNMGh0YTFGYU5EUm1aSFZFYm14SFprUTVUV0pYTnpKdFMzQnJNalF0V0VGNVlYSkRaM0ZtV0VWb2J5MVFVblpDVkRGVE1rTnVVV1pQUlRJNE4xSmhZV0paWm0wM1IweDNFaGQ0U1daR1dUbHhSa2xhVTJod2RGRlFMVTVoVGpSQlp4b2lRVVpmTmsxQlRXdGxPRVpWVGtKeGNtczBTa1ZWZFU0dFlqYzNlV3RyUTNOd1p3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvcHJvZHVjdC1tYW5hZ2VyLWRhdGEtYW5hbHl0aWNzLWF0LWFvbi0zNDQwNDkyNDIxP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+3,Innovation Insight Analyst,Shell,"Kraków, Poland",via LinkedIn,"Contracting & Procurement TECHNOLOGY: Our mission is to Power Progress by converting technology into value through connected, world-class supply chains and empowered commercial teams. In practice, this means we collaborate closely with our partners in PTX to identify & deliver new technologies for Shell.
+
+We are the commercial group for PTX, from strategy development to deal execution, and are fully embedded in their ways of working and natural teams. Commercially we help PTX adopt an investment mindset, and we ensure that our technology partnerships can manage technical and commercial risk to secure a competitive advantage for Shell. We are also CP’s subject matter experts in agreements with heavy Intellectual Property components, such as joint development agreements.
+
+It doesn’t stop there; CP Technology also makes sure that potential value turns into real value; whether that means ensuring Supply Chain Readiness with CP in the business for technology deployments across Shell assets... or working with a commercial partner who can deliver for us and other customers.
+
+All this means we need special people – CP professionals, of course, but also flexible, commercially savvy, determined, collaborative, and open-minded with a passion for the Energy Transition. We are particularly active on PTX’s Energy Transition Moonshots – Electrification of Demand, Nature-Based Solutions, Hydrogen and Circularity & BioProducts.
+
+Analyst accountabilities:
+• Technology market research support
+• Exploit market research databases, academic literature, and internal/external subject matter experts; process, synthesize and integrate diverse inputs to support an accurate, insightful and in-depth analysis. In limited instances, employ primary research methodologies to inform high value technology investment/ deployment decisions.
+• Outputs include: commercial solution search, market size/segmentation, tech SWOT, trade study, trend/driver analysis, taxonomy, competitive landscape, candidate screening, etc.
+
+Commercialization framing support
+• Participate in decision framing sessions; clarify and refine core assumptions/hypothesis, capture data and knowledge gaps which require market research
+• Outputs include: technology business case, Buy-Collaborate-Build (BCB) decision, partner selection, supply/value chain map
+
+Technology platform market domain expert
+• Continuously develop market domain expertise for assigned technology platforms, supporting SCL’s annual input to Technology Maturation Plans (TMP)
+
+Skills and Requirements:
+
+You have:
+• Excellent spoken and written English;
+• Superior presentation skills with a keen eye for detail;
+• Excellent skills in MS Excel (data cleaning, statistical analysis, pivot tables, advanced tables/charts), MS Word, and PowerPoint is a must;
+• Proficiency in handling multiple concurrent projects and deadlines;
+• High integrity, energy and enthusiasm.
+
+You can evidence:
+• Excellent research skills, including experience with database search functionality (ex. Boolean);
+• Ability to frame decisions and identify information requirements;
+• Ability to analyze data to draw conclusions, produce insights, and recommend actions;
+• Ability to prepare and deliver professional, coherent and effective written and spoken material, distilling complex messages to succinct, focused messages;
+• Solid project management skills.
+
+You are:
+• A self-starter;
+• Comfortable with ambiguity and able to work with incomplete data or open-ended questions;
+• Effective at managing stakeholder expectations;
+• A logical, analytical, curious, and creative thinker who learns quickly;
+• Willing/ able to be flexible and support your team mates when required to deliver team objectives;
+
+Who We Are
+• Leader in Energy Transition /Decarbonization processes worldwide
+• Leading Supply Chain function on Polish labor market with a potential to grow with multi opportunities to grow within our global/inter-centers structures
+• Complex and business oriented projects for Experienced Contract and Procurement and Supply Chain Professionals and close- to-business project professionals, experienced in contracting, procurement and supply chain processes
+• Opportunity to participate in Digital transformation and Data usage for Contract Procurement and Supply Chain E2E process;
+• Innovators, with whom you would work on Digital transformation;
+• Business proximity and true impact of Contract Procurement and Supply Chain function is Shell; /People, who have true impact on business, by developing acumen, proximity and driving real changes in Procurement and Supply Chain functions at Shell
+
+How You Start
+• “You are in a Safe Hands” our unique four phases onboarding program
+• Attractive relocation package available once relocating from another country;
+• Employee Referral Program;
+
+How You Will Develop
+• By clear career path and Talent Management program;
+• By learning and development programs to skill up within 11 Contract and Procurement and Supply Chain competencies;
+• By additional funds for trainings and certifications (ACCA, CIMA, CIPS, Lean Six Sigma);
+• By Contract Procurement and Supply Chain Mentoring program;
+
+How We Work
+• Flexible working time (home working, hybrid);
+• Complex medical care and individual life insurance;
+• Comfortable working environment: newly-built modern office with its own canteen, relax rooms, bike & car parking space;
+• Improved accessibility of office and sanitary facilities;
+• Attractive salary package;
+• Shell Card for fuel discount;
+• MultiSport Card (12 sports sections);
+• Vouchers for cultural and free time activities
+
+What We Feel /What Is Our Culture
+• Honesty, Integrity and Respect for each other as Contract Procurement and Supply Chain core values;
+• Energetic and Friendly atmosphere at work;
+• Employee Engagement groups – where can influence on Contract and Procurement and Supply Chain work environment;
+• Assistive technologies and reasonable adjustments for people with disabilities;
+• “Bring Mother back into the workforce” program","[{'link': 'http://www.shell.com/', 'text': 'shell.com'}, {'link': 'https://www.google.com/search?q=Shell&sa=X&ved=0ahUKEwja95qXzcz8AhWUkIkEHXhrA4w4FBCYkAII7Qs', 'text': 'See web results for Shell'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrhUDKcoFyAQVeo7s_yM6qec4gmnMyTML8r73BuEw&s,"['1 hour ago', 'Full-time', 'No degree mentioned']","{'posted_at': '1 hour ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJJbm5vdmF0aW9uIEluc2lnaHQgQW5hbHlzdCIsImh0aWRvY2lkIjoiY3RZNlo3V1h3dzBBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVU5RZDJwcVZGaE9MV2x0WVVOeVowMWtZa3BJVlhnMWFtWnJSemhRWXpJMWNuTkRiRTlpYjFCamVsY3lRVUV5ZUVSbGQwaGpjVU5wWlhKTWRHSlpkWGRuTlVFMWQxZFVZMnhoUzBWaU1sUjZNMlpHU0ROR1NUZFVRV2QwYmt3MmFtTnBSamhSYnkxaFNrRkdVM0YzV0Y5dmRHRnJRV2RGU0VnMVR6VTJMV3hVV1dzM2QzZGpTRUV6Y1ZGbFoxSkdSazg1ZWs0eGEwWmpXVGRHV2xoU2RqRndOVE4yUlZCMFNYZDZRWHBKZURSUVZWUmFPRkZyRWhkNFNXWkdXVGx4UmtsYVUyaHdkRkZRTFU1aFRqUkJaeG9pUVVaZk5rMUJUbkZmVEhvNWFUWllaazk2YVZCQmRrbHlPRTlWU1VGS05FaE9kdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L2lubm92YXRpb24taW5zaWdodC1hbmFseXN0LWF0LXNoZWxsLTM0NDA5MzkwMDk/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+4,Analyst - Intern,Nordea,"Warsaw, Poland",via LinkedIn,"Job ID: 14978
+
+Looking for your first job experience in real business environment? Are you eager to learn more about capital and risk related topics? Join passionate and collaborative team at Nordea and try our 6 month program for Interns!
+
+Currently we are looking for an Analyst - Intern within Regulatory Reporting unit. In your role, you will assist with various activities related to risk reporting for Nordea Group and its subsidiaries. The focus will be on providing support in reporting to supervisory authorities and internal as well as external stakeholders on a monthly and quarterly basis.
+
+This is an opportunity for you to get your first job experience in a fast-paced and dynamic field of critical importance in the international finance industry. You will get your first exposure to a broad spectrum of risk types as well as the opportunity to work with passionate and collaborative colleagues at Nordea.
+
+In Nordea, we know that great customer experiences require a team that leads... the way in first-class service and operations. We’re more than just a Nordic bank, we’re one of the largest employers in Poland. With us, you’ll work with skilled, international teams in a bright, modern office.
+
+The lively and collaborative atmosphere offers plenty of opportunities to learn and grow as you build your career with us.
+
+About This Opportunity
+
+You’ll join Regulatory Reporting Unit where we are delivering reports to supervisory authorities through efficient processes meeting regulatory requirements, as well as to support analysis work related to risk and capital.
+
+What you’ll be doing:
+• Assist other analysts in reporting activities.
+• Assisting in analysing the development of risk exposure amounts and economic capital including credit quality changes, regulatory changes and changes in portfolio composition.
+• Support continuous improvement initiatives in your processes and in the unit.
+
+The role is based in Warszawa.
+
+Who You Are
+
+Collaboration. Ownership. Passion. Courage. These are the values that guide us in being at our best – and that we imagine you share with us.
+
+What we are expecting:
+• Creative Thinking: can think creatively, has a “questioning” mind-set.
+• Flexibility & Reliability: can take on new assignments, discerns what is important and demonstrates ownership.
+• Drive & Motivation: can successfully handle multiple tasks and takes both initiative and accountability for improving his/her own performance.
+• Judgement: displays good judgement and thinks ahead.
+
+Your experience and background:
+• Student or absolvent in finance, mathematics, statistics, engineering or similar.
+• Fluency in English is required.
+• Strong Excel Skills.
+• Willing to learn VBA, SAS, Python, R or SQL.
+• Strong analytical skills and attention to details.
+• Ability to work well within a team as well as independently.
+
+If this sounds like you, get in touch!
+
+Next steps
+
+Submit your application no later than 30/01/2023.
+
+At Nordea, we know that an inclusive workplace is a sustainable workplace. We deeply believe that our diverse backgrounds, experiences, characteristics and traits make us better at serving customers and communities. So please come as you are.
+
+Please include permit for processing personal data in CV as following:
+
+In accordance with art. 6 (1) a and b. Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) hereinafter ‘GDPR’. I agree to have: my personal data, education and employment history proceeded for the purposes of current and future recruitment processes in Nordea Bank Abp.
+
+The administrator of your personal data is: Nordea Bank Abp operating in Poland through its Branch, address: Aleja Edwarda Rydza Śmiglego 20, 93-281 Łodź. Your personal data will be processed for the recruitment processes in Nordea Bank Abp. You have a right to access your personal data, right to rectify and right to delete. Disclosing the personal data in the scope specified by the provisions of Polish Labour Code from 26 June 1974 and executive acts are mandatory. Providing personal data is necessary to conduct the recruitment processes. The request for the deletion of your personal data means resignation from further participation in recruitment processes and causes the immediate removal of your application. Detailed information concerning processing of your personal data can be found at: privacy-policy.2021.pdf (nordea.com)
+
+We reserve the right to reply only to selected applications","[{'link': 'http://www.nordea.com/', 'text': 'nordea.com'}, {'link': 'https://www.google.com/search?q=Nordea&sa=X&ved=0ahUKEwja95qXzcz8AhWUkIkEHXhrA4w4FBCYkAIInAw', 'text': 'See web results for Nordea'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGkrZqLWiI1Ha8wbmukD91mlrRa8vIniUxTSL0Kuk&s,"['3 hours ago', 'Internship']","{'posted_at': '3 hours ago', 'schedule_type': 'Internship'}",eyJqb2JfdGl0bGUiOiJBbmFseXN0IC0gSW50ZXJuIiwiaHRpZG9jaWQiOiIwU0FlTm1DcEZYVUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVW05eWJUVnlNRlYzWkRaNE5tcGxhVzFFVG5wd2FEVXpOekJFYkVRM1ZGaFlOR2xzWHpGV01YUkhVemszVGpsQlFtOHlkRVpCTUd0MVJtZHpiV2h6T1MxVGNHWkdTVkkxUW1kemVuSlFWelJ3ZW01alowOXhPWGRTZGt4VlVsWlljRmhZTkVOTlVVbEVkams1VVZkc1JETmhOVkY1UkUxWGJDMVRTMUJCVUVKNll6aHVhMlpvV2tORmJFTllaMWsxTlU5U2NXRlBNRTlvVWkwME5ESkhSbGxGV0RKTVluazNkV05HYzFoU1owUnZFaGQ0U1daR1dUbHhSa2xhVTJod2RGRlFMVTVoVGpSQlp4b2lRVVpmTmsxQlQyRTRSbXAyWkZaYWJtSnVNamwxVm01V01YRnVTSFUwU3kxRWR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvYW5hbHlzdC1pbnRlcm4tYXQtbm9yZGVhLTM0MzU5Nzc3MjM/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+5,Business Analyst with SQL,NATEK,"Warsaw, Poland",via LinkedIn,"Job Description
+
+Join Natek and become part of highly valued team in banking area. Team develops and supports the IT systems which measure and manage bank’s direct and indirect exposures across the investment and private banking business sectors. The results are used in regulatory reporting, reporting to senior business and risk management as well as front office business leads.
+
+Your responsibilities
+• Deliver BA artifacts and provide BA involvement to support the delivery of changes to Credit Risk Data Warehouse arising from upstream, downstream, business and regulatory demand
+• Analyze, specify and document detailed requirements for change requests
+• Communicate and support the prioritization of these requirements with the Dev Lead and PM to ensure a common understanding between business and IT
+• Work closely with the application development teams located in Poland and London to ensure that requirements are understood and that technical solutions fully meet these requirements
+•... Carry out test case reviews to assure test coverage with providers within the team (QA and Developer resources)
+• Provide defect analysis during Integration (QA), User Acceptance and Regression Testing phases, working with development and change teams to facilitate closure of open issues
+
+Our requirements
+• Strong business knowledge of Credit Risk/ Investment Banking/ Banking
+• Ideal candidate has history of delivery with Data Warehouse applications and reporting
+• Exposure to data analysis with SQL skills, ideally in Oracle
+• Understands the various software development methodologies viz. Agile and Waterfall methods
+• Experience across all phases of the systems development lifecycle with a thorough understanding of the role and responsibilities of the BA in each phase
+• A solid understanding of standard change control policies and procedures
+• Excellent organizational, problem solving, and written/verbal communication skills.
+• Excellent MS Office skills
+• High degree of flexibility and a positive “can do” attitude.
+• Able to work with limited level of instruction and supervision
+
+Benefits
+• Attractive salary referring to your skills and experience.
+• Flexible approach regarding to working hours.
+• Joining the company that is providing exceptional services for the biggest, international customers with recognizable worldwide brands.
+• Be part of an open-minded team with a strong team spirit.
+• Private medical healthcare.
+• Multisport Card.
+• Life insurance.
+• Personal event bonus (i.e., wedding, childbirth, graduation).
+• Internal referral program.
+• For COW employees - additional paid day off for volunteering.
+• For contractors - entitlement to additional 23 days off","[{'link': 'https://www.google.com/search?q=NATEK&sa=X&ved=0ahUKEwja95qXzcz8AhWUkIkEHXhrA4w4FBCYkAIIyQw', 'text': 'See web results for NATEK'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY9mvldEoqJAJlaOolPu4ku_FoNKESFNotILUU9v0&s,"['6 hours ago', 'Full-time']","{'posted_at': '6 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBBbmFseXN0IHdpdGggU1FMIiwiaHRpZG9jaWQiOiItTzhLZFg4Ry1WOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVkVkRVdVVm1SR0k1UVcwd1lsVnFOMFpHWmpoa1JVaElVV3hCYmxSVVRqTmhNa2x4WWxOblVFWXdTVFoyVkZGNFprWkdOMGRSU0VGVVdWSm1NWEphVldJMmVXUkZhVU5FYVV0WGExQnJMWEo0VVZFMGFWaERaR3QwWkhKd1VrZDZhRjlqT1haM1MwbEhiR0k0TURaR04xUjJjR04xWnpFMVJtOTVRMUJJYkdwclZESldPSGhTWlhWR1lVRjVVV2RuYTE5SWRXZDBSVGM0WTJWUmJuRldlVlJDTlRodmFscERWM2RxZDFodE5WWmpFaGQ0U1daR1dUbHhSa2xhVTJod2RGRlFMVTVoVGpSQlp4b2lRVVpmTmsxQlRtWkxZazFtVDBaMGIzUjFhRk5rUm1aT1oxWmFTbVUyV0VaNVp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L2J1c2luZXNzLWFuYWx5c3Qtd2l0aC1zcWwtYXQtbmF0ZWstMzE1NTMzNjEzNz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+6,Procurement Analyst,BD,"Wrocław, Poland",via Trabajo.org,"Job Description Summary Job DescriptionBe part of something bigger
+
+BD is one of the largest global medical technology companies in the world and is advancing the world of health by improving medical discovery, diagnostics and the delivery of care. We have over 65,000 employees and a presence in virtually every country around the world to address some of the most challenging global health issues.
+
+As a Procurement Analyst, you will be supporting Global Procurement decisions by providing business and market intelligence, management of data and analytics, and tracking / reporting of metrics:
+Typical internal analyses and tasks include spend analysis and forecasting, savings analysis, supplier information gathering and analysis, pricing and contract analytics, benchmarking, compliance to sourcing strategies External analyses include market, economic and other research data, inflation, productivity, currency, select indexes, and oil pricing Support for Business Analytics Managers with... preparing insights for Business Facing Procurement, this will include: various data collection/mapping/consolidation process, spend/savings analyses, payment terms analyses, materials forecasting analyses including purchase price variance (PPV), contracts analyses, consolidating other existing metrics (supplier quality, sustainability, etc.) and ad-hoc support; Additionally, you will be: Using data visualization tools on complex data sets and interpreting mathematical models such as graphs, tables, metrics and schematics to provide insights to Category teams, Business stakeholders, and BD leadership Being a Strategic Business Partner by active and effective interaction and influence of category teams during the Category Management Process from Category Strategy, to Sourcing Execution and Supplier Management, as well as senior business stakeholders Supporting implementation of advanced procurement analytics capabilities including the evaluation and mining of data to the ability to automate processes About you: The successful candidate will hold a bachelor degree in business, economics, accounting/finance or related fields. A minimum of 1-3 years of business experience, with some experience in procurement, finance, analytics, research, production environment or a related field is expectedProficiency in data visualization tools, capabilities including advanced Excel skills, basic Power BI skillsOther: Knowledge of purchasing principles and practices Ability to work independently with minimum supervision IT systems knowledge including the advanced capabilities in Microsoft Office Suite and SAP basic knowledge Ability to multi-task and work effectively for a wide range of internal customers under tight deadlines Ability to present data, business cases and proposals logically Time management and project prioritization skills Ability to work in cross-functional and international team Able to influence in a matrixed environment Drive for results in a continuous improvement culture ​Knowledge of financial accounting principles, manufacturing or lab processes, ability to identify and implement improvements using Sigma or other methodologies will be an advantage. Click on apply if it sounds like you Why join us? A career at BD means being part of a team that values your opinions and contributions and that empowers you to bring your authentic self to work. Here our associates can fulfill their life's purpose through the work that they do every day. You will learn and work alongside inspirational leaders and colleagues who are equally passionate and committed to fostering an inclusive, growth-centered, and rewarding culture. Our Total Rewards program — which includes competitive pay, benefits, continuous learning, recognition, career growth, and life balance components — is designed to support the varying needs of our diverse and global associates. Becton, Dickinson and Company is an Equal Opportunity Employer. We do not unlawfully discriminate on the basis of race, color, religion, age, sex, creed, national origin, ancestry, citizenship status, marital or domestic or civil union status, familial status, affectional or sexual orientation, gender identity or expression, genetics, disability, or any other protected status. To learn more about BD visit Primary Work LocationPOL Wroclaw - Legnicka Additional Locations Work Shift","[{'link': 'http://www.bd.com/', 'text': 'bd.com'}, {'link': 'https://www.google.com/search?q=BD&sa=X&ved=0ahUKEwja95qXzcz8AhWUkIkEHXhrA4w4FBCYkAII9ww', 'text': 'See web results for BD'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDFk1sB0xT1Jfuz2n72srWXvwnsDgbFIUout7fLo6eCvkoihvXbpfVAs&s,"['9 hours ago', 'Full-time']","{'posted_at': '9 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJQcm9jdXJlbWVudCBBbmFseXN0IiwiaHRpZG9jaWQiOiJKZW5QU1pZYXJVWUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVVVKSVdHdDBVMTlPVkc5M2FUZzVWR3B4Yld0VFFWOWhjRkZzVkVoSVprVkxaa2xwTWtGeVMxRXdSemxoYkdWR1N6ZGxiV014TTFKVFlqRXRlVEpIZVdGdFRYRjJOVk5MZDJaSlZIb3RhbU5aUlVKSVIzTTRlV2RUVjJ4T1kwRTNORlkyYW1WRFpFOU5SWFV4ZURSSmJUZFdWR3BCYkVWcVNYbHZlVTkyYldaSFVrczRkR0ozZURkTWIwOXVVa0Z1U201S2MyVjRTVnBCV1MxUGIzbGxXR3hJZGw4MVdGWmhaMFZSU0VaT1VFcEJFaGQ0U1daR1dUbHhSa2xhVTJod2RGRlFMVTVoVGpSQlp4b2lRVVpmTmsxQlQyMUdWVEZFWm1sclRqZEJSekJYWlZSTGNGaHdSRGRaUlMxdFFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xODI0LTIwMjMwMTE2LWMwZjM1MmJmNDI5YjQ0MDZhYmYxZTY4MzQxZWQ2ODgzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+7,Senior Financial Analyst,"Warner Bros. Discovery, Warner Media","Warsaw, Poland",via Careers At Warner Bros. Discovery,"Overview:
+
+FP&A COE is known for its innovative thinking, best practices implementation and great customer service. Warner Bros. Discovery seeks to unlock value for the company through igniting curiosity in all of its team members, encouraging collaboration and constantly transforming the way we work.
+
+The Senior Financial Analyst will understand reporting deliverable schedules and do the heavy lift of all report and supporting file preparation (e.g., daily/weekly/monthly, incl. rolling of schedules) prepared by the Subscriber Reporting group. Perform self-review and ensure reporting metrics and financial dashboard summaries highlighting significant business trends is delivered timely and accurately to Reporting Manager for review.
+
+You will partake in daily calls with Data Insights and the Business Intelligence Data Pipeline teams to speak to the reconciliation of the data driven from daily power queries (Finance based reports) and Data Insights reports (Looker), understand data... discrepancies and issues that need to be presented back to team for next steps.
+
+As preparer and user of the reporting data, understand how to take business considerations needs into reportable action. You will proactively identify process inefficiencies and opportunities. Play a role in testing of reporting related projects and tasks within the DSR team.
+Responsibilities:
+• Preparation/Review of weekly global reporting metrics (Paid Subscriber balances & movements, Churn %, ARPU, etc.) and financial dashboard summaries highlighting significant business trends and financial results, by leveraging the BI created data analytics dashboards (e.g., Looker) and existing built reports from the data warehouse (e.g., Zeppelin and Snowflake) to provide accurate subscriber reporting that are distributed to various finance departments (Planning, etc.) and HBO Max department leads
+• Participate in the daily run of key subscriber reporting metrics (e.g., including subscriber acquisitions, conversions, reconnects and churn) used for reporting per plan offerings and participate in daily calls with Data Insights to review reporting data
+• Prepare all Promotional and Bounty reporting as it relates to subscriber metrics and contract and performance obligations
+• Participate in Reports reconciliations and analysis as needed (e.g., new initiatives for HBO Max; New IAP Partner reporting data; etc.)
+• Understand the reporting deliverable schedules of the weekly reporting metrics and financial dashboard summaries
+Qualifications:
+• Minimum 3 years relevant work experience. Entertainment industry and / or multinational business experience is a plus
+• Solid analytical, technical, organizational and interpersonal skills
+• Problem solver with ability to manage details
+• Proven ability to set and meet realistic deadlines and achieve successful results
+• Excellent oral, written communication skills, and financial presentation skills
+• Ability to handle multiple tasks simultaneously, prioritize and adhere to strict deadlines
+• Self-motivated individual, detail-oriented with ability to work independently and collaboratively
+• Strong Microsoft package skills a must (particularly Excel and PowerPoint)
+• BS in Accounting, Finance or Computer Science
+• CPA or BI certification is a plus
+
+What's in it for you?
+• Hybrid work model, flexible working hours
+• Free access to player.pl
+• Benefit package: private medical health care, life insurance, MyBenefit cafeteria including sport card, social funds, retirement pension plans, recognition platform, employee referral program
+• Work-life balance initiatives: wellbeing platform, yoga, educational webinars, Employee Assistance Program, internal media initiatives
+• Training & development: sharing the cost of English lessons, Employee Resource Groups, Bridge learning platform, sharing sessions with experts
+• CSR activities: volunteering, eco & social initiatives
+• Casual dress code
+• Parking space available for booking
+
+#LI-Hybrid","[{'link': 'https://www.google.com/search?q=Warner+Bros.+Discovery,+Warner+Media&sa=X&ved=0ahUKEwja95qXzcz8AhWUkIkEHXhrA4w4FBCYkAIIpA0', 'text': 'See web results for Warner Bros. Discovery, Warner Media'}]",,"['13 hours ago', 'Full-time']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRmluYW5jaWFsIEFuYWx5c3QiLCJodGlkb2NpZCI6InljRzA0U3o4UFJvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVxSUNDdUlCUVVOUWQycHFVblYzYUUwelVVeDNNekYwYTJ4cGVtNHpOVkZLUkhJMU1uaGxPVEZZU0RoVE5rOVRVVjl4UlZGelVHcGZSa05yVTNCUlV6QklWVkJYY0U1M01GWkVlREE1UkdoQ2NWRkZYM1JrYUZKV09WRkVUelpRUWxabFdtZE9TbGh6WTNSNmRuZHhjMnRhTjJRemJqZGxlVmRwUTNrd1NIVXpXRTkwWTI4elgxWjVjbFZDUzBkRFdqTmFUSFo0UlhKVVFtWjNNMUp1T1ZkdlRrSmhRbVZhVDB0SVFXbHdla3hMVUZkbVRGRTBVMUJhWVY5Wk9VSk5NMFIyY0ZOd1NtaFhVVFJWWldOelpuWldOMGxRVVhGMVNtYzNVRlZUTlMxRGNXOU5UbmhFWnhJWGVFbG1SbGs1Y1VaSldsTm9jSFJSVUMxT1lVNDBRV2NhSWtGR1h6Wk5RVkJuZURaVlVsZE9MVzFsWVhsYU5qaG5VVko2WWpkU01VNXlXSGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBDYXJlZXJzIEF0IFdhcm5lciBCcm9zLiBEaXNjb3ZlcnkiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLndiZC5jb20vZ2xvYmFsL2VuL2pvYi8zMzQyOC9TZW5pb3ItRmluYW5jaWFsLUFuYWx5c3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+8,"Analyst, Clinical Trial Transparency, Anonymization",AstraZeneca,"Warsaw, Poland",via Trabajo.org,"The Clinical Transparency & Data Sharing team is within CMO office and leads the AstraZeneca Group of Companies, Clinical Trial Transparency Position Globally. We are responsible for clinical data sharing, clinical document sharing and clinical transparency patient engagement activities such as the Lay Summaries and Thank you cards.
+
+The CTT Anonymization Analyst will process clinical study documents for anonymization and/or pseudo anonymization in support of Health Canada’s PRCI process, EMA policy and other disclosure of clinical documents that must be redacted or otherwise anonymized. The individual is accountable to anonymize submission clinical study documents and associated study data using the latest tools and industry best practices. This role will require an in-depth understanding of how AstraZeneca works to meet associated regulatory policies, privacy, clinical data and documents. The ideal candidate possesses the following:
+• An understanding of clinical study datasets... clinical documents (CSR, CSP, SAP) and outputs (TLFs)
+• An understanding of the data used to create Clinical Study Reports (CSRs)
+• expertise in using systems and an interest in using the latest technology to achieve challenging tasks
+• proven track record for attention to detail
+• strong analytical and reviewing skills
+• proven track record in delivering against tasks that require attention to detail and focus
+• scientific background is beneficial
+• understanding how SAS programming language is used to deliver clinical study datasets is an advantage
+
+This role will work globally with individual study teams to deliver anonymized documents for regulatory submission and data sharing. This role will NOT manage the submission; they will provide submission ready deliverables to regulatory submission teams.
+
+The role will be an individual contributor.
+
+The successful candidate role models AstraZeneca values and principles and encourages others to do so.
+
+Typical Accountabilities and required competencies :
+• Create Anonymized Clinical Documents following best practices and established SOPs.
+• Contribute to the Anonymization Report for the reports created.
+• Be a system expert in the use of Technology Tool for delivery of Anonymized Clinical Documents.
+• Perform System User Acceptance Testing (UAT) as needed to grow the key tools used to do this job.
+• Understands the data collected and used in the Clinical Study lifecycle from site through to Clinical Document authoring.
+• Work closely with the Biometrics Data Operations Data De-Identification Team on Risk Measurement and quantification of datasets.
+• Accountable for good Information Practice on all assigned activities.
+• Maintain high level of understanding of AstraZeneca policies and guidelines used to delivery to the regulatory policies and support protection of personal information.
+• Support development of any training materials as needed in collaboration with direct manager.
+• Ensures adherence to all applicable AstraZeneca requirements, including but not limited to clinical operations, quality, and data privacy.
+• Demonstrates a high focus on quality and the ability to meticulously quality check work delivered.
+• Work with a continuous improvement mindset, looking for opportunities to improve the process and increase delivery efficiencies as this capability grows.
+• Support the delivery of any and all Clinical Trial Transparency activities at AstraZeneca as assigned.
+
+Education, Qualifications, Skills and Experience
+
+Essential:
+• Competent verbal and written communication and collaboration skills.
+• Successful problem-solving skills.
+• Diligence – attention to detail and ability to manage a programme of concurrent activities.
+• Concentration on a task with high order of logic and clear thinking when working with fine details across documents.
+• Ability to understand and adhere to defined business processes and accurately complete and manage associated documentation.
+• Understands how data risk management is used to support anonymizing clinical study data and reports.
+• Awareness of database set-up and report publishing requirements.
+• Basic understanding of the design of clinical study reports and ICH E3 standards in writing them.
+• Does not have to have authoring experience (a nice to have).
+• BSc in computer science, bioinformatics or a technical life science.
+• System Testing experience or desire to learn it.
+
+Desirable:
+• Current knowledge of other technical and regulatory requirements relevant to the role.
+• Good understanding of Global Medicines Development.
+• Knowledge of Best practices in Validated systems delivery.
+• Prior relevant exposure of a statistical or database programming language.
+• Medical writing experience, turning Tables Figures and Listings into Clinical documents such as Clinical Study Reports (CSRs)
+• Understands how programming is used to deliver technical programming and information components of a study, including but not limited to the following:
+• Study Data Tabulation Model (SDTM) and Analysis Data Model (ADaM) datasets
+• Tables Listings and Figures (TLFs)
+• Clinical Trial Transparency deliverables (data anonymization, results posting files)
+• Awareness of how this data is used to create Clinical Study Reports and other Clinical Documents.
+
+Date Posted","[{'link': 'http://www.astrazeneca.com/', 'text': 'astrazeneca.com'}, {'link': 'https://www.google.com/search?q=AstraZeneca&sa=X&ved=0ahUKEwja95qXzcz8AhWUkIkEHXhrA4w4FBCYkAII0g0', 'text': 'See web results for AstraZeneca'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['7 hours ago', 'Full-time']","{'posted_at': '7 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJBbmFseXN0LCBDbGluaWNhbCBUcmlhbCBUcmFuc3BhcmVuY3ksIEFub255bWl6YXRpb24iLCJodGlkb2NpZCI6IlpOdUV4LVlRSHFvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVxSUNDdUlCUVVOUWQycHFVVll5YlhsU1JuWTJSR1ExZVhOQ1ltWnFNbUZKZFdzMmNucGFYMWRWU1V4R2NVUkRRa1ppYXpNM2RXUnBhWEl3VVZGbVNGSjVOSEJaTjA5YVduTjRibWRmYkRsNGFrWjZSekpqVVVKblRHSTFTMjF2U3pOd1h6WnFWbFJ5U1VSdVdXeG5XVXBtWkVweGVtVldhbTk1WlRoNlNYVTRNSFZPZUVSMmJtSk9iWHB1ZUc5eWExVmhSRVI0ZDNWeldHRmFTbTFFUTNSUlZVMWpSMGxyT0VKSGRVWXhlazlaYjBsRmFEaE5NbGx0YTFnMFkxRnRWa1p0T1RGM016RXhPRUYxZDJoMVozcFpSVmxvY0ZBdGQwUjNWWFpaTXpCRFZXWk5lWEpMZHhJWGVFbG1SbGs1Y1VaSldsTm9jSFJSVUMxT1lVNDBRV2NhSWtGR1h6Wk5RVTFTUm1WUlNIbG1kSFJyVVdaRVpuaHVabmhJVUdjeVgyMU1UbmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTE0MjQtMjAyMzAxMTYtYzM5YjkzZTQ0NmI5NTM2MDU0MTg5YjUxMWNkMmI0NDE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==

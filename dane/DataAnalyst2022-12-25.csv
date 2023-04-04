@@ -1,0 +1,480 @@
+,title,company_name,location,via,description,thumbnail,extensions,detected_extensions,job_id
+0,Data Analyst - Gamma Retail Catalyst,"BCG GAMMA, Boston Consulting Group","Warsaw, Poland",via Boston Consulting Group,"WHAT YOU'LL DO
+
+BCG is seeking a Data Analyst, based in Warsaw, Poland. You will join the rapidly growing Retail Catalyst team, which helps build and implement advanced analytics software for our Retail case teams and clients. Retail Catalyst is part of BCG GAMMA, BCG’s data science and software products business unit. The Warsaw-based team is in charge of building, configuring, and delivering world-class analytics software and apps.
+
+In particular, you will be in charge of:
+• Supporting the Customer Success Managers (CSMs) to deliver excellent and seamless client delivery service
+• Rapidly take responsibility for expanding / improving use cases and help our clients achieve their analytics goals
+• Developing, customizing, and performance-tuning Tableau dashboards
+• Building and maintaining ETL flows in Dataiku
+• Overseeing and executing client data ingestion and data quality control
+• Performing analytics to support the software / apps and generating insights
+• Providing technical... solution and domain expertise to our clients and case teams
+• Coordinating with clients / case teams and maintaining a close sync with our engineering, data science, and devops teams
+• Proactively collecting and incorporating client and case team feedback to make the Retail Catalyst platform the best it can be
+• Over time, become a leader of the Warsaw Retail Catalyst team and take on management responsibility
+
+JOB REQUIREMENTS:
+The Data Analyst will have two major areas of responsibilities:
+Client Service (80%)
+• Support onsite Customer Success Managers (CSMs) to successfully deliver Retail Catalyst projects
+• Work directly with clients, BCG case teams, and product team on a project-by-project basis to conduct hands-on rigorous quantitative analysis, leveraging advanced analysis software (e.g., Dataiku and Tableau for visualization)
+• Ingest, clean, transform, maintain, and analyze client data on Retail Catalyst platform
+• Rapidly configure standard and custom Tableau dashboards per CSM, client, and case team’s directions / requirements
+• Oversee and quality-control all things ETL and Tableau for our client deployments
+• Coordinate the Warsaw delivery team to provide world-class quality output and hyper-responsive client service
+Product and IP development (20%)
+• Maintain library of client-agnostic Tableau dashboards and ETL flows
+• Improve setup and preparation of standard / starting point components so that they can be rapidly deployed and configured for client use cases
+• Support Retail Catalyst product team in client development efforts with ad hoc analysis, problem solving on best analytical approach, and client demos
+• Study and understand Retail sector terminology and industry (analytics-) knowledge
+• Over time, identify new areas of application/use cases for Retail Catalyst and help embed these into the platform and apps
+Your success in this role will be measured in your ability to support our clients and case teams with highly responsive and top quality outputs. You will also be measured on your level of proactivity in terms of improving and expanding the technical platforms and analytical use cases. Finally, we will expect you to, over time, take responsibility for the Warsaw team, including development and mentorship for junior team members and overall quality control
+YOU'RE GOOD AT
+
+Technical skills
+• Tableau (Advanced / World class)
+• ETL / SQL (Advanced / World class)
+• Excel (Advanced)
+• Statistics and math (Intermediate)
+• Python knowledge is a plus
+• Data automation knowledge (e.g., Airflow) is a plus
+• Cloud knowledge (Google Cloud and Azure) is a plus
+
+Non-technical skills
+• Meticulous attention to detail
+• Highly efficient – you get a lot of work done in very little time
+• Willingness to work hard and prioritize team success vs. regular working hours
+• Highly proactive and strong drive for (self-) improvement
+• Dedicated team player
+• Excellent communication skills in English
+• World class problem-solving skills
+• Self-motivated and is able to operate autonomously in a structured manner
+• Ability to coach others
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+
+Education or Certifications
+• Bachelor’s or Master’s degree in engineering, computer science, data science / statistics, or business administration
+
+Work Experience
+• Minimum of 2 years of deep experience in Tableau, including Tableau server tuning, Tableau APIs, Hyper, recent and upcoming product innovations, etc.
+• Minimum of 2 years of deep experience in ETL for very large data sets (terabyte+)
+• Deep expertise in SQL, ideally PostgreSQL
+• Experience in conducting thorough quality checks on ETL flows
+• Experience with data ingestion and automation of ingestion is a big plus
+• Experience with visualized ETL tools (Alteryx, Dataiku) is a big plus
+• Experience in working with global teams
+• Client service experience is a plus
+• Cloud platform experience is a plus
+YOU'LL WORK WITH
+
+• Client success team
+• Tableau delivery team
+• Devops team
+• Product engineering and platform team
+• Commercial and product leadership",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE7LGK80sgQuXG9g5Fkoks60uucVDsjR5vVEBv1U&s,"['22 hours ago', 'Full-time']","{'posted_at': '22 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBHYW1tYSBSZXRhaWwgQ2F0YWx5c3QiLCJodGlkb2NpZCI6Imh6dEhZdFFJcnhvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVyY0NDdmNCUVVGMFZteGlRWEZuZVZWWFEyTlFhMmRqTjFaWlYxUjRTblZHTlU4elRHSjJSVFJCU1RjNWJtVlRNa0paUWxWamNGZG9ZVlZpVlRWNmVHMDNTR2Q1VEY5cVdYbFpTeTFGZEVGdlNFOW5Tbm8zWDFKalFqSm9NV3BhT0VwQlRYSTBkVzFRTUVaRFlUZEtYME5MUVhKQk9GaHVSRlYyVm05aVNYUlFTVEI1T1ROcFkyWlllVTAzWkdkWVFXUjVUV1pFTTBFNFgyOHhNM05xY1VNdFIzRkJkR3N5ZVZoRVdsUkZTR3BRZDBsV2VsVmpkMWxSUlc5b09XZHROMWN0Y25vME1GVTRkVzlXU0RCNVp6aHRhbVZoVjFGdWNEQlBTbk15ZWtsbGRqVnVaV2syYkhWRlRFVm1hMmM0VEc1RlJEVXphRVJVTm1SWVFSSVhlV3hYYjFrNU4wbFFTMkZtTlU1dlVEUndaVjgyUVhNYUlrRkVWWGxGUjJWdVdFRm9WRjlHYVZscU1UWkJkRlJITlZKUGRETlBaR013VUZFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBCb3N0b24gQ29uc3VsdGluZyBHcm91cCIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuYmNnLmNvbS9qb2IvMTYwMjFCUi9EYXRhLUFuYWx5c3QtR2FtbWEtUmV0YWlsLUNhdGFseXN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+1,EMEA Data & Pricing Analyst,Smith & Nephew,"Wrocław, Poland",via Jooble,"At Smith+Nephew , global medical technology company, we design and make technology that takes the limits off living, and we help healthcare professionals achieve the same goal. Together we improve life, while also improving performance. T his formed the basis for our purpose, #LifeUnlimited, and our culture pillars of Care, Collaboration and Courage.
+
+Care means that we show empathy and understanding for each other, our customers and patients.
+
+Collaboration means we work together as a team, based on mutual trust and respect.
+
+Courage is about continuous learning, innovation and accountability.
+
+Currrently we are looking for someone to join our Wrocław’s centre on position of:
+
+EMEA Data & Pricing Specialist
+
+Fixed term contract till end of 2023
+
+Summary
+
+This role will be responsible for leading all pricing analysis related to EMEA pricing guidance, architecture, and insights analytics.
+
+This role will give an exceptional opportunity to be part of our EMEA Pricing Transformation... initiative working on the implementation of our new Link360 CPQ tool across the region focused on the business and pricing profitability.
+
+This person will maintain our reports and key business KPIs related to our pricing performance on Link360 CPQ supporting the pricing manager to define and refine our pricing algorithms used to determine our pricing guidance in the system.
+
+It’s a great opportunity to apply data science and math skills to identify opportunities to growth and to increase business profitability.
+
+Essential Functions
+• Create and maintain Link360 CPQ reports and dashboards in Sales Force
+• Create the database to measure all business KPIs related to CPQ solution
+• Support the Pricing Manager on updating and maintaining the EMEA pricing corridors
+• Collecting, formatting, and modelling of pricing framework proposals by franchise/market according to each business model
+• Being the point of contact for PROS (CPQ vendor) around pricing guidance and requirements related to pricing models
+• Support EMEA markets with complex analysis related to important contract submissions
+• Support the EMEA Pricing Analyst as backup of CPQ support to super users
+
+Requirements
+
+Education
+• Degree qualified in a relevant subject (Computing, Maths, Statistics or Business)
+• Postgraduate qualification in related area also preferable
+
+Experience
+• 2+ years’ experience of working with large datasets, data modelling & analytics
+
+Competencies
+• Expertise in being able to create datasets from numerous individual data sources
+• Computer literate; strong knowledge of Excel, VBA, Python and R
+• Natural intellectual curiosity and an exacting attention to detail
+• Methodical approach to solution design and takes careful consideration of every element of a process to ensure accuracy
+• Knows the business and provides insight and direction into complex areas through technical database/data management expertise, analytics, and visual depiction
+• A flexible mindset and proactive attitude to change, specifically in resolving issues/finding solutions
+• Promotes collaborative relationships across differing levels of management, functions, divisions and locations
+
+Other
+• Advanced numerical and analytical ability
+• High level of written and spoken English
+• Sales Force experience/knowledge desirable
+
+at Smith+Nephew we offer:
+
+private health care | multisport card/my benefit platform | life insurance
+
+subsidies for trainings and language classes | postgraduate studies
+
+wellbeing programs | mentoring program | CSR programs
+
+annual bonus | company stock saving plan | recognition program
+
+employment stability | referral bonus
+
+possibility of working remotely | flexible working hours
+
+The Global Business and Technology Centre in Wroc ł aw was established in June 2018 and has been growing rapidly ever since. We are currently employing over 400 people in various global and regional functions such as: Finance, Information Technology, Supply Chain, Procurement, HR, PMO. This creates diverse job environment with many exciting development opportunities – both for those at the beginning of their professional career, as well as for experienced professionals.
+
+Our Wrocław’s office is located in Curie Skłodowskiej 12.
+
+#LI-GG1",,"['14 hours ago', 'Full-time']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJFTUVBIERhdGEgXHUwMDI2IFByaWNpbmcgQW5hbHlzdCIsImh0aWRvY2lkIjoia3Z4dFJXM1JtOFVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVUYwVm14aVFubDJUakZPZEZZMk5DMUdOMlZWVG1wTFdHUk9VakZxY1ZKMFJVSlBOVVY2UTFOcmNGcDFMVmRLUmpsd2JtNU5iVzlEUVZnMlZqTmFXV0ZZUjFsaU5YWnVTWGw2WjFNeE9XSkVlbTk2WTFKQ1JtTXdhRzB0YVVaVmQyeDFhSGg1VFVsTlJIbHRZMFE1U20xMWJEVXROblk1VVRsU2IyTlZSVlpEU2xsemVrNVRaRWh4ZVdwMVFYZG5iRzFNVlhKck9HSlVVMlpOU20xcVFTMXRWazh6T1ZSR1J6bFNWMHhIZEdwdWJISm1YMVZqUmtKdE5HMXFhR2xSZEhkNlJXOXNNRTFWWm5NNEVoZDViRmR2V1RrM1NWQkxZV1kxVG05UU5IQmxYelpCY3hvaVFVUlZlVVZIWTBwVVltTlBTek13ZG1OaU5qSnpYMVJSVWpVeFVsQlRTME5CWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvb2JsZSIsImxpbmsiOiJodHRwczovL3BsLmpvb2JsZS5vcmcvamRwLzExMDQwNzg1MTE4MjUyMzYxNzYvRU1FQS1EYXRhLSUyNi1QcmljaW5nLUFuYWx5c3QtV3JvYyVDNSU4MmF3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+2,Lead Data Analyst - Finance,Revolut,"Kraków, Poland",via LinkedIn,"About Revolut
+
+People deserve more from their money. More visibility, more control, more freedom. And since 2015, Revolut has been on a mission to deliver just that. With an arsenal of awesome products that span spending, saving, travel, transfers, investing, exchanging and more, our super app has helped 25+ million customers get more from their money. And we're not done yet.
+
+As we continue our lightning-fast growth, we believe that two things are essential to continuing our success: our people and our culture. So far, we have 5000+ people working around the world, from our great offices or remotely, on our mission. And we're looking for more. We want brilliant people that love building great products, love redefining success, and love turning the complexity of a chaotic world into the simplicity of a beautiful solution.
+
+About The Role
+
+We approach Data Science at Revolut the same way that we approach everything else. We take complex problems, and create extraordinary solutions that... our customers love. Our Data Analysts aren’t kept in the background, doomed to never see the impact of their work. They’re some of our best and brightest problem solvers, deployed to the front-lines to work in Product Teams and deliver rock star solutions 🤘
+
+We’re looking for a superstar Data Analysts who do not believe there is a data task that can be too hard 🦬 From digging into our complex databases, looking for the root cause of a problem to designing their own solutions and writing their own code to implement them. In this process they never stop learning, picking up new skills and delivering value ✨
+
+Up for the challenge? Get in touch 👇
+
+What You’ll Be Doing
+• Leading the overall Finance Data Analyst team and drive excellence in this area
+• Analysing and optimising our financial control and treasury management activities
+• Understanding our business and its processes through our data
+• Designing key metrics to measure different aspects of the business
+• Creating and maintaining new aggregated views and tables to simplify data querying
+• Maintaining and creating new dashboards to track metrics and visualise insights
+• Promoting data literacy across the company, organising and holding workshops
+
+What You'll Need
+• 8+ years of experience working with Data Analysis and creating impactful solutions
+• Ability to manage a team and stakeholders
+• Strong background / education in a quantitative discipline
+• Great skills with Python, SQL or other programming languages
+• Evidence of strong mathematical & statistics knowledge
+
+Nice to have
+• Advanced degree in a core STEM subject
+• Previous experience working on a Finance department
+
+Building a global financial super app isn’t enough. Our Revoluters are a priority, and that’s why in 2021 we launched our inaugural D&I Framework, designed to help us thrive and grow everyday. We're not just doing this because it's the right thing to do. We’re doing it because we know that seeking out diverse talent and creating an inclusive workplace is the way to create exceptional, innovative products and services for our customers. That’s why we encourage applications from people with diverse backgrounds and experiences to join this multicultural, hard-working team.
+
+By applying for the above position, you will confirm that you have reviewed and agreed to our Data Privacy Notice for Candidates: https://www.revolut.com/legal/data-privacy-for-candidates",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJIWBCG2Ie57IjZFBtnrqt8a4XmwWjiutvNm_SNro&s,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgQW5hbHlzdCAtIEZpbmFuY2UiLCJodGlkb2NpZCI6ImRLei1BRk1QbEo0QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVvd0NDc3dCUVVGMFZteGlRVlZxYTI1Q1NIaDJibXN4U2tGck9VMW1TVUZ1UkZCSlQxQm5XbE5xTVdsMlgxOWxOVXgyTFRaS1JWRjRaVkZaUnpOUmFUUk9lamt4TnpKSFZsZzRaVGR3VTNwSVZIZzFNWFZrWVhGZlFXd3hPVE5uYXpKZkxWbHJXVmhPYmxwd2IwbFJMVkU1YW1ZMlVrTktWMnBhY0RCSE1ETXpXRWs1WWpkdlRtMVpZbDkxVkZaRWQxVnJlbUpTWVhONVJreGFVVFJLZWtabFJYQk1jamd6U25CVmFGbGxZMmxIVDNWMlQzQkxUVTR0YVRsT2MyNWZZM1l3ZEVOalRrWktlakJMY0RKTGVXVTRFaGQ1YkZkdldUazNTVkJMWVdZMVRtOVFOSEJsWHpaQmN4b2lRVVJWZVVWSFpETTRObkJuUWsxMFdVUkhTVTVDVTNGNlgwVk1Na0l3YzE5ZlFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvbGVhZC1kYXRhLWFuYWx5c3QtZmluYW5jZS1hdC1yZXZvbHV0LTMzNDY1MzkyNzA/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+3,Business Analyst with SQL,NATEK,"Warsaw, Poland",via LinkedIn,"Job Description
+
+Join Natek and become part of highly valued team in banking area. Team develops and supports the IT systems which measure and manage bank’s direct and indirect exposures across the investment and private banking business sectors. The results are used in regulatory reporting, reporting to senior business and risk management as well as front office business leads.
+
+Your responsibilities
+• Deliver BA artifacts and provide BA involvement to support the delivery of changes to Credit Risk Data Warehouse arising from upstream, downstream, business and regulatory demand
+• Analyze, specify and document detailed requirements for change requests
+• Communicate and support the prioritization of these requirements with the Dev Lead and PM to ensure a common understanding between business and IT
+• Work closely with the application development teams located in Poland and London to ensure that requirements are understood and that technical solutions fully meet these requirements
+•... Carry out test case reviews to assure test coverage with providers within the team (QA and Developer resources)
+• Provide defect analysis during Integration (QA), User Acceptance and Regression Testing phases, working with development and change teams to facilitate closure of open issues
+
+Our requirements
+• Strong business knowledge of Credit Risk/ Investment Banking/ Banking
+• Ideal candidate has history of delivery with Data Warehouse applications and reporting
+• Exposure to data analysis with SQL skills, ideally in Oracle
+• Understands the various software development methodologies viz. Agile and Waterfall methods
+• Experience across all phases of the systems development lifecycle with a thorough understanding of the role and responsibilities of the BA in each phase
+• A solid understanding of standard change control policies and procedures
+• Excellent organizational, problem solving, and written/verbal communication skills.
+• Excellent MS Office skills
+• High degree of flexibility and a positive “can do” attitude.
+• Able to work with limited level of instruction and supervision
+
+Benefits
+• Attractive salary referring to your skills and experience.
+• Flexible approach regarding to working hours.
+• Joining the company that is providing exceptional services for the biggest, international customers with recognizable worldwide brands.
+• Be part of an open-minded team with a strong team spirit.
+• Private medical healthcare.
+• Multisport Card.
+• Life insurance.
+• Personal event bonus (i.e., wedding, childbirth, graduation).
+• Internal referral program.
+• For COW employees - additional paid day off for volunteering.
+• For contractors - entitlement to additional 23 days off",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY9mvldEoqJAJlaOolPu4ku_FoNKESFNotILUU9v0&s,"['1 hour ago', 'Full-time']","{'posted_at': '1 hour ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBBbmFseXN0IHdpdGggU1FMIiwiaHRpZG9jaWQiOiItTzhLZFg4Ry1WOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUVZkb1NqQjBiRlYyYzE4NE56VjFXSFJmZVVkb1NrTm5XakJTU0hKSVVrUkVNWEZSZDFrd2FrUk9VRzlmY1hWWGVURXRNRzFCYURsQlVYSTRWVTVrT1VkZmRWOUdWemhyVmxST1ZuWm5SbVZhWTAweFFreERVMHB2UVVwNGVIZzNTMmRLTmt0U1VGODJZMUpVUlMxc04wVlJTbkV4WkRSb1Z6aDViR053TVZsQlVsZFJOakpRTTJocVJWb3hkVjlLY1VkelpXTjNZVk5xUWs5NlZtcFBaVnBmU0hsbVdUaFZSRGhWTFZZMGVHZ3dFaGQ1YkZkdldUazNTVkJMWVdZMVRtOVFOSEJsWHpaQmN4b2lRVVJWZVVWSFpsRnhTbXMzWlRCQ1JIRmpRazlRVFRWWVJWbHlWSGhzU201WVp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvYnVzaW5lc3MtYW5hbHlzdC13aXRoLXNxbC1hdC1uYXRlay0zMTU1MzM2MTM3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+4,Functional Analyst (Finance Analytics),PepsiCo,"Kraków, Poland",via LinkedIn,"Overview
+
+Ideally located in Spain (Barcelona preferred), Poland (Warsaw, Krakow) or UK (Reading), this role is the key point of contact with key stakeholders operating in Europe, North America, LATAM & APAC.
+
+As part of an agile DevSecOps team, the main objective for the Functional Analyst is to be the subject matter expert of the SPOT (internal) solution and the Finance Budgeting & Planning process it supports. This role is the point of contact between the FP&A team (the customer) and multiple technical teams (the delivery partners) in both the delivery of new, and the operational support of existing capability.
+
+This role will play a key role as the SPOT 2.0 FP&A data warehouse transitions from a predominantly Europe solution in Teradata to truly Global analytics platform in Azure called Finance Data Lake (covering all International Sectors + Domestic Sectors). This role will contribute to the definition of data and technical user stories and tasks in DevOps covering development... and operational activity. Whilst based in Europe this role will also be supporting BU’s beyond Europe.
+
+This role will be interacting with senior stakeholders and delivery partners across FP&A, CGF, CTO and D&A teams.
+
+Responsibilities
+• Performs the analysis of business data requirements and translates into a data design that satisfies local, sector and global requirements
+• Partners with FP&A Product Owner and associated business SME’s to understand & document business requirements and associated needs
+• Ideally has a solid functional understanding of financial concepts (P&L, Balance Sheet, Cash Flow, Operating Expense,….) and has experience modelling data & designing data flows
+• Partners with database designers to translate the data designs into physical data implementation
+• Builds and tests solution and supports data validation activities
+• Supports incidents and service requests related to Global & European FP&A analytics solutions (SPOT & Cockpit)
+• Occasionally develops and/or supports supplementary data flows built in Alteryx
+• Work collaboratively as a key member of the SPOT 2.0 Product Team to ensure features and user stories required from Global Planning and Sector teams are well-understood and translated into the SPOT solution design
+
+Qualifications
+• Minimum 2 years of relevant Information Technology and business work experience (including data modelling and analytics), ideally with a finance background
+• Ability to use SQL to analyse data for both development validation and operational support is critical
+• Prior experience of implementing solutions in Azure, and specifically Azure data solution design an advantage
+• Strong analytical skills with demonstrated ability to interpret business requirements into performant business solutions
+• Ability to solve medium complexity problems with little to no direction from management
+• Good communication skills with the ability to effectively communicate and collaborate with people of all levels and with diverse backgrounds
+• Knowledge of AI modeling, database structure/management principles and applications an advantage
+• Ability to operate autonomously and proactively, managing multiple deliverables at a single time in a fast-paced, results-oriented environment
+• Knowledge of Scaled Agile Framework / Agile DevOps delivery
+• Ability to quickly adapt in a dynamic, fast-paced, customer-focused work environment characterized by rapid change, minimal lead times, and multiple competing priorities
+• Experience in Food/Beverage/Manufacturing industry preferred
+• Demonstrated ability to effectively communicate with mulitple levels of both the business and IT organization
+• Basic understanding of both the Finance FP&A processes & data, as well as the IT technology platforms
+• Ability to actively participate in complex technology discussions, and in complex finance process discussions.
+• Good knowledge and understanding of databases, data structure, data transformation & data flows.
+• Reasonable knowledge and understanding of the following technologies: Teradata, Alteryx, Azure Data Lake, Tableau & Power BI
+• Whilst the job title says ‘Functional’, there is a high degree of technical skills needed to do this role. This role will have many hands on technical components.
+• Ability to navigate complex and varied processes across systems, data flows and their implication to SPOT 2.0, dashboard performance, understand connections and ways to simplify",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPPgQFmfnaY5Q9Mh5Z5LQ1SeDuMncwsPJajWP9YIA&s,"['1 hour ago', 'Full-time']","{'posted_at': '1 hour ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJGdW5jdGlvbmFsIEFuYWx5c3QgKEZpbmFuY2UgQW5hbHl0aWNzKSIsImh0aWRvY2lkIjoibHZnZ1pMYWNsT3dBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVUYwVm14aVJITmhhR05oV1hvemExZHlZakEzV2kxRVdXVlZZWGRWTlVaU1RVWm5TVlpUUkZGTVkweFlWME5FZGpkck9VNU1jRWhpV21KMldIZE1VRlJ5VEdOc2FHTXhXa2hvUjFOcVJuUjZjVmMxVEdSM1VsTlVVV3hWVjBOTFUycFhPRk5HVld0SVNHWjFkVFY2UkRkbGN6TnFSVXRrVFRGaldVNXhUVzlZTlhORWVVbG1SMm90WDBFNFEyUmZaVFExYms5UFlXY3daRFZIWjFOb1NFUnJUbkZRVTJNMWFXWlJRMVZUVERWemJFMTRMVGRtZURoMU1FVnFWekV0WkcxTldWQkliM05DYlMxbkVoZDViRmR2V1RrM1NWQkxZV1kxVG05UU5IQmxYelpCY3hvaVFVUlZlVVZIWTA1RmVFdHBlbkZOWm5GVk9UWktTVE54T1d0UU9XOVdRME5MUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY185IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9mdW5jdGlvbmFsLWFuYWx5c3QtZmluYW5jZS1hbmFseXRpY3MtYXQtcGVwc2ljby0zMjk2NDc4MTEyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+5,Principal Data Analyst,GSK,"Warsaw, Poland",via Disability Solutions Career Center,"Site Name: Warsaw
+Posted Date: Dec 23 2022
+
+This role is to ensure products or projects with outcomes created for Clinical Operations are delivered with highest quality, standards, and accuracy This role shall focus on our values and expectations are at the heart of everything we do and form an important part of our culture.
+
+These include Patient focus, Transparency, Respect, Integrity along with Courage, Accountability, Development, and Teamwork. As GSK focuses on our values and expectations and a culture of innovation, performance, and trust, the successful candidate will demonstrate the following capabilities: Agile and distributed decision-making - using evidence and applying judgement to balance pace, rigor, and risk
+
+Why You?
+
+Key Responsibilities:
+
+• Work with a global customer base from the Clinical Operations Leadership Team, Functional Lines (Central and Regions/LOCs) and Study teams to define, implement and deliver robust data, analytics and benchmarking to support the... organization
+
+• Design key analysis for Clin Ops working in close partnership with the DAP Performance Team
+
+• Work with Clin Ops LT to execute the analytics and benchmarking strategy and vision and deliver a set of solutions that ensure relevant, real time data is available to drive quality and performance delivery of clinical trials, programs and the Clinical Operations organization
+
+• Partner with SPO, Finance and Tech to ensure availability of key data for analytics reporting and benchmarking for Clin Ops.
+
+• Support and train users on advanced development and most effective use of Power BI web service solution
+
+Basic Qualifications:
+
+We are looking for professionals with these required skills to achieve our goals:
+
+• 5+ years of experience in data analytics, data science, data engineering and/or other technology related
+
+• Expert level knowledge of Power Bi
+
+• Experience in analyzing data obtained internally or from 3rd party providers
+
+• Knowledge of advanced statistical techniques and concepts
+
+• Familiar to Agile Project Management frameworks (preferably SAFe)
+
+• Ability to coordinate several activities at once, quickly analyze and resolve specific problems
+
+• Ability to manage tasks and work with minimal supervision
+
+• Demonstrate your ability to quickly shape data into reporting and analytics solutions
+
+• Excellent communication (written/oral) in English.
+
+Preferred Qualifications:
+
+If you have the following characteristics, it would be a plus:
+
+• Knowledge of Azure data transformation and analytic tools - Azure Data Factory, Databrics
+
+• Knowledge of Microsoft Azure Cloud Services
+
+• Knowledge of Programming Skills such as Python OR R
+
+• Experience in other Microsoft Power Platform tools implementation (Power App, Power Automate)
+
+Why GSK?
+
+Our culture helps us deliver our purpose and strategy and starts by doing the right thing, because what we do matters and so does how we do it, which is why our culture is driven by our behaviours - Go Beyond, Do What Matters Most, and Keep It Human.
+
+Benefits:
+
+• Career at one of the leading global healthcare companies
+
+• Possibility of remote working
+
+• Contract of employment
+
+• Attractive reward package (annual bonus & awards for outstanding performance, recognition awards for additional achievements and engagement, holiday benefit)
+
+• Family friendly environment (flexible working hours, short Friday, part time working, a wide package of vaccinations for children and adults- most expensive vaccinations are sponsored, the package value is approx. 6000 gross, baby box)
+
+• Employee Assistance Program (help in personal crises, return to work, diseases, psychological devices etc)
+
+• Life insurance and pension plan
+
+• Private medical package with additional preventive healthcare services for employees and their eligible
+
+• Sports cards (Multisport)
+
+• Possibilities of development within the role and company's structure
+
+• Personalized learning approach (mentoring, online training' platforms: Pluralsight, Business Skills, Harvard Manage Mentor, Skillsoft and external training)
+
+• Extensive support of work life balance (flexible working solutions, short Fridays option, health & well-being activities)
+
+• Supportive community and integration events
+
+• Modern office with creative rooms, fresh fruits everyday
+
+• Free car and bike parking, locker rooms and showers
+• LI-GSK
+
+G7
+
+GSK is a global biopharma company with a special purpose - to unite science, technology and talent to get ahead of disease together - so we can positively impact the health of billions of people and deliver stronger, more sustainable shareholder returns - as an organisation where people can thrive. Getting ahead means preventing disease as well as treating it, and we aim to impact the health of 2.5 billion people around the world in the next 10 years.
+
+Our success absolutely depends on our people. While getting ahead of disease together is about our ambition for patients and shareholders, it's also about making GSK a place where people can thrive. We want GSK to be a workplace where everyone can feel a sense of belonging and thrive as set out in our Equal and Inclusive Treatment of Employees policy. We're committed to being more proactive at all levels so that our workforce reflects the communities we work and hire in, and our GSK leadership reflects our GSK workforce.
+
+If you require an accommodation or other assistance to apply for a job at GSK, please contact the GSK Service Centre at 1-877-694-7547 (US Toll Free) or +1 801 567 5155 (outside US).
+
+GSK is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive equal consideration for employment without regard to race, color, national origin, religion, sex, pregnancy, marital status, sexual orientation, gender identity/expression, age, disability, genetic information, military service, covered/protected veteran status or any other federal, state or local protected class.
+
+Important notice to Employment businesses/ Agencies
+
+GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.
+
+Please note that if you are a US Licensed Healthcare Professional or Healthcare Professional as defined by the laws of the state issuing your license, GSK may be required to capture and report expenses GSK incurs, on your behalf, in the event you are afforded an interview for employment. This capture of applicable transfers of value is necessary to ensure GSK's compliance to all federal and state US Transparency requirements. For more information, please visit GSK's Transparency Reporting For the Record site",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZeuoeJtF1BNWrP5WBqXF2cSiByAzcxcAjX1p8B4&s,"['19 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '19 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJDWGlIeXdRZXN2VUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUXkxRWR6SkRZWGRNY210Q1F6aFJRa2hZY0RGVU1VbzFhR1ZRZVZSTlVuWlNhMWRDVW1nNFlVRnJkMmd5VTE5MFZHWnpSRVpJVjJKNWJUaFRWM1pWZGxkMGEzWnFXVkE0ZFZkc1dteGpZbWgwYTNwSFNFbEhiWEZUY1ZwNVFYQjBORFV4UldRMFRYUk5ialZaUVRVdFJVUkVaMTkwYUdSWVQyOUVURkZZYld4dk9FaHNWWFJPUlUxSE4wMTRhbWwwZG1SME1GUktaMHRzTkZVMVl5MUdNR0UwWXpKWGJGRmtaRmMwTldjNFNUVnJFaGQ1YkZkdldUazNTVkJMWVdZMVRtOVFOSEJsWHpaQmN4b2lRVVJWZVVWSFpteHlOMFZXTkZJNVkxRTJibXBoUjJzNFdFaElRMnRKV2xwcmR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gRGlzYWJpbGl0eSBTb2x1dGlvbnMgQ2FyZWVyIENlbnRlciIsImxpbmsiOiJodHRwczovL2pvYnMuZGlzYWJpbGl0eXRhbGVudC5vcmcvam9iLzU1Nzg2NTk4MC9wcmluY2lwYWwtZGF0YS1hbmFseXN0Lz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+6,Senior Solution Analyst- GAMMA Retail Catalyst,"BCG GAMMA, Boston Consulting Group","Warsaw, Poland",via Boston Consulting Group,"WHAT YOU'LL DO
+
+The Sr. Analyst for the GAMMA Retail Catalyst product will play a critical role in delivering, implementing, and supporting BCG's client-facing software solutions – independently taking direction from and guiding strategic approach with senior business leaders in our Retail and Pricing sectors as well as the Product Managers for GAMMA Retail Catalyst, AIR, and other GAMMA product teams. Key activities will include gathering requirements from internal and external clients, advising them on the application's usage best practices, and recommending processes to optimize the business value delivered by the application; then sourcing and preparing data, managing required client processes changes, overseeing deployment by setting up and configuring the application according to the requirements, and training client's end users. The Analyst will interact directly with both BCG case team members and clients and must understand and be able to navigate the clients' data and... requirements. He or she should be able to quickly learn methodologies and approaches used in GAMMA Retail Catalyst, understand the industry / client context, and learn analytical approaches used to transform data into business insights. The Analyst should also be able to work with the BCG team and clients to co-create new approaches for further development of software solutions. On the solution deployment side he or she must be able to determine what is needed for compliance with the client's business needs, security policies, deployment, and support, and leverage the right tools and resources to complete the implementation with the highest level of customer satisfaction. When confronted with technical challenges, he or she must work with the BCG platform team and (working together) find creative, economical, and scalable solutions within the application's technical specifications.
+YOU'RE GOOD AT
+
+Client Requirements, Business Processes Change, Data and Analytics Management, Application Setup
+• Works together with the BCG client team and the Retailer (either, the “customer”) to understand client's processes, business requirements, and data structure / challenges
+• Responds to customer inquiries and requests: Troubleshooting, system configurations, service issues
+• Demonstrates a proactive, solution-based approach to enhance client relations via meetings, calls, emails, and chat
+• Constructs and manages the implementation project plan with customer counterpart, including setting and managing customer expectations based on the current state of product offerings and services
+• Identifies required changes in client's business processes and supports process change management
+• Understands client's data situation, develops blueprint for future state data management and works on implementation of new data processes
+• Performs analysis of client data to determine parameter requirements for application's setup, including ETL and processing of data, as needed
+• Works with the Data Engineering, DevOps, and Product teams to implement requirements
+Application Delivery, Implementation, Training, and Support
+• Leads and oversees deployment of the software, configures the software to client's needs
+• Provides guidance to BCG case teams, client's business users and IT team to enable them to roll out, operate, monitor, and maintain the application
+• Collaborates with GAMMA Retail Catalyst technical teams, application software vendors and other resources to diagnose and resolve application's technical and/or non-technical problems, bugs, performance, and other issues
+• Collaborates with internal colleagues to construct appropriate training and support plans for the continuation of the customer’s users and deliverables after the implementation goes into production
+• Works on development of application user guides and other application related materials
+• Documents, tracks, and monitors application's bugs, problems, and issues to ensure timely resolution
+• Performs quality control tests and keeps logs of problems, issues, changes, and future enhancements
+• Tracks project progress against agreed to KPIs and any contractual obligations
+• Provides product feedback to development teams
+Other
+• Performs other projects and duties as assigned or required
+• Ability to travel up to 80% in a given week for periods of time depending on the supported products and implementation/support requirements
+
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+• Deep experience in brick-and-mortar Retail organizations (e.g. merchandizing, pricing, analytics, etc.)
+• Advanced degree with strong academic achievements in business management, engineering, mathematics or similar
+• Experience in areas such as data and / or analytics-related work, data management, end user training on data management / insights generation from data / software applications, end user support, or related activities
+• Preferred customer support experience in a SaaS environment or technology industry
+• Knowledge in the following fields, technologies, and tools:
+• Skills in interpreting data and generating business insights from data
+• Interest and ability to learn data management tools such as Alteryx, SQL, DataIKU, etc.
+• Knowledge of R-script and/or Python
+• MS Excel
+• MS PowerPoint
+
+YOU'LL WORK WITH
+
+Our data analytics and artifical intelligence professionals mix deep domain expertise with advanced analytical methods and techniques to develop innovative solutions that help our clients tackle their most pressing issues. We design algorithms and build complex models out of large amounts of data.
+Key Competencies
+Customer and business focus
+• A passion for customer success and support is essential
+• Interest in Technology and being able to learn quickly regarding tech-heavy topics and tools
+• Able to adjust approach to effectively interact with customers at all organizational and technical levels
+• Focus on excellent customer service and user needs; willingness to go above and beyond to deliver results
+• Able to confidently make decisions and escalate issues and decisions when appropriate
+• Flexibility and openness to ask for help when needed
+Communication, interpersonal and teaming skills
+• Excellent interpersonal and communication skills
+• Fluent written and spoken English
+• Able and willing to give and receive honest, balanced feedback
+Problem solving, analytical skills and decision making
+• Bright, ambitious, solution-oriented self-starter
+• Able to effectively handle difficult and stressful situations with poise, tact and patience, while demonstrating a sense of urgency
+• Able to anticipate, identify, and solve critical problems
+• Flexible, self-motivated, and proactive out-of-the-box and critical thinker
+Work management, organization and planning
+• Excellent organizational skills with strong attention to detail; efficient time management; able to prioritize work effectively
+• Independently and proactively communicates issues, priorities, and objectives
+• Able to thrive in a dynamic, fast-paced, demanding environment
+Values and ethics
+• Demonstrates competence and character that inspires trust
+• Ability to respect all BCG and client information as personal and confidential
+Work environment
+• Able to perform successfully in a fast-paced, intellectually intense, service-oriented environment and to interpret rules and guidelines flexibly to enhance the business in keeping with BCG’s values and culture
+• The ideal candidate must understand that client demands aren't always between 9-5pm and be available / flexible where necessary
+• Experience working successfully within a complex matrix structured organization
+• Able to understand and manage complex reporting relationships and incorporate multiple labor laws and cultures",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE7LGK80sgQuXG9g5Fkoks60uucVDsjR5vVEBv1U&s,"['10 hours ago', 'Full-time']","{'posted_at': '10 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29sdXRpb24gQW5hbHlzdC0gR0FNTUEgUmV0YWlsIENhdGFseXN0IiwiaHRpZG9jaWQiOiJYWnExaUlnTXo0OEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFc3dDQ293Q1FVRjBWbXhpUkRWcGVrWlRjbUowU2w5dGFFSm1OekI1V2pOWVVFSnpUREJuZDA5aGNYQTNUVmxNVWpoTWJqVm9TRkJqVGxCWWR6Uk5TMUprYkRCUlVqRndZMVJxWkRkb1pDMDFSMjFHVWxGcFlsZzJSVk5yV0djd2RsWndjRUpVVlhwWVRGQTJXREZLZFhCcVNVeHZSalpWYTI1M1NFZFZiVUZYZVRkVGRuWnVWbmxtV1drNWFXY3pTRkJUVWpOTVVtOUhNWEZpWjJ0MFdFMDVSVmhVVVhWSU9GSnFSVGxmWlU5TWNISlFZV1ZzY0VJMVUxOTVkM2s0ZEc1bk9TMHhNbmR6YkVOaGFEQkRVRmQ0V0VwMFZWOVJOR0p6UTBGWlVGZFNSMjloWVUwMGFVUXhiVXd4WmpGYWREbGxNRjlvZFMxUGVHbzVTR2xGUmpCUVMwVjZNbkYyWTJSbWJuaEZlWFZMUXhJWGVXeFhiMWs1TjBsUVMyRm1OVTV2VURSd1pWODJRWE1hSWtGRVZYbEZSMk5KVVU5MVVqUnRMVjk2Tm1sbmVHZFllWFZUYjFNNFdYSllVRkUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBCb3N0b24gQ29uc3VsdGluZyBHcm91cCIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuYmNnLmNvbS9qb2IvMTQ1MTNCUj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+7,Senior Financial Analyst,"Warner Bros. Discovery, Warner Media","Warsaw, Poland",via Careers At Warner Bros. Discovery,"Overview:
+
+FP&A COE is known for its innovative thinking, best practices implementation and great customer service. Warner Bros. Discovery seeks to unlock value for the company through igniting curiosity in all of its team members, encouraging collaboration and constantly transforming the way we work.
+
+The Senior Financial Analyst will understand reporting deliverable schedules and do the heavy lift of all report and supporting file preparation (e.g., daily/weekly/monthly, incl. rolling of schedules) prepared by the Subscriber Reporting group. Perform self-review and ensure reporting metrics and financial dashboard summaries highlighting significant business trends is delivered timely and accurately to Reporting Manager for review.
+
+You will partake in daily calls with Data Insights and the Business Intelligence Data Pipeline teams to speak to the reconciliation of the data driven from daily power queries (Finance based reports) and Data Insights reports (Looker), understand data... discrepancies and issues that need to be presented back to team for next steps.
+
+As preparer and user of the reporting data, understand how to take business considerations needs into reportable action. You will proactively identify process inefficiencies and opportunities. Play a role in testing of reporting related projects and tasks within the DSR team.
+Responsibilities:
+• Preparation/Review of weekly global reporting metrics (Paid Subscriber balances & movements, Churn %, ARPU, etc.) and financial dashboard summaries highlighting significant business trends and financial results, by leveraging the BI created data analytics dashboards (e.g., Looker) and existing built reports from the data warehouse (e.g., Zeppelin and Snowflake) to provide accurate subscriber reporting that are distributed to various finance departments (Planning, etc.) and HBO Max department leads
+• Participate in the daily run of key subscriber reporting metrics (e.g., including subscriber acquisitions, conversions, reconnects and churn) used for reporting per plan offerings and participate in daily calls with Data Insights to review reporting data
+• Prepare all Promotional and Bounty reporting as it relates to subscriber metrics and contract and performance obligations
+• Participate in Reports reconciliations and analysis as needed (e.g., new initiatives for HBO Max; New IAP Partner reporting data; etc.)
+• Understand the reporting deliverable schedules of the weekly reporting metrics and financial dashboard summaries
+Qualifications:
+• Minimum 3 years relevant work experience. Entertainment industry and / or multinational business experience is a plus
+• Solid analytical, technical, organizational and interpersonal skills
+• Problem solver with ability to manage details
+• Proven ability to set and meet realistic deadlines and achieve successful results
+• Excellent oral, written communication skills, and financial presentation skills
+• Ability to handle multiple tasks simultaneously, prioritize and adhere to strict deadlines
+• Self-motivated individual, detail-oriented with ability to work independently and collaboratively
+• Strong Microsoft package skills a must (particularly Excel and PowerPoint)
+• BS in Accounting, Finance or Computer Science
+• CPA or BI certification is a plus
+
+What's in it for you?
+• Hybrid work model, flexible working hours
+• Free access to player.pl
+• Benefit package: private medical health care, life insurance, MyBenefit cafeteria including sport card, social funds, retirement pension plans, recognition platform, employee referral program
+• Work-life balance initiatives: wellbeing platform, yoga, educational webinars, Employee Assistance Program, internal media initiatives
+• Training & development: sharing the cost of English lessons, Employee Resource Groups, Bridge learning platform, sharing sessions with experts
+• CSR activities: volunteering, eco & social initiatives
+• Casual dress code
+• Parking space available for booking
+
+#LI-Hybrid",,"['5 hours ago', 'Full-time']","{'posted_at': '5 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRmluYW5jaWFsIEFuYWx5c3QiLCJodGlkb2NpZCI6InljRzA0U3o4UFJvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVxSUNDdUlCUVVGMFZteGlRVVJsYTFSck4zWlVUM1V6Y2xSWFZUbHJTa1JrVUdKbWMwUkJYMkZHZFhwRU5XRjRNMUJwV0hocldUQnVYMU4zT0VSTVUyRnlOemRxZGxKclpsb3dXblJwWDFVNWFqWjRNRUpSUm1reVZrTnJiMlpvTW1wTlJ6UlNibDlPVUd4MFFsUlhjVUpGYm1Wa01VNWlXak5hWTFBMVYyOTRhR1JqUnpkTlZteENkV0ZNYTJOR2RYVm5Ua3MxTUY5RGFsaDZSbmQ1ZW1kSVVraHNSazluVDJSUlVuZDRlSFZ4Ym5OaGRtbFlkbmR1UTBwUGIwSmhlbmhNTUZwTFZHRkpPWEpsUmtGbE56SXlZVXgwVjFSNVNIaFVaRlk0UlhoeWJrODBNa280VVJJWGVXeFhiMWs1TjBsUVMyRm1OVTV2VURSd1pWODJRWE1hSWtGRVZYbEZSMlI1UXpSRWFVaHBUekJITlhFdGVuaDZRMjlOVG1ocGF6WTRhWGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBDYXJlZXJzIEF0IFdhcm5lciBCcm9zLiBEaXNjb3ZlcnkiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLndiZC5jb20vZ2xvYmFsL2VuL2pvYi8zMzQyOC9TZW5pb3ItRmluYW5jaWFsLUFuYWx5c3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==

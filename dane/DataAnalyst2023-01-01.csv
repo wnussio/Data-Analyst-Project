@@ -1,0 +1,850 @@
+,title,company_name,location,via,description,related_links,thumbnail,extensions,detected_extensions,job_id
+0,Data Analyst,BEC Poland,"Warsaw, Poland",via Trabajo.org,"Operating system, WindowsAbout the project, Are you eager to be a part of something bigger? Ready to be professionally ambitious together with others? Then we might have the right opportunity for you., , We are looking for a Business Analyst ready to turn insights into more secure operations, You will be based at BEC in Warsaw and you will be joining a small but progressive team, Opera-tional Excellence, which is a newly established department in IT Operations., , Operational Excellence has a clear purpose: To strengthen our risk management and customers’ operations by continuously improving our operational business processes and governance around it., You will have a key role in ensuring that BEC continuously reduces the cyber security risks in our infrastructure and thus help increase our customers’ security levels., , BEC is undergoing a transformation where Operations and maintenance along with risk, security and compliance are top strategic priorities. What makes this role... particularly interesting is that you will be key in driving this transformation with further development of our vulnerability and patch management services.Your responsibilities, In the position as Business Analyst, you will work closely together with Patch Product Owner and Secure Operations department along with many other key stakeholders in BEC., , Your primary tasks and responsibilities will include:, •Daily monitoring of vulnerability data, •Validate data for completeness on all CIs/ platforms, •Creating security incidents and incidents on deviations in data and follow-up with our ven-dor performing the vulnerability scan, •Contribute to development of Patch insights in PowerBi in close collaboration with Patch Product Owner, •Monthly Patch reporting to All Risk forumWe are looking for you who love to explore and learn, , We are looking for an ambitious and proactive colleague who can contribute to the team both pro-fessionally and personally., , The ideal candidate will have a proven track record in most of the following skills and experienc-es:, •2 years of experience with IT life-cycle management activities, •M.Sc. in IT or other related fields, •Advanced user in MS Office Excel., •Experience with product lifecycle management and/ or vulnerability and patch manage-ment is a big advantage, To us, curiosity is essential, and at BEC' you'll join a community of helpful, ambitious, and tech-savvy people who love to explore and grow. We ensure that banks can comply with the legislation such as reporting requirements, providing solutions for individual banks as well as the entire community of BEC banks., , As a person, we expect you to identify with the following:, •Ability to understand the full picture of the Patch eco-system and how this is directly linked to how we are performing, •Comfortable working with many data points, •Motivated to challenge status quo and yourself for continuous improvements, •You are curious and passionate about deep-diving into problem areas, , With colleagues in teams distributed in Denmark and Poland, you must master English at a high level both in writing and orally.This is how we work, agileDevelopment opportunities we offer, conferences in Poland, external training, industry-specific e-learning platforms, support of IT events, technical knowledge exchange within the companyBenefits, private medical care, sharing the costs of foreign language classes, sharing the costs of professional training & courses, remote work opportunities, flexible working time, fruits, integration events, corporate gym, corporate sports team, no dress code, coffee / tea, leisure zone, birthday celebration, employee referral program, family picnicsJoin a community of people sharing great ambitions , BEC is a fintech company with branches in Denmark and Poland. As an IT partner for a wide range of banks and other parties in Denmark's financial industry, we create financial solutions for 20-30 % of the Danish bank customers. We make it possible for them to check their account online, take out loans, and transfer money. In other words, everything it takes to run a bank., , We are 1.400 employees cultivating an informal, yet dedicated culture. We help each other and learn from each other to create the strongest possible solutions for the banks, their customers, and the Danish society.Make us aware of your talent , Ready to join a culture of tech-loving people? Then we look forward to receiving your application and resume as soon as possible. If you have any questions related to the position, do not hesitate to contact Anna Buczko, who is responsible for this recruitment process., , We are committed to hiring top talent regardless of race, religion, color, national origin, sexual orientation, gender identity, and age. As a result, we encourage all qualified candidates to apply for the position.BEC Poland, BEC is a fintech company with branches in Denmark and Poland. As an IT partner for a wide range of banks and other parties in Denmark's financial industry, we create financial solutions for 20-30 % of the Danish bank customers. We make it possible for them to check their account online, take out loans, and transfer money. In other words, everything it takes to run a bank., , We are 1,400 employees cultivating an informal, yet dedicated culture. We help each other and learn from each other to create the strongest possible solutions for the banks, their customers, and the Danish society.This is how we work,
+","[{'link': 'https://www.google.com/search?q=BEC+Poland&sa=X&ved=0ahUKEwi9uqCn_qb8AhXRlWoFHV3sB64QmJACCNsK', 'text': 'See web results for BEC Poland'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IkVQanJrMndoRjhrQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlSRkpDTm5weGVrcERSa1p6T1dSdk9ITjZOMGs1TTNaNWVHUkhhVFpmWTBKcmEweFJibGsxVDNwMVZtRnhPRlZyTUdGSlZtWk5lRTlQV1RKU2JtWm1WbUZZY2podVgxaDViMVZSZW1sZmRGWlBjRUpsYUY5bmVERmxaVWc1YjJwWVdFTTBRamRDY25wNFYzcHVhWFJZWm5sYWNURkNXWGRKTnpremNFWkVPRU5ZYjNsU1VTMUhjVkE1YTI1R2VHdEhaVUZ0Ym5aemEweDNkM2gzRWhkQll5MTRXVjh5TVVoT1IzSnhkSE5RTTJScFpqaEJieG9pUVVSVmVVVkhaRTlEWkRscmJWSnJjMGg1TVVJeldXeFJTRVExZEc1S1ZIbGlkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xMjU1LTIwMjMwMTAxLWQxYjE4NzAyZDJmNjc4MDU5MTU4YTUyNmNjNmY1ZDRiP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+1,Junior Data Analyst,Jacobs,"Warsaw, Poland",via Jobrapido.pl,"SQL (nice to have) Data modeling (junior) Power BI (junior) Power Automate (regular) Power Apps (regular) English (advanced) MS Excel (advanced) We have more than 1800 colleagues in Poland, supporting our business in all global regions. Our Global Delivery Center (GDC) engineers in Krakow and Warsaw office collaborate on the design and delivery of local and global projects in the fields of engineering, design and construction. Our Global Business Services (GBS) specialists provide global support and expertise in the fields of Accounting, Procurement, IT, HR and Graphic Design We are looking for smart and ambitious people who would help us understand and manage our data better.Data sits at the heart of Jacobs and plays a uniquely crucial role in what we do. With data we build intelligent real-time dashboards and reports for our internal and external projects to automate reporting, track team performances and enhance customer experiences.This exciting opportunity will give you a chance... to be a part of the team and have a major impact on how we deliver projects and communicate with customers. Responsibilities: Building Apps and Flows enhancing data collection and processingDashboard and report development and administrationQuantitative and Qualitative analysis of dataTranslating data into informative visuals as per business & projects requirementsConnecting to data sources, importing data, and transforming data for BI purposesDesigning and building efficient tabular and multidimensional data modelsCollaborating with IT department, Business Units and Project ManagersQualifications - ExternalSome experience in creating flows and apps using Power Apps and Power Automate (it's a must)Some experience with reporting, and analytics related topicsUnderstanding of concepts around analytics, statisticsGood experience with ExcelCapability to see a big picture but also work on the detailsPositive attitude with a focus on solving issuesCapability to work in a global, multicultural environmentAbility to work independently and excellent organizational skillsGood EnglishNice to have:Experience in data preparation and visualization using Power BIKnowledge on Power Queries and/or DAX queries and advanced level calculations on datasets in Power BISome experience with Data Quality, SQL and Master DataKnowledge related to Azure functions We offer:Unique company culture fostering individual career growth and work-life balanceFull-time employment contract with salary corresponding to qualificationsHybrid or stationary working model – depending on your preferencesFlexible working hours (we start between 7:30-9:30)“Short Fridays” (we work 6h on Friday)Flexible benefits package (Lux Med medical care, psychological care, life insurance, My Benefit cafeteria system, including Multisport card co-financing, car park sharing system)Membership in Jacobs employee networks (Women's Network, OneWorld, PRISM, Careers Network, Green Team, Toastmasters, Collectively and others)Continuous development opportunities, including a range of professional trainings and certifications (e.g. ACCA, CIPS), Graduate Development Program, Learners’ Community, self-learning platformLanguage courses (English, German, Polish","[{'link': 'http://www.jacobs.com/', 'text': 'jacobs.com'}, {'link': 'https://www.google.com/search?q=Jacobs&sa=X&ved=0ahUKEwi9uqCn_qb8AhXRlWoFHV3sB64QmJACCIoL', 'text': 'See web results for Jacobs'}]",,"['18 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJBeC16UjBUcldKVUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUXpaTGNFTm5SWEZSTURneExWbHZaelpYTVRsSmIweEJjR0pyU1d0TWFqRmxTbW80Y3paRlYyZEZZblpRUTJWVllWTnpOVzVETW0xQmJGaElSRFozY0ROckxWaDRYM2RQVGxKR2EyaHJhVmxqVjFJeFVHVnhVblpwYVRJeldETkhOMW80VVVjeGVXbzBjRk5XWkU0Mk1FMHpSM3BITlZsdFowZDVVMWRTVlhwSUxYZzJlVmRpWVcwM1NERXlWMDV3V1cxU1VHaEljVWRGVVRjeGJUWjFibmx3ZG1KbVpUQlFjWFJtWmtsMFYwUkZFaGRCWXkxNFdWOHlNVWhPUjNKeGRITlFNMlJwWmpoQmJ4b2lRVVJWZVVWSFpUUnZla3hZZDFNMU1GQldPVVJJT0ZoelpDMUtjbXgwYTBOZlFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBKb2JyYXBpZG8ucGwiLCJsaW5rIjoiaHR0cHM6Ly9wbC5qb2JyYXBpZG8uY29tL2pvYnByZXZpZXcvNzY5NTY3NjI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+2,Senior Data Analyst,GlobalLogic Poland,"Wrocław, Poland",via Trabajo.org,"Expected, Excel, Google Sheets, SQL, Tableau, Data Studio, Power BIAbout the project, GlobalLogic is one of the market leaders in full-lifecycle product development and R&D, employing more than 20000 highly qualified engineers around the world., , We are looking for strong candidates for the Data Analyst role to make our processes even more data-driven., , We offer a casual, fast-paced, collaborative environment that stimulates ideas and innovation. If you meet the aforementioned requirements, you are committed to the highest standards of excellence, and want to learn from and collaborate with professional experts in the industry, this is a role for you.Your responsibilities, Analyzing and providing insights on the company activities related to Workforce planning and management tasks and projects (General results, performances, success metrics, effectiveness/efficiency ratios, etc), Calculation and building of analytics based on other Workforce needs, Forecast and modeling, such as... spending, bench metrics, etc, Keeping internal databases up to date and daily support of the existing reports, Developing dashboards/reports for a variety of Workforce needs, Workforce Data Analyst will provide the management team and Workforce organization with data and insights in order to help in strategic/business viewpoint and correct decision making.Excellent Excel/Google Sheet skills (Pivots, basic Power Query/Apps Scripts), Experience in analyzing data and drawing valuable insights from it, Experience in working with different ERP and CRM systems, ability to read/create SQL scripts, Experience with Tableau/Datastudio/Power BI etc, Strong planning and organizational skills, Strong analytical skills, ability to deep dive ti eh business process/model, Selfe managed and result-oriented, Good communication skills, Upper-intermediate written English language skills, Any BI or Python for data analysis is a big plusDevelopment opportunities we offer, assistance in preparation to public speeches, conferences in Poland, development budget, industry-specific e-learning platforms, mentoring, technical knowledge exchange within the company, time for development of your ideasBenefits, private medical care, sharing the costs of foreign language classes, life insurance, remote work opportunities, flexible working time, integration events, dental care, no dress code, video games at work, coffee / tea, parking space for employees, leisure zone, redeployment package, charity initiatives, Multikafeteria Benefit System, Meal Subsidies (also for meal delivery), Tax Break for creative workGlobalLogic Poland, GlobalLogic is a full-lifecycle product development services leader that combines chip-to-cloud software engineering expertise and vertical industry experience to help our customers design, build, and deliver their next-generation products and digital experiences. We expertly integrate design, complex engineering, and agile delivery capabilities to deliver superior business outcomes for global brands in the telecom, automotive, healthcare, technology, media and entertainment, manufacturing, and semiconductor industries., , Headquartered in Silicon Valley, GlobalLogic employs over 18,000 designers and engineers across the globe. Analysts like NASSCOM and Zinnov have recognized us for being a top company in our field, and we are consistently nominated as a preferred employer by both global HR consultative firms and local job boards. By creating a work environment that is exciting and flexible, and by fostering growth through ongoing learning and development programs, we empower our employees to achieve both their professional and personal goals., , At GlobalLogic, we make amazing products — and careers.This is how we work,
+","[{'link': 'http://www.globallogic.com/', 'text': 'globallogic.com'}, {'link': 'https://www.google.com/search?q=GlobalLogic+Poland&sa=X&ved=0ahUKEwi9uqCn_qb8AhXRlWoFHV3sB64QmJACCLoL', 'text': 'See web results for GlobalLogic Poland'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJfbE1iNXc5NTJfOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVRjBWbXhpUWtOMFRuWXhSRTFxUkY4d1EyNHlhbGxaZFc5aU9YcHVTa0UyWkdONGFrUmZZMDFLVm1aR1dXOXZMVE5tYW5WcWVXRTJWVFU0Vm1OWVUyMVFiakpYZERsTGJuRXRjSHB4ZFVsTVkwWklXSFoxYmxsNlQyaFhNR0pPYWtKeVRtWmZUMmhhZVZZMWRXaHZhbkJFWDBOSmNTMUVhVzVTT1VRNGJtZFpaMFpzTkVwNFJYQm5OSGhZUjBwelFXZzBiQzFKVEVSSlluQkdlbE14YkZWM1MybDZkbEZmWDJKWmIyd3RWbVp3TXpkb1YxRlhabkZ3WmtRMWNWaExNbkZ1YlhkRlgxTkJUbEJZRWhkQll5MTRXVjh5TVVoT1IzSnhkSE5RTTJScFpqaEJieG9pUVVSVmVVVkhZMkZQVFRZd2FHSkJUR0ZyVFhCV2FFeGtaVGR2ZVZKS1lqTjNadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xMjU1LTIwMjMwMTAxLTE5YzY1YjVmYWNmMGI4NDBmMjY4MDdkMjc2ODgxZmI5P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+3,Data Analyst,UBS,"Kraków, Poland",via UBS - Talentify,"You have:
+
+• bachelor degree (preferably Business, Economics, Finance or Administrative background)
+• 1-2 years of experience in a data oriented role with exceptional ability to analyze and manipulate data
+• strong analytical, creative and innovative approach to articulate and present findings
+• very good written and communication skills in English
+• interpersonal skills, capacity to handle multiple projects with tight deadlines
+• experience in developing reports and dashboards using BI tools (Business Objects, Tableau) is an asset
+• first experience using SQL
+• advanced Excel skills. Knowledge of MS Access and MS SharePoint is an asset.
+
+You are:
+
+• a self-starter and team player with positive attitude and energy
+• ready to join a growing team in a dynamic and challenging environment
+• highly organized with good technical and process documentation skills
+• able to multi-task, have sense of urgency and focus on deadlines
+• eager to learn new technologies and tools in a fast paced... environment
+• fluent in English
+• LI-UBS","[{'link': 'https://www.google.com/search?q=UBS&sa=X&ved=0ahUKEwi9uqCn_qb8AhXRlWoFHV3sB64QmJACCOcL', 'text': 'See web results for UBS'}]",,"['9 hours ago', 'Full-time']","{'posted_at': '9 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6ImR6WmtubGFXTXpVQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVzd0JDb3dCUVVGMFZteGlRbFpZT0dSalRrd3phbEJyYWs4MVRIUmtRMXBtVEhacFUyMUtjRzVTZW10Rll6VXdielJvV214SmRIZE1WV2hRYlVKdlVEVmpjR3M1T0VwSU5tVm1RMnBQTURSVlIxaHRNV0p0UTNoUFdsUkNMVWhGVjJaWmVtUkNPR05xYWs0eFRYQlFRbEpuTVc5a2VtcG9aV2xqYUdoeWFYZEZNalZsZFRBemNtUnBVVTFDVW5Kb1V6a1NGMEZqTFhoWlh6SXhTRTVIY25GMGMxQXpaR2xtT0VGdkdpSkJSRlY1UlVka2NtMW9kbGcxUjBWdU4xRm5jalZvYmpBd2EwRm5URzlTUTFSQiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVUJTIC0gVGFsZW50aWZ5IiwibGluayI6Imh0dHBzOi8vdWJzLnRhbGVudGlmeS5pby9qb2IvZGF0YS1hbmFseXN0LWtyYWtvdy1sZXNzZXItcG9sYW5kLXZvaXZvZGVzaGlwLXVicy0yNjcwMjFicj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+4,Senior Data Analyst,Groupon,Anywhere,via Linkedin,"Groupon is an experiences marketplace that brings people more ways to get the most out of their city or wherever they may be. By enabling real-time mobile commerce across local businesses, live events and travel destinations, Groupon helps people find and discover experiences––big and small, new and familiar––that make for a full, fun and rewarding life. Groupon helps local businesses grow and strengthen customer relationships––resulting in strong, vibrant communities. Even with thousands of employees spread across multiple continents, we still maintain a culture that inspires innovation, rewards risk-taking and celebrates success.
+
+Groupon is building an Analytics Center of Excellence and seeking an analyst who will help us manage and scale our analytical solutions. We are looking for someone who loves to observe data, is curious to learn, and is keen to identify trends that may enhance our value to customers and merchants. The team isn't simply proficient in SQL and statistics; they... also have a genuine love for using data to solve problems, a drive to pursue innovative new concepts, and a willingness to go the extra mile for execution.
+
+We're a ""best of both worlds"" kind of company. We're big enough to have resources and scale, but small enough that a single person has a surprising amount of autonomy and the potential to make a meaningful impact. We're curious, fun, a little intense, and kind of obsessed with helping local businesses thrive. Does that sound like an exciting place to work?
+
+We are searching for someone who is passionate about enabling data-informed decision-making, enjoys finding root causes, fosters a growth mindset, and is continuously aiming to improve the quality of insights.
+
+You’ll spend time on the following:
+
+Acquiring business acumen
+• Partner with decision-makers to comprehend the issues that our customers and merchants are facing
+• What features/initiatives are planned, and what problems/benefits are they intended to address?
+• Discover the Groupon customer/merchant journey and explore the specifics of each touchpoint
+• What Key Performance Indicators are used to track the performance of businesses?
+• What effect does a process or product have on our north star metrics and goals?
+• What KPIs are important to the leaders of different lines of business?
+• How does your work support Groupon's goals?
+
+Insights development and socialising
+• Measuring and tracking customer/merchant engagement, as well as the effects of a particular initiative or feature
+• Scope, create, manage, improve, and scale an insights infrastructure to support data-informed choices
+• Use SQL and Python/R to manipulate data
+• Utilize visuals to transform data into actionable insights
+• Develop and routinely enhance insightful, UX-friendly dashboards
+• Surface knowledge and understanding to aid stakeholders in comprehending changes in KPIs and leading indicators
+• Discover relationships in data
+• Build and promote ""what if"" analysis to increase our ability to create recommendations
+• Identify opportunities, quantify them, and highlight the potential of your proposals
+
+We’re excited about you if you have:
+• Solid understanding of regression, probability, correlation, and its application in analytics
+• 5+ years of experience as an analyst
+• 5+ years of experience using SQL
+• 2+ years of experience using Python (Pandas, Numpy, Matplotlib) / R (Dplyr, Ggplot2, Tidyr)
+• 3+ years of experience with data visualization applications. Tableau preferred.
+• Understanding of A/B testing
+• A track record of using learnings to solve business problems
+• Bachelor's degree in any discipline
+
+Groupon’s purpose is to build strong communities through thriving small businesses. To learn more about the world’s largest local ecommerce marketplace, click here for the latest Groupon news . Plus, be sure to check out the values that shape our culture, guide our strategy and make our company a great place to work. And just don’t take our word for it. Hear from real Groupon team members, learn more about our inclusive employee groups, and check out our benefits. If all of this sounds like something that’s a great fit for you, then click apply and let’s see where this takes us.
+
+Groupon is an Equal Opportunity Employer
+
+Qualifications for employment, promotion, and other terms and conditions of employment are based upon the ability to perform the job. Equal-employment opportunities are provided to all applicants and employees without regard to race, creed, religion, color, age, national origin, sex, disability, medical condition, sexual orientation, gender identity or expression, genetic information, ancestry, marital status, military discharge status (excluding dishonorable discharge), veteran status, citizenship status, or other legally protected status. We are all responsible for maintaining this policy. Groupon is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may email us at hraccommodations at groupon.com. If you have concerns related to Groupon’s equal employment opportunities, you may contact Groupon’s Ethics Reporting Service Ethicspoint ","[{'link': 'http://www.groupon.com/', 'text': 'groupon.com'}, {'link': 'https://www.google.com/search?q=Groupon&sa=X&ved=0ahUKEwi9uqCn_qb8AhXRlWoFHV3sB64QmJACCJYM', 'text': 'See web results for Groupon'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0X0qaft3HjhKiyfH6q33XeTxfjXYBLfI88kd5Qm0&s,"['8 hours ago', 'Work from home', 'Full-time']","{'posted_at': '8 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJ6NkhwUTZBWTFyTUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdUlCQ3FJQlFVRjBWbXhpUW14ZlpWUmhkbmxYY1hSVlRsQlplbFJITXkxNlZUSlhaWGt5Y0RWdFVrOWxSVlpuVmtWQmNrVnVXV1ZvTW05bVQxVTBUbWswZDNkVVpuY3hNMko0WjJoTlgzUldOVGM1ZEVGRFpucGhjM2MyVm5WbGNUaHdVVVpGWVZreVYybFdTVlY1VEZoMmRuQlJWa05XVDNRNU5IZFBaMWxSUm01clltSkJTVWxwVVU1Q1ZrTjFZbXh1ZDAxVVgwUkZOeTFqWVZOa1dUaGxTRlpKU1ZOQkVoZEJZeTE0V1Y4eU1VaE9SM0p4ZEhOUU0yUnBaamhCYnhvaVFVUlZlVVZIWkZsQmFYVTFlbGRxZUVOYU4xZzROa3N3Y1RsQk1HazFTVlZDWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY183IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZGluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3ItZGF0YS1hbmFseXN0LWF0LWdyb3Vwb24tMzQyMTkxNTI3Nz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+5,Data Analyst (Pricing Analyst Team),Lyreco Advantage,"Warsaw, Poland",via Jobrapido.pl,"Python (regular) SQL (regular) Power BI (regular) Data Analyst (Pricing Analyst Team)Data Analyst navigates complex data to extract complete and accurate insights supporting strategic and operational business decisions for the whole Group Marketing team (Pricing, Purchasing, Data & Content, Sustainability, Own Brand functions). He/she leads analytical projects identifying opportunities to automate/improve reports and reporting processes. An important part of the role is to design and create key analysis and dashboards and act as a change agent to help the company evolve into an insight driven organization. He/she must as well have regular touchpoints with central Analytic team to mutually exchange information on projects & activities under development.Main Responsibilities:Collects and clearly understands business requirements for analysis as well as reports/dashboards and data needsManages full analysis cycle – data gathering, analysis, presenting conclusions and influencing others... on the executionLeads analytical projects supporting various functions within Group MarketingProvides ad-hoc support for projects and initiatives where problem-solving and/or analytical skills are neededMonitors overall data quality in databases and reports, reporting issues to appropriate teamsAutomates standardized reports and ensure users are trained and informed on key reportsRuns and distribute key reports to relevant stakeholdersProvides training on reports, dataQualifications & Skills:3+ years experience working in data related field, experience working as a data analyst leveraging BIExcellent problem-solving and analytical skillsExperience with relational databasesGood SQL knowledgeWorking knowledge of Power BIPython/R programming language knowledge is a plusFluent EnglishJoining Lyreco means: Working in an international, distribution company (25 countries, 18 languages, 3 central hubs)Processes based on Scrum/Agile first approach High quality of delivered software - we are creating, extending and maintaining the solution in-houseOwnership and proactive approach during daily software development activitiesUsing recent technologies like Kubernetes, Docker, Kafka as well as proven ones .NET Core, Java, Python, JavaScriptBeing open to innovations – as a market leader we are innovative to stay on topStrategic thinking – as a profitable company we are focusing on both short term and long term Challenges and opportunitiesInvesting in our people – we have proven experience of internal growth of our employees – expert and managerial path.Benefits (contract of employment):Sharing the costs of sports activitiesSharing the costs of foreign language classes and professional trainingPrivate medical careLife insuranceHoliday fundsChristmas giftsWhat we offer:Flexible working time (we start between 7-9 and work 8 hours respectively)Hybrid work (3 days office, 2 days remote)We are a part of Lyreco – a leading distributor of workplace products and solutions in Europe and around the world. We operate as Lyreco Management Group with Central Shared Services (IT, eCommerce, Customer Experience, Merchandising, Supply Chain Planning and Finance) in France, Poland and The Netherlands. Altogether, driven by our common strive for passion, excellence, respect and agility, we are constantly looking to innovate and evolve so that our employees, customers and business continue to grow and develop. We believe in a culture that inspires our employees to be the best they can be. Through a perfect blend of people, technology and our corporate social responsibility strategy, we commit to deliver a Great Working Day for all","[{'link': 'https://www.google.com/search?q=Lyreco+Advantage&sa=X&ved=0ahUKEwi9uqCn_qb8AhXRlWoFHV3sB64QmJACCMQM', 'text': 'See web results for Lyreco Advantage'}]",,"['18 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKFByaWNpbmcgQW5hbHlzdCBUZWFtKSIsImh0aWRvY2lkIjoicVhSSkg1X0Y0d1FBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVUYwVm14aVExSnhhVlJTUlRreFNEbFZRVGt4UXpsNFJUTmZSVGhmZG5wZlpIQkJPWFpuYlU5S1VHWldTR2RDVmtVNWJWaDBhMTloWDA1d2JVazJTMVZJY1VkdGIxaFZlbk5pVkU0M1JGRjRVamt5UXpSVVlWZEdSVEZLY1RsZlZtNXhWM2RFZUc4MldrNTZSbVF6WHpBM1REWnpXREpzZVhWbVZqaFNaRFJ1Y205dlpuZG9ZMWhNYm1GNGRYUTBNVkpFZW5OUldrSnVjalF6TkVsS1ptZGtRMnN3U210VlRWUjZOVkY1ZG1WM016VjJNbkppZHpKQ2JVdENNSFZQVFZodU1XUXhWaTF5ZWxKM0VoZEJZeTE0V1Y4eU1VaE9SM0p4ZEhOUU0yUnBaamhCYnhvaVFVUlZlVVZIWTNkcmIwTjNXVFpPUzNodmRVaDBTbTVYVERCcFNIUkdSVVJuVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY185IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvYnJhcGlkby5wbCIsImxpbmsiOiJodHRwczovL3BsLmpvYnJhcGlkby5jb20vam9icHJldmlldy83Njk1NjA0ND91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+6,Data Analyst,"Eleving Solis, AS","Lublin, Poland",via Adzuna.pl,"Data Analyst
+Your responsibilities
+• Support our teams in Kenya and Uganda with the implementation of new projects by interpreting data from our CRM, Google Analytics, and other external databases
+• Support business in understanding the performance of our processes and products by extracting data and creating meaningful insights
+• Apply the knowledge gained from data to suggest changes in the product setup or processes
+• Build automated dashboards and reports to facilitate company-wide awareness and understanding of key metrics (we are working with Power BI & redash.io)
+• Be the data and analytical lead on various projects and work closely with different teams across the company
+• Analyze all operational activities & performance (mainly sale & debt collection)
+• Suggest operational KPIs & performance measurement systems
+• Run A/B testing in various departments with the goal to find better ways to achieve results
+• Work closely with the IT team to resolve any data-related issues and... bugs
+• Support local teams with technical or data-related issues
+• Make proposals for changes in business processes or the development of new processes
+Our requirements
+• SQL knowledge (can be basic, intermediate would be preferred)
+• R/Python knowledge would be an advantage
+• Interest in the data analytics field or finished a course specializing in data analysis
+• Proficiency in English
+• Sense of humor, can-do attitude, and ownership mindset
+What we offer
+
+GROW
+
+•Intelligent team
+
+•Open feedback culture
+
+•Learning & development possibilities
+
+•Team with people from 3 continents with the possibility to work, travel or live in 14 different markets
+
+WIN
+
+•Impact fast without bureaucracy
+
+•Transparency on company results and goals
+
+•Results-oriented bonus
+
+•Celebrate victories
+
+FEEL GOOD
+
+•A hybrid working environment in a modern office
+
+•Competitive salary
+
+•Flexible working hours
+
+•Health insurance
+
+•Healthy snacks
+
+•Health-related challenges and training
+
+•Active social life and events
+About Us
+
+Our mission is to enable upward social mobility for people in diverse communities around the world by providing entrepreneurs who are excluded from traditional banking systems access to credit.
+
+We are looking for a Data Analyst to help achieve profitable growth in this fast-developing market","[{'link': 'https://www.google.com/search?q=Eleving+Solis,+AS&sa=X&ved=0ahUKEwi9uqCn_qb8AhXRlWoFHV3sB64QmJACCPIM', 'text': 'See web results for Eleving Solis, AS'}]",,"['23 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6InFFMVQ5YVBNbGljQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlRWFV4T0habVIzWXdNbXBzV1VnMGVEaFVXbkZFY0VvM1lUVlVZbWRrVGpWT1ltMVphRzFLTmxkclpWRXdNek55VUhaemJ6WjBNSEpZYUhOTWQydGhTamREWW5ZNVNIRkJabTVuUjNjeFlqTkJkbmRHVmprdFJURldXamxJZG0xSlJuRXpUMEZyYjA5dlIySnNlVWxIU0RVMU4yWk9hMjlYUlZKMFRVY3pWMkY1ZUdzeVUwSk1iakJzUTBWZlluZHdWemRvYjFSR1ZsTXhTRmRuRWhkQll5MTRXVjh5TVVoT1IzSnhkSE5RTTJScFpqaEJieG9pUVVSVmVVVkhaa2M0UzB0SU5USkpPRlZaWTFScWVqRXdaRTFtWDBwa2MwUldRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEFkenVuYS5wbCIsImxpbmsiOiJodHRwczovL3d3dy5hZHp1bmEucGwvZGV0YWlscy8zODExODM4NDIxP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+7,Data Analyst,Lingaro,"Lublin, Poland",via Trabajo.org,"Must have
+• SQL
+• Power BI
+• Tableau
+• Looker
+• Qlik
+• Relational DB
+• Statistics
+• English (B2)
+Equipment supplied
+• Windows
+• Computer: Notebook
+• Monitors: If needed
+Perks in the office
+• Free coffee
+• Bike parking
+• Playroom
+• Mobile phone
+• Free parking
+• Modern office
+• No dress code
+Benefits
+• Sport subscription
+• Training budget
+• Private healthcare
+• Flat structure
+• International projects
+• Udemy Business
+]]>","[{'link': 'http://www.lingarogroup.com/', 'text': 'lingarogroup.com'}, {'link': 'https://www.google.com/search?q=Lingaro&sa=X&ved=0ahUKEwi9uqCn_qb8AhXRlWoFHV3sB64QmJACCKAN', 'text': 'See web results for Lingaro'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6ImNoUGRneG9QZFpjQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlRMHR5V21JMFFXVnNZVmhhWmxoalNHSTFaMGRFUzBwNVJtSkhRVGhzYkZoWU1EUnRVbEV0WWtVNFprZE1WWFJ2U3pKTlRHSktOMWxxV1VJMlYyTjFjRXhIVm1kRmFUVllRbFZNVURaQlR6VlNNRGRZV2pWS2JEVllORXBJVVc5eU9HZDZWbHBKU21sa1JqUTVTbkpIUzFvMmRsRTBNVzFLZUhjdE1qVkxVamR0U0dzd1ZYUTRUbGh6VG1oelFucFZNVUkwUzBNNGExRkVkR2xEYTNCMFVVMVZlVXh5YmxSS1pXTnhRak52VHpGRkVoZEJZeTE0V1Y4eU1VaE9SM0p4ZEhOUU0yUnBaamhCYnhvaVFVUlZlVVZIWXprdGMwWlVSRFYxYlZWRFUyOHRRMnBtZUVvMWMxRllNR3hwVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTEyNTUtMjAyMzAxMDEtOWJiOWY4NmZkMDA0YTVlZWI2OTMxYzMwNTJiZjE5ZjU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+8,Data Analyst (remote),myGwork,"Kraków, Poland",via Jobrapido.pl,"Meet our Team
+We represent Hitachi Vantara to enterprise clients across industries, establishing business relationships to understand customer challenges so that we can deliver profitable business for Hitachi products, services and solutions. We collaborate as a team and cross-functionally to ensure the success of our customers; success that is celebrated and shared. Our solutions bring value to every line of business and we need people like you to build those deep relationships and to passionately articulate our value proposition.
+
+What you’ll be doing
+Providing programming and best practice consultation directly to our clients and partners for the integration of our Enterprise Data Automation products and services with large, complex datasets.
+Driving the partnership with other teams to understand client requirements, communicate product improvements, and assist with all client development needs.
+Adopting and embracing our cultural and innovative best practices and solutions in... order to quickly and accurately identify and address highly technical problems.
+Be solution focused, able to quickly and accurately perform detailed and meaningful diagnostic work and troubleshooting, developing additional tools where you see a need internally or for our clients.
+Working closely with technical and data operations teams at client companies to understand their requirements.
+Actively identifying potential areas of improvement or gaps in internal tools & monitoring systems and propose solutions.
+Proactively identifying ideas to help drive stronger product performance and implement those ideas from start to finish.
+Providing technical development guidance, leadership and structure to Enterprise Data clients.
+Building strong stakeholder relationships with clients, engineering and product development teams to resolve issues or build out enhancements.
+Administering training to clients for coding to our API during the pre-sale, implementation and adoption phases of an engagement.
+Supporting the developer community around our data delivery mechanisms.
+Providing timely and informative feedback to the Enterprise Data Automation Product teams.
+Taking ownership of complex questions and issues reported by clients as a second tier of technical support via phone calls, ticket systems, email, and in person.
+
+What you bring to the team
+Proficiency at data development and analysis using SQL and Python.
+Experience with structured data tools (e.g., SQL), & unstructured data tools and platforms (e.g., Hadoop, Spark, NoSQL).
+Experience with relational and non-relational databases such as Postgres, MySQL, MongoDB, or DynamoDB.
+Familiarity with visualisation tools (e.g. Grafana, Kibana, Tableau, PowerBI, Qlik).
+Proficiency in at least one programming language, e.g., Python, Java, Kotlin, Go, C++, C.
+Strong client facing experience, ability to articulate complex technical concepts to all skill levels.
+Strong organisational skills, attention to detail and the ability to handle multiple technical streams / lead client engagements whilst collaborating across different teams.
+Degree in Computer Science, Data Science or related field.
+Additional language is an asset (Italian, French, Spanish or German).
+
+Our Company
+Hitachi Vantara is part of the Global Hitachi family. We balance innovation with an open, friendly culture and the backing of a long-established parent company, known for its ethical reputation. We guide customers from what’s now to what’s next by unlocking the value of their data and applications to solve their digital challenges, achieving outcomes that benefit both business and society.
+Our people are our biggest asset, they drive our innovation advantage and we strive to offer a flexible and collaborative workplace where they can thrive. Diversity of thought is welcomed and our employee base is represented by several active Employee Resource Group communities. We offer industry leading benefits packages (flexible working, generous pension and private healthcare) and promote a creative and inclusive culture. If driving real change gives you a sense of pride and you are passionate about powering social good, we’d love to hear from you.
+
+Our Values
+We strive to create an inclusive environment for all and are open to considering home working, compressed/flexible hours and flexible arrangements. Get in touch with us to explore how we might be able to accommodate your specific needs.
+We are proud to say we are an equal opportunity employer and welcome all applicants for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status. With Japanese roots going back over 100 years, our culture is founded on the values of our parent company expressed as the Hitachi Spirit:
+Wa – Harmony, Trust, Respect
+Makoto – Sincerity, Fairness, Honesty, Integrity
+Kaitakusha-Seishin – Pioneering Spirit, Challenge
+
+#LI-JM1
+This employer is a corporate member of
+myGwork - LGBTQ+ professionals, the business community for LGBTQ+ professionals,
+students, inclusive employers & anyone who believes in workplace equality","[{'link': 'http://www.mygwork.com/en/', 'text': 'mygwork.com/en'}, {'link': 'https://www.google.com/search?q=myGwork&sa=X&ved=0ahUKEwi9uqCn_qb8AhXRlWoFHV3sB64QmJACCM8N', 'text': 'See web results for myGwork'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2_nRkhEMjymZTjG6Nx7P2It2mWmAZMWSF2Wg&s=0,"['18 hours ago', 'Full-time']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKHJlbW90ZSkiLCJodGlkb2NpZCI6Im9WMnZOalVoM21nQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlRMDAwV0hkVE0yWnpVV3BwU0VodldHWXhPRXhXTmxsdlMwOXJaVzlHVTBGVllXaHdVazVhVlRGTlFXWkdYMFF3YlVGM1JYZzRNME5IVTNwYWJYSlJkWHBFYjFkU2IzQmxWVlpwYVVvdGIyWjJaRzlsZFd4SGVYcHlSbkZWTVVNNWRFeDBWekJOZDFJd016WTRValpFWkVSaWVVVmlXRkpvYlZONFozVXhUakk0UjI4eE16QkdTRkJ1VWxJMGNYWkdaVFZmTVY5U2VXcDNhRzlYZVdJME9HdHpOWEV3Yld0VE4wMXlja2xmYkZkSkVoZEJZeTE0V1Y4eU1VaE9SM0p4ZEhOUU0yUnBaamhCYnhvaVFVUlZlVVZIWlZOWk1rWkhUa1ZyTURWSFJUQkNTV3cwYlhkS0xUbHVlbGd6VVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBKb2JyYXBpZG8ucGwiLCJsaW5rIjoiaHR0cHM6Ly9wbC5qb2JyYXBpZG8uY29tL2pvYnByZXZpZXcvNzY5ODQ4ODQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+9,Data Analyst,BEC Poland,Poland,via Trabajo.org,"Operating system, WindowsAbout the project, Are you eager to be a part of something bigger? Ready to be professionally ambitious together with others? Then we might have the right opportunity for you., , We are looking for a Business Analyst ready to turn insights into more secure operations, You will be based at BEC in Warsaw and you will be joining a small but progressive team, Opera-tional Excellence, which is a newly established department in IT Operations., , Operational Excellence has a clear purpose: To strengthen our risk management and customers’ operations by continuously improving our operational business processes and governance around it., You will have a key role in ensuring that BEC continuously reduces the cyber security risks in our infrastructure and thus help increase our customers’ security levels., , BEC is undergoing a transformation where Operations and maintenance along with risk, security and compliance are top strategic priorities. What makes this role... particularly interesting is that you will be key in driving this transformation with further development of our vulnerability and patch management services.Your responsibilities, In the position as Business Analyst, you will work closely together with Patch Product Owner and Secure Operations department along with many other key stakeholders in BEC., , Your primary tasks and responsibilities will include:, •Daily monitoring of vulnerability data, •Validate data for completeness on all CIs/ platforms, •Creating security incidents and incidents on deviations in data and follow-up with our ven-dor performing the vulnerability scan, •Contribute to development of Patch insights in PowerBi in close collaboration with Patch Product Owner, •Monthly Patch reporting to All Risk forumWe are looking for you who love to explore and learn, , We are looking for an ambitious and proactive colleague who can contribute to the team both pro-fessionally and personally., , The ideal candidate will have a proven track record in most of the following skills and experienc-es:, •2 years of experience with IT life-cycle management activities, •M.Sc. in IT or other related fields, •Advanced user in MS Office Excel., •Experience with product lifecycle management and/ or vulnerability and patch manage-ment is a big advantage, To us, curiosity is essential, and at BEC' you'll join a community of helpful, ambitious, and tech-savvy people who love to explore and grow. We ensure that banks can comply with the legislation such as reporting requirements, providing solutions for individual banks as well as the entire community of BEC banks., , As a person, we expect you to identify with the following:, •Ability to understand the full picture of the Patch eco-system and how this is directly linked to how we are performing, •Comfortable working with many data points, •Motivated to challenge status quo and yourself for continuous improvements, •You are curious and passionate about deep-diving into problem areas, , With colleagues in teams distributed in Denmark and Poland, you must master English at a high level both in writing and orally.This is how we work, agileDevelopment opportunities we offer, conferences in Poland, external training, industry-specific e-learning platforms, support of IT events, technical knowledge exchange within the companyBenefits, private medical care, sharing the costs of foreign language classes, sharing the costs of professional training & courses, remote work opportunities, flexible working time, fruits, integration events, corporate gym, corporate sports team, no dress code, coffee / tea, leisure zone, birthday celebration, employee referral program, family picnicsJoin a community of people sharing great ambitions , BEC is a fintech company with branches in Denmark and Poland. As an IT partner for a wide range of banks and other parties in Denmark's financial industry, we create financial solutions for 20-30 % of the Danish bank customers. We make it possible for them to check their account online, take out loans, and transfer money. In other words, everything it takes to run a bank., , We are 1.400 employees cultivating an informal, yet dedicated culture. We help each other and learn from each other to create the strongest possible solutions for the banks, their customers, and the Danish society.Make us aware of your talent , Ready to join a culture of tech-loving people? Then we look forward to receiving your application and resume as soon as possible. If you have any questions related to the position, do not hesitate to contact Anna Buczko, who is responsible for this recruitment process., , We are committed to hiring top talent regardless of race, religion, color, national origin, sexual orientation, gender identity, and age. As a result, we encourage all qualified candidates to apply for the position.BEC Poland, BEC is a fintech company with branches in Denmark and Poland. As an IT partner for a wide range of banks and other parties in Denmark's financial industry, we create financial solutions for 20-30 % of the Danish bank customers. We make it possible for them to check their account online, take out loans, and transfer money. In other words, everything it takes to run a bank., , We are 1,400 employees cultivating an informal, yet dedicated culture. We help each other and learn from each other to create the strongest possible solutions for the banks, their customers, and the Danish society.This is how we work,
+","[{'link': 'https://www.google.com/search?q=BEC+Poland&sa=X&ved=0ahUKEwi9uqCn_qb8AhXRlWoFHV3sB64QmJACCPsN', 'text': 'See web results for BEC Poland'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IjB2RVBZU2xuVkJzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVzd0JDb3dCUVVGMFZteGlSRXhHYjJSZmR6bGtlaTAxT1ZOdE1rTTVUSFYxTkdkeVkyVXlWRFI1Ymkxb1pVdFhhRU55TVV0SmNHcExPV3hNT0dKR01XNUVVM2d0Vm13eGRHUjVaR3MwTkdaM1pGWXhYMUJTYW1vNE9GRnNMVmd0TldwT1VrUkNlamhPWnkxVmJVVkhlRFJZWlZoMGJreEdYMDlGVmt3d2JtNUNSR1pHY0dGaWRYRXdZbkY2WmsxSFl6Z1NGMEZqTFhoWlh6SXhTRTVIY25GMGMxQXpaR2xtT0VGdkdpSkJSRlY1UlVkbVFsQmliVGRwYTJaRlJHOTZNMU5XY1dSdFMyMUhkelpQUm01QiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTI1NS0yMDIzMDEwMS0yOGE2OTZjM2ExZWUxMGQyNTFmOTU0OGE3NDg1OTFjMz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+0,eCommerce Data Analyst,Lyreco Advantage,"Wrocław, Poland",via Jobrapido.pl,"Power BI (nice to have) SQL (nice to have) Google Analytics (regular) MS Excel (regular) Data (regular) eCommerce Data AnalysteCommerce Data Analyst work closely with Product Owners and eCommerce Developers to enhance tracking implementation. This role also utilizes various data sources to understand how customers are engaging with the site and recommends improvements. An important part of the role is to design and create key analysis and bring data insights to stakeholders. Main responsibilitiesPerforms analysis on existing customer, sales, transactional and web data and identifies business opportunities and challenges focusing on company performance and customer behaviorDesigns measuring plan and utilize Google Tag Manager to implement eventsManages GA accountsSupports building and executing an A/B testing processSupports Google Analytics end usersDevelops a thorough understanding of the goals and issues, interprets business needs into data and analytical requirements, and then to... analytical/reporting solutionsDefines, implements, follows up and analyses KPIs and reports within the eCommerce domain and defines concrete and actionable recommendationsProvides training on reports, dataQualifications and Skills1+ years experience working in data related field supporting eCommerceGraduate of Digital Marketing, Mathematics, Econometrics, Quantitative Methods, Computer Science or related disciplineExcellent problem-solving and analytical skillsVery good working knowledge of Google Analytics (GA4 preferred), Google Tag Manager, Google Optimize, Hotjar (or equivalent)Working knowledge of ExcelSQL and Power BI knowledge will be a plusBusiness acumen and strategic understandingGreat communication and presentation skillsBuild relationships: a team player able to build and develop networksResults oriented: Proven track-record of delivering on targetsProject management (organize and prioritize)Fluent business English (written and spoken)Joining Lyreco means: Working in an international, distribution company (25 countries, 18 languages, 3 central hubs)Processes based on Scrum/Agile first approach High quality of delivered software - we are creating, extending and maintaining the solution in-houseOwnership and proactive approach during daily software development activitiesUsing recent technologies like Kubernetes, Docker, Kafka as well as proven ones .NET Core, Java, Python, JavaScriptBeing open to innovations – as a market leader we are innovative to stay on topStrategic thinking – as a profitable company we are focusing on both short term and long term challenges and opportunitiesInvesting in our people – we have proven experience of internal growth of our employees – expert and managerial pathBenefits (contract of employment):Sharing the costs of sports activitiesSharing the costs of foreign language classes and professional trainingPrivate medical careLife insuranceHoliday fundsChristmas giftsWhat we offer:Flexible working time (we start between 7-9 and work 8 hours respectively)Hybrid work (3 days office, 2 days remote)We are a part of Lyreco – a leading distributor of workplace products and solutions in Europe and around the world. We operate as Lyreco Group with Central Competence Services (IT, eCommerce, Customer Experience, Merchandising, Supply Chain Planning and Finance) in France, Poland and The Netherlands.Altogether, driven by our common strive for passion, excellence, respect and agility, we are constantly looking to innovate and evolve so that our employees, customers and business continue to grow and develop. We believe in a culture that inspires our employees to be the best they can be. Through a perfect blend of people, technology and our corporate social responsibility strategy, we commit to deliver a Great Working Day for all","[{'link': 'https://www.google.com/search?q=Lyreco+Advantage&sa=X&ved=0ahUKEwifhPWn_qb8AhVGMlkFHW1WDuQ4ChCYkAII3Ao', 'text': 'See web results for Lyreco Advantage'}]",,"['18 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJlQ29tbWVyY2UgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJtR2VCSld2QVhjY0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUTA1S1pqUnZURVl4TlRVeVFTMVJRVlpYVGt4VGNEWlZjMEkyWVhKUGFtSllUVmRPU1VneVF6WTJOblJQUlVoWU9VeDFXV1V4ZFZRME1rbzFTekptVmpadGRuUjVjbEZQTXpkcFRtMUtZVjlyWjFNNGJXWm9iWGg1U2s5WGRESTRkR2RaVFZWT2RXWnpUMUYzYzBaM2MzSnRNR2hNUVVkdlRuZHhRM05UVldZNVZuQnhYMDlQWmxSMVduQXROMVJ1VEZkaFprWmpTMHMyZG5vdGJWODFSekowTVRVMmFYWnlXbVJNWkVoR1FWZ3dFaGRCY3kxNFdUVmZOMDA0WW1zMVRtOVFOMkY1Tlc5Qk5Cb2lRVVJWZVVWSFpFaHdNbFphY0hsQ1NFcE9SakZsUjFGTVFsUlBSREpUU0V4UmR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBKb2JyYXBpZG8ucGwiLCJsaW5rIjoiaHR0cHM6Ly9wbC5qb2JyYXBpZG8uY29tL2pvYnByZXZpZXcvNzY5NTc1MTI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+1,Senior Data Analyst (VPN Quality team),Nord Security,"Kuyavian-Pomeranian Voivodeship, Poland",via Jobrapido.pl,"Kibana (nice to have) Grafana (regular) Looker (regular) Tableau (regular) Jupyter Notebook (advanced) Python (advanced) NoSQL (advanced) SQL (advanced) Remote work system for the position is available only in PolandNord Security is a leading cybersecurity solutions provider with the product family of five advanced cybersecurity solutions: NordVPN, NordLayer, NordPass, NordLocker, and NordWL. We have one true goal - to give true online privacy and security to as many people as we can.NordVPN - fastest VPN on the planet, built to protect your online traffic and privacy with next-generation encryption.We're the ones behind the product, affecting and following how it changes. Providing support in the front row and delivering software-defined solutions are just some of our goals. Our Infrastructure team is passionate about solving complex system, storage, and network problems using automation and software-defined solutions.The TeamWe believe that businesses can serve best by providing... smart and innovative use of modern web technology to its users. We also agree that the core elements of success are the encouragement of professional growth, individual initiative as well a deep understanding of our users and business challenges. We’re looking for a Data Analyst to join our VPN quality team in the infrastructure department to help to understand VPN services quality by identifying data that will be used for data monitoring and to help to implement new data points for quality tracking. You will be translating numbers into findings, taking action, and understanding results. It's that simple. Yet, it’s that difficult. Your role will be crucial in identifying opportunities how business problems can be transformed into sustainable future-proof solutions. Tool stack we juggle git, SQL, Tableau, Looker or Grafana, Python (pandas, pyspark, matplotlib, etc.) and R on Jupyter Notebook. We analyze and create tools to monitor quality of VPN services by identifying KPI’s that should be tracked. Also we create automated tools that allow us to collect data about connection quality, connection success rates, speed quality and many other quality metrics. So, what about your role in our team?What You Will DoPartner with product, core, infrastructure and engineering professionals to understand, improve and optimize VPN services quality;Provide valuable insights and analysis based on field data and research, advocate data-driven decision making from product discovery stage to post-release hyper-care;Identify, analyze, and interpret trends or patterns in complex data sets; analyze core and experimental data and metrics; identify metrics and KPI’s that should be used for quality monitoring; draw conclusions and suggestions; assist in prioritizing ideas and hypotheses; monitor and audit data quality;Build advanced reusable dashboards and custom reports for key product metrics and experiments. Present analysis reports to the team and stakeholders;Locate and define new process improvement opportunities. Identify areas to increase efficiency and automation of quality monitoring processes;Collaborate with data science and product teams on best practices and professional growth;Investigate web content accessibility issues with VPN usage (content access, captcha, censorship issues).What We ExpectStrong knowledge of and experience with databases (SQL, NoSQL etc), programming (Python, Jupyter Notebook or ETL frameworks);2y+ experience in data analysis and analytical tools or reporting packages (eg. Tableau, Looker, Grafana);Proven experience in statistical methodologies and data analysis techniques, excellent numerical and analytical skills;Deep knowledge of data models, analysis methods, and best practices;Team-spirited, curious, proactive, and able to work in a fast-paced environment;Self-motivated and self-managing, with great organizational skills and eager to learn. Effective communication skills: present ideas, discuss, achieve consensus and buy-ins, communicate progress;Ability to clearly and effectively present analysis and insights to the team and stakeholders by using clear graphical representations and data visualizations;Experience with Kibana is a plus;Experience working in a cross-functional team is a plus. What We OfferAccess to Nord Security products. We build solutions used by millions of users worldwide, and you’ll get to experience our products firsthand, at no charge; Professional growth. Internal and external events, online training, conferences, books - everything you need to reach full potential; Health benefits. Online workouts, consultations, programs to improve mental health to feel and be your best;Mental wellbeing. Access to mental health tools like Calm, Headspace, and Mindletic. Options for therapy to keep your emotional wellbeing in check; Team spirit. Team buildings and parties with games, shows, tastings, food coupons, gifts, and it’s on us; Additional paid leave. Additional days are covered by us in cases of illness or special occasions; Flexibility. Flexible working time arrangement; Salary. We are open to discuss salaries based on your skills","[{'link': 'http://nordsecurity.com/', 'text': 'nordsecurity.com'}, {'link': 'https://www.google.com/search?q=Nord+Security&sa=X&ved=0ahUKEwifhPWn_qb8AhVGMlkFHW1WDuQ4ChCYkAIIjAs', 'text': 'See web results for Nord Security'}]",,"['18 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IChWUE4gUXVhbGl0eSB0ZWFtKSIsImh0aWRvY2lkIjoiRzVKOHZUOUxQRkFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVUYwVm14aVFXOU5ORGxoTkc1M2MxbHNiamcyZW5KR2JrWnBXa1p2WDB4RWVHTTFiMjFVVlZKRFJGSk5TWFp4VW0xZlRucHRibVpwVFRCRlNtZHVkMlF5ZHpsWE0zVmpTRGhmYzJwUFNuaFZabmxpTTFGTmMwTmZOMDQwVjJGUE16bEVSbWR1VlRZdFZVeFlZM3AyWlZsc2JFaGZTMTlLY1ZSTmRGVm9kRjh3VDB4clMwbFhlVkZ3VlROSWNtTlVhbWd3TTFwd1lucHJUMEZEY214M01VaHBSMHRxZFdSdVgwMTVNR296UjFJeVkwb3pZVk5FVFdSdExWSm9aSEJIUzJjM2RqVmlWRWx2YlhwaEVoZEJjeTE0V1RWZk4wMDRZbXMxVG05UU4yRjVOVzlCTkJvaVFVUlZlVVZIWlVoVFZFaG9lWE5IWTI5aGJWZEtkRE5RYkhCVGN6UmpTazVJZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18yIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvYnJhcGlkby5wbCIsImxpbmsiOiJodHRwczovL3BsLmpvYnJhcGlkby5jb20vam9icHJldmlldy83NzAwMjQyNT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+2,Senior Data Analyst,GlobalLogic Poland,Poland,via Trabajo.org,"Expected, Excel, Google Sheets, SQL, Tableau, Data Studio, Power BIAbout the project, GlobalLogic is one of the market leaders in full-lifecycle product development and R&D, employing more than 20000 highly qualified engineers around the world., , We are looking for strong candidates for the Data Analyst role to make our processes even more data-driven., , We offer a casual, fast-paced, collaborative environment that stimulates ideas and innovation. If you meet the aforementioned requirements, you are committed to the highest standards of excellence, and want to learn from and collaborate with professional experts in the industry, this is a role for you.Your responsibilities, Analyzing and providing insights on the company activities related to Workforce planning and management tasks and projects (General results, performances, success metrics, effectiveness/efficiency ratios, etc), Calculation and building of analytics based on other Workforce needs, Forecast and modeling, such as... spending, bench metrics, etc, Keeping internal databases up to date and daily support of the existing reports, Developing dashboards/reports for a variety of Workforce needs, Workforce Data Analyst will provide the management team and Workforce organization with data and insights in order to help in strategic/business viewpoint and correct decision making.Excellent Excel/Google Sheet skills (Pivots, basic Power Query/Apps Scripts), Experience in analyzing data and drawing valuable insights from it, Experience in working with different ERP and CRM systems, ability to read/create SQL scripts, Experience with Tableau/Datastudio/Power BI etc, Strong planning and organizational skills, Strong analytical skills, ability to deep dive ti eh business process/model, Selfe managed and result-oriented, Good communication skills, Upper-intermediate written English language skills, Any BI or Python for data analysis is a big plusDevelopment opportunities we offer, assistance in preparation to public speeches, conferences in Poland, development budget, industry-specific e-learning platforms, mentoring, technical knowledge exchange within the company, time for development of your ideasBenefits, private medical care, sharing the costs of foreign language classes, life insurance, remote work opportunities, flexible working time, integration events, dental care, no dress code, video games at work, coffee / tea, parking space for employees, leisure zone, redeployment package, charity initiatives, Multikafeteria Benefit System, Meal Subsidies (also for meal delivery), Tax Break for creative workGlobalLogic Poland, GlobalLogic is a full-lifecycle product development services leader that combines chip-to-cloud software engineering expertise and vertical industry experience to help our customers design, build, and deliver their next-generation products and digital experiences. We expertly integrate design, complex engineering, and agile delivery capabilities to deliver superior business outcomes for global brands in the telecom, automotive, healthcare, technology, media and entertainment, manufacturing, and semiconductor industries., , Headquartered in Silicon Valley, GlobalLogic employs over 18,000 designers and engineers across the globe. Analysts like NASSCOM and Zinnov have recognized us for being a top company in our field, and we are consistently nominated as a preferred employer by both global HR consultative firms and local job boards. By creating a work environment that is exciting and flexible, and by fostering growth through ongoing learning and development programs, we empower our employees to achieve both their professional and personal goals., , At GlobalLogic, we make amazing products — and careers.This is how we work,
+","[{'link': 'http://www.globallogic.com/', 'text': 'globallogic.com'}, {'link': 'https://www.google.com/search?q=GlobalLogic+Poland&sa=X&ved=0ahUKEwifhPWn_qb8AhVGMlkFHW1WDuQ4ChCYkAIIvAs', 'text': 'See web results for GlobalLogic Poland'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiI3aDZJdm8wcGVTc0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUVVnMGNtVnZPRmxuVWpNemEzTklZekZxWVc1MWRGbFFOMHB4YkhkRlpWWTVaSEJYTnpKSVZIRXpVVTB5TWt0TVYzWTJTMlIxYzBKaE5rTmhibUpDV2tsNkxYRnJRVU5MVmpSRE4yVmtjblJwV2xwNk1VMWxTbFoyTlVwNVVtSkdSbGxFVEhsT1psRmpSSGxLVG1GdmMzWkJOMDFaZUU1T1VsVnNTRUozZWs1WmVWaEhkWGcwU0hkc2RHbEpNVlpxWlZwRlYyUmxVR1ZHUlZsRGJqSlNPRU5aYUd0YWRrcGljM1Z5Vlc0NWJHbG5FaGRCY3kxNFdUVmZOMDA0WW1zMVRtOVFOMkY1Tlc5Qk5Cb2lRVVJWZVVWSFkxVjBUVEZ5TkU1Zk9EbERVMVY0YlhwS2ExRjJhSGt4VlRSVVVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTEyNTUtMjAyMzAxMDEtMzJiM2EzNTllODRhOTdmNGIxYTJhZmI5NmY0Nzc2NTg/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+3,Junior Big Data Analyst,Cloud Technologies S.A.,"Warsaw, Poland",via Jobrapido.pl,"GNU R (junior) Pandas (junior) Python (junior) Big Data (junior) OnAudience.com is a part of the Cloud Technologies S.A. group, one of the fastest-growing ad tech companies in Europe!We are a global provider of high-quality data & technology for digital advertisers and data enrichment solutions. Data collected and processed by OnAudience.com enables marketers and firms to run personalized online campaigns and develop Business Intelligence solutions. We have developed proprietary DMP technology, which is serving to store, analyze and monetize data.Due to our fast-paced and continued growth, we are currently looking for a Junior Big Data Analyst to expand our team. If you would like to gain experience in the fast-growing data tech market and understand the language of technology, it is very possible that we are looking for you! We are currently looking for a person who:has practical knowledge about data processing in: Python, Pandas, GNU R or similar,understands and can handle universal... data formats such as JSON, XML, CSV,is a goal-oriented person, open to everyday challenges,is a data enthusiast, and likes to analyze data,thinks outside of the box, has an open mind full of ideas for creating new solutions (you will take part in a creation of many innovative solutions in the field of big data on a global scale),is eager to learn about the prospective and international online advertising market, with a high-achieving personality and self-reliant approach,is a graduate or student in the final years of technical faculties. The person in this position will:co-create new business solutions together with the internal developers’ team,be working with big data sets,support customers and solve issues together with developers,be a bridge between business and technology, intermediate between the technology team and external customers, translate technical possibilities into the language of business and look for technical solutions to challenges faced by our clients,take part in building of the company's image as a professional partner and advisor in business related to the broadly understood big data and digital marketing. What will you gain by working with us?having an impact. In our team, every opinion matters. You will have a big impact on the creation and improvement of processes (in addition to your main tasks, you will also have a space to create your own initiatives),benefits. Medical care at Inter Polska (including Luxmed, Enelmed, Damian Medical Center) and the possibility of using a Multisport cardcasual dress code every day,great atmosphere. Delicious breakfasts every day and many other occasions for integration,development. possibility of further professional development, work among the best experts on the market,work in a young but experienced team, which creates a casual atmosphere,a new, modernly designed office in the trendy part of Warsaw (Elektrownia Powiśle),convenient form of work, we are open to hybrid work. We are so excited to talk about possibilities of cooperation with you during a virtual coffee meeting or face to face meeting depending on your choice. ","[{'link': 'http://www.cloudtechnologies.pl/', 'text': 'cloudtechnologies.pl'}, {'link': 'https://www.google.com/search?q=Cloud+Technologies+S.A.&sa=X&ved=0ahUKEwifhPWn_qb8AhVGMlkFHW1WDuQ4ChCYkAII7As', 'text': 'See web results for Cloud Technologies S.A.'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwv3PqQNzxVJjZfPi7-YK-KD-3TGGCnvpO8kxz&s=0,"['18 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJKdW5pb3IgQmlnIERhdGEgQW5hbHlzdCIsImh0aWRvY2lkIjoiS3ljWlNnV1dUNXNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVUYwVm14aVEzcGpkRVJUUVVsMldqZzJWMjFoZFV4UFYwcHdNVFJrWlZKSGFqWmFiM1JUVFU1TldYbEpRWFprTUdKamQzVmlZVEZHTmxsSVpWWXpiRVJ3YXkxRWMzZE1VeTFSZEhkdVNFUm5VVUpUU2s1b1lWcGZkblpzYzNoNVdYWjRTemRyUWxSQlRFeDJORTVHZEc1UVZuUmtZMkowVFZsbFdYVkJXSFpLUWxKM1N5MU9hVEkwV1Voc2JIbEpjMjFrWlhScVoyOU5VMmhRZERWdFJsWnFMVmx2UjNwNVJWSTNSMDFQTW5OaU1WaHBVVUZUVFhoSFQzRXdielZEV1VJdFZFcHdiamhWWW1KSkVoZEJjeTE0V1RWZk4wMDRZbXMxVG05UU4yRjVOVzlCTkJvaVFVUlZlVVZIWkRac1JrTnNTekl3Y0UxUmRUbDZPVWR2VFZOUVRURmhZMmw2UVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY182IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvYnJhcGlkby5wbCIsImxpbmsiOiJodHRwczovL3BsLmpvYnJhcGlkby5jb20vam9icHJldmlldy83NzAwMjI5Mj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+4,Data Analyst,myGwork,"Kraków, Poland",via Trabajo.org,"Meet our Team
+
+We represent Hitachi Vantara to enterprise clients across industries, establishing business relationships to understand customer challenges so that we can deliver profitable business for Hitachi products, services and solutions. We collaborate as a team and cross-functionally to ensure the success of our customers; success that is celebrated and shared. Our solutions bring value to every line of business and we need people like you to build those deep relationships and to passionately articulate our value proposition.
+
+What you’ll be doing
+• Providing programming and best practice consultation directly to our clients and partners for the integration of our Enterprise Data Automation products and services with large, complex datasets.
+• Driving the partnership with other teams to understand client requirements, communicate product improvements, and assist with all client development needs.
+• Adopting and embracing our cultural and innovative best practices and solutions... in order to quickly and accurately identify and address highly technical problems.
+• Be solution focused, able to quickly and accurately perform detailed and meaningful diagnostic work and troubleshooting, developing additional tools where you see a need internally or for our clients.
+• Working closely with technical and data operations teams at client companies to understand their requirements.
+• Actively identifying potential areas of improvement or gaps in internal tools & monitoring systems and propose solutions.
+• Proactively identifying ideas to help drive stronger product performance and implement those ideas from start to finish.
+• Providing technical development guidance, leadership and structure to Enterprise Data clients.
+• Building strong stakeholder relationships with clients, engineering and product development teams to resolve issues or build out enhancements.
+• Administering training to clients for coding to our API during the pre-sale, implementation and adoption phases of an engagement.
+• Supporting the developer community around our data delivery mechanisms.
+• Providing timely and informative feedback to the Enterprise Data Automation Product teams.
+• Taking ownership of complex questions and issues reported by clients as a second tier of technical support via phone calls, ticket systems, email, and in person.
+
+What you bring to the team
+• Proficiency at data development and analysis using SQL and Python.
+• Experience with structured data tools (e.g., SQL), & unstructured data tools and platforms (e.g., Hadoop, Spark, NoSQL).
+• Experience with relational and non-relational databases such as Postgres, MySQL, MongoDB, or DynamoDB.
+• Familiarity with visualisation tools (e.g. Grafana, Kibana, Tableau, PowerBI, Qlik).
+• Proficiency in at least one programming language, e.g., Python, Java, Kotlin, Go, C++, C.
+• Strong client facing experience, ability to articulate complex technical concepts to all skill levels.
+• Strong organisational skills, attention to detail and the ability to handle multiple technical streams / lead client engagements whilst collaborating across different teams.
+• Degree in Computer Science, Data Science or related field.
+• Additional language is an asset (Italian, French, Spanish or German).
+
+Our Company
+
+Hitachi Vantara is part of the Global Hitachi family. We balance innovation with an open, friendly culture and the backing of a long-established parent company, known for its ethical reputation. We guide customers from what’s now to what’s next by unlocking the value of their data and applications to solve their digital challenges, achieving outcomes that benefit both business and society.
+
+Our people are our biggest asset, they drive our innovation advantage and we strive to offer a flexible and collaborative workplace where they can thrive. Diversity of thought is welcomed and our employee base is represented by several active Employee Resource Group communities. We offer industry leading benefits packages (flexible working, generous pension and private healthcare) and promote a creative and inclusive culture. If driving real change gives you a sense of pride and you are passionate about powering social good, we’d love to hear from you.
+
+Our Values
+
+We strive to create an inclusive environment for all and are open to considering home working, compressed/flexible hours and flexible arrangements. Get in touch with us to explore how we might be able to accommodate your specific needs.
+
+We are proud to say we are an equal opportunity employer and welcome all applicants for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status. With Japanese roots going back over 100 years, our culture is founded on the values of our parent company expressed as the Hitachi Spirit:
+
+Wa – Harmony, Trust, Respect
+
+Makoto – Sincerity, Fairness, Honesty, Integrity
+
+Kaitakusha-Seishin – Pioneering Spirit, Challenge
+
+#LI-JM1
+
+This employer is a corporate member of
+myGwork - LGBTQ+ professionals, the business community for LGBTQ+ professionals,
+students, inclusive employers & anyone who believes in workplace equality.
+
+","[{'link': 'http://www.mygwork.com/en/', 'text': 'mygwork.com/en'}, {'link': 'https://www.google.com/search?q=myGwork&sa=X&ved=0ahUKEwifhPWn_qb8AhVGMlkFHW1WDuQ4ChCYkAIImww', 'text': 'See web results for myGwork'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['18 minutes ago', 'Full-time']","{'posted_at': '18 minutes ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IlcwVUVTbGwyeUdjQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlSRlpDTjJ4TFlYTkdXbTgzVFhKQ1kycFJWamxXUjB0NVVuaERTbFZUZEVGQ2QxTkdVMGRQYW5KSVpraE9Za3RHUTFrNU0wNXVMV2hwV2twdlZFNW5VaTB3V1dSUVpFbE1hamhTVVd0U1ZVcFJXRXA0V0d4RE9IaDNkWFpJUkdwcmRrWTNjVmw2YUVOVGRreHZaWGhzTjFWMFRVNU5iRTFtUW5STGEySkJVM1JJZDJaS2ExWm1UbkptTkZnMVUydFJXVEoxYVhWYWVXMXhZbTVaY2xWRVNVWk1XRzFoTkZRNGVqWXRheTB5TWxsUkVoZEJjeTE0V1RWZk4wMDRZbXMxVG05UU4yRjVOVzlCTkJvaVFVUlZlVVZIWlhwM1RqSm9VMEl3WVc1YVJUSmFObmRmY0dsVU9YVm5WbTVGUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTI1NS0yMDIzMDEwMS1hMmZkOWEyZDZiNWM4OTRhODQ3NmZlOTgwNDllN2Y3OD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+5,Remote Data Governance Mid Analyst,EWL Group,"Gdańsk, Poland",via Trabajo.org,"Must have
+• SQL
+• Git
+• Polish
+Equipment supplied
+• Windows
+• Computer: Notebook
+• Monitors: One
+Perks in the office
+• Free coffee
+• Mobile phone
+• Modern office
+• Startup atmosphere
+• No dress code
+Benefits
+• Sport subscription
+• Training budget
+• Private healthcare
+• Flat structure
+• Small teams
+• International projects
+• Insurance
+]]>","[{'link': 'https://www.google.com/search?q=EWL+Group&sa=X&ved=0ahUKEwifhPWn_qb8AhVGMlkFHW1WDuQ4ChCYkAIIxgw', 'text': 'See web results for EWL Group'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJSZW1vdGUgRGF0YSBHb3Zlcm5hbmNlIE1pZCBBbmFseXN0IiwiaHRpZG9jaWQiOiJ1SWp2RVc4UWRSOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUWtoTVN6ZEpTVmRFZWtOS2JrUnlORjlsWW5ST00yOVFUblp2U1ZSalYySnlRMmhaZDBnMFRGbHlSM05wTjJzeWJrdGtjbDlMV0ZKQk1YRXlkVTVVYm1Jek5WbDVPWGhyYUhoRVlrVlJZMjlFTFRKSmJpMVlZVnB0YWxkclpqWnZkVzFqTTJoSmJXNTRlREJITjNkVlgwSTNSRTVEWDAweFNFcHNha1pXWlU5Wll6TmhiMkpHZDJ4S2R6Uk9URWhPYmpGV1FtcDFiWFZTV1Zkb2NrVmlUMEkzU0dkR2REbFdPRkpKU0RsZk1VTkJFaGRCY3kxNFdUVmZOMDA0WW1zMVRtOVFOMkY1Tlc5Qk5Cb2lRVVJWZVVWSFpsaFhkMlV0U25WUmIwNVJZa3hTVGpkMFRWUnpkRjlMVjBOMVFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTAiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xMjU1LTIwMjMwMTAxLWUzM2ZlOTE4NDVmOGRkNTY0NDcxOGE4Njc0N2Y3ZGRhP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+6,Data Analyst/Custom Insights,Verisk,"Kraków, Poland",via Linkedin,"Company Description
+
+We help the world see new possibilities and inspire change for better tomorrows. Our analytic solutions bridge content, data, and analytics to help business, people, and society become stronger, more resilient, and sustainable.
+
+Job Description
+
+Verisk Insurance Services Office (ISO) in Krakow is a team of 40 passionate analysts.  
+
+We work on various Insurance Data Analytics projects. Depending on the team we are using SQL, Python or R. We keep developing new solutions for our insurance clients and collaborate closely with our international colleagues. We work with analytic products at various stages of data lifecycle (planning, collecting, processing, analyzing, verifying, and publishing).  
+
+We are looking to grow this amazing group of analysts. We hire people with broad analytical skillset with innovative mindset and a focus on details, who are ready to continue or start their career in data analytics.  
+
+Working in Data Analytics at ISO... means:  
+
+Creating, modifying, and executing computer programs to extract, transforming and summarizing data. 
+
+Understanding and taking ownership of our business/data/analytics processes, and recommending improvements in data management, error identification, quality control, process automation, or analytic techniques. 
+
+Presenting your analyses, ideas, progress and results to your manager and colleagues.   
+
+Developing an understanding of the US Property & Casualty insurance business and Verisk Analytics’ business practices, products, and data sources. 
+
+Assisting in building and maintaining proper documentation, procedures, and guidelines. 
+
+Contributing to the creation of detailed project plans to ensure projects are completed on time. 
+
+The Role Includes
+• Working closely with project leads to share insights and discuss additional needs.
+• Creating the foundation of products for the insurance industry and select insurance carriers
+• Assisting in creating industry and customer-specific reports and insights, for both personal and commercial lines. 
+• Working closely with the Product, Data and Operations teams in the development, implementation, maintenance and regular distribution of useful solutions that will have high visibility at the leadership and executive level. 
+
+Qualifications
+
+Our position requires: 
+
+Practical knowledge of Excel SQL and mix of:  
+• Ability to analyze data from business point of view.
+• Python, R or PowerBI is a plus (not mandatory)
+• Practical experience with large (>100,000 row) datasets analysis.
+
+Additional Qualification
+• Detail-oriented aptitude in quantitative and qualitative data analysis, with strong logical, problem solving, and decision-making skills.
+• Fluency in English is required.
+
+Additional Information
+
+In 2022, Verisk received Great Place to Work® Certification for our outstanding workplace culture for the sixth year in a row and second-time certification in the UK, Spain, and India. We’re also one of the 38 companies on the UK’s Best Workplaces™ list and one of 18 companies on Spain’s Best Workplaces™ list.
+
+For over fifty years and through innovation, interpretation, and professional insight, Verisk has replaced uncertainty with precision to unlock opportunities that deliver significant and demonstrable impact. From our historic roots in risk assessment, we’ve grown to provide analytic insights that help transform industries focused on some of the world’s most critical areas. Today, the insurance industry relies on Verisk to be, and to make the world, more productive, resilient, and sustainable.
+
+Verisk works in collaboration with our customers and at the intersection of people, data, and advanced technologies. Through proprietary platformed analytics, advanced modeling, and interpretation, we deliver immediate and sustained value to our customers and through them, to the individuals and societies they serve, with greater speed, precision, and scale. We’re 9,000 people strong, committed to translating big data into big ideas. We help others see new possibilities and empower certainty into big decisions that impact individuals and societies. And we relentlessly and ethically pursue innovation to help move our customers, and the world, toward better tomorrows.
+
+Everyone at Verisk—from our chief executive officer to our newest employee—is guided by The Verisk Way, to Be Remarkable, Add Value, and Innovate.
+• Be Remarkable by doing something better each day in service to our customers and each other
+• Add Value by delivering immediate and sustained results that drive positive outcomes
+• Innovate by redefining what’s possible, embracing challenges, and pushing boundaries
+
+Verisk Businesses
+
+Underwriting Solutions — provides underwriting and rating solutions for auto and property, general liability, and excess and surplus to assess and price risk with speed and precision
+
+Claims Solutions — supports end-to-end claims handling with analytic and automation tools that streamline workflow, improve claims management, and support better customer experiences
+
+Property Estimating Solutions — offers property estimation software and tools for professionals in estimating all phases of building and repair to make day-to-day workflows the most efficient
+
+Extreme Event Solutions — provides risk modeling solutions to help individuals, businesses, and society become more resilient to extreme events.
+
+Specialty Business Solutions — provides an integrated suite of software for full end-to-end management of insurance and reinsurance business, helping companies manage their businesses through efficiency, flexibility, and data governance
+
+Marketing Solutions — delivers data and insights to improve the reach, timing, relevance, and compliance of every consumer engagement
+
+Verisk Maplecroft — provides intelligence on sustainability, resilience, and ESG, helping people, business, and societies become stronger
+
+Verisk Analytics is an equal opportunity employer.
+
+All members of the Verisk Analytics family of companies are equal opportunity employers. We consider all qualified applicants for employment without regard to race, religion, color, national origin, citizenship, sex, gender identity and/or expression, sexual orientation, veteran's status, age or disability.
+
+http://www.verisk.com/careers.html
+
+Unsolicited resumes sent to Verisk, including unsolicited resumes sent to a Verisk business mailing address, fax machine or email address, or directly to Verisk employees, will be considered Verisk property. Verisk will NOT pay a fee for any placement resulting from the receipt of an unsolicited resume","[{'link': 'http://www.verisk.com/', 'text': 'verisk.com'}, {'link': 'https://www.google.com/search?q=Verisk&sa=X&ved=0ahUKEwifhPWn_qb8AhVGMlkFHW1WDuQ4ChCYkAII9gw', 'text': 'See web results for Verisk'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc04g9v14TY29TPGZhzRKTzBvFNyPKKhIWQMyJqcY&s,"['8 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '8 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QvQ3VzdG9tIEluc2lnaHRzIiwiaHRpZG9jaWQiOiJqcmFtS3lsT3dkNEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUTNGYVZVVTFUV1p4TUV4ZmQxcEhNWEl3V2s0NFozSlRkRVpLU0cwM1gwdDNNRWhrZVd4MlduVlZkM1pXTm5GblgzbDVVVWh2TmxkV1FVRllMWFZvYkdsVFp6ZFBkemszU1c5dFFtcDZXa3BCVHpremVWUnVWWFkzYkVwa1pqbFlia1pSV0RWeVNqTktTRE5hUmpab01XVlhNbEZqVEdoZmVVbE5ibkZ6YkdsNFpuQXdia2cwTVRkSFZVZHdaM0UzU0UxdExXWktaVjlMYWtkc2FIRkVTMXB3YTJwUlNuTnJObWw1WjNwZmRVVlJFaGRCY3kxNFdUVmZOMDA0WW1zMVRtOVFOMkY1Tlc5Qk5Cb2lRVVJWZVVWSFpIbGFUalI2TlZaQkxUaFhPWFpqZGtjdFJXdDFaa0pYVVhSTWR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkaW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L2RhdGEtYW5hbHlzdC1jdXN0b20taW5zaWdodHMtYXQtdmVyaXNrLTMzNjY1MjM4MjY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+7,Player Support Data Analyst w Keywords Studios,Keywords Studios,"Siemianowice Śląskie, Poland",via Jobrapido.pl,"The successful candidate will have the ability to turn information from multiple data locations within the Player Support operation into actionable data by providing insight and help Player Support Management and Project Managers make informed decisions on how they improve their programs and operations.
+The data analyst responsibilities include conducting full lifecycle analysis to identify requirements, data required, data validation, design. The data analysts will develop analysis and reporting capabilities. They will also monitor performance and quality control plans to identify improvements.
+Key responsibilities: Handle large amounts of complex data: facts, figures, and number crunching.
+Responsible for ensuring data integrity through governance and compliance while processing data requests from the corporate and business stakeholders.
+Data clean up and processing, correlation of different types of data.
+Data interpretation, results analysis and deliver excellently substantiated... data analyses using standard techniques and tools, which lead to improved business decisions or better data quality.
+Use front end reporting tools to create datasets, reports, dashboards.
+Present findings effectively to support stakeholders in important decision-making.
+Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.
+Drive automation of data and information for business efficiency.
+Creates technical documentation/user manual (database architecture which involves table formats, ETL structure, dependencies of table (back end), data dictionary, database schema, etc.).
+Requirements: Fluency in English.
+A strong background in Mathematics, Computer and Statistics. With a minimum of 2 years’ experience as a Data Analyst, data visualization and reports development.
+A college degree holder in e.g. Mathematics, Informatics, Econometrics, Computer/Data Science, Information Management or Statistics.
+Experience in creating data models, reporting packages and dashboards.
+Ability to analyze large data sets.
+Ability to leverage C#, Python,SQL/BigQuery, Javascript, Spark, Data Bricks, Datastudio, Power BI to deliver reporting with a high level of quality and accuracy.
+An expert on MS excel and Google spreadsheet.
+An excellent communicator and able to build bridges between different stakeholders.
+Ability to work autonomously.
+Proactively works to continually improve processes and delivery of reporting and analysis.
+Strong attention to detail.
+Opportunities: An insider's view into the gaming industry, with lots of growth potential.
+Employment contract with the option of private medical care and shared-cost coverage for your MultiSport card.
+We're proud of our friendly and inclusive atmosphere. You're more than free to enjoy video games with your colleagues in our chill-out zone.
+Employee referral program - make an impact by inviting your friends to become a fellow Keywordian.
+Virtual company parties.
+Possibility to work from home.
+
+Sound interesting? We can’t wait to hear from you","[{'link': 'http://www.keywordsstudios.com/', 'text': 'keywordsstudios.com'}, {'link': 'https://www.google.com/search?q=Keywords+Studios&sa=X&ved=0ahUKEwifhPWn_qb8AhVGMlkFHW1WDuQ4ChCYkAIIpQ0', 'text': 'See web results for Keywords Studios'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwhzPN_JyCxu3FWT0FktMnkydGdrt-sEQwo5HO&s=0,"['18 hours ago', 'Full-time']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJQbGF5ZXIgU3VwcG9ydCBEYXRhIEFuYWx5c3QgdyBLZXl3b3JkcyBTdHVkaW9zIiwiaHRpZG9jaWQiOiJ0clgwSldOcko3RUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFcmNDQ3ZjQlFVRjBWbXhpUkZKek1HMWpWVUUxY0ZSTGJWOXlVeTA0UlRrM1VEWnZSazVQVVVGQmNVSTBSV3RpUWtzMlJFWm9iRlpSZFcxa2N6VkVWalEwUkdkZldrRjFZMDlhTjB0ZloyVnRNM0pWVlZkdmFFTTNUelJpUjIxV1V6bHhkMEZuUkY5VWNrcEJVbk5QWnpOM1ZGRklUM2syWWpsUWFITTVVV3hyVkcwM1JpMDVPVTAzWDJ0eFdWQjVTREJRWms5M1dIazRiR0ZDZEd0NmJsZE5jbk51Wnkwek1VeHZVVmhLTWtaWk5sbFFVVms1WW5Sbk5sUmtWWGRTTkRaeVZHeDBZVTlCWW5CblJXcFJUalZ1YldGd1YyNVhXRWM1V1hOSVRtMVVTMDVaVVdVM1FuY3labnAyWDFWU1Z6RllSVmRQVm1sT2FsTk5VUklYUVhNdGVGazFYemROT0dKck5VNXZVRGRoZVRWdlFUUWFJa0ZFVlhsRlIyUm9Sa2xwVDA5RFdYTXpZVWhCY1ZSck1tRmFkR1JhVFRKWVZFRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvYnJhcGlkby5wbCIsImxpbmsiOiJodHRwczovL3BsLmpvYnJhcGlkby5jb20vam9icHJldmlldy83Njk2Mjk1MD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+8,CLASSIFICATION ANALYST,Rockwell Automation,"Gdańsk, Poland",via Talent.com,"Job Description
+
+The Analyst is an individual contributor who also works in a team environment on various activities that impact Classification for Global Trade (CGT) as well as the Company.
+
+This position will handle day to day transactional tasks as well as department projects as assigned. The analyst will work on issues of moderate scope where analysis of situations or data is required.
+
+Specialist will be able to determine accurate export / import classification data for standard and Engineered to Order (ETO) products using appropriate software tools and in line with RA Global Trade Compliance policies and procedure.
+
+Specialist will also be responsible for conducting analysis whether products qualify for different FTAs This position will support global Company program, initiatives and participate in global auditing of classification data.
+
+This position will handle day to day transactional tasks as well as department projects as assigned. Through an understanding of both... compliance processes and information systems, this position participates in the discussion of strategies and improvements within the department.
+
+Education / experience requirements :
+• Bachelor’s degree in engineering, logistics, legal or supply chain field
+• Excellent verbal and written English language level
+• Experience in International trade (import / export order handling), logistics or / and operations
+• Possesses an understanding of import / export documentation (certificates of origin, supplier’s declarations, etc.)
+• Ability to read and interpret bills of materials, engineering drawings and other technical data
+• Working knowledge of Office 365
+• SAP / GTS experience is a plus
+
+Travel :
+
+When required both domestic and international (Less than 10","[{'link': 'http://www.rockwellautomation.com/', 'text': 'rockwellautomation.com'}, {'link': 'https://www.google.com/search?q=Rockwell+Automation&sa=X&ved=0ahUKEwifhPWn_qb8AhVGMlkFHW1WDuQ4ChCYkAII0w0', 'text': 'See web results for Rockwell Automation'}]",,"['18 hours ago', 'Full-time']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJDTEFTU0lGSUNBVElPTiBBTkFMWVNUIiwiaHRpZG9jaWQiOiJHNE1JSW1NZHo3OEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVRjBWbXhpUTBkVk5rNDRORzlWZERJMFZ6ZGpYMmRDVTBsZlFWTm1jRzB5YVcxdUxWcENkSHBWVGtSV1VETjViV0pvVW5aWGRqUXpSWEJGWkhocFNEUkZRV1p6Y0dWaGNtRk1SRnBwVDFBeFFsTlVkWFpQWVZsTmFtSmZTMWh6VTJablJqQkZWeTB3UlhWSVoxVnFWRWhLUjJaVlpWVXpORkp5TUd4NlFYTjBiSEZMYVU5QmNURnNOemxIWlVkTGRUUkZUREpaUkZjNE5VOXlORk5PWW5wV1dERnZNbUZZYkRRMmVYaDZhblkzUTBScmRESm1WWFV6VlhFMmJrOTVkVmRPU2xObFZUSmFUazVPRWhkQmN5MTRXVFZmTjAwNFltczFUbTlRTjJGNU5XOUJOQm9pUVVSVmVVVkhabnBUUjBKbWNXZG5WbFowVjJsbkxVMXFVRlJUZVRKMllWWkdadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRhbGVudC5jb20iLCJsaW5rIjoiaHR0cHM6Ly9wbC50YWxlbnQuY29tL3ZpZXc/aWQ9YWRjZjM5YjMzODg1XHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+9,"Evidence Lab, Business Analyst – Alternative Data",UBS,"Kraków, Poland",via UBS - Talentify,"You have:
+- university degree, preferably in a data analysis related field e.g. statistics, economics or computer science or mathematics.
+- an analytical mindset and a sharp eye for detail.
+- the ability to balance multiple projects and priorities.
+- proficiency in Excel.
+- working knowledge of SQL and relational data structures, such as database join concepts.
+- experience with Python would be an advantage.","[{'link': 'https://www.google.com/search?q=UBS&sa=X&ved=0ahUKEwifhPWn_qb8AhVGMlkFHW1WDuQ4ChCYkAII_Q0', 'text': 'See web results for UBS'}]",,"['9 hours ago', 'Full-time']","{'posted_at': '9 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJFdmlkZW5jZSBMYWIsIEJ1c2luZXNzIEFuYWx5c3Qg4oCTIEFsdGVybmF0aXZlIERhdGEiLCJodGlkb2NpZCI6IjdzRlFuLTlUTEswQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVvd0NDc3dCUVVGMFZteGlRblUzTTBKeWJWa3phblpwZW5aRGJrVk9ZVTlJVXpndGEwbzJWMjQ1VlRkSGJIZHdVQzFxY0ZCd1dWZHlORXhQVlVwRmJVODJlbTVQVTBSUFkyRXpNM1I2V210clJXa3RaM1pFVFV4UVEyaE5MVmhVT1ZSa1dXTnpSbUZZUlV4MWFrazRjVFZtYW1NNU5sSlpjbXRuU3pkUlJVcEtVMGxIZVhwRmNXSm1Va1ZEWVdwZlZHUkJiRlZQVG5GMWVFWlVWWFpGWjNSdmVsQnJURm94VlVoblVVZEVSbEl6WjA5dE4weG1WRXgxTTB0SGJrNTJZVVJHVEdOaWVsQkRhVnBtVTBScE5tSjZFaGRCY3kxNFdUVmZOMDA0WW1zMVRtOVFOMkY1Tlc5Qk5Cb2lRVVJWZVVWSFkyOXJNbXBpTTIxa1UxZE1PV2xxUTNrMmEzZElkVkpvVkdWb1FRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVUJTIC0gVGFsZW50aWZ5IiwibGluayI6Imh0dHBzOi8vdWJzLnRhbGVudGlmeS5pby9qb2IvZXZpZGVuY2UtbGFiLWJ1c2luZXNzLWFuYWx5c3QtYWx0ZXJuYXRpdmUtZGF0YS1rcmFrb3ctbGVzc2VyLXBvbGFuZC11YnMtMjYzOTk1YnI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+0,Data Analyst - Tribe Billing,T-Mobile Polska S.A.,"Katowice, Poland",via Jobrapido.pl,"MS Excel (junior) Tableau (regular) SQL (regular) Location: Warsaw, Marynarska 12 (hybrid / 100% remote)Type of contract: B2B contract Online recruitmentAs a Data Analyst you will be required to wear multiple hats. You must have a superior blend of business, analytical and/or statistics skills, presentation skills, and the ability to develop strong partnerships/relationships with key business partners. You will be part of the Credit risk management team within Finance area to define overall credit risk strategy by providing analytics insights and proposing relevant credit risk decisions.You will be responsible for identifying new credit segmentation or business strategy opportunities to drive enhancements to our credit decision process and policies.You must be able to manipulate large amounts of data, provide findings on data context and quality, extract key insights from the data using statistical concepts, and then be able to take it up a notch by clearly and concisely communicating... actionable recommendations based upon your insights. You will be expected to represent the Credit Risk Management team in the role of credit data, credit strategy and statistic methodology expert.What will you do?Development and maintenance of analysis/reporting toolsPreparation of analysis modelsDevelop a deep understanding of industry, corporate, and customer drivers to leverage in optimization of all aspects of our decision strategy and business processes across the credit lifecyclePreparation qualitative and/or quantitative analysis of credit policies to ensure business and financial objectives are achievedLead efforts in loss forecasting analysisWhat do you bring?Min. 1 year of experience in SQL Knowledge about reports tools (Tableau, PowerBI..)Communication, organization and presentation skillsNice to have:Credit or Collections risk experienceExperience in BigData areaExperience in Python University education in the field of Finance, Economics, Mathematics. Statistics or related filed.Financial institution or Telecom experience a plusPreferably experience with Agile methodologiesGood English","[{'link': 'http://www.t-mobile.pl/', 'text': 't-mobile.pl'}, {'link': 'https://www.google.com/search?q=T-Mobile+Polska+S.A.&sa=X&ved=0ahUKEwjE2Oyo_qb8AhWpMEQIHQIbBlc4FBCYkAII3go', 'text': 'See web results for T-Mobile Polska S.A.'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2u1GKxbioBt2KIRJmtJxB-padbzcVCmOIB0p4&s=0,"['18 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBUcmliZSBCaWxsaW5nIiwiaHRpZG9jaWQiOiJHQ1pQel96RWtxTUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVRjBWbXhpUkZNNVZraGxkbmhtWW5WT05qVklVME5CTm1KbFNuaFpVV3B0UkROT2VHMWxRVkJRTld4TVRGQTBlWGc0WWxacFJVOXRSRTFHTm1Sek4yRTBTR1JFTkRKWmMxVnFXWEEyY3pSMFZXOURkbmczVm5SNU9YSmZSek41V1Zsd1NqaHVSbFE0V0ZweVRscDFXRFJ4VUZCdVdHOVRYMHh5YmtSSlRFTldOWHB4VjBoUVVFTllWVk5wZHpWVlZHSmtZak14WmpWcFNVTkphVTVhVUMxd1ZrbzFhamxSUlMwNU1VVnJOMjVaVTJWTVEwVnRTMmRMUVhWeVMzVldRekpVZWw5WVpGbDVibGwyRWhkQ1RTMTRXVGhVUjAxaGJtaHJVRWxRWjNKaFdYVkJWUm9pUVVSVmVVVkhabUZJVDBaQkxXZzBjblJoYTFSYVRrb3pWRXBGY1dOSU9XTjBadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gSm9icmFwaWRvLnBsIiwibGluayI6Imh0dHBzOi8vcGwuam9icmFwaWRvLmNvbS9qb2JwcmV2aWV3Lzc3MDAwMTg4P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+1,Data Analyst,Spyrosoft,"Warsaw, Poland",via Trabajo.org,"Must have
+• SQL
+• Power BI
+• Jira
+• English (B2)
+Equipment supplied
+• Windows
+• Computer: Notebook
+• Monitors: If needed
+Perks in the office
+• Free coffee
+• In-house trainings
+• Modern office
+• Startup atmosphere
+• No dress code
+Benefits
+• Sport subscription
+• Training budget
+• Private healthcare
+• Flat structure
+• Small teams
+• International projects
+]]>","[{'link': 'http://spyro-soft.com/', 'text': 'spyro-soft.com'}, {'link': 'https://www.google.com/search?q=Spyrosoft&sa=X&ved=0ahUKEwjE2Oyo_qb8AhWpMEQIHQIbBlc4FBCYkAIIjAs', 'text': 'See web results for Spyrosoft'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IjJBVFltd0R5U0J3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlRakJwWm0xcFdVeHFZbXBJUXkwNWRuWkNPWEZGYVRsbU1tNUJSVnBNVjJoR1ZEbE5jMk5zWHpkcExVWTFSMFJoV2pCUVdFVkZhWFpyUW5neFpYRk5XUzF4VTBnM2FURTJNbTluYWtWd1VEQndRMk5FYlhSSGRqVjRTbmxrY0dzeE9XNTZSakZqVW5wU1QyaHdaRE5aUTB3NFJuTm5kVEp0WDBoMmQydG5TemhXTTFwVVdUSTNhSGczUnpkdVZUTjNhMFJhWDB3d2JrRk9TVlp0YkZKbFFsQk1VbGRLVkVoa1ZrOTRUWFl6T1MxM0VoZENUUzE0V1RoVVIwMWhibWhyVUVsUVozSmhXWFZCVlJvaVFVUlZlVVZIWTBKRFNVMVZUMDlIT0U1cFkwUjNPWEpuWkRGR2NXbE9lbU4wWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTI1NS0yMDIzMDEwMS00ZTIxYjRmOGU5ODE3ZTQyYjU3M2Y5ZTllNjQ5MzY2Yz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+2,Data Analyst,Finder.com Poland,"Warsaw, Poland",via Jobrapido.pl,"Datawarehouse (regular) Data modeling (regular) Analytics (regular) Python (regular) Data Visualization (advanced) SQL (advanced) The role’s purpose is to supercharge Finder’s data capabilities through the design, deployment and improvement of data analytics capabilities.We are looking for a Data Analyst who will support our product teams with insights gained from analysing company data. The ideal candidate is adept at using large data sets to find opportunities for product and process optimisation and to test the effectiveness of different courses of action.They must have a proven ability to drive business results with their data-derived insights. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.ResponsibilitiesAs a Data Analyst at Finder, you will partner with stakeholders to build scalable... infrastructure and a central hub of datasets and dashboards for the comparison business. This will support data-driven decisions and insights that translate directly to accelerate business growth and product improvement.Work closely with the product, engineering, client services and publishing teams to support their decision making process with facts, insights and recommendationsGather the requirements and determine the best course of action for analysisDefine a robust set of datasets and dashboards to support key business processes, e.g., forecasting, quarterly business planning etc.Use the data to identify insights to inform hypotheses and test ideas.Plan, and prioritise insights that drive Finder targets and ROI.Analyse and evaluate A/B tests, report on results and recommend next stepsBuild and maintain self-serve dashboards for internal and external stakeholders.Train crew with dashboards / self serve analytics when needed.Support company growth by discovering, analyzing and communicating the critical user behavioural dataEssential requirements of the role:Experience working with large-scale data setsExperience of data analysis, cleaning or visualisation (for example using SQL, Python, spreadsheets or other technologies)Experience in data modellingExperience with Enterprise Digital Analytics such as Snowplow, GA360Experience with modern data warehousing solutions (we use BigQuery)Admirable team player qualities, including being collaborative, respectful, and service focusedA willingness to learn and apply various data analytics methodologiesA genuine passion for data and drive to communicate using dataDemonstrated analytical problem-solving skills and expertiseDemonstrated ability to pull apart complex data and communicate it to a non-technical audiencePreferred:Bachelor’s Degree or beyond in maths, statistics, physics, science, business or related analytical field.Familiarity with dbtFamiliarity with GitHubDeep understanding of building and maintaining data pipelines and assets, through robust change control.Ability to work in an unstructured environment, navigate ambiguity, and bring clarity and structure as you go.Ability to create and foster strong cross-functional networks and manage without authority.Excellent presentation and communication skills","[{'link': 'https://www.google.com/search?q=Finder.com+Poland&sa=X&ved=0ahUKEwjE2Oyo_qb8AhWpMEQIHQIbBlc4FBCYkAIIuQs', 'text': 'See web results for Finder.com Poland'}]",,"['18 hours ago', 'Full-time']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IndJcl90cmRrbkdnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlRMVF5UVhGSllrMXdNV0o2UTB4TUxUbHdRVWt5VTFWTVVWWkJaV2RhYVRKalNsUjZOMlpRV2xKM01WTjVYMHRCY0d4TVYzSk9YMHhMVm1oalgxZDNiVzV6WTJsVFpISk1NMWd3VlRjdGRtNUhkM1JXUzNCNk5GbFRWa0pRYnpaVVRrVndTbVZVT1cxelFVSm1ZMXBXUjIxcUxYWkVUM2hOVWxWelppMUxOMTl1Vm5WMFUydG9SSEJ5WTBoalRFNHdURzh5WWpSSmJVMDFVbVpSRWhkQ1RTMTRXVGhVUjAxaGJtaHJVRWxRWjNKaFdYVkJWUm9pUVVSVmVVVkhaR2h4VEZoblRIaERkV1JuYW1sclVGRmtVR2RhWjJWMVdYTTJadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icmFwaWRvLnBsIiwibGluayI6Imh0dHBzOi8vcGwuam9icmFwaWRvLmNvbS9qb2JwcmV2aWV3Lzc2OTU3MjE3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+3,Data Analyst,Devire Sp. z o.o.,"Wrocław, Poland",via Trabajo.org,"Must have
+• Python
+• SQL
+• NumPy
+• pandas
+• English (C1)
+Equipment supplied
+• Windows
+Perks in the office
+• Modern office
+Benefits
+• Sport subscription
+• Training budget
+• Private healthcare
+• Cafeteria system
+• retirement program
+• Certificates
+• lunch pass
+• E-learning platform (mindtools)
+]]>","[{'link': 'http://www.devire.pl/', 'text': 'devire.pl'}, {'link': 'https://www.google.com/search?q=Devire+Sp.+z+o.o.&sa=X&ved=0ahUKEwjE2Oyo_qb8AhWpMEQIHQIbBlc4FBCYkAII5gs', 'text': 'See web results for Devire Sp. z o.o.'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6InlVMjdoRmc1c2ZrQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlRbWQzY0hWT2VVNXFMVEpKT1ZKZmVGUTVZbUpHUjNCVFp6bHdjSEpGTWtKa2JHcGFVMDFIWHkxRFp6RnpiMjh3VVVoVmFVWjVOVFJKVWpneGFFcEpjMEpWUkdwaFNrZFlRM3B6V0hWYVpFSnBOVEZSYkRoaFdVeERSelF0YTJwMFNDMWxVSEZ2Y2pGRGNHZGhkMU5ZUkZSalZteEpPWGxUTVROa1ZFRXhYM2R1ZGxBNFNrTkhPVkZ6VkU1eldYRnBVbFJOYlVWeWRHaFplSHBOZHpGTE1XUjNjRkV0TVhaWWMweHFWMEpRYlZaTkVoZENUUzE0V1RoVVIwMWhibWhyVUVsUVozSmhXWFZCVlJvaVFVUlZlVVZIWTBKcVgyUlhXV0Z2U2tOVFZtTnplbDl0ZDNWNE9WSkNOamRzWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY182IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTI1NS0yMDIzMDEwMS04ZWI5MTYxZTUyYWQ3ZTFhYmRkMThlNDMwZWJmM2Q4ZT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+4,Mid Data Analyst & Engineer (Python&SQL),Scantrust,"Poznań, Poland",via Jobrapido.pl,"AWS (nice to have) PostgreSQL (junior) Redshift (regular) Schema Design (regular) SQL (advanced) Python (advanced) Company: ScatrustPosition Offered: Data Analyst & EngineerWork Type: RemoteJob Commencement: December 2022About:Scantrust is a fast-growing, award-winning scaleup founded in 2014 that has expanded its offices to Switzerland, the Netherlands, China and Hong Kong. Our talented team consists of amazing and colourful individuals from all across the globe who work hard to make our company's dream a reality. Our goal is to become a pioneer in the supply chain industry by tackling the problem of counterfeiting and traceability. We create secure QR codes for giant manufacturing firms to prevent counterfeiting of their products, allowing traceability, and engaging in active brand protection. Find out more at www.scantrust.com.We are currently looking for a Data Analyst & Engineer (working time overlaps with China timezone) with the following scope:Responsibilities:Develops and... maintains scalable data pipelines and builds out new API integrations to support continuing increases in data volume and complexityCollaborates with analytics and business teams to improve data models that feed business intelligence tools, increasing data accessibility and fostering data-driven decision-making across the organisationImplements processes and systems to monitor data quality, ensuring production data is always accurate and available for key stakeholders and business processes that depend on it.Writes contributes to engineering wiki and documents workPerforms data analysis to troubleshoot data-related issues and assist in the resolution of data issuesWorks closely with a team of frontend and backend engineers, product managers, and analystsDefines company data assets (data models) and Airflow jobs to read data from Postgresql and other data sources to populate data models in Amazon RedshiftDesigns data integrations and data quality frameworkDesigns and evaluates open-source and vendor tools for data lineageDevelops a strategy for long-term data platform architectureExperiences & Education:BS or MS degree in Computer Science or a related technical field4+ years of Python or other backend development experience4+ years of SQL experience (No-SQL experience is a plus)4+ years of experience with schema design and dimensional data modellingAbility to manage and communicate data warehouse plans to internal clients Experience designing, building, and maintaining data processing systemsExperience with Postgres or Redshift is a plusExperience with Tableau is a plusExperience with AWS services and systems is a plus.Other Desired Skills:Knowledge of best practices and IT operations in an always-up, always-available serviceExperience with or knowledge of Agile Software Development methodologiesExcellent problem-solving and troubleshooting skillsProcess-oriented with great documentation skillsExcellent oral and written communication skills with a keen sense of customer serviceScantrust Offers:Good SalaryJob SecurityHealth BenefitsPaid Vacation daysSick Leave/Maternity Leave","[{'link': 'https://www.scantrust.com/', 'text': 'scantrust.com'}, {'link': 'https://www.google.com/search?q=Scantrust&sa=X&ved=0ahUKEwjE2Oyo_qb8AhWpMEQIHQIbBlc4FBCYkAIIlQw', 'text': 'See web results for Scantrust'}]",,"['18 hours ago', 'Full-time']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJNaWQgRGF0YSBBbmFseXN0IFx1MDAyNiBFbmdpbmVlciAoUHl0aG9uXHUwMDI2U1FMKSIsImh0aWRvY2lkIjoiVDFuZzg2bDViZ0VBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXFJQ0N1SUJRVUYwVm14aVFtNUxlblZQTkRVMGMyMVlObEF4YW5sYVJGaE5XbFZ4Y2xoUWJsWnZNa1kzVWxCdlRUUlFiWEpqWmtOUU5WVXdZblI2TURFM2VqSllTVVpLUmw5SmJITkNkekZUV2tOMGIzZGtaMDE0VWtnMFRESkRVRFJVVkc1SWVrMDVlbEUzT1hab2JIaFhUWHBwY0Y5bFVHSk1RbHBhUm1sdmVWZHpNMDkzWDBsNVRURXdSMGhDZGs5NFdHTlNiRE16VVhSRFgwaHJlRE5ZU1hvM1pXMTVRekkxVFU5TVQxTTRlRVZUUkdSaVRtbG5ka2hqZDFKdGRUaERUeTFHY25kWFEyMUpWelUyTUdKVmJucHlla2RrYlcweWQyOXdTbUZzUlUwd1pXZGtaeElYUWswdGVGazRWRWROWVc1b2ExQkpVR2R5WVZsMVFWVWFJa0ZFVlhsRlIyTjFlRVUzVkdKckxUQktlVGRTVWpCUVgwZExlRFpEVmxOWlVHYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzgiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icmFwaWRvLnBsIiwibGluayI6Imh0dHBzOi8vcGwuam9icmFwaWRvLmNvbS9qb2JwcmV2aWV3Lzc2OTU0OTUyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+5,Remote Data Governance Mid Analyst,EWL Group,"Kraków, Poland",via Trabajo.org,"Must have
+• SQL
+• Git
+• Polish
+Equipment supplied
+• Windows
+• Computer: Notebook
+• Monitors: One
+Perks in the office
+• Free coffee
+• Mobile phone
+• Modern office
+• Startup atmosphere
+• No dress code
+Benefits
+• Sport subscription
+• Training budget
+• Private healthcare
+• Flat structure
+• Small teams
+• International projects
+• Insurance
+]]>","[{'link': 'https://www.google.com/search?q=EWL+Group&sa=X&ved=0ahUKEwjE2Oyo_qb8AhWpMEQIHQIbBlc4FBCYkAIIwAw', 'text': 'See web results for EWL Group'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJSZW1vdGUgRGF0YSBHb3Zlcm5hbmNlIE1pZCBBbmFseXN0IiwiaHRpZG9jaWQiOiJnYWNKVVdPY0hWa0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUkRsbFpERnZWVWRDZEV4bVEzbDRVMW8yY3pKMlRUUTJXVUZqV25oTE5uVmpXRGhYTVZoQ2JrZENVek5qY25wd1puWjZaVEZsU1VreGNYZEZORmhWYmxsNlZsbEdlRzlqY2sxTWMwOU1ZWFY2VFZwb1p6SkRjbk5xU0dwRVFrODJRelJxVFdkSlIzbHhXbkJCTVdOMllYQmlWakJrWTJKelJYUjZNeTF0YzB4aU1HZEhhMmx2VmtKRGIzTk1TRXBYYTNwVlJTMUphMEpNV0c5aGRFZzFVMkpqTjNOMWNGRXRVSFp2ZWtneVIzZHJFaGRDVFMxNFdUaFVSMDFoYm1oclVFbFFaM0poV1hWQlZSb2lRVVJWZVVWSFpVRlFiR0Z0Ym5aWlNrbDFRbXhuZDJneVFsTm5NSE42TjBRM1VRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTAiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xMjU1LTIwMjMwMTAxLTVkYmViNTQ3NGY3ZjY2ZjU0ZDllMmFhYmRhM2Y2ODZmP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+6,Data Analyst in the Data Science Hub,Nestle Polska,"Kraków, Poland",via Jobrapido.pl,"R (nice to have) Python (regular) Git (regular) SQL (regular) As the Data Science Hub Europe in Nestle, we continuously search for new talents to join our international team dedicated to delivering efficient and high-quality data solutions. In your role of a Data Analyst, you will collaborate with fellow Data Analysts, Data Scientists and Engineers to drive innovation and develop top-notch analytical and machine learning models and methods. Your skill, competence and creativity will directly support and directly impact critical business decisions in areas of supply chain and marketing. In this role you will: • Actively participate in each stage of the data science lifecycle, from business understanding through model development to industrialization• Build and maintain analytical models to optimize business decisions• Generate and share powerful insights with Analysts, Data Scientists and other non-technical audience• Collaborate with members of Data Science Hub and other departments... to deliver data solutions in production• Engage in big scale transformation projects primarily within Supply Chain area• Support continuous improvement of how we work in the Data Science Hub You are the right candidate if you bring along: • At least 1 year of professional experience in a similar position• Master’s degree in Statistics, Econometrics, Mathematics, Computer Science, Big Data or similar studies• Good knowledge backed by practical application of at least one language used in statistical analysis (Python or R preferred)• Good communication and presentation skills and willingness to grow• Knowledge of statistical techniques and concepts (incl. statistical tests, feature selection, time series modelling, regression & classification algorithms, clustering etc.)• Fluency in spoken and written EnglishYou will draw even more of our attention if you have: • Experience working in Azure cloud and/or with Databricks• Good command of version control tools (git) In return we offer: • Exciting work in a multi-cultural team of bright minds – data lovers and practitioners • Flexible remote work options, or – if you prefer – access to a modern office in Warsaw’s Mokotów, walking distance from Metro Wilanowska • Internal training programs and access to external knowledge resources aimed at expanding your skills and competence • Opportunities to develop further in our Data Science Hub as well as in the international organization • Full or part time contract • All kinds of juicy fringe benefits: private medical care, pension fund, cafeteria program, Multisport card, co-financing of meals in the company's canteen, discounts for Nestle products","[{'link': 'https://www.google.com/search?q=Nestle+Polska&sa=X&ved=0ahUKEwjE2Oyo_qb8AhWpMEQIHQIbBlc4FBCYkAII7Qw', 'text': 'See web results for Nestle Polska'}]",,"['18 hours ago', 'Full-time']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgaW4gdGhlIERhdGEgU2NpZW5jZSBIdWIiLCJodGlkb2NpZCI6IlVYc0ZnaG43WVh3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVvd0NDc3dCUVVGMFZteGlRa2t6Y2t4UGFWSjVNRXRQVERodE1XVXhhbFp4Vm5Gc00zRmtORk56Ym1aeVpWUnVhVWxUY1RKelkzcDNjRk40V0dOaFJuWTFhVGhrZVhFdFpDMW9OV1Z2WjJkbVREaFRlblZxTVVGQ1FrVnlNRFl4WkVjM1REVkRVVTVoVjJ0clZYRlhWVTgzV1RJemVHbE5OakUyV1d0RFNrOVBXalJXVkdKSll6Wk9UVzlHTFRVMFZVWlVOM05aVTBsV1JsZFZjVGQyWHpBM01WcHVjMFYwTVRkdmRqRnFXR2QyTFhGbGNWZHlhRnB5WjJJemJqRkdNMUZhUkUxbFJFSTVURE5oTTFOUlNtaG9FaGRDVFMxNFdUaFVSMDFoYm1oclVFbFFaM0poV1hWQlZSb2lRVVJWZVVWSFpWUkpaRFJZU0dVd2NrSjVaMmt5VDNVelIxRk9SRTl4VGtFM2R3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icmFwaWRvLnBsIiwibGluayI6Imh0dHBzOi8vcGwuam9icmFwaWRvLmNvbS9qb2JwcmV2aWV3Lzc2OTk4NzQwP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+7,"Data Analyst, Pricing and Performance",myGwork,"Gdynia, Poland",via Trabajo.org,"Do you feel like taking the journey in the fin-tech world? The job of a Data Analyst is one where specific experience or background is not needed. Motivation and curiosity are what we're looking for. In the beginning, we'll provide you with training to make your first months in the company smooth.
+
+Compensation:
+
+You will receive the annual gross salary of 60 000 PLN. You will also be entitled to a bonus scheme and additional benefits that we offer to Refinitiv colleagues.
+
+Your tasks:
+
+Data is the heart of our company, and we need you to keep our heart healthy. Our clients: financial institutions, banks, and corporations rely on the quality of the information we provide them via our products.
+
+So, think that you are the first person that sources the data for our clients. It can be bonds or funds, corporate actions, or economic indicators. In fact, there're plenty of financial types of data that we manage.
+
+A major part of the day is when you research the Internet sourcing... information; visiting official pages of global companies and institutions. You also rely on our internal databases and products. And last but not least, you don't work on your own only. You talk to colleagues in Gdynia and teams located in the UK, US, India, and other countries. And you use cutting-edge technologies to allow your conversations to be exciting.
+
+In short, your job will be about:
+• Collecting, processing and verifying specific financial information; text-based or number-based data
+• Doing research on financial information
+• Working with large databases (maintaining, updating, improving)
+
+What is more, you join projects to stimulate your ambitions of an early professional and let you develop your career.
+
+Your qualifications:
+• Very good knowledge of English and at least intermediate knowledge of French or Arabic
+• Motivation to begin a career in finance ​
+• Attention to details because you will take care of a number of data and information
+• Good prioritization skills because you will handle various tasks ​ ​
+• Curiosity to learn because we want you to stay and grow with our company
+
+You receive:
+• Development: e-learning platform, a range of workshops and international projects
+• Onboarding : structured training and buddy support
+• Information: access to real-time economic data
+• Diversity: colleagues from 40 countries [working in Gdynia]
+• Charity: 2 additional days off for voluntary jobs
+• Perks : multisport card, private medical healthcare, employee assistance program, pension plan,
+• Office: chill-out room with video games, massage chairs and ping-pong table.
+• Activities: sports teams and social events to join
+• Future: corporate pension plan and employee insurance
+
+At LSEG, we believe that creating a diverse and inclusive organisation is fundamental to the way we deliver on our promise of creating essential partnerships and open opportunities. Our open culture is central to how we deliver our purpose - driving financial stability, empowering economies and enabling customers to create sustainable growth - in everything we do.
+
+Working with us means that you will be part of a dynamic organisation of 25,000 people across 70 countries. However, we will value your individuality and enable you to bring your true self to work so you can help enrich our diverse workforce. You will be part of a collaborative and creative culture where we encourage new ideas and are committed to sustainability across our global business. You will experience the critical role we have in helping to re-engineer the financial ecosystem to support and drive sustainable economic growth. Together, we are aiming to achieve this growth by accelerating the just transition to net zero, enabling growth of the green economy and creating inclusive economic opportunity.
+
+LSEG offers a range of tailored benefits and support, including healthcare, retirement planning, paid volunteering days and wellbeing initiatives.
+
+We are proud to be an equal opportunities employer. This means that we do not discriminate on the basis of anyone's race, religion, colour, national origin, gender, sexual orientation, gender identity, gender expression, age, marital status, veteran status, pregnancy or disability, or any other basis protected under applicable law. Conforming with applicable law, we can reasonably accommodate applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+
+Please take a moment to read this privacy notice carefully, as it describes what personal information London Stock Exchange Group (LSEG) (we) may hold about you, what it's used for, and how it's obtained, your rights and how to contact us as a data subject.
+
+If you are submitting as a Recruitment Agency Partner, it is essential and your responsibility to ensure that candidates applying to LSEG are aware of this privacy notice.
+
+This employer is a corporate member of
+myGwork - LGBTQ+ professionals, the business community for LGBTQ+ professionals,
+students, inclusive employers & anyone who believes in workplace equality.
+
+","[{'link': 'http://www.mygwork.com/en/', 'text': 'mygwork.com/en'}, {'link': 'https://www.google.com/search?q=myGwork&sa=X&ved=0ahUKEwjE2Oyo_qb8AhWpMEQIHQIbBlc4FBCYkAIInA0', 'text': 'See web results for myGwork'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['18 minutes ago', 'Full-time', 'No degree mentioned']","{'posted_at': '18 minutes ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QsIFByaWNpbmcgYW5kIFBlcmZvcm1hbmNlIiwiaHRpZG9jaWQiOiItbFlseTk2YmhlSUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVRjBWbXhpUTI5UFRIVXRUbG96TFRKWmJqYzVMWHBzVWpOUlUxOTVZM2xFZWw5YWJURmpRekJUTTJoRWQwRnpXbXBaTjB4M2N6azRVSEZ4V2t4SWVUZDBOVWwxVkROWWVEZEdhWEZCWnpSNlpVSnlZM294T0djMk5teFlYM1JyYlZKb2JFOXpWWGxuU25oaVVsRlBUbWszWkZoc2QwSnJSbkU1V2pGSVFVMXJjSFJJYVc4d1FtRlRkMjVYUTBWMVowczNOVlY1V0VWTExUTnZjVWhwWlVFd1YwdzNZalJxU1VNMGJ6Rk5abmRUUm1WUVRGaHZaMHhaTFRWaVVtbFFTVUo0T0c0eVFtOWtSVEZFRWhkQ1RTMTRXVGhVUjAxaGJtaHJVRWxRWjNKaFdYVkJWUm9pUVVSVmVVVkhabHByZDIxSVFXOTFNSHBhTVhwSlJGZHFUbTVZTWpKWlpWUjFRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTI1NS0yMDIzMDEwMS1jODk5MzY4MDVlZjU4YWViZDRjZGRiM2VmMTQxMDllZj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+8,Data Analyst with programming skills,DEVnet HPS,"Poznań, Poland",via Jobrapido.pl,"R (nice to have) SQL (regular) Python (regular) DEVnet consultants blend technological knowhow with analytical insights and industry expertise to develop sustainable solutions in a data-driven world. Founded in 1998, the company is headquartered in Grünwald near Munich with three further locations in Germany and Poland.Its 150 experts collaborate with clients ranging from global banks and insurers o providers of energy and mobility as well as startups in the digital economy. They focus on organizing data, developing platforms and algorithms, generating insights and facilitating digital transformation to build digital fitness.What the job offers you:You will combine business knowledge and programming skills in the process of building complex software solution You will analyze data using different software (e.g., SQL), tools and techniquesYou will transform business stakeholder questions/issues/needs into clear and unambiguous technical specificationYou will support the development team... in implementation of business logic (Python)You will propose, design and implement new data collections, pipelines, business rules that will ensure data consistency and qualityYou will contribute both to specialist’s analyses and technical specificationsYou will provide analysis of development processes, improvement of procedures and documentation You will have a chance for further development of technical and programming skillsYou will have the opportunity to learn about business challenges of our clients A few key data you should agree with: Degree in computer science/mathematics (applied mathematics/actuarial and financial mathematics), information technology in business, economic analytics, or a relevant scientific disciplineKnowledge of algorithms, data structures, financial engineering topics, asset classes, investment processes and market dataUnderstanding of data models, data warehouses and query enginesExperience in the integration of data from multiple data sourcesProgramming skills in scripting languages (Python) and knowledge about data processing using SQL Knowledge of coding standards and using themStrong experience with managing business requirementsGood command of English is essential, German an advantageBenefits: Development Activities & Conferences Budget (5000 PLN for employee/year + 5 days off for training)In-House Trainings & Language CoursesPersonal Manager's support in your developmentInternational team (2-8 colleagues)Support from teamNVC (Non Violence Communication) In-House Trainings and Practice GroupsProfessional Growth OpportunitiesPrivate Medical Care PlansGroup Life InsuranceSport CardModern Office (no open space)Ergonomic EquipmentFlexible Working HoursFlat structureRemote work (4 days/week)Regular Company EventsCharity Actions (Szlachetna Paczka & Bieg Firmowy)Chillout RoomEqual Pay PolicyProfit ShareCompetitive Salaries Check our website: https://www.devnet.de","[{'link': 'https://www.google.com/search?q=DEVnet+HPS&sa=X&ved=0ahUKEwjE2Oyo_qb8AhWpMEQIHQIbBlc4FBCYkAIIyQ0', 'text': 'See web results for DEVnet HPS'}]",,"['18 hours ago', 'Full-time']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3Qgd2l0aCBwcm9ncmFtbWluZyBza2lsbHMiLCJodGlkb2NpZCI6Ik5kdC0wTFFOWE9NQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlRMUp4VjJVdFpYTjVUa1ZFVHpObU5IcHNVblJ4U1ZwSllUaFZNakJCTUY5RU9GOWhPVFIzT1ZNeE9YQk5YMlZEYVRCR2FWcFVVM1V4VlVnMFJWSklhRGxhUzNSSlZHdFFOVkpCV1hWdFZXNTFTMU52ZEU1TWJGTnVOMFJOZG1zd1gxVjJMVlV5Yms4d09EZ3hSQzB0VEVjNFJVeDRTWEZpZDJsclluVmFURXRRUVc5TlRURjBkbmRzTkVoSWVuSktVakZZWjBSck0xcHlRMWx4V21WNFVFaE1TMUZSVjBRMFZFbEdaalJDZFVaTkVoZENUUzE0V1RoVVIwMWhibWhyVUVsUVozSmhXWFZCVlJvaVFVUlZlVVZIWmpCV2VsSkxRV2hqVUVONlgwSTViRUp2YjBsWFUwaGtjbmN4VVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBKb2JyYXBpZG8ucGwiLCJsaW5rIjoiaHR0cHM6Ly9wbC5qb2JyYXBpZG8uY29tL2pvYnByZXZpZXcvNzY5NTU5OTU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+9,Data Analytics Expert/Manager,VlogIT,"Gdańsk, Poland",via Talent.com,"Polish (regular)
+
+BI / Cloud / BigData (advanced)
+
+English (advanced)
+
+Architecture (advanced)
+
+strategic advice (master)
+
+Zadania :
+• Projektowanie najlepiej dopasowanych rozwiązań do przetwarzania i zarządzania danymi
+• Nadzór nad prowadzeniem prac w zakresie zaawansowanej analityki danych, platform danych i architektury danych
+• Pełnienie roli eksperta lub kierownika średniej wielkości zespołów konsultantów (ETL / ML / BigData / Cloud)
+• Szacowanie złożoności systemów
+• Wspieranie liderów zespołów programistów w kluczowych decyzjach technologicznych
+
+Idealny kandydat powinien mieć :
+• Wyższe wykształcenie (najchętniej informatyka, data science, matematyka itp.)
+• Kilkuletnie doświadczenie w roli architekta rozwiązań lub eksperta / konsultanta najchętniej w firmie konsultingowej
+• Doświadczenie w obszarze ETL / DWH, big data, machine learning lub cloud
+• Mile widziane doświadczenie w zarządzaniu pracami zespołu
+• Bardzo dobra znajomość języka angielskiego (minimum C1) i polskiego... (minimum B2)
+
+Oferta :
+• Zatrudnienie na podstawie umowy o pracę (brak możliwości podpisania kontraktu B2B)
+• Premie roczne
+• Samochód lub ekwiwalent pieniężny
+• Budżet na szkolenia, konferencje i edukację
+• Dostęp do platformy e-learningowej
+• Opieka medyczna i karta sportowa
+• Praca zdalna w 100","[{'link': 'http://www.vlog.pl/', 'text': 'vlog.pl'}, {'link': 'https://www.google.com/search?q=VlogIT&sa=X&ved=0ahUKEwjE2Oyo_qb8AhWpMEQIHQIbBlc4FBCYkAII-A0', 'text': 'See web results for VlogIT'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjUaR6myTwt4EqkEw1TzWOTtK7vx-H7bAfPEWr9RE&s,"['18 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5dGljcyBFeHBlcnQvTWFuYWdlciIsImh0aWRvY2lkIjoiY2RmTjdtOXlISGdBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVUYwVm14aVF6TkpTMGszU1Vnd1gxWjZiR0ZDTUZGVGFqa3RjakpFWDNablptMWtjMHhPVEhoUlVrOUdkVWRHYWtGRU1Ib3hSSEpUWlVwSFRHMWxiVGc0Y1ZRNFgzbEtSbkZETlcxSWVubFhaVWxMVEZWTmNtdFVjM2R2UTBKemRsbHNPSE5pZERKT09GZzFVRWhqVTNOR1lqbHhRMUo0ZVdZMFUwVjBSalJZZVV4TlJXcDRhMHAzVjNkNloyUlFOV2RmVjNSdk5qVXdaVlZMT1VFeGJXeFBla0kwU1VNelZsaDNMWGR2YlRsQ1dGQnpkM0kwZG1Gak5WQk9abkp2VG1OTVZtSkxMWGRzVWtGNEVoZENUUzE0V1RoVVIwMWhibWhyVUVsUVozSmhXWFZCVlJvaVFVUlZlVVZIWTNGa1RuQlhjbmh1VHpFNFdHeHpSVWMzTlhOSFdVMVlOV2xmVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUYWxlbnQuY29tIiwibGluayI6Imh0dHBzOi8vcGwudGFsZW50LmNvbS92aWV3P2lkPWVjZWYwYzViMDdiZlx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+0,IT Data Analyst,Britenet,"Warsaw, Poland",via Trabajo.org,"Must have
+• SQL
+• Tableau
+• ETL
+• English (C1)
+Equipment supplied
+• Linux
+• Windows
+• Monitors: If needed
+Perks in the office
+• Free coffee
+• Canteen
+• Bike parking
+• Free snacks
+Benefits
+• Sport subscription
+• Training budget
+• Private healthcare
+• International projects
+]]>","[{'link': 'http://www.britenet.com.pl/', 'text': 'britenet.com.pl'}, {'link': 'https://www.google.com/search?q=Britenet&sa=X&ved=0ahUKEwiA3uep_qb8AhUmnXIEHTT-Ae04HhCYkAII3Ao', 'text': 'See web results for Britenet'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJJVCBEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IkVLZVZ2YkFndzdNQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlRVlpTVlhKRlprbHZRbkoyUm1oSWExWktTWEZOYlRsT1ZXTnRORlppVW1wWmJscEZkbVZXY1hOV2RGZGZPV3B3YlVabWMwMHhUbXc1UTJwVmVXNVBXazE0WVV4Rk4wcHpNMnRIV1ROd1dESXdlVkoyVGxoQmIzRlFPVUpDWVdWUVpHRlNlV05FT1ZsUWNtTmZUR1pRVDBWck5ISjBVa3N5Y1RGNFNWRlRTSGsxUm5OeVRWaHpVRXRGU1hRMVZ6WjJVRE5uWm1kRlYweGZZV0oxVjI4MlRWUkNVV0kyVkhGUWVYQm9Xa1JTVVVodkVoZENjeTE0V1RSRVJFMXhZVFo1ZEUxUWRGQjVTRFpCTkJvaVFVUlZlVVZIWTB4M09FdHNia2htVVZkME1taE9iR04zVFdjeE1TMDFUVWxsWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTI1NS0yMDIzMDEwMS04MDY1ZDFiY2ZmMzVkOGE0ZjBlMTI0NmZmZTE3MmVlZT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+1,Power BI Developer / Senior Data Analyst,Objectivity,"Katowice, Poland",via Jobrapido.pl,"Tableau (nice to have) Power BI (regular) Data modeling (regular) Analytical Thinking (regular) SQL (advanced) Analysing Data (advanced) Employment contract: 13000 - 15500 PLN Gross / per month B2B Contract: 120 –140 PLN NET(+ vat) / hWe are looking for a Power BI Developer who will be part of our Data team working for various clients. You will be able to deep dive into our clients' data, tackling multiple business problems with well-designed dashboards and reports. This position provides development opportunities in cloud technologies. If you like to have some space and independence, but also to work in a Scrum team, then we are likely to cooperate. Your role: Understanding and gathering business needs for data insights. Designing data information layer. Analysing data sources and model data following best practices. Developing dashboards and reports in BI toolsOptimizing Power BI Data SourcesDeveloping ETL in various cloud solutionsWorking in a way that uses the best practices of... Scrum and other agile methodologies. Cooperating directly with various clients. Working both on your own and as a team member. You are The One, if you have: Proven experience with Power BI.Strong knowledge of SQL, DAX, and m languageKnowledge of data storytelling concepts. At least 5 years of experience with SQL and data preparation. Deep knowledge and proven experience with data modeling.Knowledge of data processing principles. Great communication and interpersonal skills that allow to effectively work with the client and hold discussions with the team. Great communication skills in the English language (B2+). Analytical skills. Knowledge of Tableau would be an assetWhy it is worth joining us: We provide an opportunity to participate in various projects within the data and AI domain. We offer training and strong community support. We deliver data solutions for various clients from the aviation domain, huge retailers, e-commerce, whisky manufacturers. Possibility to learn different cloud technologies (Azure, Google, AWS).To find out moreCheck out our Guilds and Tribes structure which helps us to avoid being a corporation.Moving to Wroclaw? Check out our relocation package.Check out our benefits.„The type of contract shall depend on the actual rules of cooperation established between us during the recruitment process”“Only employees are entitled to the benefits package.”","[{'link': 'http://www.objectivity.com/', 'text': 'objectivity.com'}, {'link': 'https://www.google.com/search?q=Objectivity&sa=X&ved=0ahUKEwiA3uep_qb8AhUmnXIEHTT-Ae04HhCYkAIIjAs', 'text': 'See web results for Objectivity'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuKclVl4GFQkOajQG_-nKn8NHPowH67UGMVohe&s=0,"['18 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJQb3dlciBCSSBEZXZlbG9wZXIgLyBTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJ1RjdNa19EczR3TUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFcUlDQ3VJQlFVRjBWbXhpUWw5SlUwVmpOMk5ZVjB0dmJIRlNTV3cxVDJJMU4yZzBNbEJmU1dweVRXdHdXbFZIWmtNNVNESlJObmhzY2xKT2MzTlBOblJGYmtndFpIbDNRMVJ4V0VkdlRVeHdkM3BtVFd0TlVtSkxhV1I0UmpWSWVsZE5Za05MT0VkblVXeHBlVE5OZFVWSlpsRkdiSFJWZWxCbFV6SmFNMmQ1VGpSdVgyZzBUbWxDYmxocE9FVkNSWGhKZG10VFZVaFJOWGxYVVdGR2FrRm5WVEprTWpkelIyOVhlVFpVZGpaelJXRTFkRFExTVROMGVucHFWMlIxYjFJd1FXTm9kM1o2ZDFab1IxUm9WRGN0ZUZsTFNGSnZhMVpFY0ZwdFFYZFplREJaY3paelp4SVhRbk10ZUZrMFJFUk5jV0UyZVhSTlVIUlFlVWcyUVRRYUlrRkVWWGxGUjJZMFIzZElkbUp3ZDBsMFVqSkRZbGxSZWtzdGVqTkljV1pKZUVFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBKb2JyYXBpZG8ucGwiLCJsaW5rIjoiaHR0cHM6Ly9wbC5qb2JyYXBpZG8uY29tL2pvYnByZXZpZXcvNzY5NTYxOTk/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+2,Mid/Senior Data Analyst,Citi Service Center,"Warsaw, Poland",via Trabajo.org,"Must have
+• SQL
+• MS Office
+• Excel
+• Tableau
+• English
+• Polish
+Equipment supplied
+• Windows
+• Computer: Notebook
+• Monitors: Two
+Perks in the office
+• Free coffee
+• Bike parking
+• Shower
+• In-house trainings
+• No dress code
+• Modern office
+Benefits
+• Sport subscription
+• Training budget
+• Private healthcare
+• International projects
+]]>","[{'link': 'https://www.google.com/search?q=Citi+Service+Center&sa=X&ved=0ahUKEwiA3uep_qb8AhUmnXIEHTT-Ae04HhCYkAIItws', 'text': 'See web results for Citi Service Center'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJNaWQvU2VuaW9yIERhdGEgQW5hbHlzdCIsImh0aWRvY2lkIjoidzJCeUhIRWhKTzBBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVUYwVm14aVFYQkJTVE01WDNwaVNFSXlVbWwxUkZOMll6WnBTblV3WDFKdFpIZEVUVGxHT1hoSFVWRTJNVmxIVVRoclVIaDVXRlZRZFU5eVNHRm1Uak5JVkVaV1IwaHZjRmd5YjFkcmVXdzRRVGxsYzNkc1dFNVdNa3hrYVY4NExYTjJRMUpJYlc1SWVsWkJXREo2UlRWNFFrMUlTbmxNWVZFeFRWWlFUR3Q1TlZkZmFscEJWalpZYzFSMmNWOTViM1V0Wm5CVFZURTNZbkJDZHprMVlYbFJNamhRYmxGb1FtTnpXSEJ0YW5aeGFERkRVakZuRWhkQ2N5MTRXVFJFUkUxeFlUWjVkRTFRZEZCNVNEWkJOQm9pUVVSVmVVVkhZemxmWDBneE5sSnVhMnhFZEdoYVpGaENhMUpWZUZCcmMwZENRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xMjU1LTIwMjMwMTAxLWM1NjI0ZDJjYjJkYTJiZGRlZmJmYTVjZWM0YTk3MTAyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+3,Data Analyst with programming skills,DEVnet High Performance Solutions Sp. z o.o.,"Wrocław, Poland",via Jobrapido.pl,"Must have Python
+SQL
+Knowledge of algorithms
+Experience in the integration of data
+Knowledge of coding standards
+English
+Equipment supplied
+Windows
+Computer: Notebook
+Monitors: If needed
+Perks in the office
+Modern office
+No dress code
+Shower
+Bike parking
+Modern office (no open space)
+Playroom
+Benefits
+Training budget - 5000 PLN for employee/year
+Various technologies in projects
+Flat structure
+Private healthcare
+Sport subscription
+Equal Pay Policy
+Charity actions
+Language courses
+5 extra days off for training
+International projects
+Influence and decision making
+Small teams
+Flexible working hours
+Group life insurance
+Ergonomic equipmen
+Remote work
+Team Outings
+Personal Manager's support in your development
+Pizza day
+NVC (Non Violence Communication) In-house Training
+NVC (Non Violence Communication) Practice Group","[{'link': 'https://www.google.com/search?q=DEVnet+High+Performance+Solutions+Sp.+z+o.o.&sa=X&ved=0ahUKEwiA3uep_qb8AhUmnXIEHTT-Ae04HhCYkAII4gs', 'text': 'See web results for DEVnet High Performance Solutions Sp. z o.o.'}]",,"['18 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3Qgd2l0aCBwcm9ncmFtbWluZyBza2lsbHMiLCJodGlkb2NpZCI6IjdDYjViZWJQMmxNQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVyY0NDdmNCUVVGMFZteGlRMHBGZEc5NE1GTlJTMGhmTld0VkxVTlRVM0ZETjBKQ1EzbFBSVmhCVDIwdFJIZ3hjbVIzTTBSdGVVcDBNRGQ1VEhaVk1VTmxWR2xTVERCeVFrVlBkWFZ5TlVaeFJXUk1VSGR4ZVRaclJUSjJhalk1UmxWbVRIcFhVakZZUzA5UlJrSk5Za1J5Wm5saE9HOUlRa28yTUZKV1JtRXRSMmwxYW1vMk1uQkNhRU5rTlROdWJrZG9lSGhSUWpob1VWQnVla3hFYjBJek1WRXlORGxPUlVObFZ6SjZTRTA0U1ZVeVdUZEZUMUZoYXpoaGQxUnVRVlJCVlZGa1luRndUeTFpU2s1Q2RreEhMWFUwWDNadGIxOTZPSFptYjE5TWRsQkljVVJzVFhoQ1gzSTBTaTB0WDBSck4xTlBWa3hIZVZOaWN4SVhRbk10ZUZrMFJFUk5jV0UyZVhSTlVIUlFlVWcyUVRRYUlrRkVWWGxGUjJaMWNrVmpMVjluWlVwb1JESmZSVXgxTm5OT1NHSXhTRFJRZUVFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBKb2JyYXBpZG8ucGwiLCJsaW5rIjoiaHR0cHM6Ly9wbC5qb2JyYXBpZG8uY29tL2pvYnByZXZpZXcvNzY5NjAxMjI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+4,Data Analyst with SQL,merXu,"Warsaw, Poland",via Trabajo.org,"Must have
+• SQL
+• Google Data Studio
+• English (B2)
+Equipment supplied
+• Apple
+• Windows
+Perks in the office
+• Free coffee
+• Startup atmosphere
+• Modern office
+• No dress code
+Benefits
+• Worksmile package
+• Company events
+• Surprises
+• International projects
+]]>","[{'link': 'http://merxu.com/en/', 'text': 'merxu.com/en'}, {'link': 'https://www.google.com/search?q=merXu&sa=X&ved=0ahUKEwiA3uep_qb8AhUmnXIEHTT-Ae04HhCYkAIIkAw', 'text': 'See web results for merXu'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3Qgd2l0aCBTUUwiLCJodGlkb2NpZCI6ImhUZE1kdzQwQzVZQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlSSFZIUm0xdVNUbERjR0o2Vm5sMVRWTkhVRGM0VDFaaldUTnRURnBVVkdWcFZFbHJVRUp4TmxOWFlVRmxTVFptUWtWRVFrbHpRemRNVXpSUkxYRnhUa2haYTIxYWFrWnNZWGx5U1U5bUxVVnBabWxLTjNsNlUyNTZWRko1U1ZFM1owODNPR3h0VW5KWE9IUm5iV1p5U0doM1dtUmZjME54YWxCVFIzTmhURGhOZDBSeWN6QnhTbXR6VVZoblNWRkNTMDlVUzA5RFlWUjFUSEU0WkVaaWNHbDNaRnBsVGxoMGExYzNhR2RFUm1OdkVoZENjeTE0V1RSRVJFMXhZVFo1ZEUxUWRGQjVTRFpCTkJvaVFVUlZlVVZIWmtWZmVHdzVUVEV6TlV4blpqUmxjR0ZZYTFOMGVEWTBOazl1WnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY183IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTI1NS0yMDIzMDEwMS04YTY5ZjY3ZjUzNDAxMzU4MGQ2ODUyZWFmYmU2ZGNkOD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+5,Player Support Data Analyst w Keywords Studios,Keywords Studios,"Nowy Sącz, Poland",via Jobrapido.pl,"The successful candidate will have the ability to turn information from multiple data locations within the Player Support operation into actionable data by providing insight and help Player Support Management and Project Managers make informed decisions on how they improve their programs and operations.
+The data analyst responsibilities include conducting full lifecycle analysis to identify requirements, data required, data validation, design. The data analysts will develop analysis and reporting capabilities. They will also monitor performance and quality control plans to identify improvements.
+Key responsibilities: Handle large amounts of complex data: facts, figures, and number crunching.
+Responsible for ensuring data integrity through governance and compliance while processing data requests from the corporate and business stakeholders.
+Data clean up and processing, correlation of different types of data.
+Data interpretation, results analysis and deliver excellently substantiated... data analyses using standard techniques and tools, which lead to improved business decisions or better data quality.
+Use front end reporting tools to create datasets, reports, dashboards.
+Present findings effectively to support stakeholders in important decision-making.
+Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.
+Drive automation of data and information for business efficiency.
+Creates technical documentation/user manual (database architecture which involves table formats, ETL structure, dependencies of table (back end), data dictionary, database schema, etc.).
+Requirements: Fluency in English.
+A strong background in Mathematics, Computer and Statistics. With a minimum of 2 years’ experience as a Data Analyst, data visualization and reports development.
+A college degree holder in e.g. Mathematics, Informatics, Econometrics, Computer/Data Science, Information Management or Statistics.
+Experience in creating data models, reporting packages and dashboards.
+Ability to analyze large data sets.
+Ability to leverage C#, Python,SQL/BigQuery, Javascript, Spark, Data Bricks, Datastudio, Power BI to deliver reporting with a high level of quality and accuracy.
+An expert on MS excel and Google spreadsheet.
+An excellent communicator and able to build bridges between different stakeholders.
+Ability to work autonomously.
+Proactively works to continually improve processes and delivery of reporting and analysis.
+Strong attention to detail.
+Opportunities: An insider's view into the gaming industry, with lots of growth potential.
+Employment contract with the option of private medical care and shared-cost coverage for your MultiSport card.
+We're proud of our friendly and inclusive atmosphere. You're more than free to enjoy video games with your colleagues in our chill-out zone.
+Employee referral program - make an impact by inviting your friends to become a fellow Keywordian.
+Virtual company parties.
+Possibility to work from home.
+
+Sound interesting? We can’t wait to hear from you","[{'link': 'http://www.keywordsstudios.com/', 'text': 'keywordsstudios.com'}, {'link': 'https://www.google.com/search?q=Keywords+Studios&sa=X&ved=0ahUKEwiA3uep_qb8AhUmnXIEHTT-Ae04HhCYkAIIvww', 'text': 'See web results for Keywords Studios'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwhzPN_JyCxu3FWT0FktMnkydGdrt-sEQwo5HO&s=0,"['18 hours ago', 'Full-time']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJQbGF5ZXIgU3VwcG9ydCBEYXRhIEFuYWx5c3QgdyBLZXl3b3JkcyBTdHVkaW9zIiwiaHRpZG9jaWQiOiJvdDd4ZUhZTEJGY0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFcUlDQ3VJQlFVRjBWbXhpUTFkSWFrUnFlRXBuVG1wMVpUWlFSRGRHUkZsZlYzRlJOUzE0TWpKNlFteFlNM1ZNU0hOVVVrWkphbGM1V0ZNdFgwVnRUV3RzTW5WeFVVY3pOMFJVUkd0eFN6bHJNamh1Yld4UVRFOVFSVWxxU0ROR1dVdGtVbHB3VFdSSk1VWXRUblJRU1VsUFZHWnpiRzV1TVU1SGFISnlhbXBGZUU1dE5HNW1WRjg0VXpSeFlURmthemg1VFhkVFQwcEVObFZRTjFabWJHTXlVVVprVjJocFFsOWtaRUpRWkRFeGRGWlZSM1F0TTNGd01IWnBOa0l0ZUhZMVIwRlpaMW8xYlVadGNXbEpjMjh0VFhRdE5EWXdOSGhVVkRWb04yaHJWRzVuV0dzdFFSSVhRbk10ZUZrMFJFUk5jV0UyZVhSTlVIUlFlVWcyUVRRYUlrRkVWWGxGUjJSd1VuTXRiREZJVEhFdFUyaExVVGRrVEUwMk1UZEhURVoxYldjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBKb2JyYXBpZG8ucGwiLCJsaW5rIjoiaHR0cHM6Ly9wbC5qb2JyYXBpZG8uY29tL2pvYnByZXZpZXcvNzY5NjI5NjM/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+6,Remote Data Analyst with SQL,DENTONS BUSINESS SERVICES EMEA,"Warsaw, Poland",via Trabajo.org,"Must have
+• SQL
+• Team player
+• Communication skills
+• Problem solving
+• Proactivity
+• MySQL
+• Data Engineering
+• Excel
+• English
+Equipment supplied
+• Windows
+• Computer: Notebook
+• Monitors: Two
+Perks in the office
+• No dress code
+• Mobile phone
+• Free parking
+• Startup atmosphere
+• Free coffee
+• Bike parking
+• In-house trainings
+• Shower
+• Free snacks
+• Modern office
+Benefits
+• Flat structure
+• International projects
+• Small teams
+• Sport subscription
+• Training budget
+• Private healthcare
+• Lunch card
+]]>","[{'link': 'https://www.google.com/search?q=DENTONS+BUSINESS+SERVICES+EMEA&sa=X&ved=0ahUKEwiA3uep_qb8AhUmnXIEHTT-Ae04HhCYkAII6ww', 'text': 'See web results for DENTONS BUSINESS SERVICES EMEA'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJSZW1vdGUgRGF0YSBBbmFseXN0IHdpdGggU1FMIiwiaHRpZG9jaWQiOiJ2MGp4Nm10T3d1d0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFcUlDQ3VJQlFVRjBWbXhpUTBweVNuSXRNVE5qYkhsRGQxSnFjakl3UTJ4VFNWaFZTQzFrZGxkc1EwSjFlR2h0YzBwa09YRmliV2w2YVdwYWEwRm5hUzA0TVZsNk4zWlhRV0pSY25kdmJGbHdkbUZTYUhOTlFVUk5aVWN3WkMxbGFreDBNV2Q1VEV4UGNrVlNhMmh4VEhORE5FWkZSVFp0T1ZoUlVFMXplVzlzY1dWeVVFTXlNR2RrYm5wek5FeExZVVpJV20xS1NFbHJXbEpuTms1d09ESjRXbXRyTUdSNVdUaG5lRlpXVXpoYVdFOWtkMnRUYjIxT2JHVktOWGRaWkhKS1owOXRTRlUxUm5Sa2FESlpNSEZxY0ZsR05YaERUVk5QT1ZCbVIwdGpVell4WDNJeGR4SVhRbk10ZUZrMFJFUk5jV0UyZVhSTlVIUlFlVWcyUVRRYUlrRkVWWGxGUjJSVFJVTjFWelp5VkU1ZlJGSXhSa3BYT0c1ck4xVlpNRmQzTVZFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xMjU1LTIwMjMwMTAxLWIzYWYwZTU5OWNiNDNjY2QyYmIxYThlOGNmYzY0Zjc4P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+7,Data Analyst-2,myGwork,"Gdynia, Poland",via Jobrapido.pl,":
+Do you feel like taking the journey in the fin-tech world? The job of a Data Analyst is one where specific experience or background is not needed. Motivation and curiosity are what we're looking for. In the beginning, we'll provide you with training to make your first months in the company smooth.
+Compensation:
+You will receive the annual gross salary of 60 000 PLN . You will also be entitled to a bonus scheme and additional benefits that we offer to Refinitiv colleagues.
+Your tasks:
+Data is the heart of our company, and we need you to keep our heart healthy. Our clients: financial institutions, banks, and corporations rely on the quality of the information we provide them via our products.
+So, think that you are the first person that sources the data for our clients. It can be bonds or funds, corporate actions, or economic indicators. In fact, there're plenty of financial types of data that we manage.
+A major part of the day is when you research the Internet sourcing information... visiting official pages of global companies and institutions. You also rely on our internal databases and products. And last but not least, you don't work on your own only. You talk to colleagues in Gdynia and teams located in the UK, US, India, and other countries. And you use cutting-edge technologies to allow your conversations to be exciting.
+In short, your job will be about: Collecting, processing and verifying specific financial information; text-based or number-based data
+
+Doing research on financial information
+
+Working with large databases (maintaining, updating, improving)
+
+What is more, you join projects to stimulate your ambitions of an early professional and let you develop your career.
+Your qualifications: Very good knowledge of English
+
+Motivation to begin a career in finance ​
+
+Attention to details because you will take care of a number of data and information
+
+Good prioritization skills because you will handle various tasks ​ ​
+
+Curiosity to learn because we want you to stay and grow with our company
+
+You receive:
+Development: e-learning platform, a range of workshops and international projects
+
+Onboarding : structured training and buddy support
+
+Information: access to real-time economic data
+
+Diversity: colleagues from 40 countries [working in Gdynia]
+
+Charity: 2 additional days off for voluntary jobs
+
+Perks : multisport card, private medical healthcare, employee assistance program, pension plan,
+
+Office: chill-out room with video games, massage chairs and ping-pong table.
+
+Activities: sports teams and social events to join
+
+Future: corporate pension plan and employee insurance
+
+At LSEG, we believe that creating a diverse and inclusive organisation is fundamental to the way we deliver on our promise of creating essential partnerships and open opportunities. Our open culture is central to how we deliver our purpose - driving financial stability, empowering economies and enabling customers to create sustainable growth - in everything we do.
+Working with us means that you will be part of a dynamic organisation of 25,000 people across 70 countries. However, we will value your individuality and enable you to bring your true self to work so you can help enrich our diverse workforce. You will be part of a collaborative and creative culture where we encourage new ideas and are committed to sustainability across our global business. You will experience the critical role we have in helping to re-engineer the financial ecosystem to support and drive sustainable economic growth. Together, we are aiming to achieve this growth by accelerating the just transition to net zero, enabling growth of the green economy and creating inclusive economic opportunity.
+LSEG offers a range of tailored benefits and support, including healthcare, retirement planning, paid volunteering days and wellbeing initiatives.
+We are proud to be an equal opportunities employer. This means that we do not discriminate on the basis of anyone's race, religion, colour, national origin, gender, sexual orientation, gender identity, gender expression, age, marital status, veteran status, pregnancy or disability, or any other basis protected under applicable law. Conforming with applicable law, we can reasonably accommodate applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+Please take a moment to read this privacy notice carefully, as it describes what personal information London Stock Exchange Group (LSEG) (we) may hold about you, what it's used for, and how it's obtained, your rights and how to contact us as a data subject.
+If you are submitting as a Recruitment Agency Partner, it is essential and your responsibility to ensure that candidates applying to LSEG are aware of this privacy notice.
+This employer is a corporate member of
+myGwork - LGBTQ+ professionals, the business community for LGBTQ+ professionals,
+students, inclusive employers & anyone who believes in workplace equality","[{'link': 'http://www.mygwork.com/en/', 'text': 'mygwork.com/en'}, {'link': 'https://www.google.com/search?q=myGwork&sa=X&ved=0ahUKEwiA3uep_qb8AhUmnXIEHTT-Ae04HhCYkAIImw0', 'text': 'See web results for myGwork'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2_nRkhEMjymZTjG6Nx7P2It2mWmAZMWSF2Wg&s=0,"['18 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '18 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QtMiIsImh0aWRvY2lkIjoidV9KRzViMnlBbjBBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVUYwVm14aVF6WmtVMWhaV1RSelMyTktNMGx5VVROa1pUZEdlVE4xZEVwWFFtUjRRMk42ZVU5elgyRkVaRVkwZUVNMFZVcDVXblJmVFhobE9HSTBNMWx5Ym0xWFUyTmpkVVpRV1ZsU09XZHNUVmxKYW1GTU4wNXdlblJFYzFWS2FWOU9TVGsxY1V4cWNVaHdlbG8xZDFndFZHdHBNMFJHZEdOZmEzZFNVbVE0VUVwWFJsVm5TRTU0VFZGSk16TlVkRlJ4Ym5Cb1NEWTNTMWMyTkhocU9VTjVTRkEyUzJGQ1oxUkpibnBHU0V0Rk1tazJZMXB6RWhkQ2N5MTRXVFJFUkUxeFlUWjVkRTFRZEZCNVNEWkJOQm9pUVVSVmVVVkhZMUJrUldkdFUzVTFjM1JDYVZSdVlYaHRaWHBWVFhrM2MzcEdadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvYnJhcGlkby5wbCIsImxpbmsiOiJodHRwczovL3BsLmpvYnJhcGlkby5jb20vam9icHJldmlldy83Njk4NzI1NT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+8,Data Analyst,Netguru S.A.,"Poznań, Poland",via Trabajo.org,"Must have
+• SQL
+• Looker
+• Tableau
+• UX
+• Spotfire
+• Analytical skills
+• English
+Equipment supplied
+• Apple
+• Computer: Notebook
+• Monitors: If needed
+]]>","[{'link': 'https://www.google.com/search?q=Netguru+S.A.&sa=X&ved=0ahUKEwiA3uep_qb8AhUmnXIEHTT-Ae04HhCYkAIIxw0', 'text': 'See web results for Netguru S.A.'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IjF3a0Nyd0xpZ1JZQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlRbWgxTFd0RVluZG1Oa1ZwYzNsalRrbFFkWEJETjBoc1FtOXNUa1pmVW1wR1ZreHFUMVZFTkhWS1gyeE9iMWQ0VjBjNGNYZE1aWFY0V1d0TVVHNDRYMjB6V1hkSFVuZ3pjVlJDWVZoQ2VFZEVjREJwZUhkR1kxTm1aV3RFZWtKM0xYRTVOMDFmWDJGYWFUTXpVVUpCT0VSSU9UTmxia2RDUm1odlNEVlRjRTU1VkdKRWFtUkRTVFpUV0RWUlRERmhORUphV25rd2RXbHVVVzlSRWhkQ2N5MTRXVFJFUkUxeFlUWjVkRTFRZEZCNVNEWkJOQm9pUVVSVmVVVkhaVXBRVEhsZk9GUlJSSEJXZUUxbk1rVkJlbWRYVlV4bFpVMWFadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTI1NS0yMDIzMDEwMS00OGYxZjVhNDg1NWVmNzVkZGY5ODUzNGNlYmRjMzNiMj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+9,Senior Marketing Data Analyst,Shopee,"Warsaw, Poland",via Trabajo.org,"Must have
+• SQL
+• Excel
+• PowerPoint
+• Data analytics
+• Tableau
+• English
+• Polish
+Equipment supplied
+• Windows
+• Computer: Notebook
+• Monitors: One
+Perks in the office
+• Free coffee
+• Bike parking
+• Free snacks
+• Modern office
+• Startup atmosphere
+• No dress code
+• Free breakfast
+Benefits
+• Sport subscription
+• Training budget
+• Private healthcare
+• International projects
+]]>","[{'link': 'http://shopee.com/', 'text': 'shopee.com'}, {'link': 'https://www.google.com/search?q=Shopee&sa=X&ved=0ahUKEwiA3uep_qb8AhUmnXIEHTT-Ae04HhCYkAII9Q0', 'text': 'See web results for Shopee'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['13 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFya2V0aW5nIERhdGEgQW5hbHlzdCIsImh0aWRvY2lkIjoiMWg1ZF9keXFpd1lBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVUYwVm14aVJHeFFWVGgzU0ZacFJUazFNMncyVUdKbk0weDZja2s1YVRKcWFsZDVXSGRRUkZZMU9VbFJRemwzVGsxMFNEVkNSMU5UY25sV1VuRmxOVzFGY2pac1NXNVJTRUpMVUZGTGFXcGxZMlEyTW1ONVVHOVBXRE14UzJ4VWN6RklNR0Z5Y2xsNGJHUnZVa1ZKUjJ4V1FtWkJVbGQwVVc4ek1HWTFhSGsyZFhSc1ozZHRUVVpCYmxWdlNsRkNTMDlSVmw5TkxXdE9iSFZxU25KUGRIbEVSV05mWXpodFltWkxVaTB3TW1RNFRrbGljMjVwV1RKaFltRktNblpwYVRrMVh6QjJPRTExTm5WRkVoZENjeTE0V1RSRVJFMXhZVFo1ZEUxUWRGQjVTRFpCTkJvaVFVUlZlVVZIWkVodFdraFJVbmhQWWs1eVJsTldNRm95UTNKaGJUQkhkRzk0ZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTEyNTUtMjAyMzAxMDEtMmU1YzQ2MzEwNmUwOTkzM2U1ZDExMWEzOTg4NmI1M2U/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==

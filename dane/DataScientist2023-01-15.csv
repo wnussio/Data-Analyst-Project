@@ -1,0 +1,1482 @@
+,title,company_name,location,via,description,related_links,thumbnail,extensions,detected_extensions,job_id
+0,Data Scientist,Hoist Finance,"Wrocław, Poland",via Trabajo.org,"Hoist Finance a trusted debt restructuring partner to international banks. We have enjoyed strong growth for the past years, and we are currently operating in 13 European countries with more than 1,500 employees. With over 20 years of experience, we have become one of the leading debt management companies in Europe. Hoist Finance is listed on Nasdaq. Our Shared Service Center in Wrocław is a supporting function for other entities within Hoist Finance. We play an important role in relation to Hoist Finance's development strategy. We perform internal processes and create supporting tools, which optimize and support the work of various teams in other countries.
+
+Our Shared Service Center is a supporting function for other entities within Hoist Finance. We play an important role in relation to Hoist Finance's development strategy. We perform internal processes and create supporting tools, which optimize and support the work of various teams in other countries. One of Hoist Finance's... strategic pillars aims at being the Digital Leader of the industry. As part of the Shared Service Center, we actively support and participate in all processes related to ""digitalization"". Our Wrocław office is a constantly evolving place, where over 100 colleagues provide support in the fields of accounting, investments and digital solutions. We put great emphasis on the diversity and development of our employees, expanding their competences whilst working in a very friendly environment.
+
+We are looking to hire Data Scientist who will demonstrating an innovative approach in the development of statistical models to support Collections Strategies. Using a variety of Machine learning techniques, you will be required to understand the business problem, deliver a solution and present to senior stakeholders.
+
+Responsibilities:
+• Demonstrating an innovative approach in the development of statistical models to support Collections Strategies. Using a variety of Machine learning techniques, you will be required to understand the business problem, deliver a solution and present to senior stakeholders.
+• Development of statistical models, (predictive and descriptive) using internal and external data to support customer contact activity and collections strategy decision.
+• Development of Modelling infrastructure; which includes modelling datasets, model scoring and model monitoring.
+• Analyse data to produce, evaluate, interpret and analyse a range of statistical and written information in order to support recommendations that will have a positive impact on policy and strategy.
+• Develop strong relationships with stakeholders to gather and build modelling requirements and to build confidence and trust in model solutions.
+• Provide strategic and analytical support before, during and after model implementation.
+• Support the identification of value adding opportunities, through proactive analytics into any variances in performance and identify underlying causes.
+• Contribute to the continuous improvement of approaches to modelling techniques and data structures.
+
+Experience, Knowledge & Technical Skills:
+• Minimum 3 years’ experience in a Data Science Role.
+• Proficient in developing models using techniques such as Logistic Regression, Linear Regression, CHAID, Random Forests, Gradient Boosting, Cluster Analysis, Discriminant Analysis, Bayesian Algorithms, Neural Networks, SVM, MARS.
+• Experienced in the use of Business Intelligence, Analytical and Statistical packages (e.g. SQL, SAS, R-Studio, Python, Azure ML)
+• Excellent communication, interpersonal and listening skills. For analysts based outside of the UK, ability to communicate in English to a high standard is essential
+• Ability to present complex and detailed data in a simple to understand and innovative way
+• A high level of customer focus with a proven record of delivering high standards of customer/seller service and experience
+• Ability to work independently, pro-actively, multi-task (organised) and deliver.
+• Also able to work in teams, mediating between team members to diminish negative effects on team productivity and work environment
+• Basic understanding of key commercial aspects of debt management
+• Degree in a Mathematics/Statistics related subject
+
+In exchange for your commitment, we offer:
+• A contract of employment in a friendly atmosphere within a group listed on the Swedish stock exchange.
+• You will play an important role at Hoist Finance and have the opportunity to develop your career as the company continues to grow
+• An opportunity to participate and drive the work of developing a Shared Service Centre
+• Social benefits package: private medical care, sports programs, co-financing of commuting and group insurance.
+","[{'link': 'https://www.google.com/search?q=Hoist+Finance&sa=X&ved=0ahUKEwiMu9HCzcr8AhUTEVkFHUAWBbkQmJACCNsK', 'text': 'See web results for Hoist Finance'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoiRHF5dHZCdHl1VWtBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXVJQkNxSUJRVU5RZDJwcVUyWm1aVE0wT1VOWGN6QktMVlp3UXkxS2RqUldiemxQWkZOVE5HbEhSbWRMZEVVMFpHTkRZM2w2VkdOMU1IZHNWbWxNWTI5bGR6WTFTVmx4Y25OWlJ6RjJOVGxQV21jNUxVcFZlRkJIVDJzek9GOXpRVmxmVkdwRE5FSjJUbU4yZVZKMFdtNTViV2QwTFVwcVowaE9NWGhWTVZoMmVHbGtZMkprZG5wcFkwUjNSR1JxYkRkSlMyWmpSRkIyTVVGdVUwVmljall6Vm01cGFFdDNFaGR6U0haRldUUjVha05LVDJrMVRtOVFkMHQ1VlhsQmN4b2lRVVpmTmsxQlVGRkljblZtZVZaMGNqVTBibVpMZDJSRlpVUTJaV05JVVVaTVp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTEyNTUtMjAyMzAxMTUtYTk5NjE3YWUzNTM2Y2NhNmMyOWVmMDU2Y2VmOTExYjk/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+1,Senior Data Scientist,CRODU,"Katowice, Poland",via Trabajo.org,"Senior Data Scientist [140-200 zł/godz + VAT, B2B, 100% zdalnie]
+
+💸 Stawka: 140-200 zł/godz B2B 💸
+
+⏳ Czas projektu: długoterminowy ⏳
+
+🌴 Forma pracy: 100% zdalnie 🌎
+
+Cześć
+
+Poszukujemy doświadczonego Senior Data Scientist . Praca nad ciekawym projektem dla naszego stałego klienta, pioniera w branży sprzedaży internetowej z Nowego Jorku. Platforma będzie służyła do gromadzenia i przetwarzania danych.
+
+Ma to pomóc w zwiększeniu przychodów w sklepach.
+
+W projekcie będziesz mieć bezpośredni wpływ na budowanie i utrzymywanie rozproszonych potoków uczenia maszynowego. Twoim zadaniem będzie implementacja metod i rozwiązań optymalizacyjnych z użyciem modeli NLP.
+
+Wymagania:
+
+⚡️ Min. 3 lata doświadczenia z Natural Language Processing oraz doświadczenie w budowaniu modeli NLP dotyczących jakości produkcji
+
+⚡️ Wykształcenie wyższe na kierunku Informatyka, Matematyka, Statystyka lub pokrewne
+
+⚡️ Praktyczne doświadczenie i wiedza o trendach w dziedzinie AI
+
+⚡️ Znajomość PySpark, Spark, Python... Git, Linux będzie dodatkowym atutem
+
+⚡️ Mile widziane doświadczenie Airflow, SQL, NoSQL
+
+⚡️ Umiejętność budowania modeli optymalizacyjnych oraz tworzenia skalowalnych, przejrzystych rozwiązań
+
+⚡️ Doświadczenie w pracy z międzynarodowym zespołem
+
+⚡️ Angielski na poziomie umożliwiającym swobodną komunikację w grupie
+","[{'link': 'https://www.google.com/search?q=CRODU&sa=X&ved=0ahUKEwiMu9HCzcr8AhUTEVkFHUAWBbkQmJACCIcL', 'text': 'See web results for CRODU'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6InVxSnRVZENTcUhrQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVOUWQycHFVbkpTTFdveWFITlROazVxVGpaNE1VWmtZbXd5VDBkT2EyUkdUVlJqTlZjNU5IcHZPV3RsYldkQlZubGtXRFZmY1RsUFQwSkpiM1YwZVV4RlFYSjVTbkpEUjI4emNYQjRSVkJRZGxaTlRuSTJaMlpTY0RFM2NVZFhPRUp0UVZoU1NsRmplVlI1YjFCNVZEUndXR2xTVDFWT1NGTk1ZalJ0Wm1GWlkwOUNRVFpsWkVoWE9FOU1PRXBUU0RSU016SkRXWGhIWm1scVpGTmxURU5SRWhkelNIWkZXVFI1YWtOS1QyazFUbTlRZDB0NVZYbEJjeG9pUVVaZk5rMUJUVWRsYm0xeldrMVBUMFJzWVhCRFNERXhYMnhRY1ZGc1ZYVkRRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xMjU1LTIwMjMwMTE1LTc1MTdmMzlmOTJmZmI1ODQ4N2YyYTMyZDg1YzViN2U4P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+2,Lead Data Scientist w zespole Data Science,EY,"Warsaw, Poland",via EY Careers,"Zespół Data Science to dynamicznie rozwijający się zespoł technologiczny, w którym ludzie realizują w swoją pasję. Budujemy komponenty analityczne/ML/AI, konstruujemy prototypy, pilotujemy nowe technologie, tworzymy architekturę rozwiązania i wdrażamy zaawansowane produkty. Aplikujemy najnowsze algorytmy do pozyskiwania informacji z tekstu, przetwarzamy duże wolumeny danych, tworzymy modele predykcyjne, oraz rozwiązania inteligentnej automatyzacji. Nasze rozwiązania wspierane przez najnowocześniejsze technologie i nowatorską platformę obejmują różne branże oraz sektory rynku.
+
+Możliwości, które na Ciebie czekają:
+
+Twoją rolą będzie projektowanie systemów wykorzystujących uczenie maszynowe, podział i odbiór prac w zespole projektowym, mentoring i wsparcie merytoryczne dla członków zespołu, czuwanie nad sprawną implementacją rozwiązań AI z zachowaniem dobrych praktyk programistycznych oraz komunikacja z wewnętrznymi i zewnętrznymi klientami. Będziesz pracował/a z najnowocześniejszym... technologiami, w zespole pasjonującym się rozwiązywaniem skomplikowanych problemów biznesowych i otwartym na nowe wyzwania.
+
+Kogo szukamy:
+• Ukończone studia wyższe (preferowane kierunki to informatyka, matematyka, statystyka lub pokrewne)
+• Szeroka znajomość i rozumienie algorytmów uczenia maszynowego (w tym głębokiego) i zagadnień związanych z wykorzystaniem sztucznej inteligencji
+• Doświadczenie w dziedzinie przetwarzania języka naturalnego (NLP)
+• Bardzo dobra znajomość języków programowania (Python)
+• Doświadczenie w stosowaniu narzędzi służących do uczenia maszynowego (pyTorch, h2o, scikit-learn, kedro)
+• Doświadczenie w tworzeniu kreatywnych rozwiązań analitycznych pod kątem złożonych potrzeb biznesowych
+• Unix/Linux
+• Minimum 5 lat doświadczenia w realizacji projektów związanych z użyciem uczenia maszynowego, w tym minimum 2 lata doświadczenia w prowadzeniu zespołu projektowego
+• Doświadczenie w metodykach zwinnych oraz w pracy z narzędziami wspierającymi współpracę zespołu w zakresie priorytetyzacji zadań, tworzenia kodu, kontroli wersji (GIT), dokumentacji
+• Pasja do tworzenia kompletnych rozwiązań i produktów
+• Umiejętność prowadzenia i motywowania zespołu
+• Umiejętność przystępnej komunikacji treści technicznych
+• Bardzo dobra znajomość języka angielskiego i polskiego w mowie i piśmie
+
+Dodatkowym atutem będzie:
+• Znajomość narzędzi służących do przetwarzania dużych zbiorów danych (Spark, Sparkling Water)
+• Doświadczenie w tworzeniu prostych web-owych interfejsów i serwisów (HTML, FastAPI, Plotly, Streamlit)
+
+Twoja przyszła rola:
+• Projektowanie rozwiązań wykorzystujących uczenie maszynowe we współpracy ze stroną biznesową
+• Prowadzenie zaawansowanych projektów Data Science i.e
+• merytoryczna odpowiedzialność za kierunek prac
+• zarządzanie poszczególnymi zadaniami i ich wykonaniem
+• dbałość o techniczną i merytoryczną jakość kodu
+• Ewaluacja nowych technologii, bibliotek, podejść oraz proponowanie innowacyjnych rozwiązań
+• Mentoring członków zespołu, ze szczególnym uwzględnieniem rozwoju kompetencji merytorycznych oraz współpracy projektowej
+
+Oferujemy:
+• rozwój zawodowy i szkolenia na najwyższym poziomie;
+• pracę w profesjonalnym zespole, w otoczeniu ludzi czerpiących radość z tego, co robią;
+• ambitne projekty dla największych firm krajowych i zagranicznych;
+• możliwość współpracy z międzynarodową grupą ekspertów EY.
+
+O EY Polska
+
+Jeśli możesz wykazać, że spełniasz powyższe kryteria, skontaktuj się z nami jak najszybciej. Wyjątkowe doświadczenie EY. To Twój projekt.
+
+EY | Budowanie lepszego świata pracy EY istnieje po to, aby budować lepiej pracujący świat, pomagając tworzyć długoterminową wartość dla klientów, ludzi i społeczeństwa oraz budować zaufanie na rynkach kapitałowych. Dzięki danym i technologii zróżnicowane zespoły EY w ponad 150 krajach zapewniają zaufanie i pomagają klientom rozwijać się, przekształcać i działać. Pracując w zakresie ubezpieczeń, doradztwa, prawa, strategii, podatków i transakcji, zespoły EY zadają lepsze pytania, aby znaleźć nowe odpowiedzi na złożone problemy, przed którymi stoi dziś nasz świat","[{'link': 'http://www.ey.com/', 'text': 'ey.com'}, {'link': 'https://www.google.com/search?q=EY&sa=X&ved=0ahUKEwiMu9HCzcr8AhUTEVkFHUAWBbkQmJACCLUL', 'text': 'See web results for EY'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwCTolGBxV_xgEvCT_-Q3EMiWMSqgubUkdpxxw&s=0,"['20 hours ago', 'Full-time']","{'posted_at': '20 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgU2NpZW50aXN0IHcgemVzcG9sZSBEYXRhIFNjaWVuY2UiLCJodGlkb2NpZCI6IndIUk1pcUhNQmprQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVvd0NDc3dCUVVOUWQycHFVMEV6Y3poaU5XOURhbGRrYWxobk1YUnVTMjUyUTBzNE5sSXRiVGRHZDFrMmFrSjZZa05wU1ZFeVdIcFdaWGg2V1hWYVIzaG9WMU5HZWxCRVdEZ3hSVEJqVUZwRlVUSXdPQzFhV0d4VWRFWjBkMk5NVFVjMU5uZEdWbTFUTVVwWU1TMW1Sa2xYUmtKNlNsWlFVRE5qUWxCclNuRTRSbmMzTmpnMFVtSTJkVlowWXpOUFh6ZHRNREJVUVRkelpHNTRURlJDYkROMmIyNDBTRGRLUlZWRGQxaHdXV2cyWjB3d2FuQm1hbkpUVTA1UmNVRlVWR2h0TFhkV2FEZEpXVWcxTUVWQkxWVmpFaGR6U0haRldUUjVha05LVDJrMVRtOVFkMHQ1VlhsQmN4b2lRVVpmTmsxQlRWUXhhMk13YkdKeVFscEhVblJoYmxadVVXTkpaa3RKWkVzNFFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBFWSBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5leS5jb20vZXkvam9iL1dhcnN6YXdhLUxlYWQtRGF0YS1TY2llbnRpc3Qtdy16ZXNwb2xlLURhdGEtU2NpZW5jZS0wMC0xMjQvODYxOTY3NDAxLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+3,Senior Data Scientist,CRODU,"Szczecin, Poland",via Trabajo.org,"Senior Data Scientist [140-200 zł/godz + VAT, B2B, 100% zdalnie]
+
+💸 Stawka: 140-200 zł/godz B2B 💸
+
+⏳ Czas projektu: długoterminowy ⏳
+
+🌴 Forma pracy: 100% zdalnie 🌎
+
+Cześć
+
+Poszukujemy doświadczonego Senior Data Scientist . Praca nad ciekawym projektem dla naszego stałego klienta, pioniera w branży sprzedaży internetowej z Nowego Jorku. Platforma będzie służyła do gromadzenia i przetwarzania danych.
+
+Ma to pomóc w zwiększeniu przychodów w sklepach.
+
+W projekcie będziesz mieć bezpośredni wpływ na budowanie i utrzymywanie rozproszonych potoków uczenia maszynowego. Twoim zadaniem będzie implementacja metod i rozwiązań optymalizacyjnych z użyciem modeli NLP.
+
+Wymagania:
+
+⚡️ Min. 3 lata doświadczenia z Natural Language Processing oraz doświadczenie w budowaniu modeli NLP dotyczących jakości produkcji
+
+⚡️ Wykształcenie wyższe na kierunku Informatyka, Matematyka, Statystyka lub pokrewne
+
+⚡️ Praktyczne doświadczenie i wiedza o trendach w dziedzinie AI
+
+⚡️ Znajomość PySpark, Spark, Python... Git, Linux będzie dodatkowym atutem
+
+⚡️ Mile widziane doświadczenie Airflow, SQL, NoSQL
+
+⚡️ Umiejętność budowania modeli optymalizacyjnych oraz tworzenia skalowalnych, przejrzystych rozwiązań
+
+⚡️ Doświadczenie w pracy z międzynarodowym zespołem
+
+⚡️ Angielski na poziomie umożliwiającym swobodną komunikację w grupie
+","[{'link': 'https://www.google.com/search?q=CRODU&sa=X&ved=0ahUKEwiMu9HCzcr8AhUTEVkFHUAWBbkQmJACCOEL', 'text': 'See web results for CRODU'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6InZ6VS1lUXpvcGNRQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVOUWQycHFVVGxQYVVobWExSkROVTlOTlVSUllUZFJORkZNY0hKRmNVeHROWE40YTFSZlIzcHpPSGxYYnpFd1FuZHpSVnBzYlY4elpFZzNjVnB4TUdaSVJtSlVRV3BpTjFwRFVqTnpORmc0YVc1cFJYRkZXbUUwWjJaQ2FsTlVXSGMzZUd0b2JYVk9lR0pVWDNabWMzTmhWMVIxU1hrdFVrTk9hVUptT0c5cmQxcDJhR1ZqYjJ0RmVrMW1NV1JtVlRKME1tTmxaRE5NTTFOUWJYTjFORnBCRWhkelNIWkZXVFI1YWtOS1QyazFUbTlRZDB0NVZYbEJjeG9pUVVaZk5rMUJVRTFzZGxKSWVUWkJPRVphT1c1alYxVjRURmx3YXpVMlEwaGladyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xMjU1LTIwMjMwMTE1LWY4OWI1YWJlZDhhMGMwMzI3MDRhNDY1MjgzODQxN2IxP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+4,Data Scientist,MediaCom Warszawa,"Warsaw, Poland",via Linkedin,"MediaCom Business Science is a team of econometricians, data scientists and researchers. We provide advanced analytics and measurement solutions focused on driving business outcomes for our clients.
+
+In order to lead the marketing measurement industry with best in class solutions, we are developing a new measurement service using Bayesian econometrics, cloud technology and R programming language to provide our clients with an available and globally scalable solution.
+
+We are looking for a skilled individual proficient in data science for a client-facing role, that will lead the projects from kick-off to results delivery. The long term vision of the role would be to contribute to the development of the process and methodology and automation of results reporting.
+
+If you want to…
+• Collaborate with a group of fast-paced, extremely dedicated co-workers who are all passionate about data science
+• Work with a team that is constantly innovating
+• Conduct & lead non-standard Data Science... projects with a clear business objective, but the analytical process and deliverables yet to be determined by the person filling the role
+
+We offer
+• High potential job offer in the field of Data Science, definitely working on high visibility projects
+• Having real and tangible impact on marketing strategies of outstanding brands, very often leaders of respective product categories
+• Opportunity to learn / develop competence in Cloud technologies (mainly Google Cloud Platform) in collaboration with our global experts
+• Great, collaborative and inspiring work atmosphere with open access to people at all positions
+• Gaining direct access to the biggest advertisers in the market, learning from the best
+• Various additional benefits like private health care and multisport card
+
+It's enough if you...
+• Are truly passionate about applying Data Science to actual business problems in the most efficient way rather than just writing lines of code
+• Have at least 2 years of experience in data science
+• Are proficient in R statistical programming language – R & R Studio
+• Are curious about new technologies, programming languages and not afraid of learning
+• Have a quantitative background: data science, Big Data, statistics, econometrics, BI
+• Have a very good command of English (able to lead conference calls in English): C1
+• Have very good communication skills and experience in having a client facing role","[{'link': 'https://www.google.com/search?q=MediaCom+Warszawa&sa=X&ved=0ahUKEwiMu9HCzcr8AhUTEVkFHUAWBbkQmJACCI4M', 'text': 'See web results for MediaCom Warszawa'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0PDPf62RMVDs-IZer0XQhfIHxLsaaZxWEUq6eEQ&s,"['9 hours ago', 'Full-time']","{'posted_at': '9 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoiYlV0cDNYSXZ2Zk1BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVU5RZDJwcVUyMWllSEZEZDJReFpISTBRbXhFTTBSRmRuSkxabTlzVFVkblQwd3dSbWhsVTAxMVgxaE1RWFZZUkV4VlFqaDVjRFpZWVZWelFWTlFYMDFwTTNwVU0wcDBOR2N4ZDJOVVZtMUlRV1JsU21ad1JtZDFSRVJrWVdGM1dtdFFhMU5ZTW1sd1kzcFNRVUpxYzBaMWNVdERlV0ZSY3psc1RGSmtOM0JxZG5OdlUySTRiMXB5ZWt4eFVrRnpNeTFpWVV0RlptcHRMVnBNTm1ReE1HaG9XalkwZVdSM05VdE1kRVZyUzIxbVgxQmpkRWxKRWhkelNIWkZXVFI1YWtOS1QyazFUbTlRZDB0NVZYbEJjeG9pUVVaZk5rMUJUMVY0Y1haaVpqWm1kMHgxZG01ZmJIRXRWaTFKU1hZM1pXSlVadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkaW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L2RhdGEtc2NpZW50aXN0LWF0LW1lZGlhY29tLXdhcnN6YXdhLTMxMTczODM0NTY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+5,Senior Data Scientist,CRODU,"Zielona Góra, Poland",via Trabajo.org,"Senior Data Scientist [140-200 zł/godz + VAT, B2B, 100% zdalnie]
+
+💸 Stawka: 140-200 zł/godz B2B 💸
+
+⏳ Czas projektu: długoterminowy ⏳
+
+🌴 Forma pracy: 100% zdalnie 🌎
+
+Cześć
+
+Poszukujemy doświadczonego Senior Data Scientist . Praca nad ciekawym projektem dla naszego stałego klienta, pioniera w branży sprzedaży internetowej z Nowego Jorku. Platforma będzie służyła do gromadzenia i przetwarzania danych.
+
+Ma to pomóc w zwiększeniu przychodów w sklepach.
+
+W projekcie będziesz mieć bezpośredni wpływ na budowanie i utrzymywanie rozproszonych potoków uczenia maszynowego. Twoim zadaniem będzie implementacja metod i rozwiązań optymalizacyjnych z użyciem modeli NLP.
+
+Wymagania:
+
+⚡️ Min. 3 lata doświadczenia z Natural Language Processing oraz doświadczenie w budowaniu modeli NLP dotyczących jakości produkcji
+
+⚡️ Wykształcenie wyższe na kierunku Informatyka, Matematyka, Statystyka lub pokrewne
+
+⚡️ Praktyczne doświadczenie i wiedza o trendach w dziedzinie AI
+
+⚡️ Znajomość PySpark, Spark, Python... Git, Linux będzie dodatkowym atutem
+
+⚡️ Mile widziane doświadczenie Airflow, SQL, NoSQL
+
+⚡️ Umiejętność budowania modeli optymalizacyjnych oraz tworzenia skalowalnych, przejrzystych rozwiązań
+
+⚡️ Doświadczenie w pracy z międzynarodowym zespołem
+
+⚡️ Angielski na poziomie umożliwiającym swobodną komunikację w grupie
+","[{'link': 'https://www.google.com/search?q=CRODU&sa=X&ved=0ahUKEwiMu9HCzcr8AhUTEVkFHUAWBbkQmJACCLoM', 'text': 'See web results for CRODU'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6InNjTVBfR0lHY0pvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVOUWQycHFVazE2U1c1MWRHMXRXa05oYjBabWVrczBaelJEZFV0c1prYzVXVWxUT1RsNmRUTlRNM1kxUmxVMVdrOHlURWRMYUVkcVJUSlJlbTlzV25KeVZFNVBOVjkxT0ZOaFdVcE9ZV3R3Y2pGUGFtTXdjWGxsWkRsdlZYVlFUbmhsTUdKd1p6ZFNaaTFGWTB4MFZVSjFYMkZKVVhobVYycGhSR3RaVkdkS1dUQXdTbFpTTmxGemVrZFNkbkExV1RnNFdXZFplWFppYVRZNFRIUnFabXAwU25nd01HZFViVnBuUjJKVmJrTTJSelpKY0ZCTkVoZHpTSFpGV1RSNWFrTktUMmsxVG05UWQwdDVWWGxCY3hvaVFVWmZOazFCVFVzME4yeGllVXgyZDFCR1kySktXRTEyYTI1YVNXUTFiVzVXWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTI1NS0yMDIzMDExNS1mNTI4ODM2ZWU0ZGNlMzliNDA0YmIyOTZkNzhjNWQ3NT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+6,Senior Data Scientist,CRODU,"Gdańsk, Poland",via Trabajo.org,"Senior Data Scientist [140-200 zł/godz + VAT, B2B, 100% zdalnie]
+
+💸 Stawka: 140-200 zł/godz B2B 💸
+
+⏳ Czas projektu: długoterminowy ⏳
+
+🌴 Forma pracy: 100% zdalnie 🌎
+
+Cześć
+
+Poszukujemy doświadczonego Senior Data Scientist . Praca nad ciekawym projektem dla naszego stałego klienta, pioniera w branży sprzedaży internetowej z Nowego Jorku. Platforma będzie służyła do gromadzenia i przetwarzania danych.
+
+Ma to pomóc w zwiększeniu przychodów w sklepach.
+
+W projekcie będziesz mieć bezpośredni wpływ na budowanie i utrzymywanie rozproszonych potoków uczenia maszynowego. Twoim zadaniem będzie implementacja metod i rozwiązań optymalizacyjnych z użyciem modeli NLP.
+
+Wymagania:
+
+⚡️ Min. 3 lata doświadczenia z Natural Language Processing oraz doświadczenie w budowaniu modeli NLP dotyczących jakości produkcji
+
+⚡️ Wykształcenie wyższe na kierunku Informatyka, Matematyka, Statystyka lub pokrewne
+
+⚡️ Praktyczne doświadczenie i wiedza o trendach w dziedzinie AI
+
+⚡️ Znajomość PySpark, Spark, Python... Git, Linux będzie dodatkowym atutem
+
+⚡️ Mile widziane doświadczenie Airflow, SQL, NoSQL
+
+⚡️ Umiejętność budowania modeli optymalizacyjnych oraz tworzenia skalowalnych, przejrzystych rozwiązań
+
+⚡️ Doświadczenie w pracy z międzynarodowym zespołem
+
+⚡️ Angielski na poziomie umożliwiającym swobodną komunikację w grupie
+","[{'link': 'https://www.google.com/search?q=CRODU&sa=X&ved=0ahUKEwiMu9HCzcr8AhUTEVkFHUAWBbkQmJACCOYM', 'text': 'See web results for CRODU'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6IkxnRmtiWDA0aTZJQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVOUWQycHFVMk13VkdoTWFXUTJVVVJNTjFGV1gwaFZaamxOZEdWdFgycGtPRzgwTlcxeVNXbG9kMkZyYmpCaFN5MXdWSGhyY0dnNWVVTmhjMnM0WVdWcGFrcDNNR05SZERRMmNVSXhObE01WTFjM1J6Y3ROR1UyU1ZsbVptUlJRakJCV2xwSFFrMHhWbXBMVkVaVmVXTXhSbm8yUkhodlRVRlJValJVWTBad09ISnpSelU0ZEhGV05GSktWbVpJTUdGMlpUbHdUMTg0ZDNaQ1dVTkRSVEZuRWhkelNIWkZXVFI1YWtOS1QyazFUbTlRZDB0NVZYbEJjeG9pUVVaZk5rMUJUbEJRYmpaeFNGUlVZbE16TVVWcWIyZDFPVTVPY0ZGUldYTlFkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xMjU1LTIwMjMwMTE1LTNlODYwYjY4NjIyY2VlNTVhNTBlZGUxMzZiYTNmNGZmP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+7,Senior Data Scientist,CRODU,"Częstochowa, Poland",via Trabajo.org,"Senior Data Scientist [140-200 zł/godz + VAT, B2B, 100% zdalnie]
+
+💸 Stawka: 140-200 zł/godz B2B 💸
+
+⏳ Czas projektu: długoterminowy ⏳
+
+🌴 Forma pracy: 100% zdalnie 🌎
+
+Cześć
+
+Poszukujemy doświadczonego Senior Data Scientist . Praca nad ciekawym projektem dla naszego stałego klienta, pioniera w branży sprzedaży internetowej z Nowego Jorku. Platforma będzie służyła do gromadzenia i przetwarzania danych.
+
+Ma to pomóc w zwiększeniu przychodów w sklepach.
+
+W projekcie będziesz mieć bezpośredni wpływ na budowanie i utrzymywanie rozproszonych potoków uczenia maszynowego. Twoim zadaniem będzie implementacja metod i rozwiązań optymalizacyjnych z użyciem modeli NLP.
+
+Wymagania:
+
+⚡️ Min. 3 lata doświadczenia z Natural Language Processing oraz doświadczenie w budowaniu modeli NLP dotyczących jakości produkcji
+
+⚡️ Wykształcenie wyższe na kierunku Informatyka, Matematyka, Statystyka lub pokrewne
+
+⚡️ Praktyczne doświadczenie i wiedza o trendach w dziedzinie AI
+
+⚡️ Znajomość PySpark, Spark, Python... Git, Linux będzie dodatkowym atutem
+
+⚡️ Mile widziane doświadczenie Airflow, SQL, NoSQL
+
+⚡️ Umiejętność budowania modeli optymalizacyjnych oraz tworzenia skalowalnych, przejrzystych rozwiązań
+
+⚡️ Doświadczenie w pracy z międzynarodowym zespołem
+
+⚡️ Angielski na poziomie umożliwiającym swobodną komunikację w grupie
+","[{'link': 'https://www.google.com/search?q=CRODU&sa=X&ved=0ahUKEwiMu9HCzcr8AhUTEVkFHUAWBbkQmJACCJIN', 'text': 'See web results for CRODU'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6InRJQVNKcTR6T1o4QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVOUWQycHFVUzA1VjFaQllUVldjbVJvUlY5Uk5sYzNjRTFvZVRKblQzWmhTWFF0ZEVaT01EVndhazFCV2xKbmRUZFFaREJwWlRoTldteDFTSEowZDBsRmMwNWxSbWszVEZOV1lYUlFaRTFPZEhneGJVSlBiM2MwTkdFeVRsaDVaekIwVHpaWmVVdGZRekExY0RBM1ZraEJlVUo1YVhkT1RVczBjVWxzWVhCQ1F6Z3RVMFZ2V1RoRE5WcHpPWGxzYTJSa1VUTm9VVUpsT1VreVoxWmtkMnQzRWhkelNIWkZXVFI1YWtOS1QyazFUbTlRZDB0NVZYbEJjeG9pUVVaZk5rMUJVR1ZsYXpBMmNua3hUemREYVMxV1lsQkdWMnBJV20xc2FsbFVadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTI1NS0yMDIzMDExNS0zMjAwNWRjZDM5ZmIwMGVjYjFhMGQ0YTg3NjVjZGEzND91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+8,Senior Data Scientist,CRODU,"Warsaw, Poland",via Trabajo.org,"Senior Data Scientist [140-200 zł/godz + VAT, B2B, 100% zdalnie]
+
+💸 Stawka: 140-200 zł/godz B2B 💸
+
+⏳ Czas projektu: długoterminowy ⏳
+
+🌴 Forma pracy: 100% zdalnie 🌎
+
+Cześć
+
+Poszukujemy doświadczonego Senior Data Scientist . Praca nad ciekawym projektem dla naszego stałego klienta, pioniera w branży sprzedaży internetowej z Nowego Jorku. Platforma będzie służyła do gromadzenia i przetwarzania danych.
+
+Ma to pomóc w zwiększeniu przychodów w sklepach.
+
+W projekcie będziesz mieć bezpośredni wpływ na budowanie i utrzymywanie rozproszonych potoków uczenia maszynowego. Twoim zadaniem będzie implementacja metod i rozwiązań optymalizacyjnych z użyciem modeli NLP.
+
+Wymagania:
+
+⚡️ Min. 3 lata doświadczenia z Natural Language Processing oraz doświadczenie w budowaniu modeli NLP dotyczących jakości produkcji
+
+⚡️ Wykształcenie wyższe na kierunku Informatyka, Matematyka, Statystyka lub pokrewne
+
+⚡️ Praktyczne doświadczenie i wiedza o trendach w dziedzinie AI
+
+⚡️ Znajomość PySpark, Spark, Python... Git, Linux będzie dodatkowym atutem
+
+⚡️ Mile widziane doświadczenie Airflow, SQL, NoSQL
+
+⚡️ Umiejętność budowania modeli optymalizacyjnych oraz tworzenia skalowalnych, przejrzystych rozwiązań
+
+⚡️ Doświadczenie w pracy z międzynarodowym zespołem
+
+⚡️ Angielski na poziomie umożliwiającym swobodną komunikację w grupie
+","[{'link': 'https://www.google.com/search?q=CRODU&sa=X&ved=0ahUKEwiMu9HCzcr8AhUTEVkFHUAWBbkQmJACCL4N', 'text': 'See web results for CRODU'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6ImFrVEs5d04yTjhnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVOUWQycHFVM1E0ZG1aTGEzcFRaVVpwZVZSSGEzcDNjVFp4Y0VaUGNXSkhiVUZFYjIxak1uVnRWVTFWV0d4Q2FqRllTMUZyUW5oZmNFTkVNME53UlZaNVdrSmlRbGxYUmt4eVdsazBRMUp6WlhGNGJHMUlNV0pCV2xOaVRVSlNMVEJ1WVRJMWNXeENUMDlZUlRSalJFcHVibEZzWW5WdVIwSk5VUzE2ZDA5TFJUWlFVbk52UkRoV00yMDVVMFZLZUVvM2IyaHlOekJWWWxwSlRqWXlPRlozRWhkelNIWkZXVFI1YWtOS1QyazFUbTlRZDB0NVZYbEJjeG9pUVVaZk5rMUJVSGt0TFhaTFYxSlVSR2RKUmt0T2IxcHViMDR5YUVkNFpWcGladyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTI1NS0yMDIzMDExNS0wMWM1ZmMwYWYyNmQyNzc0YjAyMzg3ZDAyZWM0OTFlOT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+9,Data Scientist w CRM (Modelowanie & Analizy),Bank Pekao,"Warsaw, Poland",via Kariera Na Bank,"W naszym zespole będziesz odpowiadać za:
+• Budowę i rozwój nowego środowiska CRM w drugim największym Banku w Polsce
+• Tworzenie modeli Deep Learning i Machine Learning w oparciu o wymagania biznesowe oraz dostępne dane (m.in. PtB, segmentacyjne, klasyfikacyjne, NLP)
+• Monitorowanie oraz optymalizację istniejących modeli
+• Analizy z wykorzystaniem zaawansowanych metod statystycznych, a także przedstawianie spostrzeżeń i wniosków oraz propozycje rekomendacji działań
+• Budowę ścieżek zachowań Klientów oraz detekcję nietypowych zdarzeń
+• Wzbogacenie danych bankowych danymi z zewnątrz
+• Pracę w zespole agile
+
+Ta praca jest dla Ciebie, jeśli:
+• Masz wykształcenie wyższe (matematyka, metody ilościowe, ekonometria, informatyka, fizyka)
+• Posiadasz doświadczenie w budowie modeli ML
+• Znasz Python lub R, SAS
+• Potrafisz pracować na dużych wolumenach danych
+• Twoją mocną stroną są zaangażowanie, dobra organizacja pracy, kreatywność w wyszukiwaniu rozwiązań problemów biznesowych, a także... umiejętność wyciągania wniosków
+• Jesteś otwarty/a na zmiany i chętnie wprowadzasz nowe rozwiązania/technologie do swojej pracy
+
+Twoim dodatkowym atutem będzie:
+• Znajomość środowiska SAS
+• Umiejętność wizualizacji danych, znajomość narzędzi BI
+• Umiejętność pobierania danych zewnętrznych (przez dostępne API, scraping)
+• Wiedza z obszaru ubezpieczeń, bankowości detalicznej i bankowości SME
+
+Oferujemy Ci:
+• Zatrudnienie w ramach umowy o pracę
+• Premię uzależnioną od wyników i zaangażowania
+• Prywatną opiekę medyczną dla Ciebie i Twojej rodziny na preferencyjnych warunkach
+• Kartę MultiSport i Ubezpieczenie Grupowe na korzystnych warunkach
+• System szkoleń i programów rozwojowych
+• Dostęp do Wewnętrznej Giełdy Pracy
+• Przyjazną atmosferę w pracy
+• Możliwość pracy zdalnej","[{'link': 'http://www.pekao.com.pl/', 'text': 'pekao.com.pl'}, {'link': 'https://www.google.com/search?q=Bank+Pekao&sa=X&ved=0ahUKEwiMu9HCzcr8AhUTEVkFHUAWBbkQmJACCOwN', 'text': 'See web results for Bank Pekao'}]",,"['20 hours ago', 'Full-time']","{'posted_at': '20 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCB3IENSTSAoTW9kZWxvd2FuaWUgXHUwMDI2IEFuYWxpenkpIiwiaHRpZG9jaWQiOiJNZXhHOE14Zzd4b0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFcUlDQ3VJQlFVTlFkMnBxVVZveU1VbENOVTlYWVhVdFRGVTBOekJLVkRkTFJHaEtWbGxpU0RORGNUbHpWVEZyUVZaNGJFSkJUMjl0U0hsd1lsQlhUWFJCV0VoWE5VdE5WbE5QWHpsc05VRjRUek5VVldKU1VFOVRWRmxLUzJVeVdqWjRjMkp4VFVwMU0xUlRhWE5CY1dzM0xXNVJSV1E1VUdReFdGOVFZVFJsTTFGTVZHWnBSbFp3ZVhoTFdVMW1VbFJPUlRkdmVGRXRjSG96YXpGdlREWlBSeTAyTW1WeWVHRTNjbVp2VkdJNGVYTXdRbFJwVG14NVNFWnlVVnAyU1RJNGRVWktibXc0TjJGNVFVbzVhRXBzYWxSa1ZrYzVUa1JIUlc5cmRucDNaMU5ZY1RCTFVSSVhjMGgyUlZrMGVXcERTazlwTlU1dlVIZExlVlY1UVhNYUlrRkdYelpOUVUxVmNIVjVUREJ2U2pGaVEwWkpiV2hJVWtsNVZFYzBaSEF0ZG1jIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gS2FyaWVyYSBOYSBCYW5rIiwibGluayI6Imh0dHBzOi8va2FyaWVyYW5hYmFuay5wbC9qb2IvV2Fyc3phd2EtRGF0YS1TY2llbnRpc3Qtdy1DUk0tJTI4TW9kZWxvd2FuaWUtXHUwMDI2LUFuYWxpenklMjktMDAtOTUwLzc4MDA4MTUwMS8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+0,Mid Data Scientist,Plenti,"Warsaw, Poland",via Trabajo.org,"Cześć Jesteśmy startupem, który działa na rynku od ponad 4 lat. Zajmujemy się wynajmem produktów elektronicznych i zmianą sposobu, w jaki korzystamy ze sprzętów użytkowych Naszą misją jest zorganizowanie rzeczy na świecie tak, by stały się powszechnie dostępne i użyteczne dla każdego, bez konieczności posiadania ich na własność.
+
+System, w którym pracujemy składa się z aplikacji mobilnej, aplikacji webowej, narzędzi wewnętrznych oraz całej masy nowoczesnego sprzętu, z którego już teraz korzystają nasi klienci w całej Polsce Mamy wsparcie krajowych i międzynarodowych inwestorów. W tym roku planujemy kilkukrotnie zwiększyć skalę naszej działalności.
+
+Na co dzień pracujemy z najnowszym sprzętem gamingowym, dronami, kamerami, smartfonami, sprzętem audio, e-mobility i inteligentnym AGD. Ty też lubisz elektronikę? Doskonale Jest nas już ponad 50, pracujemy w luźnej atmosferze, bez korporacyjnej gadki i zbędnych procedur. Dbamy o dobrą komunikację, jasne cele i biznesowe podejście. Cenimy... sobie feedback i dobre samopoczucie zespołu. Budujemy atmosferę opartą na otwartości i zaufaniu, w której osoby z inicjatywą i pomysłami mogą wpłynąć na kierunek rozwoju Plenti. Wspólnie z pracownikami wybieramy zarówno technologię jak i styl pracy.
+
+Kogo szukamy?
+
+Osoby, która swoimi umiejętnościami analitycznymi pomoże nam gromadzić, przetwarzać i analizować dane w efektywny sposób. Kogoś, kto na co dzień będzie współpracował z zespołem i wspierał tworzenie opartej na danych strategii biznesowej dotyczącej rozwoju naszych usług. Osoby która pomoże nam w budowaniu data driven company.
+Kluczowe zadania:
+• Rozwój “risk engine” - całościowego systemu opartego na danych do oceny, automatyzacji i optymalizacji zarządzania ryzykiem
+• Data Governance danych
+• Budowa modeli i predykcja zdarzeń ryzyka
+• Identyfikacja metryk do ustalania celów w metodyce OKR, w szczególności obliczanie miar ryzyka na podstawie wytycznych metryk, a także praca nad rozwojem i aktualizacją definicji tych miar
+• Optymalizacja konwersji lejka sprzedażowego pod względem miar inkluzywności i ryzyka
+• Raportowanie wyników i wizualizacja danych w formie dashboardów
+• Identyfikacja, analiza oraz interpretowanie trendów i wzorców związanych z wynajmem produktów
+• Wsparcie pozostałych działów w podejmowaniu decyzji opartych na danych
+• Stawianie hipotez, projektowanie testów i wyciąganie wniosków w ramach cyklicznego rozwoju produktu (product feedback loops)
+• Przygotowanie rekomendacji dla zespołu agentów ryzyka/przeciwdziałania wyłudzeniom
+
+Must have:
+• 2-3 lata doświadczenia na stanowisku data scientist, analityka danych lub analityka biznesowego
+• Umiejętność pracy z danymi (dobra znajomość SQL i Python lub bardzo dobra znajomość R)
+• Chęć do współpracy z zespołem projektowym i technicznym, wspólnego generowania i testowania pomysłów
+• Zdolność logicznego myślenia oraz wyciągania wniosków i tworzenia na ich bazie rekomendacji
+• Zdolność klarownej prezentacji danych
+
+Mile widziane:
+• Znajomość narzędzi BI (preferowany PowerBI)
+• Praktyczna znajomość rozwiązań wspierających zarządzanie danymi
+• Doświadczenie z narzędziami Customer Data Platform
+• Znajomość narzędzi chmurowych (preferowane GCP)
+• Praca ze zdalnym repozytorium: Git
+• Zainteresowanie technologiami AI i ML
+• Znajomość specyfiki e-commerce
+• Znajomość branży finansowej
+
+Co jeszcze jest dla nas ważne:
+• otwartość i elastyczność - praca w startupowym środowisku to częste zmiany, ale także duży wpływ na budowanie produktu i całej firmy
+• inicjatywa - czyli chęć do rozwiązywania problemów i szukania nowych opcji na to, aby nasza aplikacja funkcjonowała jeszcze lepiej
+• komunikatywność - na bazie Twoich analiz będą podejmowane decyzje biznesowe, dlatego ważne jest, abyś potrafił(a) dobrze się komunikować, słuchać i przekazywać informacje i swoje rekomendacje
+
+Co możemy zaoferować:
+• Wsparcie członków zespołu oraz doświadczonych doradców i inwestorów
+• Stabilną i ciekawą pracę w ambitnym zespole
+• Pracę w pełnym wymiarze czasu pracy w naszym biurze w centrum Warszawy
+• Wynagrodzenie dostosowane do umiejętności, doświadczenia i zakresu obowiązków
+• Wsparcie członków zespołu oraz doświadczonych doradców i inwestorów
+• Oferujemy dofinansowanie do prywatnej opieki i zajęć sportowych (LuxMed, MedicoverSport)
+• Codziennie korzystamy z Officevibe, aby zbierać mikroinformacje na temat różnych aspektów naszej pracy
+• Voucher na wynajem produktów z oferty
+• Pracę nad własnym produktem, a zarazem możliwość bezpośredniej obserwacji, jak tworzone rozwiązania zmieniają biznes
+• Realny wpływ na wytwarzane funkcjonalności, gdyż pracujemy „dla siebie”
+
+Jeśli masz jakieś pytania, pisz do nas śmiało na adres aleksandra@plenti.app. Chętnie porozmawiamy i poznamy Cię lepiej","[{'link': 'http://www.plenti.com.au/', 'text': 'plenti.com.au'}, {'link': 'https://www.google.com/search?ucbcb=1&q=Plenti&sa=X&ved=0ahUKEwiq2KzFzcr8AhWiJUQIHV1MCMc4ChCYkAII3Qo', 'text': 'See web results for Plenti'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJNaWQgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6InhIU1hWMzR3M01FQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVOUWQycHFVWFF0YWxFeVNqZDJRVmt6TjBSc1dXNUhSVU5pU21vNVEyVkpWRWt6YUVwNVFuTXdlbkZvVW5VdFVGWkNUa1JwYkVrM1IyNXRhaTE2YlhWSGJsWmFWSEJ5UXpkZmNYSXlWWGw2VTNaa1oxVm9iakpKYURRMGNtd3plSFJJZWtGeE5GbEtTbkpQWmw5UU9ESnpkVWhKUmpsSU1IUnhkRWN3YkRKUmVrWnlWbFpzUkZrMWRVdFlWRUZmY0VSRk5FVlViRE5NVlc1M1IxQlBaRTFyVFhWT2JqVjRjMkYzWlhCNFJFMXFPRjl0U2tkakVoZDBXSFpGV1MxeGNFMXhURXhyVUVsUU0xcHBhSFZCZHhvaVFVWmZOazFCVG01bFZIQnhkMDkyU21SRFYyVmZVWHBvVERWblZtTnpiRFJpVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTQyNC0yMDIzMDExNS1kMzE5OGNhMzY4MGY4MjMzMzBkZTU1ZmYyZTFlYjIxMD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+1,Senior Data Scientist,CRODU,"Olsztyn, Poland",via Trabajo.org,"Senior Data Scientist [140-200 zł/godz + VAT, B2B, 100% zdalnie]
+
+💸 Stawka: 140-200 zł/godz B2B 💸
+
+⏳ Czas projektu: długoterminowy ⏳
+
+🌴 Forma pracy: 100% zdalnie 🌎
+
+Cześć
+
+Poszukujemy doświadczonego Senior Data Scientist . Praca nad ciekawym projektem dla naszego stałego klienta, pioniera w branży sprzedaży internetowej z Nowego Jorku. Platforma będzie służyła do gromadzenia i przetwarzania danych.
+
+Ma to pomóc w zwiększeniu przychodów w sklepach.
+
+W projekcie będziesz mieć bezpośredni wpływ na budowanie i utrzymywanie rozproszonych potoków uczenia maszynowego. Twoim zadaniem będzie implementacja metod i rozwiązań optymalizacyjnych z użyciem modeli NLP.
+
+Wymagania:
+
+⚡️ Min. 3 lata doświadczenia z Natural Language Processing oraz doświadczenie w budowaniu modeli NLP dotyczących jakości produkcji
+
+⚡️ Wykształcenie wyższe na kierunku Informatyka, Matematyka, Statystyka lub pokrewne
+
+⚡️ Praktyczne doświadczenie i wiedza o trendach w dziedzinie AI
+
+⚡️ Znajomość PySpark, Spark, Python... Git, Linux będzie dodatkowym atutem
+
+⚡️ Mile widziane doświadczenie Airflow, SQL, NoSQL
+
+⚡️ Umiejętność budowania modeli optymalizacyjnych oraz tworzenia skalowalnych, przejrzystych rozwiązań
+
+⚡️ Doświadczenie w pracy z międzynarodowym zespołem
+
+⚡️ Angielski na poziomie umożliwiającym swobodną komunikację w grupie
+","[{'link': 'https://www.google.com/search?ucbcb=1&q=CRODU&sa=X&ved=0ahUKEwiq2KzFzcr8AhWiJUQIHV1MCMc4ChCYkAIIiQs', 'text': 'See web results for CRODU'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6InY3dUUtekRtUWRzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVOUWQycHFVakI2YmpKWlJVdFVWa2R5YWtWUWEwSkRTak5wV0ZoSFIxb3pZM1psVlRsdlNGRmhhMTl5VDJjM01FeE9Obk40YkdkTVZtSnpWMGxtWHpaNlVXRnFibkpXVDFSRFNsWkRlRWxHYVVRNGFWTkxaV3BTVVdaSlpqVnBRV294UkRaQlluVmZYMmRETFZsRGVtUnZYMDF0ZEVSSVkyWkpSV05LYkUweVQxQjZMVk5DZEVKWVJEVlpRVk5MUlhoME5VNHpaM1pSUmt4c2MwaE5NVmxSRWhkMFdIWkZXUzF4Y0UxeFRFeHJVRWxRTTFwcGFIVkJkeG9pUVVaZk5rMUJUbkY2VEdKbGRrY3laRFExUlUxa04yMDJibTFTWjJnMFdqTjBVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xMjU1LTIwMjMwMTE1LTZlNGVkOThlZWY5NTgwNmQwMjZmZGZmMjRlODJkNDQ4P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+2,(Senior) Data Scientist,InPost,"Kraków, Poland",via Trabajo.org,"Co będzie należeć do Twoich obowiązków?
+• uczenie maszynowe – przygotowanie zbiorów danych, analiza możliwości wykorzystania zewnętrznych źródeł danych, budowanie i rekomendowanie zaawansowanych modeli analitycznych, dokładna dokumentacja modeli pozwalająca odtworzyć proces przez innego członka zespołu.
+• komunikacja – raportowanie wykonywanych analiz do kadry menedżerskiej: prezentowanie metod prac i wyników na spotkaniach społeczności data
+• mentoring – code review pracy innych członków zespołu, doradzanie w doborze rozwiązań, wsparcie w rozdzielaniu zadań w ramach obszaru merytorycznego
+• mierzenie wartości z produktów ML/AI – szukanie i wybór metodologii, projektowanie eksperymentów i szacowanie wpływu produktów opartych o dane na wartość przyniesioną organizacji
+• innowacje – ciągły monitoring metod, publikacji i testowanie rozwiązań pojawiających się na rynku, które mogłyby poprawić efektywność wykonywanych rozwiązań, tworzenie autorskich rozwiązań, szkolenia
+br
+
+Czego będziemy... oczekiwać od Ciebie?
+• wykształcenia wyższego, idealnie z zakresu analityki biznesowej, metod ilościowych, statystyki, matematyki, fizyki
+• 3/5 letniego doświadczenia jako Data Scientist
+• znajomości Pythona, relacyjnych baz danych (SQL), przetwarzana dużej ilości danych w pyspearku lub bigquery
+• doskonałej znajomości rozwiązań ML/AI ich wpływu na doświadczenia klienta i procesy operacyjne: programowanie liniowe, geospatial (geopandas, QGIS), reinforcement learning, time series, etc.
+• doświadczeniq w wykorzystywaniu pipelinów CI/CD/ MLOPS w pracy nad produktami opartymi o dane
+• doświadczenia z pisaniem produkcyjnych rozwiązań ML/AI, testami danych, testami jednostkowymi
+• chęci dzielenia się wiedza i promowania najlepszych praktyk w ramach społeczności data
+• bardzo dobrych zdolności komunikacyjnych i negocjacyjnych, umiejętności dekompozycji problemu i znajomość metod problem solving
+• znajomości i doświadczenia w pracy na rozwiązaniach chmurowych: Databrics, Snowflake na Azure, GCP, AWS
+• pracy w zespołach agileowych
+• biegłej znajomość angielskiego
+
+Mile widziane:
+• znajomość procesów operacyjnych w nowoczesnej logistyce, lub w e-commerce
+• doświadczenie w pracy w środowisku międzynarodowym
+• doświadczenie mentorskie
+• znajomość francuskiego
+
+Zależy nam także, abyś odnalazł/a się w zwinnym świecie InPostu. Pracujemy szybko i lubimy to. Projekty nigdy się nie kończą, a to, co możemy Ci zagwarantować to fakt, że zdecydowanie nigdy nie będziesz się nudzić
+br
+
+W zamian oferujemy:
+• możliwość pracy w 100% zdalnej albo w modelu hybrydowym (wszystko zależy od Ciebie :-))
+• umowę o pracę/ kontrakt B2B (wybór należy do Ciebie :-)) i stabilność zatrudnienia
+• dofinansowane benefity, bo Twoja dobra kondycja jest dla nas ważna (sport, opieka medyczna, ubezpieczenie na życie)
+• zaangażujemy Cię też w przeróżne inicjatywy wewnętrzne, w których będziesz mógł się spełniać.
+• dajemy też dużą swobodę koncepcyjną i możliwość realizacji własnych pomysłów/usprawnień
+• i pamiętaj Będziesz pracować w dynamicznie rozwijającej się Firmie
+Jesteśmy liderem na Rynku Każdy Pracownik ma na to wpływ","[{'link': 'http://inpost.pl/', 'text': 'inpost.pl'}, {'link': 'https://www.google.com/search?ucbcb=1&q=InPost&sa=X&ved=0ahUKEwiq2KzFzcr8AhWiJUQIHV1MCMc4ChCYkAIItws', 'text': 'See web results for InPost'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiIoU2VuaW9yKSBEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoicXFiVlJ1WjR2OE1BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVU5RZDJwcVZDMVRVVGs1UzFWRlVVSlZSMDl5ZUhaYVVVNTVkMVpqUzNOSE5sOW5hSGhEYmpWUFNHUkJUMU51VjJacFJqZFpjWFJDTVhacE15MVpOVTAyVUd0UGNGWmhXSGRoVWxKWVQyUnZiMWt6YzJwR1RtWnJNazVVZWtkM2RrMXViSGRaY1RGTmREUlZMV1JJZUcxTVdUWlFkVXc1Y1hCd2FUUkxOV05DTm1oaWJWcFRiVlJCYmpoMlRVUjBSMHBIYTJ0TmRsOU1MWFExUWxsRFJqUmZhblpIUTFKdE5HWllOR0pzWlZBMWJ6Qmtiak52RWhkMFdIWkZXUzF4Y0UxeFRFeHJVRWxRTTFwcGFIVkJkeG9pUVVaZk5rMUJUa1p6VkVWZlFtdENPRGxoVTBaWVMwaEtkRE5TTkZJM1dtMUhadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xNDI0LTIwMjMwMTE1LWZjNTY5MDlmOGViOWJhYWViZmRmNDE3OGUwNTMzODg5P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+3,Senior Data Scientist,CRODU,"Poznań, Poland",via Trabajo.org,"Senior Data Scientist [140-200 zł/godz + VAT, B2B, 100% zdalnie]
+
+💸 Stawka: 140-200 zł/godz B2B 💸
+
+⏳ Czas projektu: długoterminowy ⏳
+
+🌴 Forma pracy: 100% zdalnie 🌎
+
+Cześć
+
+Poszukujemy doświadczonego Senior Data Scientist . Praca nad ciekawym projektem dla naszego stałego klienta, pioniera w branży sprzedaży internetowej z Nowego Jorku. Platforma będzie służyła do gromadzenia i przetwarzania danych.
+
+Ma to pomóc w zwiększeniu przychodów w sklepach.
+
+W projekcie będziesz mieć bezpośredni wpływ na budowanie i utrzymywanie rozproszonych potoków uczenia maszynowego. Twoim zadaniem będzie implementacja metod i rozwiązań optymalizacyjnych z użyciem modeli NLP.
+
+Wymagania:
+
+⚡️ Min. 3 lata doświadczenia z Natural Language Processing oraz doświadczenie w budowaniu modeli NLP dotyczących jakości produkcji
+
+⚡️ Wykształcenie wyższe na kierunku Informatyka, Matematyka, Statystyka lub pokrewne
+
+⚡️ Praktyczne doświadczenie i wiedza o trendach w dziedzinie AI
+
+⚡️ Znajomość PySpark, Spark, Python... Git, Linux będzie dodatkowym atutem
+
+⚡️ Mile widziane doświadczenie Airflow, SQL, NoSQL
+
+⚡️ Umiejętność budowania modeli optymalizacyjnych oraz tworzenia skalowalnych, przejrzystych rozwiązań
+
+⚡️ Doświadczenie w pracy z międzynarodowym zespołem
+
+⚡️ Angielski na poziomie umożliwiającym swobodną komunikację w grupie
+","[{'link': 'https://www.google.com/search?ucbcb=1&q=CRODU&sa=X&ved=0ahUKEwiq2KzFzcr8AhWiJUQIHV1MCMc4ChCYkAII4ws', 'text': 'See web results for CRODU'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6IndQUUdOUW85emJRQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVOUWQycHFWRmRJVkZVM0xUbGlSSFpMWlZjM1lWa3lXRWRSZDI5U1kzQlBSRGhNZVVvM2FsRmlZVWRUYUcxeVVWaHJObHBIWTAxaGJubFZZMnhqVDJOalpERnhkMGhhTmswMExYUkJPRk15ZEhkVGIwaGhTVXRZZUhoUE9WYzVWMmxzU2s5cloyTkZVMlZwZEdsT1NIaExRbVpEYVVaVloxcFdVM1ZGVkZocFJHeE9RMVpDVFVwSVZsbzVkSGQxVlZwNmEyVXRPSFp3YWpKWE4wMU9jbGxuRWhkMFdIWkZXUzF4Y0UxeFRFeHJVRWxRTTFwcGFIVkJkeG9pUVVaZk5rMUJUMFJLWlhCdVRrSnRiemRmUjFFeWEwRlVaSGxDVVhZMmRUVkxkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xMjU1LTIwMjMwMTE1LTdkMDg5ZmVjYjgwNDhlMWYzMzk0YjQyOTQ0MTJmNDEwP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+4,Senior Data Scientist,CRODU,"Lublin, Poland",via Trabajo.org,"Senior Data Scientist [140-200 zł/godz + VAT, B2B, 100% zdalnie]
+
+💸 Stawka: 140-200 zł/godz B2B 💸
+
+⏳ Czas projektu: długoterminowy ⏳
+
+🌴 Forma pracy: 100% zdalnie 🌎
+
+Cześć
+
+Poszukujemy doświadczonego Senior Data Scientist . Praca nad ciekawym projektem dla naszego stałego klienta, pioniera w branży sprzedaży internetowej z Nowego Jorku. Platforma będzie służyła do gromadzenia i przetwarzania danych.
+
+Ma to pomóc w zwiększeniu przychodów w sklepach.
+
+W projekcie będziesz mieć bezpośredni wpływ na budowanie i utrzymywanie rozproszonych potoków uczenia maszynowego. Twoim zadaniem będzie implementacja metod i rozwiązań optymalizacyjnych z użyciem modeli NLP.
+
+Wymagania:
+
+⚡️ Min. 3 lata doświadczenia z Natural Language Processing oraz doświadczenie w budowaniu modeli NLP dotyczących jakości produkcji
+
+⚡️ Wykształcenie wyższe na kierunku Informatyka, Matematyka, Statystyka lub pokrewne
+
+⚡️ Praktyczne doświadczenie i wiedza o trendach w dziedzinie AI
+
+⚡️ Znajomość PySpark, Spark, Python... Git, Linux będzie dodatkowym atutem
+
+⚡️ Mile widziane doświadczenie Airflow, SQL, NoSQL
+
+⚡️ Umiejętność budowania modeli optymalizacyjnych oraz tworzenia skalowalnych, przejrzystych rozwiązań
+
+⚡️ Doświadczenie w pracy z międzynarodowym zespołem
+
+⚡️ Angielski na poziomie umożliwiającym swobodną komunikację w grupie
+","[{'link': 'https://www.google.com/search?ucbcb=1&q=CRODU&sa=X&ved=0ahUKEwiq2KzFzcr8AhWiJUQIHV1MCMc4ChCYkAIIjww', 'text': 'See web results for CRODU'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6IjNoZko4OEFWU1JZQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVOUWQycHFVelJRZG04NFVucEJWVkJXV210TFJsRnlRbTVhY1hCa1JXY3pSSGx4UzBzMFJqRlFZa05DVEU1TFZtZHllall5VERsb2N6WlFORGxMVmtkeFRsUmhPSFI1VVVGelJrWk5TblYyYm5SbFpUZDRWMUJPU0dabVJuZG5ORmRSY0hWV00xWnlRa0pmTjJwQmIwZFVTekF0Wldzek5Xa3hjVkJDVm5wWk1rbHJNMnR3ZUcwMVMybzJhMWhZVEdoS2RGVjBZbWRFTkVwc09XMUZiVEJSRWhkMFdIWkZXUzF4Y0UxeFRFeHJVRWxRTTFwcGFIVkJkeG9pUVVaZk5rMUJUbU5ZYTNkNkxWWk9hbU4xUjNwTlFVMXBVbGQxYVZadmEweEpVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xMjU1LTIwMjMwMTE1LTI2ZWQ5NDNmMGIzYWIwMmFiZmE5ZDc3MTdkMTQ2Y2M5P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+5,Data Engineer,Teradata,"Warsaw, Poland",via Trabajo.org,"Data Engineer
+
+Location: Warsaw, Poland
+
+Requisition Number: 215942
+
+External Description:
+
+Job Title: Data Engineer
+
+Job Location: Warsaw, Poland
+
+Teradata helps businesses unlock value by turning data into their greatest asset. We’re the cloud data analytics platform company, built for a hybrid multi-cloud reality, solving the world's most complex data challenges at scale. Collectively, we endeavour to serve equal parts innovator and contributor. Because our mission isn’t just about the collection of data – it’s about revolutionizing the future of transportation to save lives, optimizing energy costs to make the planet a cleaner place, and using data to predict and identify cancer risks.
+
+Teradata’s Global Delivery Center (GDC) brings together data enthusiasts from all corners of the world to support our customers within the EMEA region. We analyze their business needs and address them with the most sophisticated data solutions including Data Warehouses, Data Lakes, Operational Data... Stores and much more.
+
+Role Description
+
+We are looking for a Data Engineer to perform various tasks during the Data Warehouse implementation like analyses, database and architecture design, gathering business requirements, creating testing and implementation scenarios, developing and implementing planned solutions etc.
+
+Key Areas of Responsibility:
+Performing data warehouse tasks for large projects (database design, business analyses, collecting business requirements and translating them into technical solution, ETL development) Deliver business and application specific consulting services included in the integrated Teradata solutions Support the pre-sale process as well as client communication Participating in a mapping and design of customer’s business needs to the Teradata database and BI components Understand Business Data Model and logical mappings (source mappings, LDM mappings) Understand detailed, technical Source Target mappings Develop and implement ETL and BI solutions Perform unit testing and package jobs to be prepared for deployment Present and explain the implanted solution to the customer
+
+Basic requirements:
+Any experience working on DWH projects Familiar with collecting business requirements and transforming them to the technical solution Familiar with the creation/modification of a Data Model and Mappings or Technical ETL specifications (Source to Target Mapping) Excellent SQL knowhow ETL development, implementation, documentation and testing experience Experience with programming languages (e.g., Python, Groovy, Java, Perl, …) Flexibility in working from Warsaw (Poland) with business trips abroad if required by the customer Advanced English EU passport or work permit for Poland is required
+
+Desirable requirements:
+Knowledge of scripting and programming Familiar with CASE modeling Experience with ETL tools and best practices Knowledge of Teradata products and tools and utilities Experience with End to End solution development Any other European language
+
+What we offer:
+World-class technical training within Teradata University Every new hire gets a detailed training plan containing on-site training about Teradata Vantage architecture Additional time off to enjoy special occasions Flexibility of working from home and from our fully equipped office in Warsaw Private medical care Meal vouchers Company’s contribution for the Pension fund Life insurance Employee referral program (4,000$ USD) Sports and leisure activities fund Employee stock purchase program Contribution of 300$ USD for a mobile phone of your choice (every 2 years)
+
+CountryEEOText_Description:
+
+City: Warsaw
+
+State: Mazowieckie
+
+Community / Marketing Title: Data Engineer
+
+Job Category: Consulting
+
+Company Profile:
+
+Our Company
+
+Teradata is the connected multi-cloud data platform for enterprise analytics company. Our enterprise analytics solve business challenges from start to scale. Only Teradata gives you the flexibility to handle the massive and mixed data workloads of the future, today.
+
+The Teradata Vantage architecture is cloud native, delivered as-a-service, and built on an open ecosystem. These design features make Vantage the ideal platform to optimize price performance in a multi-cloud environment.
+
+LinkedIn Remote:
+
+Location_formattedLocationLong: Warsaw, Mazowieckie PL","[{'link': 'http://www.teradata.com/', 'text': 'teradata.com'}, {'link': 'https://www.google.com/search?ucbcb=1&q=Teradata&sa=X&ved=0ahUKEwiq2KzFzcr8AhWiJUQIHV1MCMc4ChCYkAIIvgw', 'text': 'See web results for Teradata'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJkSG5MZENIbFA2Z0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVVhveVdXaE5ZVk54VERkVFRtRmhjSGg0WDBkMVFrbFlUMjVyYmtodFYzcFROa0pXVEZOUE9XaEVVVzFXUzFJMFoycE5hVFV6UlVaS1UxbDVOVll5WTJnMlVtRnNaVTgwTWtWcVFVRXphR05YZGtvNVRFbFphREV4WVdwaFJrNU1VM1ZvWTJwbVNHRTRTbFZ0UWxSMGNHNHlhME5IVkdrd2QweDBOR28yV2toTldrdFdZVUpGZW5kcVdqUjROREo2ZFd0dVl6aEpUVlpHY1VNdGRuWnpWVUpIVFZFM1JVUTNWbmxqZEVkRVkzZzBFaGQwV0haRldTMXhjRTF4VEV4clVFbFFNMXBwYUhWQmR4b2lRVVpmTmsxQlQwOUxkR0ZDVDJ4SlZIWm5VM0JTZFd4c2NrazFWVTVLZWxwbFp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTE0MjQtMjAyMzAxMTUtY2VmYzAzNDE3YzQwN2FiOWEzZmJmNWYyMWZmNGNmNDk/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+6,Senior Data Engineer,PandaDoc,Anywhere,via Linkedin,"PandaDoc is looking for a Senior Data Engineer to join our growing Data Engineering team. This hire will be responsible for expanding and refining our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up.
+
+The Data Engineer will support data initiatives across the organization, working with Data Analysts, Product Analysts, Data Scientists and Revenue Operation Specialists, and will ensure optimal data delivery architecture is consistent throughout ongoing projects.
+
+They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+
+In This Role, You Will
+•... Create and maintain optimal data pipeline architecture
+• Assemble large, complex data sets that meet functional business requirements
+• Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, implementation of monitoring systems, etc
+• Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, SaaS ELT tools, Python, and AWS Redshift.
+• Contribute to the design of the data infrastructure roadmap and set up a project structure to implement it
+• Work with stakeholders including the Executive, Revenue Operations, Data Analytics and Data Science teams to assist with data-related technical issues and support their data infrastructure needs
+• Create data tools for analytics and data science team members that assist them in building and optimizing our product and business processes
+
+About You
+• Strong project management and organizational skills, preferably in an Agile environment.
+• Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+• Experience building and optimizing data pipelines, architectures and data sets.
+• Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+• Strong analytic skills related to working with unstructured datasets.
+• Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+• A successful history of manipulating, processing and extracting value from large disconnected datasets.
+• Experience supporting and working with cross-functional teams in a dynamic environment.
+• We are looking for candidates with 5+ years of experience in a Data Engineering role. They should also have experience using the following software/tools
+• Experience with Redshift and/or Snowflake
+• Hands-on experience with Python
+• Experience with orchestration tools such as Airflow or Prefect
+• Experience with ELT tools such as Stitch or Fivetran
+• Experience with data observability and cataloging tools such as Monte Carlo or Select Star
+
+Company Overview
+
+PandaDoc empowers more than 37,000 growing organizations to thrive by taking the work out of document workflow. PandaDoc provides an all-in-one document workflow automation platform that helps fast scaling teams accelerate the ability to create, manage, and sign digital documents including proposals, quotes, contracts, and more. For more information, please visit https://www.pandadoc.com.
+
+Company Culture
+
+We're known for our work-life balance, kind co-workers, & creative virtual team-bonding events. And although our Pandas are located across the globe, we stay connected with the help of technology and ensure that everyone on our team feels, well, like a team.
+
+Pandas work best when they're happy. We retain our talent by upholding our values of integrity & transparency, and selling a product that changes the lives of our customers.
+
+Check out our LinkedIn to learn more.
+
+Benefits
+
+Our benefits include tremendous career growth opportunities, a competitive salary, health and commuter benefits, company-paid life & disability, 20+ PTO days, regularly catered lunches, 401K and FSA plans, and of course, a fun team of Pandas to work with!
+
+PandaDoc is an Equal Opportunity Employer. We are committed to equal treatment of all employees without regard to race, national origin, religion, gender, age, sexual orientation, veteran status, physical or mental disability or other basis protected by law.
+
+EXTERNAL RECRUITERS
+
+Approval Requirement
+
+The use of external recruiters/staffing agencies requires prior approval from our HR Team. The HR Team at PandaDoc requests that external recruiters/staffing agencies not to contact PandaDoc employees directly in an attempt to present candidates. Complying with this request will be a factor in determining future professional relationships with PandaDoc","[{'link': 'http://www.pandadoc.com/', 'text': 'pandadoc.com'}, {'link': 'https://www.google.com/search?ucbcb=1&q=PandaDoc&sa=X&ved=0ahUKEwiq2KzFzcr8AhWiJUQIHV1MCMc4ChCYkAII7ww', 'text': 'See web results for PandaDoc'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_UycvTFd0osPIodmuLd2G3klgWgGyZktxZURAzBA&s,"['8 hours ago', 'Work from home', 'Full-time', 'No degree mentioned']","{'posted_at': '8 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciIsImh0aWRvY2lkIjoiSGRqcVZxaEpUYXNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVU5RZDJwcVUzbGtlVXcyTFhaRFVXTm1jelYwYzNaME5YVjJNMWt5VWxONFRqZ3hhbmRpV0d4NFlrZEVWUzE2YjNOemVIUlNVME0zYzBsMWFWVm9PR2R3WldSVWFEQkRNbmxVZWs1T1pVNDRXR1EyWHpWSlJWcG9OWEl5YlVweWFGWTNXRUpIVm5Sa1VtNDBiVU5xY2t4SWIzQTNjVVpuVjFkRmJIaFVSbVUzTUVOVWNuTnhkM1k1Y2tOR1NFTlljWEZuZG5WYVpXSlhjbmh6Y25wd1dHMDNOREUwYkU5SlZqYzFiV2xxZWpkbWJFNXVVRUpORWhkMFdIWkZXUzF4Y0UxeFRFeHJVRWxRTTFwcGFIVkJkeG9pUVVaZk5rMUJVRTFTYzBod1ZUWlRPSGxTV1VkbmRVWTVhMDFQVFZKRVREZDVVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZGluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3ItZGF0YS1lbmdpbmVlci1hdC1wYW5kYWRvYy0zMzg0NjAxODcyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+7,Data Science Engineer,Quantum,"Katowice, Poland",via Trabajo.org,"Azure (nice to have) GCloud (nice to have) AWS (nice to have) Computer Vision (regular) NLP (regular) SQL (regular) Machine Learning (regular) Deep Learning (regular) Data Science EngineerFull-Time Remote, Poland Hi We are Quantum — a Data Science and Software Engineering company with an international presence and R&D center.
+We are looking for progressive solutions to real problems, leaving the comfort zone. This allows us to remain the leaders of the Big Data market.
+Our Tech Leaders are experts with 20+ years of industry experience as speakers on global events like Nvidia GTC.
+
+First of all, we offer:
+Working remotely or in the workspace. Paid days off, sick leaves & vacation.⏳ Flexible working hours.
+About the positionWe are opening a position for a Data Science Engineer to expand our team.
+
+You will:
+
+be working on areas related to data analysis, medicine, and image processing;Also, you will be able to take ownership for innovative and socially significant projects;You will be a... part of the company and surrounded by experts who are ready to move forward professionally.
+
+In this role, you willWorking with Data Analysis and Preparation;Development of Deep Learning / Machine Learning / Computer Vision Solutions;Working on full-cycle data science projects.
+
+Your tasks will include data preparation, developing ML models and deploying them to production;Sometimes, this will require the ability to implement methods from scientific papers and apply them to new domains.
+
+Skills you'll need to bringAt least 3 years of commercial experience in DS;Strong knowledge of linear algebra, calculus, statistics, and probability theory;Knowledge and experience with algorithms and data structures;Experience with Machine Learning libraries (NumPy, SciPy, Pandas, ScikitLearn);Experience with at least one of Deep Learning frameworks (Tensorflow, Keras, PyTorch);Knowledge of modern Neural Networks architectures (DNN, CNN, LSTM,etc);Experience in classical Computer Vision algorithms.
+Experience in Natural Language Processing;Experience with SQL;Strong knowledge of OOP;At least Upper-Intermediate (written and spoken) level of English.
+
+As a PlusParticipation in Kaggle competitions;Experience with production ML/DL frameworks (OpenVino, TensorRT, etc.);Docker practical experience;Basic understanding of Big Data concepts;Experience with Cloud Computing Platforms (AWS, GCloud, Azure).What we offer⏳ You manage your time.
+No one here tracks your clock in/clock. Personal evaluation program.
+We help and support each other to achieve a common goal, perceiving failures as a path to success. Develop R&D & CSR projects.
+We take ownership for innovative and socially significant projects. Internship & mentorship programs.
+
+Our mentors create various internship & mentorship programs, we help guys take on new challenges and show off their software development capabilities.
+Comfortable workspace and an inspiring environment.
+
+But it's up to you to decide whether you want to work remotely or in the office.☂️ Tech support & serviceable equipment.
+We have our DevOps team, which will configure and support you. Opportunity to participate in hackathons, professional meetups.
+We regularly take part in global hackathons and challenges. Thus, our team is pumped faster, and the company becomes famous in the world market. Fostering leadership.
+With Quantum, you can let your initiative blossom because we want our employees to become leaders. We support employees who are proactive and aren't afraid to share ideas. A healthy atmosphere.
+We have an open and honest dialogue with everyone in the team. Countless internal initiatives in various topics.
+
+We adore to share useful features and stories of creating projects also inside our team, pumping up the skills of public speaking.
+
+How you can start career with QuantumYou apply to our vacancy, and we submit your CV during 2 business day.
+Feel free to send email to our Recruiter if you don't receive an answer from us, d.serbina@quantumobile.comDo you want to learn more about Quantum?Visit our site, blog on Medium","[{'link': 'http://www.quantum.com/', 'text': 'quantum.com'}, {'link': 'https://www.google.com/search?ucbcb=1&q=Quantum&sa=X&ved=0ahUKEwiq2KzFzcr8AhWiJUQIHV1MCMc4ChCYkAIInw0', 'text': 'See web results for Quantum'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_oaKvtBkU6h6aTCEYORMGaHF22eEj7e0XDgVkprk&s,"['13 hours ago', 'Full-time']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVuY2UgRW5naW5lZXIiLCJodGlkb2NpZCI6IlR3WmNjbTdkeEU0QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVOUWQycHFVWFJtTUdWdFlUTkpjMmhxV1ZOM1RXaEtjMDB5VmtsT1MwWTBaVTQzWlcxVmIzSXliakpPVDFwQk5ETnZlVmh4VmxGVFNGZGlTVkIwVjJkNFpUTnJZazlLT0ZaUFFuUkhRVWxMUm1WWFNrUnFYMEZ4WjFkaWNtVnFRVjlsUjJkNVlrRlZSMFpuVVRreU5tUlVXa295VjJ0UGVtZHlNbEpSVkZKcGVtSjVNMHBqV21sRWNYTmxNRGRDTkMxWVRIRlBWSEpwVGs5cVF6WTVXbDk0WjFWbVUzUnpUVGhHYWtJME1Ib3pMVmhLUkRrMEVoZDBXSFpGV1MxeGNFMXhURXhyVUVsUU0xcHBhSFZCZHhvaVFVWmZOazFCVURaRGVERkJhMVZJWTI1UVF6bEhhRFJYWWpKVk9EaEVURkV6VVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTE4MjQtMjAyMzAxMTUtMjc5YWM3YzUwMGMyMjlmYzc4NDc0YTNhYzFmNjM5ZWU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+8,Senior Data Scientist,CRODU,"Jelenia Góra, Poland",via Trabajo.org,"Senior Data Scientist [140-200 zł/godz + VAT, B2B, 100% zdalnie]
+
+💸 Stawka: 140-200 zł/godz B2B 💸
+
+⏳ Czas projektu: długoterminowy ⏳
+
+🌴 Forma pracy: 100% zdalnie 🌎
+
+Cześć
+
+Poszukujemy doświadczonego Senior Data Scientist . Praca nad ciekawym projektem dla naszego stałego klienta, pioniera w branży sprzedaży internetowej z Nowego Jorku. Platforma będzie służyła do gromadzenia i przetwarzania danych.
+
+Ma to pomóc w zwiększeniu przychodów w sklepach.
+
+W projekcie będziesz mieć bezpośredni wpływ na budowanie i utrzymywanie rozproszonych potoków uczenia maszynowego. Twoim zadaniem będzie implementacja metod i rozwiązań optymalizacyjnych z użyciem modeli NLP.
+
+Wymagania:
+
+⚡️ Min. 3 lata doświadczenia z Natural Language Processing oraz doświadczenie w budowaniu modeli NLP dotyczących jakości produkcji
+
+⚡️ Wykształcenie wyższe na kierunku Informatyka, Matematyka, Statystyka lub pokrewne
+
+⚡️ Praktyczne doświadczenie i wiedza o trendach w dziedzinie AI
+
+⚡️ Znajomość PySpark, Spark, Python... Git, Linux będzie dodatkowym atutem
+
+⚡️ Mile widziane doświadczenie Airflow, SQL, NoSQL
+
+⚡️ Umiejętność budowania modeli optymalizacyjnych oraz tworzenia skalowalnych, przejrzystych rozwiązań
+
+⚡️ Doświadczenie w pracy z międzynarodowym zespołem
+
+⚡️ Angielski na poziomie umożliwiającym swobodną komunikację w grupie
+","[{'link': 'https://www.google.com/search?ucbcb=1&q=CRODU&sa=X&ved=0ahUKEwiq2KzFzcr8AhWiJUQIHV1MCMc4ChCYkAIIyw0', 'text': 'See web results for CRODU'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6IlQtZXViTWRQOUk4QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVOUWQycHFWRUZvUjJsVmEzaDRYMUkwZEc5b01XNXNVMmxxUVZNNFJFSk1ObmhoWlRWeGNXVmxZbkF4YlZGUmRVNDNkRXBRYm5WbFNtWmlPQzAyT1hwR1VUQTBNbmxUU2pCTloxWkJTMmx5ZEU1cU5VVjBhRWd5WmtzMFJsaGpVM1pVVkdORVQyWlVWa2x0U1doemRFdzNWWGQ1Y1RkR1RWZFplVTVPTVRWM01Ya3lka2RPWDFWcWIxZHZSRXhYZHpKWGRIQXdOVmRuVWpRdFZtdGlMV280YzFKUFJXMUZhRE5vV20xWGMxbFVXalZ5VFV4QkVoZDBXSFpGV1MxeGNFMXhURXhyVUVsUU0xcHBhSFZCZHhvaVFVWmZOazFCVDJoWVltaHpZMWhzVTAxblFTMDBOemRYVWxaaGFGWnNWMTloWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTEyNTUtMjAyMzAxMTUtZTk2MzJmZWYzMWE5YjljNTNhNDJkMzMwNTMyNDhhZmU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+9,Senior Life Science Data ETL Consultant,NNIT,"Kraków, Poland",via Trabajo.org,"Your responsibilities as
+a migration consultant
+
+As a senior ETL migration consultant with Registration knowledge, you will be involved in the entire project’s life cycle from the bidding phase to migration planning, creating the specification and conducting the process, and securing business continuity by making all data available on one platform.
+
+The ability to deliver on time and budget, and to meet client’s requirements with high quality standards is essential to NNIT. Therefore, we expect you to be passionate about understanding our clients’ business and the ongoing identification and handling of issues – we expect you to have a leading consultant profile.
+
+With your experience you know the Regulatory Information Management, Submission and Regulatory data processes and pains, you advise of the optimal business and technical ETL for migrations. Guidance of optimal solutions combined with creativity and the ability to suggest valuable solutions are natural parts of your... professional toolbox.
+
+Your qualifications and experience
+
+You are a Regulatory Information Management, Submission and Regulatory data person with a background in technology. You possess a natural interest in driving and building a bridge between the customer business and the technology. If you worked with ArisGlobal Register and data model it will be a great advantage. Your professional journey might have started out as a technical person supporting Regulatory and then you have grown your expertise and understanding within Regulatory business processes.
+
+Furthermore, it is important that you:
+Have a strong customer centric approach and can understand and effectively communicate customer requirements and needs. Have work experience related to Life Science R&D domain e.g. Regulatory, data models and databases. Are technologically well grounded – probably having a bachelor’s degree in Nature science, engineering, computer. Participated in upgrade or migration projects for Regulatory applications Are familiar with modern database and information system technologies. Are used to work in a GxP controlled environment. Are an ambitious team player that enjoy taking responsibility of your own assignments. Have an analytical mindset with problem-solving skills. Have excellent written, oral, presentation and interpersonal communication skills.
+
+We evaluate applications regularly and we hope that you apply as soon as possible.
+
+NNIT ETL - Life Science Technologies
+
+As part of NNIT’s ETL team, you will be working together with more than 150 experienced professionals in a global setting - from Denmark to United States, from China to the Philippines – NNIT ELT Life Science Technology team is responsible for the matching the customer business challenge with the optimal technologic solution followed by an efficient implementation.
+
+We are constantly growing; this opens for personal opportunities - we support you in your ambitions regarding career development and you will continuously get the chance of further developing your skills so that they suit both your personal goals and our goals as a company.
+
+At NNIT, we are passionate people building winning teams with our customers. We develop high quality and value adding solutions. We are customer obsessed, driven by our company’s core values open and honest, conscience driven and value adding","[{'link': 'http://www.nnit.com/', 'text': 'nnit.com'}, {'link': 'https://www.google.com/search?ucbcb=1&q=NNIT&sa=X&ved=0ahUKEwiq2KzFzcr8AhWiJUQIHV1MCMc4ChCYkAII-Q0', 'text': 'See web results for NNIT'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgTGlmZSBTY2llbmNlIERhdGEgRVRMIENvbnN1bHRhbnQiLCJodGlkb2NpZCI6InFNX3I3NEJwbjlRQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVvd0NDc3dCUVVOUWQycHFVMFYxTkVkYVduVnJhWGhLWkdFelNsTmZWblZIU0RWUlJWZEVPVjlaTldkQlRqZEthMUl4TkVwSFNHTlVNbFZFUkhwdFNGVkliWFpKTWtwNmRFWlNjVzVyVTJSRE9XWTNZakpmYVc5cWRuSk9SMm8zYkVkTVVtUXpRekZwUlcxVGJFOUJSemt5TWtWS1RrWXRPVW8yU1dGclFqY3pkME15ZFdWdFpWSmxUVzFoT0hadWJrYzRiSE13TjNod2RtRXhZVEY2VW5GdVdVSnhZVmRVVW1KSlNVNDNjVlpDVVdaaFExUldhVm8zZWtVMGFIUnVVMVJQYzFGYVZIbG9aVVp6Vms0MVYwZGxFaGQwV0haRldTMXhjRTF4VEV4clVFbFFNMXBwYUhWQmR4b2lRVVpmTmsxQlQzcHpWRnBZZVhCcFYxTndjM0ZVVTBGZmJtbE5XVWw2YVZaSWR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xNDI0LTIwMjMwMTE1LWFlODdmNWVjNTk2M2EyOTYyN2VkMmFkZWM5MGNhNmZiP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+0,Senior Data Engineer,IQVIA,"Warsaw, Poland",via Trabajo.org,"Senior Data Engineer
+
+We are looking for an innovative, collaborative, intellectually curious and entrepreneurial Senior Data Scientist to join our Enterprise Data and Analytics team. This is an exciting opportunity to join a newly created fast-moving start-up style group within one of the world's leading human data science companies. The primary focus of the role is to develop advanced analytics on highly complex, large-scale internal company data to identify potential efficiencies and improvements.
+
+A typical day might include
+
+Working with the team and client to develop reporting and analytical needs
+
+Addressing those requirements by developing and applying appropriate processes and methodologies
+
+Communicating technical concepts and analytical outputs to a diverse set of stakeholders
+
+Proactively identifying opportunities for innovation and areas for improvement across the company
+
+Responsibilities:
+
+Gathering, cleaning, and processing data
+
+Developing tools and processes to... monitor and analyse data accuracy
+
+Collaborating with organizational leaders to identify informational needs
+
+Analysing data sets to spot trends and patterns that can be translated into actionable insights
+
+Presenting findings in an easy-to-understand way to inform data-driven decisions
+
+Designing descriptive, diagnostic, predictive and prescriptive models, and machine learning algorithms to mine big data sets
+
+Qualifications
+
+Bachelor's Degree Computer Science or related discipline, or knowledge acquired through equivalent experience required
+
+Advanced working knowledge of SQL required, Python requirement, Alteryx is advantage
+
+Machine learning, data modelling experience
+
+Advanced statistic, predictive analytics
+
+Experience supporting and working with cross-functional teams in a dynamic environment
+
+Strong written and verbal communication skills
+
+Why Join?
+
+Those who join us become part of a recognized global leader still willing to challenge the status quo to improve patient care. At IQVIA, you will have access to the most cutting-edge technology, the largest data sets, the best analytics tools and, in our opinion, some of the finest minds in the Healthcare industry.
+
+We thank all applicants for their interest; however, only those selected for an interview will be contacted
+
+IQVIA is a strong advocate of diversity and inclusion in the workplace. We believe that a work environment that embraces diversity will give us a competitive advantage in the global marketplace and enhance our success. We believe that an inclusive and respectful workplace culture fosters a sense of belonging among our employees, builds a stronger team, and allows individual employees the opportunity to maximize their personal potential.
+
+IQVIA is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences industry. We believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. Learn more at","[{'link': 'http://www.iqvia.com/', 'text': 'iqvia.com'}, {'link': 'https://www.google.com/search?q=IQVIA&sa=X&ved=0ahUKEwiS5_7Fzcr8AhU9FlkFHcT1C4o4FBCYkAII3Qo', 'text': 'See web results for IQVIA'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciIsImh0aWRvY2lkIjoiUzE1Y2o2bzZhU1lBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVU5RZDJwcVVqVmZTVmxoZUdKUmNXTk1RVVZRTlZGNFQzaG9OVVJyYmtsVGVUaERjV0puV1d0WFVrOW9NMEUyZHpOeU1VSmtSa3BSUVVSaGRsSjNiemx0T0ZsSk56RXlVRk5CYTIxaU9FRXROa0ZUTWxCUE1YcFdOVEZqWjFodkxYRXlSbHBHY25GamNETnBiVXRKZG1sTE9XeHZiVkl0TkhOTE5qTTRYMGRPYkV0WlJuQjZOVkpwT1U5dk1rczBSbmxzUjI5aU5scEhaRzFsY1RVMk9YUXpZVWs0TWkxclYyRjRXWEppVlVWbWVtOVdXWGwzRWhkME0zWkZXVGxMZGtOeU1uTTFUbTlRZUU5MWRqQkJaeG9pUVVaZk5rMUJUVmRrTkcwelRUSllURGRVY1Zjd1pUTkVPRVJSU3pGdE4wNUpadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xNDI0LTIwMjMwMTE1LWJmMzlkMzQ3YTEwMjhiNGE4ZWUzZTcyM2FhNDliNTg4P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+1,Senior Data Scientist,CRODU,"Opole, Poland",via Trabajo.org,"Senior Data Scientist [140-200 zł/godz + VAT, B2B, 100% zdalnie]
+
+💸 Stawka: 140-200 zł/godz B2B 💸
+
+⏳ Czas projektu: długoterminowy ⏳
+
+🌴 Forma pracy: 100% zdalnie 🌎
+
+Cześć
+
+Poszukujemy doświadczonego Senior Data Scientist . Praca nad ciekawym projektem dla naszego stałego klienta, pioniera w branży sprzedaży internetowej z Nowego Jorku. Platforma będzie służyła do gromadzenia i przetwarzania danych.
+
+Ma to pomóc w zwiększeniu przychodów w sklepach.
+
+W projekcie będziesz mieć bezpośredni wpływ na budowanie i utrzymywanie rozproszonych potoków uczenia maszynowego. Twoim zadaniem będzie implementacja metod i rozwiązań optymalizacyjnych z użyciem modeli NLP.
+
+Wymagania:
+
+⚡️ Min. 3 lata doświadczenia z Natural Language Processing oraz doświadczenie w budowaniu modeli NLP dotyczących jakości produkcji
+
+⚡️ Wykształcenie wyższe na kierunku Informatyka, Matematyka, Statystyka lub pokrewne
+
+⚡️ Praktyczne doświadczenie i wiedza o trendach w dziedzinie AI
+
+⚡️ Znajomość PySpark, Spark, Python... Git, Linux będzie dodatkowym atutem
+
+⚡️ Mile widziane doświadczenie Airflow, SQL, NoSQL
+
+⚡️ Umiejętność budowania modeli optymalizacyjnych oraz tworzenia skalowalnych, przejrzystych rozwiązań
+
+⚡️ Doświadczenie w pracy z międzynarodowym zespołem
+
+⚡️ Angielski na poziomie umożliwiającym swobodną komunikację w grupie
+","[{'link': 'https://www.google.com/search?q=CRODU&sa=X&ved=0ahUKEwiS5_7Fzcr8AhU9FlkFHcT1C4o4FBCYkAIIiQs', 'text': 'See web results for CRODU'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6Ii1CbGF5SEV2Z0o0QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVOUWQycHFVV3hhUWtreFZrZFBhSGhJVG5SWmNFY3dSREZrVVZKb2RGSXpaMGhqVWs5VVdqQkdSVEpKWW1SblpFTldaSFV3Tm1sU2VsbDRXbTQ0WjNOb1pXSXRTblF6ZUVsRVQybExkams1TmtSaWVHRTBUMDkyTjFsZmNrZFpja2xUVDJsNFNXZHVVVVZVTWt4dGVGWXdVR3B0TVdaTGEwcFdRbW8xYjJwVlMyeG9WVm8xU0daSFJGWkRWRkpNU1dZMVNHTjRWR1J0TW0xdlpXWnFUM0pCRWhkME0zWkZXVGxMZGtOeU1uTTFUbTlRZUU5MWRqQkJaeG9pUVVaZk5rMUJUemxsWVZCamQzQlJjWEpmWldGRWEyRTBUV3RFVFd4TmJWRnBadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xMjU1LTIwMjMwMTE1LWM4NDBjZGRlN2FiOTc5MDZmYzgzMTY3NjE1ZDFkOTM0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+2,Data & Analytics Manager,NatWest Polska,"Warsaw, Poland",via Trabajo.org,"Join us as a Data & Analytics Manager
+• This is an opportunity to take on a leadership role in a cutting edge data and analytics team that puts the customer at the heart of everything it does
+• We’ll look to you to oversee and lead complex data-driven solutions which support changing business demand and deliver the best outcome for the customer
+• You’ll be gaining valuable leadership experience in a department with a well-established innovation culture and access to market leading analytics tools
+
+What you’ll do
+
+As Data & Analytics Manager, you'll be leading and developing a team of analysts tasked with delivering practical and valuable customer strategies and solutions that drive improved customer outcomes.
+
+You'll drive and recommend improvement opportunities to your stakeholders, embedding a customer-focused approach to analytics and the delivery of simple and effective solutions to complex problems.
+
+Day-to-day you’ll be:
+• Setting and embedding the strategic vision for the... adoption of new and emerging data solutions across the team
+• Building stakeholder relationships from across multiple franchises and functions, as well as with peers from across the data and analytics community
+• Challenging senior stakeholders to make sure data and analytics are embedded in everyday decision making
+• Overseeing and presenting analytical insights with clarity and conveying complex technical information in a way your audience can clearly understand
+• Driving better customer outcomes by ensuring and enabling access to data across the full customer journey
+
+The skills you’ll need
+
+We're looking for a data and analytics professional who can draw on their previous leadership experience, analytic skills and understanding of data and tools to provide effective solutions to complex problems.
+
+You’ll also demonstrate:
+• Specialist knowledge in data management to support analytics
+• A proven track record of senior stakeholder management, engagement, collaboration, and requirements analysis skills.
+• Excellent leadership, thought leadership, strategic thinking, and management skills
+• Experience in business intelligence tooling, platforming, concepts, and benefits cases, such as Tableau
+• Great organisation and planning and controls experience","[{'link': 'https://www.google.com/search?q=NatWest+Polska&sa=X&ved=0ahUKEwiS5_7Fzcr8AhU9FlkFHcT1C4o4FBCYkAIItgs', 'text': 'See web results for NatWest Polska'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFx1MDAyNiBBbmFseXRpY3MgTWFuYWdlciIsImh0aWRvY2lkIjoiV0p2T2JON0tZMHNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVU5RZDJwcVVWcG9kMFF0YXpGQ2MyRjJVM05pVUVkWmVYZE5ZMVZtY1VKeWNFRTBhMWMyU3pNeFpVTTJOMXBxWjFoV01IRndWbTVTTkZsWGVWVmFSemgxWkhVME0wOU9aR1EwU0dSUlR6bGpiV0UzYTA1NVoyZDFZa1JEUldKbVZYQmhVRXRPUlhwcVQzcDFhRTlDU1ZOSmJ6Y3hSMDFtV1ZBMFVWTlVOVlZ2WTNsR1IxVjVjR1ZrZDNoNVZHOHdOMlZNTVZkVlZFSjRlbEl5U0cxaFlYWTJZM2xPYm5KeVpEUXlaa05tVUVOa1MzbDVaVzUzRWhkME0zWkZXVGxMZGtOeU1uTTFUbTlRZUU5MWRqQkJaeG9pUVVaZk5rMUJVRkV3ZEZoVlNHaERSSEJ0UkRKQmVsaHRhSEZHTW1vMGRqVTNVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xNDI0LTIwMjMwMTE1LWI2ZGU5N2ZhN2VhNzBiYWQ0MThhNzM1MTQ4NWIzZjg2P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+3,Senior Data Engineer,ASTEK Polska,"Warsaw, Poland",via Trabajo.org,"SQL (master)
+Python (master)
+
+Senior Data/Analytics Engineer – 100% remote – up to 1200 PLN/day/B2B (Job contract also possible)
+
+Full-time
+
+Salary: (depending on skills and experience)
+
+1000 – 1200 PLN net+VAT/day/B2B
+
+permanent contract of employment is also possible
+
+You’ll join Decision Intelligence project related to development of the platform which is designed to support data product teams in building and managing the end-to-end lifecycle of data product use cases. It offers capabilities such as data ingestion, data modeling, transformation and data product publishing, backed up by data management tools and integrated security concepts and access control.
+
+Requirements:
+
+- 3+ years’ working experience in Python or R
+
+- knowledge of Snowflake & SQL
+
+- experience in data pipelines maintenance
+
+- experience with different types of storage (filesystem, relation, MPP, NoSQL) and working with
+
+various kinds of data (structured, unstructured, metrics, logs, etc.)
+
+- knowledge of cloud... technologies with emphasis on data pipelines (Airflow, Glue, Dataflow - but also other solutions of handling data in the cloud - elastic, redshift, bigquery, lambda, s3, EBS etc.)
+
+- knowledge of data serialization languages such as JSON, XML, YAML
+
+- knowledge of Git, Gitflow and DevOps tools (e.g. Docker, Bamboo, Jenkins, Terraform)
+
+- very good English – at least B2
+
+Please apply: akuczara@astek.pl
+
+You can also recommend your friends and receive bonuses up to 7000 PLN
+
+Details:
+","[{'link': 'https://www.google.com/search?q=ASTEK+Polska&sa=X&ved=0ahUKEwiS5_7Fzcr8AhU9FlkFHcT1C4o4FBCYkAII5As', 'text': 'See web results for ASTEK Polska'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciIsImh0aWRvY2lkIjoidFNxOVF6eUg0SFFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVU5RZDJwcVZHTlVRbk5qYUdOc1VGUnBhMnBJZEc0NWNGWlNiV3AxYURGUVkyMW9TRU40ZVVOUE5VMHlXalJVTjIxVmJVOXVNMmxoVEhCdGNVWlFPRE40UTFVNFRYaEhTV2RSYUhNeFRqaHBaME41TmpsUlpUZHhaVE5pV1ZkVmJHbE5SV2hGV2s5cFpIWTRMVGgxYm10TWIyTTJUSHAwVTNoVFIxTm9hbWQ0WVZkUU5UZEZZalF4TXkxelNWOUZZblo1U0hKYWVVVndNV3BLVUVKQ2RVRTNTVlZRYnpSNVlXOXhObEpvTFdaNFdrc3dXVFZWRWhkME0zWkZXVGxMZGtOeU1uTTFUbTlRZUU5MWRqQkJaeG9pUVVaZk5rMUJUVTFyWldwVVFsOHdPUzFQWWt3eWNWQlFURWhMT0c1alQxaGhkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xMjU1LTIwMjMwMTE1LTQyMWFkNzViMmJmNjAzMWRmMDQ4MTU5MDJmODYxM2Q4P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+4,Lead Data Engineer,Bayer,"Warsaw, Poland",via Trabajo.org,"At Bayer we’re visionaries, driven to solve the world’s toughest challenges and striving for a world where ,Health for all, Hunger for none’ is no longer a dream, but a real possibility. We’re doing it with energy, curiosity and sheer dedication, always learning from unique perspectives of those around us, expanding our thinking, growing our capabilities and redefining ‘impossible’. There are so many reasons to join us. If you’re hungry to build a varied and meaningful career in a community of brilliant and diverse minds to make a real difference, there’s only one choice.
+
+n
+
+Location:
+
+Enabling Functions
+
+Division:
+
+Enabling Functions
+
+Reference Code:
+
+671822
+
+Job Segment: Database, Network, Engineer, Technology, Engineering","[{'link': 'http://www.bayer.com/', 'text': 'bayer.com'}, {'link': 'https://www.google.com/search?q=Bayer&sa=X&ved=0ahUKEwiS5_7Fzcr8AhU9FlkFHcT1C4o4FBCYkAIIkgw', 'text': 'See web results for Bayer'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgRW5naW5lZXIiLCJodGlkb2NpZCI6Im9mOFdRRFBqVDBFQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVOUWQycHFVVFpLUTBKak1tVjNZbGh6UkVSSlRuZFdValI1WDJwSWFrTkthMHRuV2tsSWVEQTJXVGh2YW1wUFIwcHpTREEwVWtjNVNGVjBjR3c1VEV4MVZtaHBOekEyT1hsbU0xazNhbXgyUnpOVGJrUlpUbVJLVDNkMUxXMU5NV2xHY0ZrMU1YcFRSMmhWYVZacmVUZzBUbFl4UmtGbE0wdHNWakJHYlZSRVVVZFRNbVp4VjBKMU5EQlZZUzFsZG00NVIzUklPR1l5Wm5kbmREZEtaVFpSUW14ZlVHWlJORnBNTXpBNFVGcGhSMFZGYUZkdkVoZDBNM1pGV1RsTGRrTnlNbk0xVG05UWVFOTFkakJCWnhvaVFVWmZOazFCVFdkWFZrUnNkVFptV2pNdE4wWlpNbU5uTVVsc1duVnRRa0pYWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY182IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTQyNC0yMDIzMDExNS1mMjEyZjNlNWZiOGM1MzRhNWRmODExZDIyNTQxMzMxYz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+5,Data Analyst Specialist,PPG,"Wrocław, Poland",via Trabajo.org,"As a you will be responsible to work with business analists to review/analise business requirements, assist PMs with task/workload/timeline assessment, work with Data Analists for required DWH modifications and Power BI model/report development, prepare technical specifications - cooperating with EMEA Team.
+
+Key tasks and responsibilities:
+Study, analyze and understand business requirements in context to business intelligence. Transform business requirements into technical specification Design and map data models. Build multi-dimensional data models using SQL (Databricks) and Power BI Run/develop DAX formulas and expressions in Power BI Utilize Power BI to build interactive and visually appealing dashboards and reports Perform detailed analysis and validation on SQL databases and Power BI models Analyze data for better decision making Develop strong data documentation about algorithms, parameters, models
+
+Basic requirements (education, experience)
+A four year degree or higher in... Information Systems Management, Computer Science, Engineering 2-4 years of PowerBI development experience Experience with Microsoft BI stack Analytical and conceptual skills Comfortable working remotly
+
+General skills/competencies:
+Strong oral and written communication skills Good English communications skills , written and verbal Good teamwork and collaboration skills
+
+Specialist skills/competencies:
+
+Must Have:
+Technical language related to Data and Reporting (English) Database/table building skill (SQL) Data analytics skills (SQL, Power BI, Excel) Power BI Data Model building skill Report Building skills (Power BI, DAX) Excel
+
+Nice to have:
+IBCS knowledge General knowledge of ERP systems
+
+Personal characteristics:
+Good self-organisation skills Attitude of conscious improvement and desire to learn new technologies Analitical skills Work under pressure","[{'link': 'https://www.google.com/search?q=PPG&sa=X&ved=0ahUKEwiS5_7Fzcr8AhU9FlkFHcT1C4o4FBCYkAIIvww', 'text': 'See web results for PPG'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgU3BlY2lhbGlzdCIsImh0aWRvY2lkIjoiOWtHUlE5bEZtcWtBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXVJQkNxSUJRVU5RZDJwcVVsSlNOMHhVTWpCS1oxRjFjREZ2U1cxdWFqUnFOa1V0YkdKVWRuVm9lSGQxWVd0TGQxUlJUR1oyTkdJMmFWZHZjMlpXY2xkR2NXcEZXRE5NTkVkaWRrZzRTV05oT1VNd2EwaG1ja0o0ZDFkWGFIWlpWWGhNV1dSVGVIaFBaM2s1TjA0dFdEQTRiMDQyV0VSaVJtd3pkMnBpVVhsbFQwUTVkVmxLV0RSWGJ6ZEZkRFpVV205bWRqSlRMVFphVlVKQlgzSTJjVmRpVURFd04yVkJFaGQwTTNaRldUbExka055TW5NMVRtOVFlRTkxZGpCQlp4b2lRVVpmTmsxQlVIRlpjRkJRWTBvMWNYcHpUbVpKYlY5SmVVSnFNMGR3TnpOamR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTE0MjQtMjAyMzAxMTUtMTA2ODE4NmFmOGM3YmZlYWUyODdmNjU0ZjZlNjFhODE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+6,Senior Data Analyst,FlixBus,"Warsaw, Poland",via Trabajo.org,"We are looking for a motivated and determined Senior Data Analyst who will use the latest technologies and sophisticated concepts to shape the data landscape in Ancillary Services and take our team and the company to the next level.
+
+Your Tasks – Paint the world green
+You shape the standards for online data collection in e-commerce for Ancillary Services on a global level and are the specialist for data analytics, data modeling and data visualization in our team You create and develop the methods and tools for our performance management and provide or further develop regular reports and dashboards for monitoring our product portfolio You create data analyses and models as a basis for decisions on the further development and optimization of our product offering You enjoy your creative freedom in developing solution concepts for problems and proactively work with product experts, BI and the agile development teams to identify suitable data sources, collection methods and data... connections and ensure high data quality You will support us in the development of the dynamic Ancillary Pricing concept and develop business rules as well as alert systems for price control You are responsible for the data migration to Snowflake and actively drive automation processes forward You communicate and present analytical approaches and results in a way that is appropriate for the target group
+
+Your Profile – Ready to hop on board
+You have a successfully completed university degree, preferably in the field of business administration, mathematics, statistics, social sciences, business informatics, economics or similar You have professional experience as a data analyst, business analyst, data scientist, controller or in a comparable position and are ideally familiar with the analysis of digital products You are experienced with A/B Test definition, set-up and especially analysis, used to work with CVR data, MDE etc. You have strong analytical skills and are enthusiastic about complex data structures and algorithms You bring very good knowledge of SQL, ideally you are proficient in a programming language (e.g. R or Python) and have the will to develop it. Experience in the use of cloud-based infrastructures is an advantage You are familiar with common methods and tools for cleaning and merging different data sources as well as data preparation and visualization (e.g. advanced knowledge in PowerBI or Tableau) You have a good understanding of business contexts and a quick grasp of complex issues You have strong communication skills and a high degree of initiative You have a good command of German and English, any other foreign language is a plus
+
+Our Perks – More than just a job
+You have an impact. With innovation and smart technology, we are creating the easiest way to travel. We want your ideas and give you autonomy to make them reality.​ Flix is flexible. Organize your own schedule, and balance work between the office and home as it’s best for you. We give you trust-based hours and a flexible smart working policy. Travelling is our passion. Discover the world with your free Flix rides and bring along your friends and family for half price. Teamwork makes the dream work. Our FlixTeam has people from over 80 different nations. We work in a multicultural environment where we can challenge and support each other. We're not only green in color. We’re building for the long term, and that means protecting our planet. We constantly test new green technologies and compensate for the CO2 after all our business travel since 2018. Your well-being is important to us. To treat your mind and body we will give you a competitive paid time off package, mental health support including 1:1 consultations with a psychologist, and a neat discount on sport memberships.
+
+Want to rewrite the history of mobility with us? Then join our ride and apply now. We're excited to hear from you","[{'link': 'http://www.flixbus.com/', 'text': 'flixbus.com'}, {'link': 'https://www.google.com/search?q=FlixBus&sa=X&ved=0ahUKEwiS5_7Fzcr8AhU9FlkFHcT1C4o4FBCYkAII7Qw', 'text': 'See web results for FlixBus'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJuNEI0U1plb2Zwb0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVkZWbFdXMHplVkZuZEc0NVNrbFdVa0ZrT0V0a01sTndSbkJYU25oTU5XTkdjRGhWWlUxVVZ6Sm9kblZzUldaNGJtbFlMWFZHU21vNVJHWTNWekUxWDA5RFJHOXlVVGx6TlZwamJHRmFkbGx1WDFNelREZDJVMnRxYVdjd1FURnVSbFIyVW1kMk9XNUNlRFpQWlRCMlJXcExObXhxV0RWSlEwSkNPWFIyYjJsaE4zTkZNbXBGWVRZNFpFeFNSRWs0ZFZGalkwVkpSM2hOWmtsTmRsaHdTbWg2VmtGS1pHVnNPWEo2TTE4elJVa3dFaGQwTTNaRldUbExka055TW5NMVRtOVFlRTkxZGpCQlp4b2lRVVpmTmsxQlVHbHdkbE15TlROSVZWcENaa1ZhWmxSMlYyWnNVbkZZUzFvM2R3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTE0MjQtMjAyMzAxMTUtNzljMjhhYjkwMjY3ZTc5NjEzOTg2YTM4MGM5ZGFhNDI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+7,AI Scientist with psychometrics,Pearson VUE,"Poznań, Poland",via Trabajo.org,"Position : (Senior/Mid) AI Scientist with psychometrics
+
+Role : Full time, 40 hrs/week, Contract of Employment
+
+Salary : 15-20k PLN Gross/month,
+
+Location : Poznań (hybrid) or fully remote from anywhere in Poland
+
+Applications:
+
+Send your CV and Cover letter (optionally) in English.
+
+When applying, please let us know if you have a legal right to work in the country in which the job is based.
+
+Pearson is an Equal Opportunity and Affirmative Action Employer and a member of E-Verify. All qualified applicants, including minorities, women, protected veterans, and individuals with disabilities are encouraged to apply
+
+About you & skills that will help you to be successful in this role
+
+Experience in applying psychometric models in commercial products
+
+Strong proficiency in mathematical statistics
+
+Knowledge in areas of psychology and/or cognitive sciences
+
+Proficiency with Python and machine learning tools like TensorfLow, PyTorch or MLFlow
+
+Knowledge of a variety of machine learning... models
+
+Familiarity with MLOps concepts and tools, Git, Linux and public clouds, esp. AWS
+
+Experience in working with non-technical stakeholders
+
+Presentation, collaboration and mentoring skills
+
+Your daily work:
+
+R&D on an adaptive (personalized) learning system used in multiple e-learning platforms and mobile apps across Pearson
+
+Occasional work on spikes and proof-of-concepts in other areas covered by our team
+
+In some cases, coordinating efforts of your subteam
+
+We got for you a great range of benefits
+
+Experience the state-of-the-art solutions: NLP techniques and models 
+
+Work with dedicated AI Team
+
+Work in a global environment and grow your professional network 
+
+Unlimited access to rich sources of knowledge (Coursera, A Cloud Guru, Safari Books…)
+
+Attractive benefits including MultiSport Card, cinema and theatre tickets, touristic excursions, etc.) 
+
+Private health care, accident insurance for you and your family 
+
+Opportunity to master your English skills at daily work and/or by taking companywide English classes 
+
+Work-life balance, Flexible working arrangement
+
+Remote work or hybrid (Poznan) work as option 
+
+Paid leave for volunteer purposes 
+
+PPK at 4%
+
+Annual bonus based on performance
+
+Annual Christmas funding
+
+Holiday funding (biennially)
+
+Invest and Earn money and/ or become a shareholder with Pearson Worldwide programme ‘Save for Shares’
+
+About the AI Learning Capabilities (AILC) team
+
+The AILC team at the Pearson Poznań office is a part of an international R&D unit that creates AI Learning Capabilities ( systems that use AI methods to facilitate the process of human learning). The team consists of Data Scientists, Research Engineers, and Technical Project Managers.
+
+Our role is to:
+
+Design, build, and continuously improve customer-facing Intelligent Learning Capabilities across Pearson.
+
+Provide technical leadership in the application of AI at Pearson.
+
+We specialise in two main types of intelligent capabilities:
+
+Adaptive modelling & diagnostic capabilities that fast-track learners through a course of learning and identify struggling learners.
+
+Natural language processing-based assessment capabilities that evaluate a learner's soft & hard skills through text or speech.
+
+In our work, we often innovate around implementing psychometric ideas using the latest machine learning methods and prototyping innovative natural language processing methods. .
+
+ by sponsoring conferences (ML in PL, Why R?, GHOST Day, Cloud & Datacentre Day), hosting meetups with the Women in Machine Learning & Data Science organisation, and hosting our own series of open talks & workshops.
+• About Pearson *
+
+Did you know Pearson is one of the 10 most innovative education companies of 2022? 
+
+At Pearson, we add life to a lifetime of learning so everyone can realize the life they imagine. We do this by creating vibrant and enriching learning experiences designed for real-life impact.
+
+We’re on a journey to be 100% digital to ensure we can deliver direct to consumers everywhere. This has only been accelerated by COVID-19. To meet the changing needs of the global population we have developed a new strategy with ambitious targets.
+
+At Pearson, we are focused on delivering the best products and outcomes to more people than ever before by leveraging technology, such as the Pearson Learning Platform
+
+Your Personal Data
+
+The Administrator of your personal data is Pearson Central Europe sp. z , headquartered in Warsaw, 8 Szamocka St. (PCE).
+
+Your personal data is processed based on: GDPR Article 6(1)(A) - your consent (applies to data provided in the application, over and above other grounds for processing), GDPR Article 6(1)(B) - actions taken at your request, prior to the conclusion of a contract (aimed at concluding a contract), limited to the scope indicated in the legal provision (Article 22 par. 1,3,4 of the Act - Labor Code); GDPR Article 6(1)(F) - PCE's legitimate interest, related to possible establishment, investigation or defense of claims against PCE (GDPR Article 82(3)); Your personal data will be stored for a period of 3 years after the end of the recruitment process. You have the right to access the content of your data and the right to rectify, erase, limit processing, the right to data portability, the right to object, the right to withdraw consent, the right to be forgotten. You have the right to lodge a complaint with the President of the Office for Personal Data Protection if you consider that the processing of personal data concerning you violates the provisions of the GDPR. Your provision of personal data is voluntary, but necessary for the purposes of processing. The consent you have given may be withdrawn at any time, which will be equivalent to the cessation of processing of certain data. Your data will not be subject to automated profiling.
+
+PCE may transfer your personal data to a third country, including outside the EEA, which is related to Pearson's policy and the IT tools used. Personal data may be made available to authorities authorized by law and entrusted under a written entrustment agreement to entities providing services on behalf of PCE.
+
+Job: RESEARCH AND DEVELOPMENT
+
+Organization: Direct to Consumer
+
+Schedule: FULL_TIME
+
+Req ID: 9135","[{'link': 'http://www.pearsonvue.com/', 'text': 'pearsonvue.com'}, {'link': 'https://www.google.com/search?q=Pearson+VUE&sa=X&ved=0ahUKEwiS5_7Fzcr8AhU9FlkFHcT1C4o4FBCYkAIImw0', 'text': 'See web results for Pearson VUE'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJBSSBTY2llbnRpc3Qgd2l0aCBwc3ljaG9tZXRyaWNzIiwiaHRpZG9jaWQiOiJvOG9xb2VKc05sUUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVTlFkMnBxVW5BdFlVTmlkVzVwUTJsek5rbDZPVTVuVVV0clJrVlZhbWhSYm10WU0wWTJhelJJTlc1QlZFVmhOazFHVTJGMlZpMTNNa0ZaWTE5SWFHSm5TR2hZWjFWUVdtNDBlVzV1ZVRsTVdEaGZabkpyVFRsWWExVTNXWGxJT1VGWlRVRmxhamxhYmxoaFdsRXplVTh0TmpjMFRtdFJlRmszUWsxYVgzUjFjVFJZWjNSTlpGcHhTVk5UWTA1T2JUTk1ZVTl0UzBrM04ydHNNRzQwWkROU1RURkRla1kzWkVoSmNIZHdXbTFoVkVaV2FERjBXbWxCYldWT2REUlBUbXRJU0ZoR2NXeEdWbXBqRWhkME0zWkZXVGxMZGtOeU1uTTFUbTlRZUU5MWRqQkJaeG9pUVVaZk5rMUJVRGhpVEZwQ1JrbzVhRU5ZWW1Vd1oxYzRSVVZvUzBWSGRGUkdVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTQyNC0yMDIzMDExNS1lZjFhMGM2NTc0YzRjOGM5YzRkYzc0Y2Q4OTg5ZTYyNz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+8,Data Engineer,Elekta,"Warsaw, Poland",via Trabajo.org,"Are you a current Elekta employee?
+
+Please click here to apply through our internal career site .
+
+Want to join a team with a mission to improve and save lives?
+
+We continually look for motivated and skilled individuals who are interested in supporting our customers – healthcare professionals who use our products to help patients and their communities.
+
+We currently have the following opportunity available - please contact us for more details
+
+For almost five decades, Elekta has been a leader in precision radiation medicine. Our nearly 4,000 employees worldwide are committed to ensuring everyone with cancer in the world has access to – and benefits from – more precise, personalized radiotherapy treatments. Our solutions for cancer care and brain disorders are tailored to target the tumor and protect the patient.
+
+Elekta Business Services Sp. z o. o., Elekta’s Global Business Service Center is a Team based in Warsaw that provides recommendation of global best practices and ensures that... improvement initiatives are delivered globally in consistent and quality-based way through standard processes and competent staff. Continuously since 2016 with our expertise and deep dive into root-causes of every issue we may encounter we support areas of Finance, QA&RA documents control, Logistics, IT and Service Operation.
+
+Description –
+
+General scope of activities involves working as part of a global team responsible for creating and maintaining full end-to-end Data Solutions
+
+You will work with the business functions globally in Elekta to understand their requirements and translate these into actionable Data projects that you deliver. This covers all aspects of the development life-cycle, including requirements analysis, development and testing of the solutions.
+
+The maintenance and support of Elektas’ existing ETL, Data Warehouse and BI solutions is also key in this role.
+
+Elekta’s Data and BI Solution uses MS Azure, SQL Server, Qlik Sense and other web / cloud technologies.
+
+Responsibilities
+Contributing towards data solutions in line with the data strategy, architectural vision, and roadmapDeveloping and maintaining ETL and data warehousing solutions in Azure and on-premProvide technical coaching and training to other ETL developers and data engineers within the teamSupporting legacy system decommissioning and migration activities to reduce technical debtAssist in maintaining the content of the solutions catalogue and data libraries.Creating structured, clear data definitions and design documentation.maintain good and open communication with the business requesters.Responsible for developing and maintaining BI Solutions.
+
+Relevant Knowledge, skills and competencies
+Ability to gather requirements and to help business requesters to define their reporting needs.General knowledge of business solutions like ERP, ELM, PLM and/or CRM systemsAbility to communicate in business, technical and data user termsETL process / Data Pipeline development & deployment (Azure Data Factory, Databricks and other related technologies)RDBMS / Data warehousing and Data Modelling (MS SQL Server / Azure SQL DB or similar essential)Power BI or other visualization and reporting toolsSelf-motivated and commitment to best practice solutions.Some experience of c#, .Net or Python beneficial.Able to work with a low degree of supervision and deliver what is required.Fluent in spoken and written English.Fit with Elekta business culture.Bachelors in Information Technology, or other relevant degree ( Desirable)Knowledge / experience in preparing user documentation (Desirable)Excellent troubleshooting and problem solving skillsShows initiative and creativity in solving problemsAnalytical natureExcellent interpersonal and communications skillsAn organised self-starter with a positive, can-do attitude who is attentive to detail.Experience of working across culturesITIL Knowledge (Desirable)Additional European Language desirable but not essential
+
+We offer
+possibility to develop professional skills in a dynamic, international environmentmedical carelife insuranceEAP program - psychological supportMyBenefit Cafeteria or Multisport cardpension program (Pracownicze Plany Emerytalne)flexible working hourstraining programsworking in hybrid model","[{'link': 'https://www.google.com/search?q=Elekta&sa=X&ved=0ahUKEwiS5_7Fzcr8AhU9FlkFHcT1C4o4FBCYkAIIxw0', 'text': 'See web results for Elekta'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJVOTNKbWZQOTM5TUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdUlCQ3FJQlFVTlFkMnBxVTFaYVRFdENUamxoTUU0NGJVdEZkMUJhVUZZMVZrcGhaemhDT1RoRFdYUk9RbWt3TWxsVlowZHJZMFEyZUdocVEwZEtlWEZpYlZweUxYVmFUWEJ1VFcxRFNuUlRSMHR6ZDJGcmJuZFpiM0J3TVhsTFMzTTFObWRhYlROQlIyaHFZVFp0TnpabVFXSmhOWFpuTlhwdE16Vk1TMVpNV0ZadFFXaFZiMG8wU1VweVNEZFliSGR6Y0VJMGFYWTVka2xNT1hKVVdESnhSVTVITVhwUkVoZDBNM1pGV1RsTGRrTnlNbk0xVG05UWVFOTFkakJCWnhvaVFVWmZOazFCVDBNd2VTMVlVRmxoYlVad1lqWjZUVlk1VFhKcFdVUXlkRkJZVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTE0MjQtMjAyMzAxMTUtMWU3ODg0ZTBjYjA4NDlkMWZhODVjNjM0NGQzN2Y1OTc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+9,Senior Data Engineer,Ryanair,"Wrocław, Poland",via Trabajo.org,"Ryanair Dublin Base - Cabin Crew Rehire Programme
+Location Dublin, Ireland Job Ref MDDUBBASE Department Cabin Crew
+
+Description
+
+Have you previously flown as Cabin Crew on Ryanair Aircraft? Are you missing giving Ryanair guests the best inflight customer service experience in Europe? If the answer is yes, then we would be delighted to hear from you
+
+Over the next 12 months, our Dublin base will experience its busiest schedule ever. With this in mind, we would be delighted to hear from previous Ryanair crew who are interested in continuing their career with Europe's favorite airline. This is a fantastic time to re-join the Ryanair Group as we grow towards 225m guests by 2026 & you will have access to fast track career opportunities that you would not receive in any other airline.
+
+What we can offer
+Direct Ryanair Contract New Joiners allowance Fast Track Promotional Opportunities Paid Training – up to 7 days required conversion training
+
+Requirements
+
+To apply for this position you... must have previous experience working as cabin crew for the Ryanair Group (B737 Aircraft Type)
+
+We look forward to receiving your application
+
+Full Details
+Location:Dublin, Ireland Employment Type: Industry:Airlines/Aviation Function: Experience: Education","[{'link': 'http://www.ryanair.com/', 'text': 'ryanair.com'}, {'link': 'https://www.google.com/search?q=Ryanair&sa=X&ved=0ahUKEwiS5_7Fzcr8AhU9FlkFHcT1C4o4FBCYkAII9g0', 'text': 'See web results for Ryanair'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciIsImh0aWRvY2lkIjoibzNOYzRtbkJHcFFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVU5RZDJwcVZFZFdTbGQxZFVwR1NrZ3hOakIyVlhSTlZtTjZaRmRXVVhGdGNHRjRkR1o2Y2tsQlkyWjFRM3BCZURsQlNqVmlaRWhUT1ZWUlNYTkxUV0pOUmxSc1ZYSXhSbWR6UldzeVoxbDBOMnRSY1UxMWIzcFBhWFJ0ZDJwWlJYb3RXazR6ZEZSc2NEQldkRmMyY25wc2RGQkZOMFoyT0ZKdlRHdDZSSE0xVFc5VVlVbHpjRVZ5VlRKb1RTMVFka3BTVURSYVdHSTNaMWxJUnpoQ2F6UnFkMHRKVGxGck1HTkNORVIwY3pCSU4xQkpaRVJORWhkME0zWkZXVGxMZGtOeU1uTTFUbTlRZUU5MWRqQkJaeG9pUVVaZk5rMUJUbTVXYVdnMlFrMXJhRmx2TkdGVk4yWnpVbEl3WnpFMlVqRk1adyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE0IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTkzNS0yMDIzMDExNS1jZGZkZTNkMzJhMzE2OTFiZGIyYTQ4ZWYxMTlkMmY0OT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+0,Data Analyst,Finder,"Wrocław, Poland",via Trabajo.org,"Wroclaw
+
+Role Overview:
+
+We are looking for a Data Analyst who will support our product teams with insights gained from analysing company data. The ideal candidate is adept at using large data sets to find opportunities for product and process optimisation and to test the effectiveness of different courses of action.
+
+The role’s purpose is to supercharge Finder’s data capabilities through the design, deployment and improvement of analytics capabilities.
+
+They must have a proven ability to drive business results with their data-derived insights. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+
+Responsibilities:
+
+As a Data Analyst at Finder, you will partner with stakeholders to build scalable infrastructure and a central hub of datasets and dashboards for the comparison business. This will... support data-driven decisions and insights that translate directly to accelerate business growth and product improvement.
+Work closely with the product, engineering, client services and publishing teams to support their decision making process with facts, insights and recommendations Gather the requirements and determine the best course of action for analysis Define a robust set of datasets and dashboards to support key business processes, e.g., forecasting, quarterly business planning etc. Use the data to identify insights to inform hypotheses and test ideas. Plan, and prioritise insights that drive Finder targets and ROI. Analyse and evaluate A/B tests, report on results and recommend next steps Build and maintain self-serve dashboards for internal and external stakeholders. Train crew with dashboards / self serve analytics when needed. Support company growth by discovering, analyzing and communicating the critical user behavioural data
+
+Desired Experience and Skills:
+Experience working with large-scale data sets Experience of data analysis, cleaning or visualisation (for example using SQL, Python, spreadsheets or other technologies) Experience in data modeling and enterprise Digital Analytics such as Snowplow, GA360 Experience with modern data warehousing solutions (we use BigQuery) Admirable team player qualities, including being collaborative, respectful, and service focused A willingness to learn and apply various data analytics methodologies A genuine passion for data and drive to communicate using data Demonstrated analytical problem-solving skills and expertise Demonstrated ability to pull apart complex data and communicate it to a non-technical audience
+
+Nice to have:
+Familiarity with dbt and GitHub Deep understanding of building and maintaining data pipelines and assets, through robust change control. Ability to work in an unstructured environment, navigate ambiguity, bring clarity and structure as you go. Ability to create and foster strong cross-functional networks and manage without authority. Excellent presentation and communication skills","[{'link': 'https://www.google.com/search?q=Finder&sa=X&ved=0ahUKEwieg8rGzcr8AhXyFVkFHfVjAaM4HhCYkAII3Ao', 'text': 'See web results for Finder'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IlBScG1ydlo3NU04QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVOUWQycHFVVFZRUVdwTGFVRXpXV1V0WW5ZMWFVSmhWbXBOVkZwdldFSm1URXh0WjBKb1NsTkVhMjQyYldKdFExbFVjRmN4ZVhCWVZqTnBOV2h1ZUV4ZmJWRjRaMVpQWlZaMVpsbEVNMjF0Y2t4S1VVOVBZbkY1WldWeE1HbzBTbVpmYW5OSU0yWkJVRTR0YjJ4VU5VYzFSMk52WkdOVVREWmZRMm96VlcxV2QwWlhVR1ZYYjJ4RVQxUm9kbkJtU1VOR05HcGljMlUxVnpkV2JVbHdaaTFSRWhkMVNIWkZXVFUzU0VkUVMzSTFUbTlRT1dObFJtMUJieG9pUVVaZk5rMUJUWE5NVjJ0UGFGcHpkMjh0ZGpRd1JFRjVlVTVUUlhkNVVWTkJVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xNDI0LTIwMjMwMTE1LWNlMWUzZTQ1MDYyMzlhYjlkNThkMzBmM2Q4ODZkYTUzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+1,Senior Data Engineer – Cloud Solutions,Aptiv,"Kraków, Poland",via Trabajo.org,"The Senior Data Engineer will be a key member of Aptiv Connected Services’ Data & Analytics team. The position will support product management, software developers, data architects, data scientists, and MLOps engineers and will ensure delivery and maintenance of self-service, automated, standardized and cloud-based data products.
+
+Your Role
+Participate in requirements gathering, technical specification, design and development of automated, standardized, scalable and portable end-to-end data platformDesign, re-design and build service-based infrastructure for improved scalability and operational efficiency by optimizing the extraction, transformation, and loading of data from a wide variety of data sources using ‘big data’ technologiesCollaborate with data scientists, architects, software developers, MLOps and DevOps engineers on anything related to the data platform, from ideation, prototyping, to implementation and post-productionWork with large and fast-evolving data from connected... vehicles on multiple cloud platforms and external systemsHave a data-centric instead of application-centric mindset. Use whatever techniques necessary to store, retrieve, and process (big) data efficiently, cost-effectively while being compliant with regulationsPerform research and proof of concepts on MLOps-related technologies, tools, and approaches
+
+Your background
+University degree in computer science, information technology, mathematics, statistics, or related technical field (STEM)Understanding of computing and networking fundamentals, such as CPU/memory usage, TCP/IP, and distributed systemsHands-on experience in working with at least one of the cloud environments such as GCP, AWS, or Azure in a production setupHands-on experience with programming languages such as Python, Java, Bash, etc.Experience with SQL relational databases and at least some knowledge of NoSQL databases (e.g., MongoDB, DynamoDB, Cosmos DB)Familiarity with agile development and lean principlesWillingness to collaborate and share knowledge with teammates
+
+Benefits
+Hybrid work in Kraków or remotely anywhere in PolandSmart Office, with interactive areas for mixed online and offline presence (touch screen TVs, etc.)Startup essentials: high-quality coffee, tea and chocolate, playroom, chill-out areas, fruits, and snacksTraining budget for all employees, ability to attend and present in conferencesPossibility to travel to the US a few times a year to meet the extended team (post-COVID)Competitive health benefitsDiscount programs with various car manufacturers and retailersMeaningful work that makes a difference in the worldRelocation assistance (if applicable)
+
+Get a list of benefits such as private health care, child fund, life insurance, Employee Pension Plan (+ 3,5% on each gross salary), trainings, sports activities Multisport card and hybrid type of work.
+
+#ACS
+Some see differences. We see perspectives that make us stronger.
+
+Diversity and Inclusion are sources of innovation and creativity, both of which are essential to Aptiv’s success. Everyday our diverse team comes together, drives innovation, pursues solutions, and meets challenges using their unique abilities, perspectives and talents, changing what tomorrow brings. When you join our team, you’ll get encouraged to think boldly, express your viewpoint and innovate as a matter of habit.
+
+Some See Technology. We See a Way to Make Connections.
+
+At Aptiv, we don’t just see the world differently; we work to change reality. That means developing technology that rewrites the rules of what’s possible in the pursuit of making transportation safer, greener and more connected. Today there are more than 180,000 of us globally, located in 46 countries, and united by one mission. Join the movement and together, let’s change tomorrow.
+
+‘We are one of the largest vehicle technology suppliers and our customers include the 25 largest automotive original equipment manufacturers (“OEMs”) in the world. We operate 127 major manufacturing facilities and 12 major technical centers utilizing a regional service model that enables us to efficiently and effectively serve our global customers from best cost countries. We have a presence in 46 countries and have approximately 18,900 scientists, engineers and technicians focused on developing market relevant product solutions for our customers’
+
+Aptiv is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law","[{'link': 'http://www.aptiv.com/', 'text': 'aptiv.com'}, {'link': 'https://www.google.com/search?q=Aptiv&sa=X&ved=0ahUKEwieg8rGzcr8AhXyFVkFHfVjAaM4HhCYkAIIiws', 'text': 'See web results for Aptiv'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciDigJMgQ2xvdWQgU29sdXRpb25zIiwiaHRpZG9jaWQiOiJMWDAyb21LMi1YVUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVTlFkMnBxVkZWbGFYbFNhMnh5TVZWcVgyc3dhM2xUYjNneFdFeHFXRTl3UTJZMGEwSXhiVEZwVGtvNE5rOWZkVk5DWkVsMlNHcDNWbTlsYUdOSVdFTlFaRU40TUdOM2VYVXRkWHBwVm5sT09EVXdTemhMVEd4SU1XSjFWMVZPV2tWWmRrSk1WMDlmYkMxeFMzRkpUazlITjFFdFMxUktiMWxhYlVkclNqQXRTbGR0WmpsSFZXRklPWGx1ZWxOYUxWazVUa0puVFcxcGJIRmpSbTlhYWxSUmJ5MW5ZV1l3YkhwcFNHNTZSRXAyYzE4MFFUQnpiVEJDUVdWeFdFbG5TVTh0ZFRNelJtTlBjRGR0RWhkMVNIWkZXVFUzU0VkUVMzSTFUbTlRT1dObFJtMUJieG9pUVVaZk5rMUJUMDk0WDNneGNISXlialp3Ym05UWFtTnJaMmhEYm1oNmVHdERkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xNDI0LTIwMjMwMTE1LWZhYTczMTdjNjc3ZDkzYzc2MjNiNDZhZTZjMDMwNGZlP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+2,Lead Software Engineer for Machine Learning and Advanced Analytics,Nike,"Gdańsk, Poland",via Trabajo.org,"Become a Part of the NIKE, Inc. Team
+
+NIKE, Inc. does more than outfit the world’s best athletes. It is a place to explore potential, obliterate boundaries and push out the edges of what can be. The company looks for people who can grow, think, dream and create. Its culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers, leaders and visionaries. At NIKE, Inc. it’s about each person bringing skills and passion to a challenging and constantly evolving game.
+
+NIKE is a technology company. From our flagship website and five-star mobile apps to developing products, managing big data and providing leading edge engineering and systems support, our teams at NIKE Global Technology exist to revolutionize the future at the confluence of tech and sport. We invest and develop advances in technology and employ the most creative people in the world, and then give them the support to constantly innovate, iterate and serve consumers more directly and personally... Our teams are innovative, diverse, multidisciplinary and collaborative, taking technology into the future and bringing the world with it.
+WHO ARE WE LOOKING FOR
+
+We seek passionate Lead Software Engineer with DevOps twist to build Nike’s robust advanced analytics and machine learning solutions that have a direct impact on the business. You should have a demonstrable history of team leadership and value delivery and be comfortable working in a product model using Scrum. As a Lead Software Engineer, you will be expected to own projects end-to-end - from conception to operationalization, demonstrating an understanding of the full software development lifecycle. As a result, you will be expected to provide technical vision and guidance to your teammates; therefore, strong communication skills are critical in this role.
+WHAT YOU BRING
+
+6+ years of professional experience in software engineering, data engineering, machine learning, or related field
+
+Ability to write robust, maintainable, and extendable code in Python
+
+Experitse in developing and managing REST APIs
+
+Expertise in relational SQL
+
+Expertise in cloud architecture and technologies, preferably Amazon Web Services, Kubernetes, and Docker
+
+Expertise in technologies like Jenkins, Apache NiFi, Apache Airflow, Postgres, Redis, or IaC tools would be an advantage
+
+Expertise in agile development and test-driven development
+
+Good understanding of principles of solution architecture and technical design
+
+Effective communication skills (with team members, the business, and in code
+
+We are looking for candidates who enjoy a collaborative and academic environment where we develop and share new skills, mentor, and contribute knowledge and software back to the analytics and engineering communities both within Nike and at-large.
+WHAT WILL YOU WORK ON
+
+If this is you, you’ll be working with the Advanced Analytics and Machine Learning (AAML) team at Nike. With teammates in Portland, Boston, China, and Poland, you’ll be joining a global organization working to solve machine learning problems at scale. You’ll be designing and implementing scalable applications that leverage prediction, image recognition and natural language processing models to deliver data driven decisions that result in immense business impact. You’ll also contribute to core advanced analytics and machine learning platforms and tools to enable both prediction and optimization model development.
+WHAT NIKE OFFERS
+
+Relocation support if you are moving to Gdansk area from a different part of Poland or from another country
+
+Health & well-being benefits: sports costs covered, fully subsidized medical plan including eligible dependents.
+
+Summer hours which allow employees to leave the office on Friday at noon all Summer long
+
+Performance Sharing Plan
+
+Financial benefits: group life insurance, disability & accident insurance
+
+Company product discount
+
+Casual and international work environment
+
+#Li-EMEA
+
+NIKE, Inc. is a growth company that looks for team members to grow with it. Nike offers a generous total rewards package, casual work environment, a diverse and inclusive culture, and an electric atmosphere for professional development. No matter the location, or the role, every Nike employee shares one galvanizing mission: To bring inspiration and innovation to every athlete* in the world.
+
+NIKE, Inc. is committed to employing a diverse workforce. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability","[{'link': 'http://www.nike.com/', 'text': 'nike.com'}, {'link': 'https://www.google.com/search?q=Nike&sa=X&ved=0ahUKEwieg8rGzcr8AhXyFVkFHfVjAaM4HhCYkAIIuQs', 'text': 'See web results for Nike'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJMZWFkIFNvZnR3YXJlIEVuZ2luZWVyIGZvciBNYWNoaW5lIExlYXJuaW5nIGFuZCBBZHZhbmNlZCBBbmFseXRpY3MiLCJodGlkb2NpZCI6InJHOHBVRmNjbGJnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVyY0NDdmNCUVVOUWQycHFVak41VjE5elpGRXdWR3AwU21kUldEaDJXWFo1TVhGclYxcFZNMjVyUnpBMlUzSXdYMjVVYWtreVgwdHpYMWhuZDBKWmRqaFFkWEpvTm5ocFRWQmpWREprUVRkRGVHVlJhSGxTTFhjMVptZzJVRGc0UzA1VlUzaFBZbWQxYUdscWFrWm5ZVkpzZEhVMlRFTk5Wa0l5ZUU5b1lUVXpiVWhRT1ZCVlduUjJORTVzTjBGSlduSnpNakpmTURKTlduTjVPV1ZIUVU5SFVHdDNlbXRQYkhKMU5GUnVUM1ZRVTJGbU9EQlFRWHBqZUZCRE9FZEVVVlpzVFZkUUxVaGphVzVQTjJaRmVEZG5XbFZwYVd3MU1HMDVabGwxT0RoU1VXMWhhamN6V1dwSVZ6UnJlbkpsWld4ZlNETnpaRzE2VlROcmF4SVhkVWgyUlZrMU4waEhVRXR5TlU1dlVEbGpaVVp0UVc4YUlrRkdYelpOUVU5Sk9GVmZRVWN5WDFsQmJrZDZUVTQ1ZUVOa0xYZFpaRWhWTFVFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTE0MjQtMjAyMzAxMTUtNTFhMmYxN2YxZjI3MmVkYTY1ZGM5MzQ0YjY4ZGM3ODg/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+3,Analytical & Compatibility Scientist,Oriflame,"Warsaw, Poland",via Trabajo.org,"What will you do?
+
+New Product Development
+
+·Maintain cosmetic formulation stability (shelf life) expertise in the Industrialization team and act as compatibility coordinator between the packaging development & formulation team
+
+·Work with Formulation Chemists, microbiology and packaging teams to ensure the formulations are tested according to correct protocols, review results and make recommendations.
+
+·Co-Develop experimental plans surrounding stability & compatibility activities for products to ensure risk mitigation activities as required
+
+·Conduct relevant protocols over formulation stability & compatibility testing on NPD projects
+
+·Work with pilot plant technicians to ensure scale up activities (stability, compatibility & product filling) are performed as per experimental plans and as required by NPD timings.
+
+·Support Industrialisation Manager and team colleagues on NPD process developments and address issues and any post-industrialisation non-conformances as they arise... Co-lead root cause investigations with the industrialisation team and put corrective and presentative actions in place as required.
+
+·Issue Formulation Approval & Registration Report for all NPD projects
+
+Analytical Technology
+
+·Work closely with Analytical Testing Team to advance Oriflame’s analytical capabilities and enhance current product testing methods, towards creating efficient and effective protocols.
+
+·Perform measurements & testing on a daily basis on all typologies of raw materials & cosmetic products with various analytical instruments (eg texture analyser, Rheology, Droplet size measurement, predictive stability, etc).
+
+·Develop and validate new analytical capabilities for deployment within R&D and throughout the group, in line with R&Ds Analytical Strategy, to support new product innovations, cost saving opportunities and quality perception improvements
+
+·Propose relevant partnerships with strategic collaborators and equipment suppliers in order to develop new technologies.
+
+3. Your background and your qualifications:
+
+·Experience with compatibility testing and finished good manufacturing.
+
+·Experience of product development processes e.g. stage and gate.
+
+·A thorough understanding of cosmetic stability (shelf life) & packaging.
+
+·An understanding and hands-on ability to develop analytical test methods in collaboration with existing in-house personnel.
+
+·Educated to degree level in Science, Packaging or Cosmetic discipline.
+
+·At least 3 years relevant experience in a cosmetic or compatibility environment.
+
+·Experience in some or all of the following areas: packaging, emulsions, detergents, gels, fragrances or colour cosmetics products development.
+
+·English proficiency
+
+4. What do we offer?
+
+·Medical private insurance (Medicover).
+
+·Life insurance (Compensa).
+
+·Cafeteria of benefits (Medicover) with subsidized sport card.
+
+·Cosmetic allowance (possibility to try great Oriflame products).
+
+·Internal training opportunities and access to LinkedIn Learning platform.
+
+·Hybrid work model and flexible working hours.
+
+·Great organization culture and possibility to work in multinational team.
+
+5. Does this match your profile and expectations?
+
+Then don’t hesitate and apply now. Or spread the word to people who might be the right match.
+
+Science","[{'link': 'http://www.oriflame.com/', 'text': 'oriflame.com'}, {'link': 'https://www.google.com/search?q=Oriflame&sa=X&ved=0ahUKEwieg8rGzcr8AhXyFVkFHfVjAaM4HhCYkAII5ws', 'text': 'See web results for Oriflame'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJBbmFseXRpY2FsIFx1MDAyNiBDb21wYXRpYmlsaXR5IFNjaWVudGlzdCIsImh0aWRvY2lkIjoibEVyZnozVXd4eGdBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVU5RZDJwcVVrMU9UMFZqVG5oSVlrSkJiWHBrTW01S1VUTXRVR1JxVjNwMmRYUm1hVlZmYVVWQlJGTXdhSGxpYzBaRlZGUjVURm80VDB4YU9EUmlkR3cyTTFGbExXMU1hRXM1VUdSSlkzZDZhbGhHVUhFNVJWSjZjMHQyZEVkWGF5MW9NMHd0V1hKR1ZITnJZbXBYWVhCSGVEbFNlbnBrTW1GaExXMU5jRGRFVDNkWGVUaERUMUpYYWpGclJWWTFlVVJpTm5oTFNVZExaak10ZVZocFVtMVBjMVpXUWtOR1MzaEZiVEZ0ZG05dlpFMXdhRkJGTkhWV1pqTlpORkp4V0ZkcExTMXhjMHgzZG1wVUVoZDFTSFpGV1RVM1NFZFFTM0kxVG05UU9XTmxSbTFCYnhvaVFVWmZOazFCVUUwNVYwTmtOR2MwWVhOcmNIbFZNbkZzVG14MVZEZGlkVTVFVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY182IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTQyNC0yMDIzMDExNS0wMWU3MTRmZDdmZGEyOWExMWIzZTBiMGUyNzExNDU2ZD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+4,Senior Machine Learning Engineer,SmartBear,"Wrocław, Poland",via Trabajo.org,"Computer Vision (regular)
+Cloud Computing (regular)
+Deep Learning (regular)
+Algorithms (advanced)
+Machine Learning (advanced)
+TensorFlow (advanced)
+PyTorch (advanced)
+Python (advanced)
+
+At SmartBear, we deliver the complete visibility developers need to make each release better than the last. Our award winning and industry favorite tools TestComplete, Swagger, Cucumber, ReadyAPI, Zephyr are trusted by over 16 million developers, testers, and software engineers at 32,000+ organizations – including world-renowned innovators like Adobe, JetBlue, FedEx, and Microsoft.
+
+Senior Machine Learning Engineer
+• You will optimize machine learning solutions and lead the development of end-to-end machine learning pipelines
+• Work in a newly formed AI group with start-up-like freedom and big tech safety
+• Tech Stack: Python, Deep Learning frameworks (PyTorch, Tensorflow), Cloud Computing
+
+About the role:
+
+As a Senior Machine Learning Engineer you will build and extend SmartBear’s success and growth... and lead a newly formed AI group. The team will work on computer vision, natural language understanding, test data/code/case generation, test case prioritization, software quality prediction, as well as other AI and data analytics projects for all SmartBear products.
+• Specify machine learning problems by analyzing product use cases and operation data.
+• Optimize machine learning solutions by employing deep learning architectures, implementing advanced algorithms, processing relevant data and training machine learning models.
+• Acquire state-of-the-art machine learning knowledge by following the latest development of the field.
+• Contribute to the development of end-to-end machine learning pipelines, from data digestion to solution deployment, in collaboration with other R&D teams.
+• Assist other staff members in the machine learning development process.
+
+We are looking for you if you have:
+• Data science, electrical and computer engineering, or applied mathematics.
+• 4+ years of working experience in the machine learning area.
+• Experience in developing machine learning solutions using Python (or relevant programming language) and deep learning framework (PyTorch or Tensorflow).
+• Hands-on experience in sequence-to-sequence modeling, GPT, deep-learning based natural language processing and/or computer vision.
+• Hands-on experience in using cloud computing infrastructure in Google, Amazon or Microsoft.
+• Excellent problem-solving skills and ability to dive into details of algorithms and experimental results.
+• Comfortable to communicate and interact with ML engineers, software developers, and product managers about technical details.
+• A Ph.D. degree in computer science would be a plus.
+
+SmartBear offers:
+• Bonus 5% of annual salary
+• Copyrights deductible costs (creative tax)
+• 300 PLN of annual budget for fitness reimbursement
+• Employee referral program – 9 300 PLN gross for recommendation
+• Birthday Benefit – Employees will be given the day off on their birthday and can expense lunch
+• Possibility of remote work, flexible working hours
+• Virtual Exercise Class with Fit Revolution
+• Breakfasts on Wednesdays, Lunches on Fridays and many other stacks in the office during the whole week
+• Buddy program
+• Integration events
+• SmartBear Talks
+• Access to Pluralsight
+• Private Medical Care and Multisport
+• For B2B contract: 27 days of paid annual leave and Private Medical Care (LuxMed)
+• … and we are working on more ideas
+
+Why you should join the SmartBear crew:
+• You can grow your career at every level.
+• We invest in your success as well as the spaces where our teams come together to work, collaborate, and have fun.
+• We love celebrating our SmartBears; we even encourage our crew to take their birthdays off.
+• We are guided by a People and Culture organization - an important distinction for us. We think about our team holistically – the whole person.
+• We celebrate our differences in experiences, viewpoints, and identities because we know it leads to better outcomes.
+
+Did you know?
+• Our main goal at SmartBear is to make our technology-driven world a better place.
+• SmartBear is committed to ethical corporate practices and social responsibility, promoting good in all the communities we serve.
+• SmartBear is headquartered in Somerville, MA with offices across the world including Galway Ireland, Bath, UK, Wroclaw, Poland and Bangalore, India.
+• We’ve won major industry(product and company) awards including B2B Innovators Award, Content Marketing Association, IntellyX Digital Innovator and BuiltIn Best Places to Work.
+
+SmartBear is an equal employment opportunity employer and encourages success based on our individual merits and abilities without regard to race, color, religion, gender, national origin, ancestry, mental or physical disability, marital status, military or veteran status, citizenship status, age, sexual orientation, gender identity or expression, genetic information, medical condition, sex, sex stereotyping, pregnancy (which includes pregnancy, childbirth, and medical conditions related to pregnancy, childbirth, or breastfeeding), or any other legally protected status.
+","[{'link': 'http://www.smartbear.com/', 'text': 'smartbear.com'}, {'link': 'https://www.google.com/search?q=SmartBear&sa=X&ved=0ahUKEwieg8rGzcr8AhXyFVkFHfVjAaM4HhCYkAIIlQw', 'text': 'See web results for SmartBear'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciIsImh0aWRvY2lkIjoibXdfMTBmZDdhbllBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVU5RZDJwcVVUUnRTRTl4YVhVdGMycGhRalkxYW5GSVZFbzNkVFpEU25obGJIaE1WRUZYVGxaS2RXVmlYMnRJZWtab2FVSlpObGwxTTJvMlYwUjNUbGxhYlVSRk1YZG9PVlJ3U214ZlRtZDRNV28wTUdGV1R6UkZMV3RKVEZsaVlYazFiSEIyY2s4elFrbGFObkZ3T0ZCdFVVUlBSMjlqU2xoUFN6UlRhMEp2UWpsNU4wNTZVakE0VW14MGNreGpNVkZ1YmpKSVF6RlhSRXhsUkUxRVJ6TmxSbGgwZDBoUVNqRnZZVEJCYjJGbGVrcERObVF0UW0xU1ExWkhNRTFyTXpkTFdHbDBhMU5sZW0xd0VoZDFTSFpGV1RVM1NFZFFTM0kxVG05UU9XTmxSbTFCYnhvaVFVWmZOazFCVFd4dWVrTTBhMGRaUzFreVUxaE9aMGc1TVhJdGIyTlJWbFZMUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTI1NS0yMDIzMDExNS0wNjdhYzhkNGQyZjk4NTZjOGJlMGM5NDIxNDUyNWJjNT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+5,Lead Software Engineer for Machine Learning and Advanced Analytics,Nike,"Gdańsk, Poland",via Trabajo.org,"Rejoignez l'équipe NIKE, Inc.
+
+Loin de se contenter d'équiper les plus grands athlètes mondiaux, NIKE, Inc. explore les potentiels, abolit les frontières et repousse les limites du possible. L'entreprise recherche des personnes capables d'évoluer, de réfléchir, de rêver et de créer. L'épanouissement de sa culture repose sur son ouverture à la diversité et sur sa façon d'encourager l'imagination. La marque a besoin de personnes talentueuses, de leaders et de visionnaires. Chez NIKE, Inc., chacun contribue, par ses compétences et sa passion, à jouer un match difficile en constante évolution.
+
+NIKE est une entreprise de technologie. De notre site Web phare à nos applications mobiles cinq étoiles en passant par le développement de produits, la gestion des big data, l'ingénierie de pointe et la prise en charge des systèmes, les équipes NIKE Global Technology s'efforcent de révolutionner le futur, à la croisée de la technologie et du sport. Nous investissons dans la technologie et mettons... au point des innovations ; nous employons les personnes les plus créatives au monde et leur donnons les clés pour innover, apporter les modifications nécessaires et servir les clients de façon plus directe et personnelle. Nos équipes innovantes, hétérogènes, multidisciplinaires et collaboratives imaginent les technologies de demain et en font profiter le monde entier.
+WHO ARE WE LOOKING FOR
+
+We seek passionate Lead Software Engineer with DevOps twist to build Nike’s robust advanced analytics and machine learning solutions that have a direct impact on the business. You should have a demonstrable history of team leadership and value delivery and be comfortable working in a product model using Scrum. As a Lead Software Engineer, you will be expected to own projects end-to-end - from conception to operationalization, demonstrating an understanding of the full software development lifecycle. As a result, you will be expected to provide technical vision and guidance to your teammates; therefore, strong communication skills are critical in this role.
+WHAT YOU BRING
+
+6+ years of professional experience in software engineering, data engineering, machine learning, or related field
+
+Ability to write robust, maintainable, and extendable code in Python
+
+Experitse in developing and managing REST APIs
+
+Expertise in relational SQL
+
+Expertise in cloud architecture and technologies, preferably Amazon Web Services, Kubernetes, and Docker
+
+Expertise in technologies like Jenkins, Apache NiFi, Apache Airflow, Postgres, Redis, or IaC tools would be an advantage
+
+Expertise in agile development and test-driven development
+
+Good understanding of principles of solution architecture and technical design
+
+Effective communication skills (with team members, the business, and in code
+
+We are looking for candidates who enjoy a collaborative and academic environment where we develop and share new skills, mentor, and contribute knowledge and software back to the analytics and engineering communities both within Nike and at-large.
+WHAT WILL YOU WORK ON
+
+If this is you, you’ll be working with the Advanced Analytics and Machine Learning (AAML) team at Nike. With teammates in Portland, Boston, China, and Poland, you’ll be joining a global organization working to solve machine learning problems at scale. You’ll be designing and implementing scalable applications that leverage prediction, image recognition and natural language processing models to deliver data driven decisions that result in immense business impact. You’ll also contribute to core advanced analytics and machine learning platforms and tools to enable both prediction and optimization model development.
+WHAT NIKE OFFERS
+
+Relocation support if you are moving to Gdansk area from a different part of Poland or from another country
+
+Health & well-being benefits: sports costs covered, fully subsidized medical plan including eligible dependents.
+
+Summer hours which allow employees to leave the office on Friday at noon all Summer long
+
+Performance Sharing Plan
+
+Financial benefits: group life insurance, disability & accident insurance
+
+Company product discount
+
+Casual and international work environment
+
+#Li-EMEA
+
+NIKE, Inc. est une entreprise en pleine croissance cherchant à intégrer à son équipe des personnes capables de se développer avec elle. Nike offre un généreux programme de rémunération globale, un environnement de travail décontracté, une culture variée et inclusive et une atmosphère dynamique propice au développement professionnel. Quels que soient le site ou le poste, les employés de Nike partagent tous la même mission stimulante : apporter inspiration et innovation aux athlètes* du monde entier.
+
+NIKE, Inc. s'engage à embaucher un personnel diversifié. Les candidats qualifiés seront considérés sans tenir compte de leur origine, couleur de peau, religion, sexe, nationalité, âge, orientation sexuelle, identité de genre, expression de genre, statut de vétéran ou handicap","[{'link': 'http://www.nike.com/', 'text': 'nike.com'}, {'link': 'https://www.google.com/search?q=Nike&sa=X&ved=0ahUKEwieg8rGzcr8AhXyFVkFHfVjAaM4HhCYkAIIwww', 'text': 'See web results for Nike'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['14 hours ago', 'Full-time']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJMZWFkIFNvZnR3YXJlIEVuZ2luZWVyIGZvciBNYWNoaW5lIExlYXJuaW5nIGFuZCBBZHZhbmNlZCBBbmFseXRpY3MiLCJodGlkb2NpZCI6IkJjWTFJYzVmNE53QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVyY0NDdmNCUVVOUWQycHFWSFZRTUdacVZIaFNaVmxTV0VJdFFUTjVNMGs0VG1kbE5XVldiQzE1ZW0xdmJraEVVR0UzYjFCbVlVZHZNR04xU1dndFEycHljbWRNVFdsUVFVTm5TRGhMWkVWdVVsQlVaRlZyVjJVM1RuTlNiMTl4T1VNNGNYaHNNbko0UlRGS1MzcEJVSGxGYTBnelIwOWphSEpOVVRWbk5ucGlXa2hyVUhSMlZIZENUbmQ2TTJGWlVFWlFTMGhMTjBFNE9VRlBObVpPYzI5bk1qUjRhMmhsTXpaNVMySjZSRUY0U1dwc1gySm9aMEpJV0dsVldtODRlRFUwYkRkWVdGbGtiV2hrYjJONWVWWjBMV3hVVTA1NVRXdFNjSGxHVG5KdmIwZEZOREV6WVhKa1pEUmZjRmd3U0Vkek9FTktiWHBtWmpoWE5CSVhkVWgyUlZrMU4waEhVRXR5TlU1dlVEbGpaVVp0UVc4YUlrRkdYelpOUVUwdFlXYzRhMk5JZVRSdFkwTTBTR2s0U3pOeFEzQkRUMnRCY21jIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTAiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJhYmFqby5vcmciLCJsaW5rIjoiaHR0cHM6Ly9wbC50cmFiYWpvLm9yZy96YXdvZC0xNDI0LTIwMjMwMTE1LTE3NGU3YTQzMjU2MGFmZWI0NjFiOWMxMzM1MGY0MWNkP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+6,Big Data System Administrator,PAYBACK,"Poznań, Poland",via Trabajo.org,"Airflow (nice to have)
+Kafka (nice to have)
+Hadoop (nice to have)
+Realtime (nice to have)
+BigData (nice to have)
+DevOps (regular)
+Redis (regular)
+PostgreSQL (regular)
+Linux (regular)
+
+Your responsibilities:
+• As Big Data System Engineer, you will have a significant influence on how everyday IT Operations of PAYBACK BigData are performed.
+• Responsible to build, maintain and optimize the PAYBACK BigData (Hadoop eco-system) and Realtime platform including operating system.
+• Monitoring, solving problems and optimization are part of the duty.
+• Evaluating tools and technologies within the area of responsibility of the team (Stream, BATCH-Processing, ETLs, SQL Engines, Analytics, Machine Learning).
+
+Your Profile:
+• Bachelor/Master-Degree in IT or a relevant work experience.
+• Analytical and problem solving mindset.
+• Knowledge in the state of the art technologies in the area of BigData/Realtime are highly welcome (Hadoop ecosystem, Kafka, Cassandra, Airflow, Jupyterhub etc.).
+•... Outstanding know-how in Linux administration/maintenance.
+• Base knowledge in network technologies.
+• Experience with further database technologies (PostgreSQL, Redis, Cassandra) is an advantage.
+• Experience with Cloud-Systems (GCP, AWS, etc.) is an advantage.
+• Experience with DEVOPS-Methods.
+• You are curious and have high interest increasing your know-how in new technologies.
+• Your focus relies on service and customers.
+• You are working self-reliant and autonomous within the team.
+• Very good English language.
+• An additional advantage will be knowledge of German.
+
+What we offer
+• Employment contract? Of course. With us you do not have to worry about future employment
+• ‎Benefits? We have them Among others: corporate incentive program, sport card, private medical care
+• Flexible working hours? Sounds great We start working between 8 and 10
+• ‎Convenient location? Sure, why not. We invite you to our new office at the Rondo Daszyńskiego. Currently we are also working remotely
+• ‎Friendly atmosphere at work? YES In PAYBACK, the people are in the heart of everything‎
+• Dress code? We definitely say no. There are no rigid dress code rules in our company
+• Something is missing? Open communication is our priority, so dare to ask‎
+","[{'link': 'https://www.google.com/search?q=PAYBACK&sa=X&ved=0ahUKEwieg8rGzcr8AhXyFVkFHfVjAaM4HhCYkAII7ww', 'text': 'See web results for PAYBACK'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJCaWcgRGF0YSBTeXN0ZW0gQWRtaW5pc3RyYXRvciIsImh0aWRvY2lkIjoidGFfbmZnNFNUYklBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVU5RZDJwcVVVbFRObU54TkRVNFZFNHhWVmw1VWtOSWNqRlBVbUptYVRaNlFuVkxMWGxvZUVKcmFFbG9ValkzWVhSSFgxTjZkVEk1TWpSQmVrZFJTVmxIV0c1WFkwcHBSVm8xYzI1eWMwZGtkMWhWZVhoYVJIaFZTbUZ0V1hGVWVtbHhZek52UmtZM1NUZGFRelk1VEhReU9IWXdXRGhzWmpad09FZHpibEZJZWtKSE1Xd3RNMjk1UzBwM01XOUtkRkJ0VjBNdFJUWjNNRE50WldWS00xcGpSVVpMWjFvd1p6UnNSVGhhUlZwUU1VTmhkR3hCRWhkMVNIWkZXVFUzU0VkUVMzSTFUbTlRT1dObFJtMUJieG9pUVVaZk5rMUJVRzVrWmtoalNEZGthbWg2VUZCTGVHRnZPWFZ2WDI0emRYUkxRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vcGwudHJhYmFqby5vcmcvemF3b2QtMTI1NS0yMDIzMDExNS1lYjExY2FkYjVjNzJjM2YxMjk1MWU3YjI4YzkyNmM5OD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+7,Senior ML/NLP Engineer,PeakData,"Wrocław, Poland",via Trabajo.org,"AWS (regular)
+Data Science (advanced)
+Python (advanced)
+Machine Learning (advanced)
+
+PeakData is a Swiss-based AI startup on a mission to help patients receive the best treatment available . PeakData helps pharmaceutical companies enhance the effectiveness of their commercial and medical efforts by helping identify and engage the right healthcare professionals at the right time. We are looking for skilled engineers to help us develop creative solutions to answer the key business questions our clients have.
+
+You will:
+• Work on the designing and building of data-intensive applications.
+• Work on very interesting and innovative data product which includes real-world web data at scale.
+• Work on solving different challenges related to the Pharma medical affairs domain, such as identification or other relationships between HCPs, extraction of HCPs specialities, authors' identification, taxonomy enrichment, and many more.
+• Train classifiers to crawl the web in order to identify relevant... content and semantics for our products.
+• Develop ranking and recommendation engines.
+• Work on delivering the full ML models life cycle, from model training and validation up to the industrialization of ML models in production.
+• Develop tools and solutions which will enable our stakeholders to monitor and improve data quality and product quality.
+• Support our more junior engineers, by providing them with coaching and mentoring.
+• Help to apply MLOps / DataOps best practices and generally improve our engineering excellence.
+
+You are:
+• Experienced at least 4-5 years working as an ML engineer / Data scientist.
+• Have solid experience with Python software development.
+• Proficient with different Python NLP frameworks and approaches.
+• Have practical experience with ML model's entire life cycle, from training to deploying into production and you know MLOps best practices.
+• Able to deploy and serve ML models using different approaches such as microservices or batch inference.
+• Experience with the AWS ecosystem , especially AWS data and ML stack data (e.g. S3, Glue, Athena, Redshift, SageMaker, Lambda).
+• Pragmatic - you know when to make a cut for ongoing discussions and start working on deliverables.
+• Communicative - you make your voice heard among the team and the wider tech organization and engaged with our stakeholders to enable them and listen to their needs.
+• Not afraid to ask , and support others to do the same - transparency about our abilities and decisions based on different opinions keeps us motivated and does not allow us to get stuck.
+• Excellent when it comes to English.
+
+Bonus points if you have:
+• AWS certificates.
+
+You’ll get:
+• Work on life-changing product development – make a real impact.
+• Be part of a scale-up and can shape the company's future.
+• Competitive salary.
+• Work in a highly professional and innovative environment.
+• Work in a flexible working environment.
+• Get the opportunity to be exposed to the startup environment.
+","[{'link': 'https://www.google.com/search?q=PeakData&sa=X&ved=0ahUKEwieg8rGzcr8AhXyFVkFHfVjAaM4HhCYkAIImw0', 'text': 'See web results for PeakData'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s,"['15 hours ago', 'Full-time']","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgTUwvTkxQIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJhUkh0aVhXaW5kd0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdUlCQ3FJQlFVTlFkMnBxVTJweVpVMXBlbmN4VldKWE1UTjJUVVV4TFZWU1JtSmxRbVJVWldOUmNXSlhUVXcwVm1wUlUyY3paMmhRYjA5S1owcGFTMDFUYUdwWk1Vd3pjblJaZDNSMlFXaGtUalIxTVY5clpFWllNa3d6VG10NFIwVmZSR0pSYUZkME5GaENTblZhYUZkNVNYcGtVR2xvVlRaRVgyZE1aV2RFYVc5WVpFaE9hR0pOYTJZeFNDMTBlR05sVW5wMFpGRkthREEyZFRWeFJWTm1WWE5rUW5KQkVoZDFTSFpGV1RVM1NFZFFTM0kxVG05UU9XTmxSbTFCYnhvaVFVWmZOazFCVGs1aGJuaDViWFJhVWt4TmQxSktjMlZQZWt4Q2NtdFVhM0V5WnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTEyNTUtMjAyMzAxMTUtN2ZlOTkyZjUyMDdkYTY5MDJjOGRlNGQ1YWEzNmU1MDc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==

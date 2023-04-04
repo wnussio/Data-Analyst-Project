@@ -1,0 +1,891 @@
+,title,company_name,location,via,description,related_links,thumbnail,extensions,detected_extensions,job_id
+0,Data Analyst,Capco,Poland,via Ai-Jobs.net,"CAPCO POLAND Capco Poland is a global technology and management consultancy specializing in driving digital transformation across the financial services industry. We are passionate about helping our clients succeed in an ever-changing industry. We also are experts in focused on development, automation, innovation, and long-term projects in financial services. In Capco, you can code, write, create, and live at your maximum capabilities without getting dull, tired, or foggy. We are looking for two Data Analysts to join one of our best-in-class Big Data projects related to building an ETL system using mainly Hadoop on-premises and additionally GCP cloud. Our clients' Big Data Lake is the largest aggregation of data ever within financial services with over 300 sources and a rapidly growing book of work. THINGS YOU WILL DO Define and obtain source data required to successfully deliver insights and use cases. Create methods to highlight and report data inconsistencies, allowing users to... review and provide feedback. Propose suitable data migration sets to the relevant stakeholders. Determine the data mapping required to join multiple data sets together across multiple sources. Technically able to validate, analyze, data model and write the clear use stories to Data Engineers. Define the Data Asset Generation Design with Best Practices in various Data Work flow. Continuously able to support Data engineers throughout the complete SDLC. Able to support the SIT, UAT and Production Support. Assist with the planning, tracking and coordination of the data migration team and with the migration run-book and the scope for each cutover. Understand the Data Definition Tagging processes like Logical to Physical Mapping, Data Processing Flow to measure the consistency etc., Co-ordinate with CDO (Chief Data Office) for Trusted Source validation and data modelling. Able to understand the Data Governance Processes to monitor and deliver the data solutions with compliance in place. TECH STACK: SQL, Excel, Python, Spark, HiveSQL SKILLS & EXPERIENCES YOU NEED TO GET THE JOB DONE Business analysis skills, defining and understanding requirements. Proficiency in using Excel for data analysis and visualization. Working knowledge of SQL and the ability to navigate databases particularly Hive. Some experience in completing exploratory data analysis using Python, and a beginner understanding of Spark with knowledge of how to use PySpark and HiveSQL. Ability to handle and manipulate large time-series data sets, and ideally some experience with entity resolution across multiple data sources. Eagerness to learn new technical data analytics capabilities. Problem-solving mindset, an extraordinary attention to detail and good communication skills in English. Nice to have: Experience using data models and data dictionaries in a Banking and Financial Markets context. Knowledge of Trade Finance or Securities Services useful Preferable knowledge and experience in Data Lineage, Data Quality, and Data Governance. Knowledge of Machine Learning theoretical concepts and experience in scikit-learn. Knowledge of CI/CD data pipelining. Good knowledge of SDLC and formal Agile processes, a bias towards TDD and a willingness to test products as part of the delivery cycle SIT, UAT and Production Support. WHY JOIN CAPCO? Employment contract and/or Business to Business - whichever you prefer Possibility to work remotely Speaking English on daily basis, mainly in contact with foreign stakeholders and peers Multiple employee benefits packages (MyBenefit Cafeteria, private medical care, life-insurance) Access to 3.000+ Business Courses Platform (Udemy) Access to required IT equipment Paid Referral Program Participation in charity events e.g. Szlachetna Paczka Ongoing learning opportunities to help you acquire new skills or deepen existing expertise Being part of the core squad focused on the growth of the Polish business unit A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients A work culture focused on innovation and creating lasting value for our clients and employees ONLINE RECRUITMENT PROCESS STEPS Screening call with the Recruiter Technical/Competencies interview with Capco Hiring Manager Culture fir with Head of Engineering Feedback/Offer Follow us here or contact us directly recruiting.poland@capco.com","[{'link': 'http://www.capco.com/', 'text': 'capco.com'}, {'link': 'https://www.google.com/search?q=Capco&sa=X&ved=0ahUKEwjW_fax8vL8AhXfD1kFHUDBADYQmJACCN8K', 'text': 'See web results for Capco'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHEL0ghF5UVnkRjtvmoOyAz8CQGfm_ubGo9n9lZb8&s,"['11 hours ago', '75K–130K a year', 'Full-time', 'No degree mentioned']","{'posted_at': '11 hours ago', 'schedule_type': 'Full-time', 'salary': '75K–130K a year'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6InZwTWpBeHNUSnV3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVOUWQycHFVbHBxZHpkVFMwTlBUV28xY2w5amFrNXVTRVZQZUZWSVdsUlhWblpMYzNKSGJVUjRlVXA1VHpaR09GTmtjM2xmVldWVlpTMW5TV3RPVTBaYVZFYzBORXhaUlRWVFdqVlRSRGhVY1hNd1FXMVNTV2R2TnkxaFExOXdWWGc0VURFeE1VUkJlbWhIWWpockxUTjNZV2RHYm04MGEyWnJUelY0U2xwTlRFVjBOMmx6ZWxaVmJFTlViMmwxVkRKNU1VUkVkemhWU0dwSmNHSnNUbWxCRWhkRWNIWmFXVGxoTFV4a0xXWTFUbTlRZDBsTFJITkJUUm9pUVVaZk5rMUJVR1JwYmpGRWJYWTRVakpFVGxsb2EzWnBRM3BETkZBNVVHcHpVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gQWktSm9icy5uZXQiLCJsaW5rIjoiaHR0cHM6Ly9haS1qb2JzLm5ldC9qb2IvMzk2NzYtZGF0YS1hbmFseXN0Lz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+1,"Market Data Business Analyst, Senior Associate",State Street,"Kraków, Poland",via State Street Careers,"As Market Data Specialist you will:
+• Support risk operations; make sure the market data is delivered on time, accurate and within scope.
+• Become process/platform SME; conduct root cause analysis of data issues and act as the point of contact to address questions, queries and requests related to market data
+• Independently perform work within guidelines and according to specific procedures
+• Collaborate with IT, Financial Engineering and Product teams on product enhancement and development
+
+What we value
+
+These skills will help you succeed in this role:
+• Industry knowledge, experience in Market Risk, Market Data, etc. will be an advantage
+• Strong analytical and interpersonal skills
+• Attention to details, problem solving, and decision making
+• SQL knowledge, hands-on experience with database/data warehouse
+
+Education & Preferred Qualifications:
+• University degree in Computer Science, Data Management, Finance, Business or equivalent
+• At least one year of industry experience across... Financial Services, IT or Data fields
+• Understanding of investment data, financial instruments and market risk concepts
+• Familiarity with Agile methodology and related tools (JIRA, Confluence, Rally, RTC) is a plus
+• Strong team ethics and team player
+• Good communication and English language skills (both written and verbal)
+
+We offer
+• Flexible working hours (restricted to the current business need)
+• No Intra-day deadlines
+• Interesting, non-repetitive process
+• Possibility to Work From Home
+• Employee savings plan
+• Premium life insurance package
+• VIP medical package
+• International operating environment
+• Language classes
+• Soft skills training's
+• Technical workshops","[{'link': 'http://www.statestreet.com/', 'text': 'statestreet.com'}, {'link': 'https://www.google.com/search?q=State+Street&sa=X&ved=0ahUKEwjW_fax8vL8AhXfD1kFHUDBADYQmJACCI8L', 'text': 'See web results for State Street'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKUvVoZmAUfXc_qa2evRqIxPRR5ZnbGMxgNCKsnI&s,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJNYXJrZXQgRGF0YSBCdXNpbmVzcyBBbmFseXN0LCBTZW5pb3IgQXNzb2NpYXRlIiwiaHRpZG9jaWQiOiJlVzFKZlZsejE0Z0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFcUlDQ3VJQlFVTlFkMnBxVW1VeVZVSkNaMVEwVkRSWGNuWm1jR2hGZDNNMGFHaGxOWGxKWjFwUVVXUnNXbWh6WjFWdGVUbERWakZvYjFOblJFdEhVR0ZDY0c1dk1HaDBRVkl6UVhWa1pGQlhVM0pGVG5oNk5EZzVUSE56ZG1RNGQxQlRNVEpUWTFsdlNVNHpaMmhPTkRBNFFWZDFSRmRxUkV3d01tRk1RMFJwTURaNlREaFNVSGRRZFhZM1lXaFhiREJPYVRGM1dsZG5TV2hwUTE5eVRsSndWV1ZQV0VOdVNGSnlURFZOT0ZFNVp6UmtlbU5GZGpJelQzTnlPR3RMZVU5QmJYQkdVbmx0ZVRBeE1teE1TRzlQTlc5R1Rra3pUMWcwUW1KcmVXMHRZMngzYUhaaVVSSVhSSEIyV2xrNVlTMU1aQzFtTlU1dlVIZEpTMFJ6UVUwYUlrRkdYelpOUVU5cmVGOWtXVUZ6U2pGb2FVbEhNRVpSTjBaSk9VNXhhVE5xVlhjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBTdGF0ZSBTdHJlZXQgQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuc3RhdGVzdHJlZXQuY29tL2dsb2JhbC9lbi9qb2IvU1RTVEdMT0JBTFI3Mjg2NDFFWFRFUk5BTEVOR0xPQkFML01hcmtldC1EYXRhLUJ1c2luZXNzLUFuYWx5c3QtU2VuaW9yLUFzc29jaWF0ZT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+2,Clinical Data Analyst/Senior - Poland,Premier Research,Anywhere,via Premier Research - Talentify,"Atu00A0Premier Research, we help biotech and specialty pharma companies transform life-changing ideas into reality. What we do is profoundly connected to saving and improving lives, and we recognize our staff members are the most valuable asset in delivering success. Inspiring and nurturing staff to do their best work means a better, healthier future for all. Weu2019re a community of 2,000 people in more than 20 countries delivering unmatched expertise, operational skills, and dedication to meet the most challenging needs facing clinical trials today.u00A0
+
+Weu2019re looking for au00A0 Clinical Data Analyst/Senior to join ouru00A0 Clinical Informatics team that is passionate about improving healthcare through innovative clinical research.u00A0 As a member of the Premier Research team, youu2019ll help create tangible solutions for patients in need while building cross-functional partnerships that enable your growth and success. This role can be filled in Bulgaria, Slovakia, Poland or... US.
+
+What youu2019ll be doing:
+• Examine data in a graphical format to obtain insight regarding the information within the data
+• Conduct ongoing reviews of clinical trial data using various technologies, analytic and visualization tools to monitor the quality of data, patient safety and relevant risks as per the Risk Log for the study. This may include review via data listings, study specific eCRF and aggregated data through ePremier tools
+• Responsible for monitoring site performance, data trending related to quality and site performance and escalation of those sites not meeting expectations through the regular use of ePremier data visualization tools
+• Utilize their previous central monitoring experience and provide input to the development and update of the Risk Log for assigned projects
+• Represent Clinical Data as the Lead on the study project team to develop the escalation path and action plan when risks are identified in the data for assigned projects
+• Anticipate potential issues and resolve through potential action plans and documents corrective actions
+• Serve as resource to study sites in resolving queries and/or other identified data collection issues
+• Perform remote/phone visits, as required per the CMP and contracted services
+• Serve as a trainer/mentor to Clinical Data Analyst I & II levels
+
+What we are searching for:u00A0u00A0
+• Undergraduate degree or local equivalent in clinical, science, or health-related field from an accredited institution
+• Min. 3 years' experience on a similar role
+• CRO experience is required
+• Clinical monitoring experience is preferred
+• Fluency in Englishu00A0 language
+• Strong communication skills
+• Ability to prioritize andu00A0 being detail-oriented
+• Ability to multitask and work effectively in a fast-paced environment with changing priorities
+• Excellent organizational and time-management skills, able to meet deadlines
+
+Whyu00A0ch ooseu00A0Premier Research?u00A0u00A0
+• Premier Research is more than a company u2013 itu2019s a community of people that truly care about one another, about our clients, and about our mission of furthering research to improve the lives of patients in critical need.u00A0u00A0
+• Our cultural anchors u2013 Caring & Empathy, Empowerment, Aspiration, One Team u2013 mirror the flexibility and trust that our team embodies. As a Premier team member, you have the power to make an impact, regardless of job title and location.u00A0
+• Our dedication to biotech and specialty pharma is unlike any other. We provide our staff with innovative technologies and continuous learning opportunities so that they have the tools they need to be successful.
+
+Because we are transforming life-changing ideas into new medical treatments for a diverse population, we require the perspectives of a diverse staff thinking creatively, challenging ideas, and solving complex problems fearlessly. Through a commitment to diversity, equity, inclusion, and empowerment, we create a community of belonging thatu00A0 welcomes differences, fuels innovation, and better connects us to the patients, physicians, and customers we serve.
+
+We hire people that add to our culture, then invest in developing skills and abilities. If you are excited about this role, but your past experiences do not perfectly align with the position as described, we encourage you to apply anyway. You may be exactly the right candidate for this role or others.
+
+Premier Research is proud to be an equal opportunity employer that is compliant with all federal guidelines.u00A0All qualified applicants will receive equitable consideration without regard to race, color, religion, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+u00A0#LI-BC1
+#Remote
+
+u00A0","[{'link': 'https://www.google.com/search?q=Premier+Research&sa=X&ved=0ahUKEwjW_fax8vL8AhXfD1kFHUDBADYQmJACCL0L', 'text': 'See web results for Premier Research'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjNTCtqRaN848P4w3nQNssd5SHvE-M4n31vJ6YIKA&s,"['23 hours ago', 'Work from home', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJDbGluaWNhbCBEYXRhIEFuYWx5c3QvU2VuaW9yIC0gUG9sYW5kIiwiaHRpZG9jaWQiOiJ5bjY3WnV2N3ZLTUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVTlFkMnBxVTJoaFNEUnpOemxFVTNWTVRYZE5RbWh4WkcxbGNtZzNVVlo1VVhkNldHd3hUVTVOVlhOU1V6UnhTWGwzYTNKSlZWRldPWGhMVWxGQ1JIQktaRFYwV0hsMVZ6WnBWeTFwV2s1b1IySkViWGxGV25GSVpHMUpjMFJJY2w5S1luVjRkbGMyTFcxd2FIWmFjMHBFVVVaUlZsRjBZMmRQU1ZGSFEweExWelU0T0dwTFZFWkdORFJFY0ZSNlp6RXhjMGM1YVU0d1dWRTVkR3BuTVZaeFowTnNjREV6T1d0MlNuaENkVzFpUWxOSVJtUlJVbGh0Ym5GU1VVNDNTa1oyZWxkb1oyWmxSbWhoRWhkRWNIWmFXVGxoTFV4a0xXWTFUbTlRZDBsTFJITkJUUm9pUVVaZk5rMUJUek52UlhCdVVFMWtNbFpxYUZaSWIydGxaSFYxU0hsWlRVeDZkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gUHJlbWllciBSZXNlYXJjaCAtIFRhbGVudGlmeSIsImxpbmsiOiJodHRwczovL3ByZW1pZXItcmVzZWFyY2gudGFsZW50aWZ5LmlvL2pvYi9jbGluaWNhbC1kYXRhLWFuYWx5c3RzZW5pb3ItcG9sYW5kLS0tcHJlbWllci1yZXNlYXJjaC1vcGtnbWZ3dm5sLWVxdWFsLTE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+3,Business Data Analyst,Sii Poland,"Gliwice, Poland",via Linkedin,"Are you familiar with data analysis? Would you like to work in an international environment?
+
+For one of our international clients, we are looking for a Business Data Analyst with data mining skills. The ideal candidate would be a technical person who can analyze XMO toolsets to extract core insights from data.
+
+If you meet the requirements below, join us now!
+
+Your role
+• Conduct deep analytical reviews and explain the findings in both technical and non-technical forums
+• Document/ report findings, including XLAs (experience level agreements) for tech teams and Experience Managers
+• Calculate the value of the XMO insight, savings in cost, efficiency, and productivity
+• Provide recommendations to automate/ suggest changes to the as-is to be able to evidence improvements to the end-user experience
+
+Your skills
+• Strong Nexthink /Tachyon/ UDEM/ platform navigation skills (training can be provided if strong in other applications), to read and insights and provide robust recommendations... to improve experience
+• Understanding of ITIL
+• Reporting skills
+• Expertise in writing processes and procedures
+• Ability to work independently and as a team for technical deliverables
+• Fluency in English
+
+Job no. 230131-XY9OM
+
+Why Sii
+
+Great Place to Work since 2015 - it’s thanks to feedback from our workers that we get this special title and constantly implement new ideas
+
+Hundreds of fascinating projects - prestigious brands from around the world, long-term contracts and prferred partner status for many clients
+
+Project suited to you - Do you want to change your career path? Is your project coming to an end? We’ll find you a new one! We have an app for this – Job Changer
+
+We share the profit with Workers - Last year we allocated PLN 21 M to this benefit
+
+7 500 experts and many development opportunities - Tech Communities, workshops, a training platform, and a technology blog – you choose
+
+Employment stability - revenue of EUR 300 M, no debts, since 2006 on the market
+
+Attractive benefits package - private healthcare, benefits cafeteria platform, car discounts and more","[{'link': 'https://sii.pl/', 'text': 'sii.pl'}, {'link': 'https://www.google.com/search?q=Sii+Poland&sa=X&ved=0ahUKEwjW_fax8vL8AhXfD1kFHUDBADYQmJACCO0L', 'text': 'See web results for Sii Poland'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaFpWybi8VqZmXTogPbgiOt6o6HRdgiog2RyOZ4Ws&s,"['23 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6Im5BeFpjNS02U21JQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVOUWQycHFVVTVCTUZkTFQwUllXV1Z0Y2s1YVgwZzNNV3hoYkVZMFZXeGtiVkkyVW5wVGNFdEJiMnh4ZDJ0UlZuVlVUemxtUzJWS1EwVjBWblppUTNnM1UzUkpOMmRXVUVsYVpteE1Ra2R0YkRKdFJIZG5VR0pFTms0eE9GRlBXbmxHVjNCdlUyZE1RamRsUm1SbFlrc3dNR3d4YlZoSGJXNDRVa2Q1VDJadWFFWnZUMDFUVUhwTlVEbGlObFp1VVhSQmRtcDNhbWxzY1dWdVkxQnpXR3hrWDJ4TVFYbHBjakZzZEZGdVVGaFZkVUZHWkdSWkVoZEVjSFphV1RsaExVeGtMV1kxVG05UWQwbExSSE5CVFJvaVFVWmZOazFCVFVsRlVGOWxZMFI1VjIxMFNWRmpkWFZtTTJwallXdExOWEZxUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY183IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZGluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9idXNpbmVzcy1kYXRhLWFuYWx5c3QtYXQtc2lpLXBvbGFuZC0zNDU2MDY4NTkzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+4,Panel Management Analyst - 6 months project,NielsenIQ,"Warsaw, Poland",via SmartRecruiters Job Search,"Job Description
+
+Flexibility. Fun. Freedom to grow. It’s all happening at NielsenIQ, where analysts are working hard to drive decisions for top companies.
+
+For our Operations team – Data Aquisition in Warsaw, we are looking for: Panel Management Analyst (for 6 months fixed contract)
+
+RESPONSIBILITIES:
+• Be accountable for the flawless execution of panel management activities, non-bau validation, data collection queries and providing accurate, actionable information
+• Support the Panel Management Cluster Leader to eliminate redundancies and duplication of efforts, reduction of heavy manual processes to rapidly respond to business demands and contribute to an optimized end-to-end operations model
+• Monitor and maintain any required store list
+• Extract data for collection inquiries
+• Accountable for timely and accurate recruitment of stores and set-up requirements for Panel Management Unit (PMU)
+
+REQUIREMENTS:
+• College or University degree, preferably in a statistical, mathematical, or... technical field. If you are still studying that is ok.
+• Experience with MS Office, hands on experience with Excel.
+• Knowledge of Python programming language will be considered an advantage
+• Ability to work in a cross-functional environment with several interacting teams
+• Analytical skills and attention to detail
+• Ability to adapt to changes in real-time and ensure plans are going as per schedule
+• Problem-solving - must be able to stay calm under pressure and look for solutions to unexpected problems
+• Good judgment, when it comes time to make an important decision and able to understand the potential costs and benefits of the choice at hand.
+• Fluency in English (written and oral) is a must
+• Excellent communication skills
+
+With us you will be:
+• Being part of growing organization and working for top FMCG Clients.
+• Working in multinational environment that ensures daily contact with English (15 languages are spoken in Warsaw office).
+
+AND ON THE TOP OF THAT:
+• Benefits package: Multisport card, private medical coverage Medicover, life insurance Benefit platform allowing to purchase cinema and theatre tickets,
+• Additional days off and recognition of special moments in your life,
+• Stable working environment with an employment contract,
+• A possibility to create an individual career path, additional trainings, access to Linkedin Learing
+• A possibility to engage in charity actions and participation in numerous social activities organized within the company,
+• Modern office in a great location, next to Dworzec Gdański metro station.
+• Work in hybrid mode (2 days a week from the office)
+
+Additional Information
+
+ABOUT NIELSEN We’re in tune with what the world is watching, buying, and everything in between. If you can think of it, we’re measuring it. We sift through the small stuff and piece together big pictures to provide a comprehensive understanding of what’s happening now and what’s coming next for our clients. Today’s data is tomorrow’s marketplace revelation.
+
+We like to be in the middle of the action. That’s why you can find us at work in over 100 countries. From global industry leaders to small businesses, consumer goods to media companies, we work with them all. We’re bringing in data 24/7 and the possibilities are endless. See what’s next with us at Nielsen: careers.nielsen.com
+
+Nielsen is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action-Employer, making decisions without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, marital status, protected veteran status or any other protected class.
+
+About NielsenIQ
+
+NielsenIQ is a global measurement and data analytics company providing the most complete and trusted view of consumers and markets in 90 countries covering 90% of the world’s population. Focusing on consumer-packaged goods manufacturers and FMCG and retailers, we enable customers to defy what’s possible. How? We combine unparalleled datasets, pioneering technology, and the industry’s top talent to create insights that unlock innovation. Join us and change the landscape.
+
+Learn more at: www.niq.com
+
+Want to keep up with our latest updates? Follow us on: LinkedIn | Instagram | Twitter | Facebook
+
+Our commitment to Diversity, Equity, and Inclusion
+
+NielsenIQ is committed to reflecting the diversity of the clients, communities, and markets we measure within our own workforce. We exist to count everyone and are on a mission to systematically embed inclusion and diversity into all aspects of our workforce, measurement, and products. We enthusiastically invite candidates who share that mission to join us.
+
+We are proud to be an Equal Opportunity/Affirmative Action-Employer, making decisions without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, marital status, protected veteran status or any other protected class. Our global non-discrimination policy covers these protected classes in every market in which we do business worldwide.
+
+Learn more about how we are driving diversity and inclusion in everything we do by visiting the NielsenIQ News Center: https://nielseniq.com/global/en/news-center/diversity-inclusion","[{'link': 'http://niq.com/global/en', 'text': 'niq.com/global/en'}, {'link': 'https://www.google.com/search?q=NielsenIQ&sa=X&ved=0ahUKEwjW_fax8vL8AhXfD1kFHUDBADYQmJACCJwM', 'text': 'See web results for NielsenIQ'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbEOb0uC3V6Q1uRLw4gxsviJ4O2Jux-lZ1c_ET&s=0,"['8 hours ago', 'Contractor']","{'posted_at': '8 hours ago', 'schedule_type': 'Contractor'}",eyJqb2JfdGl0bGUiOiJQYW5lbCBNYW5hZ2VtZW50IEFuYWx5c3QgLSA2IG1vbnRocyBwcm9qZWN0IiwiaHRpZG9jaWQiOiJYOFBPOHdXU0IzNEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFcUlDQ3VJQlFVTlFkMnBxVkZwcmR6ZzJjVXBzVWsxTU1tbHFSRzAyY3pCM2NWRXRTWE5OUjBkeVJGVnJlRWczYlhwTFRWTlVVMGxUUlhBMFVYRkdlbEZYUVhWMFpEUlBNMnB3UkY5SlRuUjBZbU5ZWmtaNWMySklTWEZTVjB0WGIyNUNjbkJDTmtONVNqSkRjMlJVYzBOaVJqSnVaSFpKWkZGTGIyWTVhM0ZUVjA5UE4wdENVVU5vZEdwRVJUbHNiVEIxYmpnM1ZVUlVkVmd3TlRKYVUyODRSREZvVjBwMGFYWmxaV1JNWm1Fd1VYTkpRWGhSY2xnNE1FWkxjVlprU201S2NEbE1jbWx1VVhWd04xOHlYMkpNVm1GT1p6SmtVRUo0TVV3NFEzUnRVMmxhV1Y5dlFSSVhSSEIyV2xrNVlTMU1aQzFtTlU1dlVIZEpTMFJ6UVUwYUlrRkdYelpOUVU0MFZrSkphbU50ZERCa1dsRnlOWE40TnpoQ04xcElVMXBKVlVFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBTbWFydFJlY3J1aXRlcnMgSm9iIFNlYXJjaCIsImxpbmsiOiJodHRwczovL2pvYnMuc21hcnRyZWNydWl0ZXJzLmNvbS9OaWVsc2VuSVEvNzQzOTk5ODgyMjkyNzAwLXBhbmVsLW1hbmFnZW1lbnQtYW5hbHlzdC02LW1vbnRocy1wcm9qZWN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+5,HR Data Management Analyst,Whirlpool Corporation,"Wrocław, Poland",via Recruit.net,"Whirlpool Corporation (NYSE: WHR) is committed to being the best global kitchen and laundry company, in constant pursuit of improving life at home. In an increasingly digital world, the company is driving purposeful innovation to meet the evolving needs of consumers through its iconic brand portfolio, including Whirlpool, KitchenAid, Maytag, Consul, Brastemp, Amana, Bauknecht, JennAir, Indesit and Yummly. In 2021, the company reported approximately $22 billion in annual sales, 69,000 employees and 54 manufacturing and technology research centers.
+Whirlpool Corporation is consistently recognized by FORTUNE as one of the World’s Most Admired Companies. Our values are the driving force behind everything we do. Integrity, Respect, Inclusion & Diversity, One Whirlpool, and Spirit of Winning propel our teams to excellence. Get to know us and see what it's like to be part of a company that is in constant pursuit of improving life at home.
+The team you will be a part of
+The HR Operations team... effectively maintains employee information that meets the organization's legal obligations and assists in human resource management and planning by recommending, developing and implementing new processes and analyses.
+This role in summary
+We are looking for a person to join our HR Operations Data Management Team . In this role, you will be responsible for managing queries related to the Employee Lifecycle process. The ultimate goal is to ensure all queries will be processed on time and to ensure customer satisfaction. This role can be located in Łódź or Wrocław .
+Your responsibilities will include
++ Day-to-day Employee data administration for the White Collar population
++ Documentation production for all employees
++ Data preparation and support for internal and external Audits
++ Management of simple benefits queries and administration
++ Revision of Internal procedures and regulations to ensure compliance with the applicable provisions of the Labor Code
++ Ensuring Data quality
++ Reporting and Continuous Improvement identification and implementation
+Minimum requirements
++ Fluency in Polish and English
++ Preferred professional experience as HR Ops/HR Administrator
++ Excellent communication and interpersonal skills
++ Self-motivated, able to work independently and under time pressure
++ Good problem-solving skills and attention to detail
+Preferred skills and experiences
++ Knowledge of CSR and HCM tools (ServiceNow, SAP SuccessFactors)
++ Experience in SSC or similar company structure
++ Ability to work within an international environment
++ Well-organized and Team Spirit building skills
+What we offer
++ Annual bonus
++ Full-time job contract
++ Flexible/hybrid way of working #LI-Hybrid
++ Private medical coverage and Sport Card
++ Life insurance
++ Wellbeing programs, including professional psychological support for employees and their families
++ Charity initiatives
++ Employee referral program
++ Up to 100% co-financing for courses (training, post-graduate studies, language courses)
++ Discounts on Whirlpool appliances
++ An international working environment in a dynamic company
++ Many opportunities to learn and develop
+Connect with us and learn more about Whirlpool Corporation
+See what it's like to work at Whirlpool by visiting Whirlpool Careers (http://www.whirlpoolcareers.com/) . Additional information about the company can be found on Facebook (http://www.facebook.com/WhirlpoolCorp/) , Twitter (http://twitter.com/whirlpoolcorp) , LinkedIn (http://www.linkedin.com/company/whirlpool-corporation/life/) , Instagram (http://www.instagram.com/whirlpoolcorp/) and YouTube (http://www.youtube.com/user/WhirlpoolCorporation) .
+At Whirlpool Corporation, we value and celebrate diversity. Whirlpool Corporation is committed to equal employment opportunity and prohibits any discrimination on the basis of race or ethnicity, religion, sex, pregnancy, gender expression or identity, sexual orientation, age, physical or mental disability, veteran status, or any other category protected by applicable law","[{'link': 'http://www.whirlpoolcorp.com/', 'text': 'whirlpoolcorp.com'}, {'link': 'https://www.google.com/search?q=Whirlpool+Corporation&sa=X&ved=0ahUKEwjW_fax8vL8AhXfD1kFHUDBADYQmJACCMoM', 'text': 'See web results for Whirlpool Corporation'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ewGOfnyjBoiv_J94a3NwhUgeyn0DEFxV7HF4zW90rzufZm8J-j0t&s,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJIUiBEYXRhIE1hbmFnZW1lbnQgQW5hbHlzdCIsImh0aWRvY2lkIjoibldLTy1ONlN3Q1FBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRW93Q0Nzd0JRVU5RZDJwcVUyUnJPR3gzYjJsdGFHSlRTRkZtUzAwNVowbGtTME5rZFVadU1VVkdWbFppWWpSVmRYVm5hV0pJZEhkQk4wUjZPVmxMWWpWSVQyMWxOWFF3ZUhCVFlVaHFRbkZJTW1aUFFYSlVSWGxhWVVONFp5MDBTVk5VYVdoU0xWZGhZVXBtV0VSb09FRjJObnBmZHpoU1lVNXpXRTFoU25Sak1rSk5NbWQ2UjBaSE9WOHhSRzlEUjA1eU1WZFBia0ZxT1VodE5tNTJRMnhYU1RWMlJWcHFSWFpDUjNOR1pucHJiRE5KYUhGaGVpMUphSGwwTm5GWE0xOWxNblZKVFdVelMxSTFjak54TmtNeEVoZEVjSFphV1RsaExVeGtMV1kxVG05UWQwbExSSE5CVFJvaVFVWmZOazFCVDJOdFRFZHlPRWxLV0dOb1FWOVZkblUzUWs4MVRuUmlWSGhPZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBSZWNydWl0Lm5ldCIsImxpbmsiOiJodHRwczovL3d3dy5yZWNydWl0Lm5ldC9qb2IvZGF0YS1tYW5hZ2VtZW50LWFuYWx5c3Qtam9icy8zRTdFQzg0RjYwMURFQzkxP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+6,Group Senior Data Analyst,Lyreco Group,"Gdańsk, Poland",via Jobrapido.com,"At Lyreco we all share a common goal to strive for passion, excellence, respect and agility. We are proud to be the European leader and the third largest distributor of workplace products and services in the world
+We are committed to the development of our employees and we aim to achieve that by creating a culture that inspires and empowers.
+Are you seeking a new challenge? This offer might be for you!
+• To be the reference point & owner of ALL data within our Group Product & Services team – translating it into clear actionable / insight for the benefit internally, and with our supplier partners.
+• To drive a common standard in the data used by both the Group and Local Product & Services team to evaluate our business performance through both our 9 box grid and ABCD methodologies.
+
+The Group Senior Data Analyst is responsible for creating and driving:
+• A data driven culture across the Group Product & Services team
+• A standardized approach to how we generate and utilize all internal ... external qualitative / quantitative data within the Group Product & Services team.
+
+The main missions are:
+
+Category performance
+• Produce periodic market and category reports to share across the team, showcasing our performance v’s our overall Group P&S strategy
+• Help create, drive and coordinate Group & Local methodology and planning of 9 box grid, which drives a common way of working across the P&S team at Group and local level
+• Work with A&VLP supplier partners to coordinate and obtain Category intelligence & market trend analysis.
+
+Purchasing performance & Market insight
+• Using the Group Qube & Commodity dashboard platform, provide periodic cost price evolution reports, helping to drive a common understanding of ‘’buy for less’’ opportunities across the business & by supplier – outline, by period, where we are ‘buying’ better, equal or behind the market trend.
+• Create Market insight & raw material index dashboard & provide data to support Group and local P&S, Sales and key International Customers to understand the market evolution and direction.
+• Work with all approved external data agencies to coordinate and drive forward ALL market intelligence, being able to turn this into ‘the so what’ / direction for action planning across the Group P&S team (PPI, EUWID, GFK etc)
+
+Digital acceleration
+• Support our clear ‘’plan, do, review’’ approach for all Digital activation by helping to drive our evaluation and ROI measures both internally and with our leading A / VLP partners.
+• Manage the timely reporting, distribution & evolution of all Group Digital data pack ‘sharing’ with our Suppliers.
+• Work with all Group and local Digital managers to coordinate and share local Lyreco ‘best practices’, aiding the lift & shift of leading global initiatives around the world.
+
+Delivering the ‘’how’’
+• Ability to build & maintain strong Group & Local internal and external stakeholder relationships, being brilliant at taking others with you, and breaking down barriers in a value led way.
+• To always work within our designated legal framework & to be a Champion of the Lyreco values internally and externally to the business
+
+Person / Profile
+• Always demonstrate the Lyreco values. Excellence, Respect, Agility, Passion
+• First class IT and communication skills
+• Be Humble, Hungry and display emotional intelligence.
+• Practically minded: able to roll sleeves up and get stuck in!
+• Demonstrates ownership of assigned work and accepts responsibility for own actions, performance and results.
+• Shows a willingness to step up and take on more responsibility when the need arises.
+• Demonstrates commitment and motivation to achieve goals and live up to expectations.
+• Displays pride and professionalism and a desire to function well in the job.
+• Commands excellent communication skills, both verbal and written.
+• Has the ability to build trust, respect and rapport quickly and at all levels.
+• Be a numbers person that lives the data.
+
+Role Specific
+• Full professional fluency in English, French is a plus
+• Experience of 3 years core data analysis experience.
+• Experience of instigating, developing, and driving complex data sets through a matrix organization.
+• Experience of working within a B2B Financial and / or Data model would be advantageous
+• You will hold a full and valid Driving License","[{'link': 'http://www.lyreco.com/', 'text': 'lyreco.com'}, {'link': 'https://www.google.com/search?q=Lyreco+Group&sa=X&ved=0ahUKEwjW_fax8vL8AhXfD1kFHUDBADYQmJACCPkM', 'text': 'See web results for Lyreco Group'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjTBDH9Rk5qFMe0myFU4v5ncEan3WZMa_uaYZ&s=0,"['23 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJHcm91cCBTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJaa0M1NEszcGJOUUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVTlFkMnBxVVZoMVkyaE9OVzFLVmtSeGNWTktTbEl0TjJOMFZWUlNZekphZGtVMFFXNDVPRTl1YWxGQ2NYQTRNWE4xUzBKNlRHMDFRemg1WjFwelVUaHdRelkzYzJGUWRWQmZXQzFmUzFRd2VrTjFhMUJOYkZVME5sSTNaVUZ0TUdwUlpYcDBlVTFsV0RFeU1FVjJSVzh5U0Rkc2N6bDZhMWRRUjNsTmVXNVNPRWhIVmxFM2JWWk5PRVpRTVd4NlpEVkhkV1pVVEZKNVRrMW5VRU01UXpoYVZ6Vk1jMFExYkdsdU0xaFhUV2h3Y0dOb2FITkxiVkV4WTJWeGFGVnBhV3B6VHkwM1J5MHpVVVpTRWhkRWNIWmFXVGxoTFV4a0xXWTFUbTlRZDBsTFJITkJUUm9pUVVaZk5rMUJUa05TVDAxb2F6SjRXVmgzWkdWaFUwTjFNVmxsTTFSdWFTMDJkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvYnJhcGlkby5jb20iLCJsaW5rIjoiaHR0cHM6Ly9wbC5qb2JyYXBpZG8uY29tL2pvYnByZXZpZXcvNzc1MDg5MzU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+7,Senior Web Services Data Analyst,OK see,Anywhere,via Linkedin,"Title: Senior Web Services Data Analyst
+
+Company: A leading provider of personal data protection services in US
+
+We are looking for a talented and experienced Web/Data Analyst to help grow rapidly expanding web-service, currently reaching 10 million monthly users.
+
+As a Data Analyst, you will be responsible for collecting, processing and analyzing data from users of our web service, as well as analyzing SaaS product metrics (LTV, Conversion Rate, Retention Rate, Churn Rate, Revenue Churn, MRR, ARPU).
+
+You will work with analytical systems (e.g. Google Analytics, GA4) and set up experiments. You will also collaborate with the product and marketing teams to formulate and test hypotheses to improve the user experience and participate in the creation and analysis of marketing campaigns.
+
+Key Tools: Google Analytics, GA4, Google Optimize, Google Tag Manager, BigQuery, Looker, Google Tag Manager Server-side
+
+Requirements:
+• 2+ years of experience in a web services analyst role for b2c... projects
+• Understanding of product data analysis and segmentation principles
+• SQL, Measurement protocol, and e-commerce expertise
+• BigQuery experience
+• Ability to conduct A/B tests (hypothesis generation, sample calculation, result validation)
+• Experience with data visualization systems
+• Familiarity with Python/R for data analysis is a plus
+• Basic knowledge of JS is a big plus
+• A mathematical background is welcome
+• English language proficiency is a must.
+
+This is a fantastic opportunity to join a dynamic and growing team and play a key role in driving business growth through data-driven insights. If you're an experienced and passionate Web Services Data Analyst, we would love to hear from you","[{'link': 'https://www.google.com/search?q=OK+see&sa=X&ved=0ahUKEwjW_fax8vL8AhXfD1kFHUDBADYQmJACCKgN', 'text': 'See web results for OK see'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Ygpcc3Oc4NNF9OgDuRHEbHt3j3waexW4bacxsvI&s,"['8 hours ago', 'Work from home', 'Full-time', 'No degree mentioned']","{'posted_at': '8 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgV2ViIFNlcnZpY2VzIERhdGEgQW5hbHlzdCIsImh0aWRvY2lkIjoiMzd2eHFlcVlRbTBBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVU5RZDJwcVUwdEZkazVWY0ZKaU5HMDRSVmxXZFhKV1FYTjJhRlp1UkcxQlNEZDFkSE5TUVhKNE5rMDBVa1pWWVd4amRWOUNNR0pvWVZWTWMySnRXSEpoTURrMlMwbzFSRUpzYWxGd2RUbFpiVWRxVGtocWIyZGpVSE5pVWpob1l6bHBObFpxVVZobVNYaEVUazQzWmtWMWFEWlRkaTA0YUROV09YRlRYMnhMU1hOclYzY3hTRjlKV0Y5eU9VNXRhV294VjBaTk5YQnZXRE56YUV0UmEyMWhibXRUYjA0eVkyeFpSR016YTFCYVIwODBabFJuRWhkRWNIWmFXVGxoTFV4a0xXWTFUbTlRZDBsTFJITkJUUm9pUVVaZk5rMUJUMDkzVDJSd1FqRlNaWHA1VDA1dGFWbENkMDFYVVhrMFNVRXdRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZGluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3Itd2ViLXNlcnZpY2VzLWRhdGEtYW5hbHlzdC1hdC1vay1zZWUtMzQ2MjAxMTU4OD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+8,"Data Governance Expert, Data Quality Analytics & Controls",Nordea Bank,"Warsaw, Poland",via Careers Nordea,"Job ID: 15413
+
+Would you like to see yourself making a difference in the continuous strategic implementation of group-wide Data Quality Framework?
+
+We are now looking for a Data Governance Expert to translate the business demand into concrete deliverables and support the implementation of the Data Governance recipe.
+
+At Nordea, we know our customers’ needs are changing – and we’re deeply committed to meeting them with the financial solutions of tomorrow. We’re creating an agile environment where we’re harnessing the power of technology – one where you can make an impact. So bring your skills, ideas and unique background. With us, you’ll find plenty of opportunities to grow and make your mark on something bigger.
+
+About this opportunity
+
+Welcome to the Data Quality Analytics & Controls - team within Group Data Management Office (GDMO). We add value by exercising a broad range of responsibilities including capability building for advisory and technical support to implement the Data... Governance recipe and visualization of the Data Quality reporting. We operate the Data Quality Issue Management process and tracking system. We are responsible for putting in place policies and processes to meet the regulations and business requirements.
+
+Purpose of the job
+
+Give input to and/or help implement the Data Governance Framework – internal rules, instructions, SOPs, etc., across the Group.
+
+Provide guidance, support, analysis and controls for key stakeholders. Contribute to the capability building and capability implementation utilizing in depth specialized skills. Help building the foundation for 'fit for purpose data'.
+
+What you’ll be doing:
+• Becoming a subject matter expert on data governance processes in relation to Data Quality and Data Quality Issue Management.
+• Becoming a subject matter expert on data governance tools primarily the IBM Information Analyzer, IGC Information Governance Catalogue and Power BI.
+• Create and Give high quality guidance (ie Portal, Expert documentation ""handbooks"").
+• Contribute to the development of new data governance and data quality policies, principles, standards and instructions as well as deliver enhancements in BAU state.
+• Collaborate, support and contribute to training and knowledge sharing sessions for data governance and data quality practitioners in GF/BAs.
+• Support DG Framework implementation in BA/GF's as well as Implement and maintain capability solutions in data governance and data quality.
+• Contribute to conduct assessments/reviews/diagnosis on the subject in order to determine whether it is up to standard and to formulate recommendations, and provide transparency to the relevant stakeholders.
+• Contribute to/develop reporting and visualizations to provide information about the quality and progress of the subject in order to communicate whether it is up to standard.
+
+You’ll join a dynamic team where we all have a role as organizational change ambassadors, supporting the alignment and implementation of the Data Quality Framework i.e. people, processes and technology coming to place in a good way. This will provide you excellent possibilities to learn and grow professionally.
+
+The roles are based in Finland (Helsinki) or Poland (Tricity, Warsaw).
+
+Who You are
+
+Collaboration. Ownership. Passion. Courage. These are the values that guide us in being at our best – and that we imagine you share with us.
+
+To succeed in this role, we believe that you:
+• Have a strong solution-oriented and analytical mindset.
+• Strong stakeholder management and communication skills.
+• Thrive when working with complex end-to-end solutions and processes.
+• Have the ability to grasp new technologies quickly (on high level).
+• Have the motivation to learn about data governance principles, processes, frameworks etc to be able to proactively innovate and find creative solutions.
+• Comfortable working as a bridge between business and IT.
+• A self-starter and pro-active by nature.
+
+Your experience and background:
+• Bachelor’s or Master’s degree in relevant field.
+• Strong knowledge on MS-Office tools, databases and reporting tools.
+• 3+ years’ experience within data analysis / reporting area using preferably Power BI and/or MS SQL server.
+• In lieu of specific data analysis experience, core Business Analyst skills are required.
+• Previous experience on the IBM Infosphere products especially IA - Information Analyzer and IGC Information Governance Catalogue is an asset.
+• Previous detailed experience with Atlassian JIRA software and agile/SAFe ways of working is also an asset.
+• You have superior level fluency, both written and spoken, in English language.
+
+If this sounds like you, get in touch!
+
+Next steps
+
+Submit your application no later than 28/02/2023.
+
+At Nordea, we know that an inclusive workplace is a sustainable workplace. We deeply believe that our diverse backgrounds, experiences, characteristics and traits make us better at serving customers and communities. So please come as you are.
+
+Please include permit for processing personal data in CV as following:
+
+In accordance with art. 6 (1) a and b. Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) hereinafter ‘GDPR’. I agree to have: my personal data, education and employment history proceeded for the purposes of current and future recruitment processes in Nordea Bank Abp.
+
+The administrator of your personal data is: Nordea Bank Abp operating in Poland through its Branch, address: Aleja Edwarda Rydza Śmiglego 20, 93-281 Łodź. Your personal data will be processed for the recruitment processes in Nordea Bank Abp. You have a right to access your personal data, right to rectify and right to delete. Disclosing the personal data in the scope specified by the provisions of Polish Labour Code from 26 June 1974 and executive acts are mandatory. Providing personal data is necessary to conduct the recruitment processes. The request for the deletion of your personal data means resignation from further participation in recruitment processes and causes the immediate removal of your application. Detailed information concerning processing of your personal data can be found at: privacy-policy.2021.pdf (nordea.com)
+
+We reserve the right to reply only to selected applications","[{'link': 'http://www.nordea.com/', 'text': 'nordea.com'}, {'link': 'https://www.google.com/search?q=Nordea+Bank&sa=X&ved=0ahUKEwjW_fax8vL8AhXfD1kFHUDBADYQmJACCNgN', 'text': 'See web results for Nordea Bank'}]",,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEdvdmVybmFuY2UgRXhwZXJ0LCBEYXRhIFF1YWxpdHkgQW5hbHl0aWNzIFx1MDAyNiBDb250cm9scyIsImh0aWRvY2lkIjoiQ21VWGdCMmVudFVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXFJQ0N1SUJRVU5RZDJwcVZEQnZkVWhtT0VkeFgxSTJOM2xWZFhoTWRtMHlMVlpOVWpKTWRsWnhRMWN3YlVVd1IzZDBhblZIZWpGd1dtdGpVRTR6V21Vd1ZUbGhUekJIY25CTlprMHljRGhFVjBGQlV6QkpPSFJoWlU1S1drdEZhV0Z0UjI4M1drbG9URWc1TTBSd1N6VTJZM281UWxwd1NsQXhWeTFOYzFnMlQxVnFORE01U2w4emVIbDZTWFl5ZEdSWlptTlJSRXhmUjFkeFMyRTNjMlo2YVc1S2JsbGphRlZLY2xKVWR6SmFiRVpOZG5oUFRsOVBNVnBaVGxkZk0ySTFiVmhpV1dFNE9GVTNNbDh3VEdoT1RIRlBVSEpwV1hkcVdXaEVTM2hWZWxsYVFrNHdkeElYUkhCMldsazVZUzFNWkMxbU5VNXZVSGRKUzBSelFVMGFJa0ZHWHpaTlFWQjZVRVZ2U0hGbVFtSjFOMnBGWDJoT1FtaE9Na1Z0YTIxWFpFRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE2IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIENhcmVlcnMgTm9yZGVhIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5ub3JkZWEuY29tL2pvYi9HZHluaWEtRGF0YS1Hb3Zlcm5hbmNlLUV4cGVydCUyQy1EYXRhLVF1YWxpdHktQW5hbHl0aWNzLVx1MDAyNmFtcDthbXA7LUNvbnRyb2xzLTgxLTUzNy84OTgxNzE1MDEvP2ZlZWRJZD0zMzU4MDFcdTAwMjZhbXA7YW1wO3V0bV9zb3VyY2U9Q2FyZWVyU2l0ZVx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+9,Financial modeling - Data Analyst,Santander Bank Polska,"Warsaw, Poland",via Adzuna.pl,"Financial modeling - Data Analyst
+Miejsce pracy: WarszawaTechnologie, których używamy
+Wymagane
+• SQL
+• Python
+Twój zakres obowiązków
+• modelowanie finansowe na potrzeby wewnętrzne (banku) oraz Zarządu
+• end-to-end financial modeling, uwzględniające zebranie danych niezbędnych do analizy oraz analiza wniosków
+• w ramach pracy nad przygotowywaniem modelu szczegółowa analiza otrzymanych danych
+• wsparcie procesu pozyskiwania danych w fazie przygotowania analiz jak również w fazie późniejszego zarządzania modelem finansowym
+• przygotowywanie raportów i analiz ad hoc
+• tworzenie krótkoterminowych i wieloletnich prognoz finansowych oraz analiza odchyleń
+• analiza oraz interpretacja danych wraz z przejrzystą prezentacją wyników
+• przygotowywanie raportów zarządczych (P&L, BS, CF)
+• przetwarzanie danych biznesowych z różnych linii biznesowych
+• współpraca z innymi działami oraz wsparcie biznesu w zakresie analiz finansowych
+Nasze wymagania
+• wykształcenie wyższe, ukończone studia na... kierunkach takich jak: metody ilościowe, finanse, rachunkowość, ekonomia
+• doświadczenie co najmniej 4 lata na podobnym stanowisku
+• rozumienie i analiza sprawozdań finansowych / sprawozdawczość zarządcza
+• umiejętność modelowania finansowego i budowania modeli finansowych end-to-end na potrzeby wewnętrzne
+• umiejętność pracy pod presją czasu i wykorzystywania kreatywnych rozwiązań w pracy modelowej
+• wysoko rozwinięte zdolności analitycznego myślenia i wyciągania syntetycznych wniosków
+• przejrzysta prezentacją wyników
+• mile widziane doświadczenie w pracy w sektorze finansowym
+• bardzo dobra znajomość MS Excel, mile widziane VBA
+• dobra znajomość języka angielskiego w mowie i piśmie
+Tak organizujemy naszą pracę
+Tak pracujemy
+• wewnątrz organizacji
+Takie dajemy możliwości rozwoju
+• szkolenia wewnątrzfirmowe
+• wymiana wiedzy technicznej w firmie
+To oferujemy
+• zatrudnienie na podstawie umowy o pracę
+• wewnętrzne programy rozwojowe umożliwiające doskonalenie kompetencji zawodowych
+• udział w ciekawych, strategicznych projektach
+• zgrany zespół i przyjazną atmosferę
+• atrakcyjny system motywacyjny
+• pożyczki na cele mieszkaniowe
+• ofertę produktową banku na atrakcyjnych warunkach
+• prywatną opiekę zdrowotną
+• możliwość wyboru spośród bogatej oferty świadczeń pozapłacowych w ramach systemu kafeteryjnego
+• ciekawe akcje w ramach programu propagującego zdrowy styl życia „BeHealthy”
+• oferta benefitowa zawiera również rozwiązania dla osób z niepełnosprawnością
+Benefity
+• dofinansowanie zajęć sportowych
+• prywatna opieka medyczna
+• dofinansowanie nauki języków
+• dofinansowanie szkoleń i kursów
+• ubezpieczenie na życie
+• możliwość pracy zdalnej
+• zniżki na firmowe produkty i usługi
+• preferencyjne pożyczki
+• dodatkowe świadczenia socjalne
+• dofinansowanie biletów do kina, teatru
+• wyprawka szkolna
+• program rekomendacji pracowników
+Klikając w przycisk „Aplikuj”, „Aplikuj teraz” lub w inny sposób wysyłając zgłoszenie rekrutacyjne do Santander Bank Polska S.A. z siedzibą w: Al. Jana Pawła II 17, 00-854 Warszawa (Pracodawca - administrator danych), zgadzasz się na przetwarzanie przez Pracodawcę Twoich danych osobowych zawartych w zgłoszeniu rekrutacyjnym, w celu prowadzenia rekrutacji na stanowisko wskazane w ogłoszeniu. W każdym czasie możesz cofnąć zgodę kontaktując się z nami pod adresem e-mail: iod@santander.pl.
+Będziemy przetwarzali informacje o Tobie w celu prowadzenia rekrutacji na stanowisko wskazane w ogłoszeniu, w oparciu o następujące podstawy prawne: (a) aby wypełnić ciążące na nas obowiązki prawne – dane wskazane w Kodeksie pracy (m.in. dane identyfikacyjne, dane kontaktowe, wykształcenie, doświadczenie zawodowe, umiejętności, kwalifikacje) lub w innych przepisach prawa (według wymogów ogłoszenia); (b) aby podjąć działania na Twoje żądanie przed zawarciem umowy (np. informacje o oczekiwanym wynagrodzeniu i Twojej dostępności do rozpoczęcia pracy); (c) w oparciu o Twoją zgodę (np. Twój wizerunek, zainteresowania); w oparciu o nasz prawnie uzasadniony interes (np. Twój adres e-mail, który jest niezbędny do Twojej identyfikacji na formularzu Pracuj.pl). Twoje dane osobowe możemy przetwarzać także celu prowadzenia przyszłych rekrutacji na różne stanowiska (w oparciu o Twoją zgodę). Podanie danych osobowych wskazanych w przepisach prawa, niezbędnych do podjęcia działań na Twoje żądanie przed zawarciem umowy lub niezbędnych w naszym prawnie uzasadnionym interesie, jest obowiązkowe, żeby wziąć udział w rekrutacji. Podanie pozostałych danych jest dobrowolne. Masz prawo dostępu do swoich danych, w tym uzyskania ich kopii, sprostowania danych, żądania ich usunięcia, ograniczenia przetwarzania, wniesienia sprzeciwu wobec przetwarzania oraz przeniesienia podanych danych (na których przetwarzanie wyraziłeś zgodę lub przetwarzamy je na Twoje żądanie przed zawarciem umowy) do innego administratora danych. Masz także prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych. Cofnięcie zgody pozostaje bez wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem.Twoje dane osobowe przetwarzamy w celu prowadzenia rekrutacji na stanowisko wskazane w ogłoszeniu przez okres: maks. 1 roku od zakończenia publikacji ogłoszenia.Twoje dane osobowe możemy przekazać dostawcom usługi publikacji ogłoszeń o pracę, dostawcom systemów do zarządzania rekrutacjami, dostawcom usług IT (hosting), dostawcom systemów informatycznych. Nie przekazujemy Twoich danych osobowych poza Europejski Obszar Gospodarczy (EOG). W razie pytań możesz się z nami skontaktować pod adresem e-mail: iod@santander.pl","[{'link': 'http://www.santander.pl/', 'text': 'santander.pl'}, {'link': 'https://www.google.com/search?q=Santander+Bank+Polska&sa=X&ved=0ahUKEwjW_fax8vL8AhXfD1kFHUDBADYQmJACCIYO', 'text': 'See web results for Santander Bank Polska'}]",,"['3 hours ago', 'Full-time']","{'posted_at': '3 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJGaW5hbmNpYWwgbW9kZWxpbmcgLSBEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6InFGdmVHSTVFdnlzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVxSUNDdUlCUVVOUWQycHFWSFI2TURoWFdXWXRjMmgyVEdsWmVVeFRTMVIyVmw5ZmFGVkVRblpFV0VORFlrazRiSGxsTlZkMlNFbDFTMGx3T1ZVMWRrRm9kbmswTkcwd2JWWjNRVVowUXpCbmRXZGZka0ZCVFZCRlVYSkhPWE16TFRjeE5qYzRabGxzVkZSNWQzcFFabVJxVW10NFdGUkZTVlJrV21GdVJrdGFTRGg0WDJJMmJqUmFkek5mVUVWTFlTMU9iWFpzVGtWbWFXMVJNVGs0WlU1NlUzY3RSR1Z4V2xjM01WZFlXVE5YTWpaa04zQXhRMWxSU2tWWlNWaFBWWGhWYjI1a1JYTkpWV28zUnpabmFteExjbkZwTkUxT2FEZFVZMHRPTm1JM1ZVZHJNM1ZJZHhJWFJIQjJXbGs1WVMxTVpDMW1OVTV2VUhkSlMwUnpRVTBhSWtGR1h6Wk5RVTlvUkc1MlRVY3hObGRpV0VsV1pHOURWSFJRU0V0SmEySTJRM2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBBZHp1bmEucGwiLCJsaW5rIjoiaHR0cHM6Ly93d3cuYWR6dW5hLnBsL2RldGFpbHMvMzg4OTc5NTE4Nz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+0,"Senior Data Analyst, Operations",Elemy,"Poznań, Poland",via Jobrapido.com,"Senior Data Analyst, Operations - Hybrid
+
+Who We Are at Elemy:
+
+Elemy is the nationwide provider of childhood mental healthcare and behavioral therapy in the US. Our platform matches families with like-minded therapists resulting in better care that helps children with conditions such as autism, ADHD, and anxiety & depression disorder learn new behaviors and reach life-changing milestones faster.
+
+Since launching in April 2020, Elemy has become one of the fastest-growing healthcare companies in the United States. The company has raised over $200M to date and is backed by some of the most prominent investors in healthcare and technology, including General Catalyst, Founders Fund, SoftBank, Goodwater, Bling Capital, and 8VC.
+
+Senior Data Analyst, Operations
+
+Elemy is seeking a Senior Data Analyst to support our Operations organization, partnering closely with Product, Engineering, and other critical business functions to devise and execute measurement strategies to optimize efficiencies... on our platform. Elemy’s mission is to create a multi-party platform (patients, providers, payors, etc.) that streamlines families’ ability to seek behavioral therapy. The Senior Data Analyst will drive operational initiatives that inform product decisions employing data-driven methodologies.
+
+What You’ll Do
+• Drive analyses across multiple interactions with our platform to identify user pain points and optimize the user experience
+• Partner with Engineering, Product, and Data Science teams to support operational roadmaps and key strategic decisions based on data-driven insights
+• Uncover insights using sophisticated dashboards and present findings to cross-functional leaders
+• Manage analytics lifecycle from concept to delivery
+• Drive quantitative analyses, ad hoc reporting, testing strategies, and modeling to validate operational decisions
+
+Who You Are
+• The ideal candidate possesses 4+ years of experience supporting high-growth companies, preferably in a startup and / or marketplace environment, to improve operational performance employing sophisticated data analysis techniques
+• BA/BS or advanced degree in Mathematics, Statistics, Economics, or a related field
+• Previous experience working with relational databases such as SQL, Looker, R, or similar platforms
+• Proven experience tackling complex, ambiguous problems in a fast-paced environment
+• Excellent collaborative and prioritization skills coupled with the ability to drive multiple projects simultaneously
+• Previous people management experience is a plus
+
+The above job description is meant to describe the general nature and level of work being performed; it is not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required for the position.
+
+Elemy is an equal opportunity employer that is committed to providing all employees with a work environment free of discrimination and harassment. We celebrate diversity and welcome applicants from every background and life experience.
+
+Please stay alert to protect yourself from sophisticated job scams during the recruiting process. Only emails that come from @elemy are legitimate recruiting messages. We conduct all interviews by phone and Google Video, and we will never ask you for money or to download software. Please be vigilant and review elemy’s for all valid roles and their job descriptions, if you are interested in a specific role, please apply directly on our career site. If you have any questions about the legitimacy of outreach from Elemy, please contact us at verify @elemy to verify","[{'link': 'https://www.google.com/search?q=Elemy&sa=X&ved=0ahUKEwj4iMyy8vL8AhWIF1kFHblfBnE4ChCYkAII2wo', 'text': 'See web results for Elemy'}]",,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0LCBPcGVyYXRpb25zIiwiaHRpZG9jaWQiOiJWTWVUT2o0OFpSZ0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVVZsaExXa3lYMGhqVjB0MFVEbDNTak5TUkZCZlduRmFVVE5mWlY5VVJHeG5TME4xWTFrMFRYcExla0k0YlZKck5YQnJka2xzVDAxMll6Um1TblpVVjJKdGFreHZYM2xCYjNGdFRUWk1XRmd0ZW1wNlExTjZhR1ZyYTB4NllYQkVPRWRmVWxwSlYycExObDgzVjNkdk4ySjNaRFJwTFVaZmIzTTBUa0pHVmxoc1JEWkJNV3hOZHkxNk5sWTFabmxKYVdkbE5tRldaV2s1T0d4eVoyVjFiRnBaYm5sWFlWQkxhMEpNU0hRd1VGVlZFaGRGU25aYVdWOXFRVU5KYVhZMVRtOVFkV0l0V21sQll4b2lRVVpmTmsxQlR6QmFWMUJhT1UwelozWkVkalJaUVd4blRYUmlOV2hDZWpWMVFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBKb2JyYXBpZG8uY29tIiwibGluayI6Imh0dHBzOi8vcGwuam9icmFwaWRvLmNvbS9qb2JwcmV2aWV3Lzc3NTEzNDIwP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+1,"Management Information Analyst, Associate 1",State Street,"Kraków, Poland",via The Muse,"Who we are looking for
+
+A candidate to provide support to the dynamic Chief Administration Office for Client Service Operations, facilitating the smooth running of the Management Information process and reporting. To administer the daily Volcker Office UK and Italy processes by acting as the 1st point of contact for the administration and collation/processing of information to allow smooth running of the process for all ISUKME divisions in scope for the ISUK Volcker Office.
+
+Why this role is important to us
+
+The team you will be joining is a part of State Street IS. IS gives asset owners and managers access to the essential financial tools they need to deliver effective investment solutions. From core custody, accounting, fund administration and shareholder recordkeeping, to complete operations solutions and servicing for alternative assets like OTC derivatives, private equity and real estate, IS tools help our clients make better investment choices and act on growth... opportunities.
+
+Join us if making your mark in the financial services industry from day one is a challenge you are up for.
+
+What you will be responsible for
+
+As Management Information Analyst you will
+• Maintain good order of all files, trackers, distribution lists, workload tracker, document trackers, etc. ensuring accurate and timely updates are made
+• Maintain group mailbox(es), ensuring items are promptly responded to, filed and forwarded as necessary
+• Collect, analyse, compile and present MI and Volcker data from multiple business parties across the ISUKME business
+• Answer all MI and Volcker related queries promptly and provide ongoing support to the business in this area
+• Assist with research and data analysis for CAO team, including gathering and manipulating data, researching discrepancies and producing reports
+• Maintain SharePoint directory, ensuring all items are filed appropriately and user access requests are monitored and processed as necessary
+• Ensure documentation is monitored, recorded, tracked and pursued in accordance with requirements
+• Ensure reminders are generated and chased appropriately
+• Prepare reporting, including status reports and graphs as necessary
+• Assist with reviewer for the steps after preparation phase, as required
+• Provide administrative support to wider CAO and assist in the CAO projects, as required and assigned by the Team Manager
+
+What we value
+
+These skills will help you succeed in this role
+• Ability to summarise often complex data into a easily understood verbal or illustrated format
+• Meticulous attention to detail and follow up, can do' attitude, positive nature that welcomes change
+• Ability to work in a fast-paced, deadline driven environment on occasion juggling and prioritising a number of simultaneous objectives
+• Strong analytical and problem solving skills in multi- location/geographic complex organization
+• Ability to interact effectively and professionally with a variety of organisational levels from junior level staff to senior-level management
+
+Education & Preferred Qualifications
+• Business related degree (preferred)
+• 1 - 2 years of experience in a business/ administrative environment is preferable
+• Previous analytical experience would be considered a plus
+• Strong working knowledge of MS Office suite, particularly Excel formulae driven spreadsheets, Power-Point, Word, SharePoint considered an asset
+• Excellent English is required
+
+Additional requirements
+
+Knowledge of Italian will be considered a plus.
+
+We offer
+• Permanent contract from day one
+• Additional holidays (Birthday Day Off, 3rd and 5th year anniversary Day Off)
+• Gold medical package for employees and their families (partner and children)
+• Premium life insurance package and private pension plan
+• Wide range of soft skills training, technical workshops, language classes and development programs
+• Opportunities to volunteer your time to company-driven initiatives, employee networks or organizations of your choice
+• Variety of well-being programs
+
+About State Street
+
+What we do. State Street is one of the largest custodian banks, asset managers and asset intelligence companies in the world. From technology to product innovation we're making our mark on the financial services industry. For more than two centuries, we've been helping our clients safeguard and steward the investments of millions of people. We provide investment servicing, data & analytics, investment research & trading and investment management to institutional clients.
+
+Work, Live and Grow. We make all efforts to create a great work environment. Our benefits packages are competitive and comprehensive. Details vary in locations, but you may expect generous medical care, insurance and savings plans among other perks. You'll have access to flexible Work Program to help you match your needs. And our wealth of development programs and educational support will help you reach your full potential.
+
+Inclusion, Diversity and Social Responsibility. We truly believe our employees' diverse backgrounds, experiences and perspective are a powerful contributor to creating an inclusive environment where everyone can thrive and reach their maximum potential while adding value to both our organization and our clients. We warmly welcome the candidates of diverse origin, background, ability, age, sexual orientation, gender identity and personality. Another fundamental value at State Street is active engagement with our communities around the world, both as a partner and a leader. You will have tools to help balance your professional and personal life, paid volunteer days, matching gift program and access to employee networks that help you stay connected to what matters to you.
+
+State Street is an equal opportunity and affirmative action employer.
+
+Discover more at StateStreet.com/careers","[{'link': 'http://www.statestreet.com/', 'text': 'statestreet.com'}, {'link': 'https://www.google.com/search?q=State+Street&sa=X&ved=0ahUKEwj4iMyy8vL8AhWIF1kFHblfBnE4ChCYkAIIigs', 'text': 'See web results for State Street'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBJLTcLuoKxfrl-cWuZGkE6VmGVKPgq-5dwJJQnQRl9eWGcBWuMxFgaw&s,"['23 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJNYW5hZ2VtZW50IEluZm9ybWF0aW9uIEFuYWx5c3QsIEFzc29jaWF0ZSAxIiwiaHRpZG9jaWQiOiItc2xMYnJ5VUVWUUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFcUlDQ3VJQlFVTlFkMnBxVkhOaGJqbFZiSGd3ZVRkNGVqTnlkRWx4TVZOTFlUQjVVbnBuUWtVd05pMTVYMVphWldsNU1FSTJkVWhzUVVwblNEUktORTlTYUUxalNGUkZlVU5rZDJ4NmNWbGxNV1pETVcxT1dXVkxTMjFvUms5ZmMxTlRNR1ZtU1RKcFNqUjNOMHRmU1VGbU0zZ3hZazV0Y0haYWVXNXhSbUpNZFdoaWIzWmphMVZaYVhkM2NrbFFRVUpQVUdvMmRUQkVMVEZ0YzNWUVRrMXJTbFl5VFY5UmVGRTNNV3hsWTJwUFpHUnFUVkkzVEhoVVRHZDBOVXgyTlRsWE4wb3hXSGx2VjFkMFZtNDNXbFp1Ymxwd1RXTlpjR2gwUmpCbmVUUTJZVlJOT0ROaVFSSVhSVXAyV2xsZmFrRkRTV2wyTlU1dlVIVmlMVnBwUVdNYUlrRkdYelpOUVU1UWNGZHhTVXBXY1dORmVITkRaR0ozZEZFM1dXNXRYMDFYVFdjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUaGUgTXVzZSIsImxpbmsiOiJodHRwczovL3d3dy50aGVtdXNlLmNvbS9qb2JzL3N0YXRlc3RyZWV0L21hbmFnZW1lbnQtaW5mb3JtYXRpb24tYW5hbHlzdC1hc3NvY2lhdGUtMS0yZjQ3NzY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+2,Junior Analytics Engineer,Promo.com,Anywhere,via Recruit.net,"Who are we:
+
+Promo.com is the #1 video creation platform and at our core is the dedication to empower our customers to promote anything with the power of videos.
+
+We are using advanced technologies to build cutting-edge, data-based products that help our customers reach their goals.
+
+This is an exciting opportunity to join our Data Analytics team and play a key role in driving our leading products forward.
+
+Analytics Engineer
+
+SALARY RANGE: 7k - 14k PLN net (b2b) depending on experience
+
+Promo.com is a data-driven company. Everyday we facilitate a modern data engineering and analytics tech stack in our decision making. Our analytics team includes data engineers, data analysts and currently seeks for a mid-experience level analytic engineer.
+
+As an analytics engineer you will be taking key roles and responsibilities in the integration of data into the decision making processes of the company, for each department and team.
+
+Your main responsibilities will be:
+• Working with data... analysts and internal consumers of our data platform (product managers, acquisition team, etc.) to understand the business needs behind required data transformations, reports and dashboards,
+• Owning the data transformation layer - turning raw data into clean, transformed data ready to be utilized by analysts via ad hoc SQL queries or by any business user via visualization layer,
+• Applying software engineering best practices to data transformation code (e.g. version control, testing, continuous integration),
+• Maintaining data documentation and definitions,
+• Training business users on how to use data visualization tools.
+
+A good candidate should be independent, have a natural drive to understand business deeply and experience in building high quality data transformation for analytics. We value curiosity to learn and a fearless approach to evaluating and adopting new technologies, methods, and approaches.
+
+We are looking for:
+• 2+ years of experience as data analyst, data engineer or similar role,
+• BSc degree in Engineering, Economics, Management or other relevant one, covering statistics and quantitative research methods,
+• SQL fluency,
+• Hands-on experience with python,
+• Experience working with BI tools and understanding of data visualization and reporting methods,
+• Hands-on experience with fundamental software development tools like linux command line and git, or passion and true intent to master it quickly
+• Advanced, professional English.
+
+Nice to have:
+• Experience in data analytics at a SAAS company,
+• Experience with any of the following technologies:
+• Airflow,
+• DBT,
+• BigQuery,
+• Looker.
+
+We offer:
+• Long term B2B cooperation,
+• 26 days of paid holiday,
+• The equipment you choose to work with,
+• Work from home or coworking at the center of Warsaw,
+• Medicover healthcare package,
+• Multisport card,
+• Casual atmosphere, great team of creative people.
+
+Why is Promo the best place for you?
+• We have an awesome product. Our cutting-edge video maker is helping small businesses everywhere reach their goals.
+• We strive to implement cutting edge technologies, methods and tools.
+• We work hard. We are constantly striving to discover new and innovative ways to improve and maintain our status as the world’s leading video maker.
+• We love to have fun. We always enjoy each other’s company (and good food, of course).
+• We invest in people. We consider each employee a long term investment and we see value in continuously nurturing and training them","[{'link': 'http://promo.com/', 'text': 'promo.com'}, {'link': 'https://www.google.com/search?q=Promo.com&sa=X&ved=0ahUKEwj4iMyy8vL8AhWIF1kFHblfBnE4ChCYkAIIugs', 'text': 'See web results for Promo.com'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQciHVRXnhqgRImDEh4TTXwFGtgAbWy3hqnXFbdc_A&s,"['23 hours ago', 'Work from home', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJKdW5pb3IgQW5hbHl0aWNzIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiIyRThjRmJ2NmQ1NEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVWsxTFgwOHdRMnQxVjE5bVZFTTViekJOYVhKT04xVjFVbEowYlVKR05uZzVaV3hKUVZCdk1VOXVObk4xVjJaQ05tTlVaMXBCVTFCdVVrRTJPVkJZV25oU1VGZzBkazlDZWpjMWNIUjNSbTVHWDNCNmRGZGhOblkwYVZOalFYTlhSVWROTWtacGNFa3RkRXhwYjJGd2VrODRVa0ppYTA5ZmIyWk9XVnBuTjJwUFpXOXhjV3hpVG5CQmJrcHZURmRqZGs5TlYxWjNZMGRTU2xoNllsWmhSRk5IZFdZNVdVeGlVMHhRYVVFdFUzVkZFaGRGU25aYVdWOXFRVU5KYVhZMVRtOVFkV0l0V21sQll4b2lRVVpmTmsxQlRXZEpURjgwWjFSSFYzZGlNMjFDYlZCeU1VRjVSRVpEV0c1aFp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBSZWNydWl0Lm5ldCIsImxpbmsiOiJodHRwczovL3d3dy5yZWNydWl0Lm5ldC9qb2IvYW5hbHl0aWNzLWVuZ2luZWVyLWpvYnMvQUNGOTVBMEQ4RjIxNTc4Mj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+3,EMEA Vehicles Data Analyst,S&P Global,"Gdańsk, Poland",via LinkedIn,"The Role: Vehicle Database Data analyst
+
+The Team
+
+The Automotive Aftermarket team provide to the market Vehicle In Operation data (vehicle definition, volumes, components, technologies). This team is part of a wider team call Global Insight with important objectives on data control and new customer proposals for coming years.
+
+The Impact
+
+This position is directly link with a new development who is a top priority for Internal and External customers. Internally to federate several databases and externally to provide a new offer to the market.
+
+What’s In It For You
+• You will be part of the international automotive data production team with contacts all around the globe.
+• You like to solve puzzles and think about how things are tied together.
+• You have a passion for automotive: you will do a lot of reading and research on various types of vehicles.
+• You are curious to all automotive new models and trends.
+
+Responsibilities
+• Analysis of all criteria for vehicles in operation in a... dedicate region (EMEA+RUSSIA)
+• Analysis of existing vehicles in internal and external databases and data consistency
+• Analysis and organization of Manufacturer vehicles generations and model year
+• Vehicles data research on the Internet or manufacturers web services.
+• Database fulfilment checks with dedicated attributes for each vehicle.
+• Technically responsible of the data checks
+
+What We’re Looking For Someone
+• Able to work independently with minimal supervision.
+• Able to provide high quality work and auto-control.
+• Established analytical and problem-solving skills.
+• Demonstrated verbal and listening communication skills in English.
+• Demonstrated time management and prioritization skills.
+• Minimum intermediate skill level in Office + Knime bases.
+
+The Location: Bucharest/Gdansk
+
+About Company Statement
+
+S&P Global Mobility turns invaluable insights captured from automotive data to help our clients understand today’s market, reach more customers, and shape the future of automotive mobility.
+
+Equal Opportunity Employer
+
+S&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.
+
+If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person. 
+
+US Candidates Only: The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.
+
+20 - Professional (EEO-2 Job Categories-United States of America), ANLYTC202.1 - Middle Professional Tier I (EEO Job Group)
+
+Job ID: R31980
+
+Posted On: 2023-01-31
+
+Location: Gdańsk, Poland","[{'link': 'https://www.spglobal.com/', 'text': 'spglobal.com'}, {'link': 'https://www.google.com/search?q=S%26P+Global&sa=X&ved=0ahUKEwj4iMyy8vL8AhWIF1kFHblfBnE4ChCYkAII6gs', 'text': 'See web results for S&P Global'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4yxXK90nqcFoo5izxlxVeG0oNV_V31A9kVQGIwcI&s,"['22 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '22 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJFTUVBIFZlaGljbGVzIERhdGEgQW5hbHlzdCIsImh0aWRvY2lkIjoiM21SVmxHS3ZDcThBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVU5RZDJwcVUxbHZSalJFWkdOeVZGQm1jbGx2YzJWcU5sQlhYekF0WVVSdlZGTm1jVGh6ZW14ZmRIQktkVGRWVmtKbmRITm5PVU4wV0dKUU5qVnljM3BWWTJoMWFXbDFWazFmYjI5bVVUWjVTa0paVTI5ME9XTkVVbmhEV1U4emFGcElValJvWjBSUlRHeFBlSE5SWkZoaFFTMTJkekJUZVZodlJqWmZNM0pSWVVGWWFVbzJZa1ZqUzFGS1NGRnFNMTlGYjNoeWRVeFBYMFpTVDFGU05sSmFTVjlQU2kxUmRHeGlUSFJqYjNrNFVrTTBjR2s0RWhkRlNuWmFXVjlxUVVOSmFYWTFUbTlRZFdJdFdtbEJZeG9pUVVaZk5rMUJVRlZSZVdJeWIyeHZWVkpNVVdWWVkydEhjMXBhVFVSMlp6TnRRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L2VtZWEtdmVoaWNsZXMtZGF0YS1hbmFseXN0LWF0LXMtcC1nbG9iYWwtMzQ2MTMwNDk2Nj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+4,Data Analyst (Talent Acquisition),Aptiv,"Kraków, Poland",via Jobrapido.com,"Do you have a passion for creating and delivering meaningful insights to support decision making?
+
+As the Data Analyst you will play a key role in our Talent Acquisition Analytics evolution, as we develop meaningful insights and trends through Workday Visualization Dashboards.
+
+Your success will center around providing pro-active analysis around recruiting data, working with our People Analytics Team and other Business stakeholders to identify patterns and provide actionable recommendations.
+
+Add immediate value to Aptiv by delivering insightful analysis, dashboards and presentations to business & leadership about recruitment data to support long-term strategic decision making.
+
+Your Role
+• Partner with the People Analytics team to evolve our reporting ability within Workday Visualization Dashboards, providing solutions and insight into complex data scenarios.
+• Assist in the development of recruitment tools, analytics, system, and reporting enhancements to support various processes... and assist stakeholders in decision making
+• Drive a high level of data integrity globally, including leading regular data validation activities and engagement with the wider business stakeholders
+• Consult with relevant stakeholders, through workshops, to understand TA reporting requirements.
+• Partners with HRIS to develop and implement new recruitment tools, systems, and automated processes. Also participating in system testing where required.
+• Support in the creation of a TA consolidated data model, ensuring all relevant data fields are captured in a consistent manor.
+• Provide conceptual solutions to complex metric design.
+• Construct Visualization Dashboards, with a key focus on data accuracy and user experience.
+• Identify data discrepancies and improve data hygiene across the TA teams globally, through system adoption and process standardization.
+• Develop and deploy End User training, including user guides.
+• Get involved in the operational Budgeting and Workforce planning
+• Provide analysis & commentary on month-end KPIs
+
+Your Background
+• 3+ years of experience as a Data Analyst, preferably in a HR environment
+• Experience with HR Systems would be an asset
+
+Skills Required
+• Analytical skills, break down complex problems and assess relevant data sources.
+• Communication skills, able to efficiently convey simplicity from complex technical details.
+• Presentation Skills, able to see trends within the data and portray to various stakeholders
+• Self-starter with ability to work independently, while also collaborating with cross-functional teams
+• Project management skills
+• Change management skills
+
+Other Skills
+• Open minded, inquisitive, passionate about continuous improvement & Talent Acquisition.
+• Ability to train end users by understanding the audience and direct core messages.
+
+Aptiv Rewards & Advantages
+• Competitive compensation package, including Bonus, Healthcare, Pension & TaxSaver schemes
+• Learning, professional growth and development in a world recognized international environment
+• Access to internal & external training, coaching & certifications
+• Recognition for innovation and excellence
+• Opportunities to give back to the community
+• Meaningful work that makes a difference in the world
+
+Some see differences. We see perspectives that make us stronger.
+
+Diversity and Inclusion are sources of innovation and creativity, both of which are essential to Aptiv’s success. Everyday our diverse team comes together, drives innovation, pursues solutions, and meets challenges using their unique abilities, perspectives and talents, changing what tomorrow brings. When you join our team, you’ll get encouraged to think boldly, express your viewpoint and innovate as a matter of habit.
+
+Some See Technology. We See a Way to Make Connections.
+
+At Aptiv, we don’t just see the world differently; we work to change reality. That means developing technology that rewrites the rules of what’s possible in the pursuit of making transportation safer, greener and more connected. Today there are more than 180,000 of us globally, located in 44 countries, and united by one mission. Join the movement and together, let’s change tomorrow.
+
+#LI-SL1
+
+Aptiv is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law","[{'link': 'http://www.aptiv.com/', 'text': 'aptiv.com'}, {'link': 'https://www.google.com/search?q=Aptiv&sa=X&ved=0ahUKEwj4iMyy8vL8AhWIF1kFHblfBnE4ChCYkAIImgw', 'text': 'See web results for Aptiv'}]",,"['23 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKFRhbGVudCBBY3F1aXNpdGlvbikiLCJodGlkb2NpZCI6IldsZjFPNE5ya1RZQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVvd0NDc3dCUVVOUWQycHFWSFk0UTJGUU9XbzJaalphU2t0bmNtbHlNWEY2UkRkaFZGSjVabXRQUWxkdVRVUTJiVkJvY1VKamFISjBUa2hQUjBKUFIwRlFUR1F0V2xOVFRUTndYMHBsUjJkNVoxTlRlbkk1YVZSd05tUTJYelpLWXpKaVVUWkphR1ExYW1ZNGMydGtVa2RCVGtZeFQxUlRMV3RVTTJaSGRWVmtUMVI1UjNob2F6ZFVkRmRWYVdwQlR6TXlRa2h1YXpKQ01FODJOVlk1YVUxVGRHWTFaVlZ2ZW5FM01YbEVaRFZaWWxFNVkxQnhkakozYmpOWlJVZDVTalJKVUVKUFJWSjVja3B2TjJSSU5VMDFFaGRGU25aYVdWOXFRVU5KYVhZMVRtOVFkV0l0V21sQll4b2lRVVpmTmsxQlRXWlBOVXRQVlhscmJFbFJhVTFZTVdGb1UwRjRZek5MZGtNMVp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBKb2JyYXBpZG8uY29tIiwibGluayI6Imh0dHBzOi8vcGwuam9icmFwaWRvLmNvbS9qb2JwcmV2aWV3Lzc3NTE2NTQzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+5,"Management Information Analyst, Associate",State Street Corporation,"Kraków, Poland",via EFinancialCareers,"Management Information Analyst, Associate
+
+Who we are looking for A candidate to provide support to the dynamic Chief Administration Office for Client Service Operations, facilitating the smooth running of the Management Information process and reporting. To administer the daily Volcker Office UK and Italy processes by acting as the 1st point of contact for the administration and collation/processing of information to allow smooth running of the process for all ISUKME divisions in scope for the ISUK Volcker Office. Why this role is important to us The team you will be joining is a part of State Street IS. IS gives asset owners and managers access to the essential financial tools they need to deliver effective investment solutions. From core custody, accounting, fund administration and shareholder recordkeeping, to complete operations solutions and servicing for alternative assets like OTC derivatives, private equity and real estate, IS tools help our clients make better investment... choices and act on growth opportunities. Join us if making your mark in the financial services industry from day one is a challenge you are up for. What you will be responsible for As Management Information Analyst you will
+• Maintain good order of all files, trackers, distribution lists, workload tracker, document trackers, etc. ensuring accurate and timely updates are made
+• Maintain group mailbox(es), ensuring items are promptly responded to, filed and forwarded as necessary
+• Collect, analyse, compile and present MI and Volcker data from multiple business parties across the ISUKME business
+• Answer all MI and Volcker related queries promptly and provide ongoing support to the business in this area
+• Assist with research and data analysis for CAO team, including gathering and manipulating data, researching discrepancies and producing reports
+• Maintain SharePoint directory, ensuring all items are filed appropriately and user access requests are monitored and processed as necessary
+• Ensure documentation is monitored, recorded, tracked and pursued in accordance with requirements
+• Ensure reminders are generated and chased appropriately
+• Prepare reporting, including status reports and graphs as necessary
+• Assist with reviewer for the steps after preparation phase, as required
+• Provide administrative support to wider CAO and assist in the CAO projects, as required and assigned by the Team Manager What we value These skills will help you succeed in this role
+• Ability to summarise often complex data into a easily understood verbal or illustrated format
+• Meticulous attention to detail and follow up, can do' attitude, positive nature that welcomes change
+• Ability to work in a fast-paced, deadline driven environment on occasion juggling and prioritising a number of simultaneous objectives
+• Strong analytical and problem solving skills in multi- location/geographic complex organization
+• Ability to interact effectively and professionally with a variety of organisational levels from junior level staff to senior-level management Education & Preferred Qualifications
+• Business related degree (preferred)
+• 1 - 2 years of experience in a business/ administrative environment is preferable
+• Previous analytical experience would be considered a plus
+• Strong working knowledge of MS Office suite, particularly Excel formulae driven spreadsheets, Power-Point, Word, SharePoint considered an asset
+• Excellent English is required Additional requirements Knowledge of Italian will be considered a plus. We offer
+• Permanent contract from day one
+• Additional holidays (Birthday Day Off, 3rd and 5th year anniversary Day Off)
+• Gold medical package for employees and their families (partner and children)
+• Premium life insurance package and private pension plan
+• Wide range of soft skills training, technical workshops, language classes and development programs
+• Opportunities to volunteer your time to company-driven initiatives, employee networks or organizations of your choice
+• Variety of well-being programs About State Street What we do. State Street is one of the largest custodian banks, asset managers and asset intelligence companies in the world. From technology to product innovation we're making our mark on the financial services industry. For more than two centuries, we've been helping our clients safeguard and steward the investments of millions of people. We provide investment servicing, data & analytics, investment research & trading and investment management to institutional clients. Work, Live and Grow. We make all efforts to create a great work environment. Our benefits packages are competitive and comprehensive. Details vary in locations, but you may expect generous medical care, insurance and savings plans among other perks. You'll have access to flexible Work Program to help you match your needs. And our wealth of development programs and educational support will help you reach your full potential. Inclusion, Diversity and Social Responsibility. We truly believe our employees' diverse backgrounds, experiences and perspective are a powerful contributor to creating an inclusive environment where everyone can thrive and reach their maximum potential while adding value to both our organization and our clients. We warmly welcome the candidates of diverse origin, background, ability, age, sexual orientation, gender identity and personality. Another fundamental value at State Street is active engagement with our communities around the world, both as a partner and a leader. You will have tools to help balance your professional and personal life, paid volunteer days, matching gift program and access to employee networks that help you stay connected to what matters to you. State Street is an equal opportunity and affirmative action employer. Discover more at StateStreet.com/careers","[{'link': 'http://www.statestreet.com/', 'text': 'statestreet.com'}, {'link': 'https://www.google.com/search?q=State+Street+Corporation&sa=X&ved=0ahUKEwj4iMyy8vL8AhWIF1kFHblfBnE4ChCYkAIIygw', 'text': 'See web results for State Street Corporation'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HmvKyiS_SAOlz5ATxtFUNkDi8oF4_uoktq4Oa5g&s,"['20 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '20 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJNYW5hZ2VtZW50IEluZm9ybWF0aW9uIEFuYWx5c3QsIEFzc29jaWF0ZSIsImh0aWRvY2lkIjoicUFGLUF0M1VHaUFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXFJQ0N1SUJRVU5RZDJwcVVWUmxNRWMzTTJaeE1tNVpTMHh6ZWxwQ1MwaDZSV1JWV1doaVMxcEVObXhtYjJVdGFESkhVa3h4UW5CNFkybEdSRFpPWjFJMFRWVmZRbGxRZG5aNlVsWXhaVlJhWTNWVlluazFNR2hEV0ZGd1J5MDJkSEZWYzA5TGEyZE9PVWR0WVZwNVZVNHdNVTUzU2tkclVGRTJia3BDWkdSb2RGVkxRa2xKU20xaWNYSlRSMDlpWlZOV1ltVjZSVVJKWVd4M1NFd3laM1ZCUjBWV2NsVlVYMGsxZVVSRFVreHlTek5yUm1kWk9XZE5kVEZoTlV0SlNFdHJRV2hmWDFNMVNuaHJOWE13TldKSWJreFlaa1V5Y0ZoR2NtdDFWRFJFVm14dlNGVmtkeElYUlVwMldsbGZha0ZEU1dsMk5VNXZVSFZpTFZwcFFXTWFJa0ZHWHpaTlFVNDVTemRJT1VOc2RrcDFPSHBGYlhCSWRrRXRRWHBaVjBoemFHYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEVGaW5hbmNpYWxDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vd3d3LmVmaW5hbmNpYWxjYXJlZXJzLmNvbS9qb2JzLVBvbGFuZC1LcmFrJUMzJUIzdy1NYW5hZ2VtZW50X0luZm9ybWF0aW9uX0FuYWx5c3RfQXNzb2NpYXRlLmlkMTg2MzQ5Mjc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+6,Reference Data Management Analyst,The Lancet,"Olsztyn, Poland",via Trabajo.org,"Reference Data Management Analyst is a trainee professional role.
+
+Requires a good knowledge of the range of processes, procedures and systems to be used in carrying out assigned tasks and a basic understanding of the underlying concepts and principles upon which the job is based.
+
+Responsibilities:
+• Remediates data in the Clients and Security Coding systems
+• Performs trend analysis and identifying root causes Implementing or suggesting solutions based on the root cause analysis
+• Liaises with other teams globally to ensure data quality is remediated
+• Provides a high level of customer service to our internal stakeholders
+• Owns ad-hoc projects from inception through to completion
+• Provides tangible metrics to Management
+• Working in EMEA shifts (8:00-19:30)
+
+Qualifications:
+• Very good English language skills (written and spoken)
+• Managing various data remediation work streams Projects Knowledge
+• Experience of maintaining client static data within a capital markets environment
+•... Takes ownership of allocated work and is accountable
+• Able to identify, trouble shoot issues and ultimately escalate
+• Bachelors/University degree or equivalent experience
+
+What we offer:
+• Competitive salary connected with annual salary review and discretionary annual performance bonus
+• Social benefits (private healthcare, award winning pension scheme, multisport, life insurance, holiday allowance, anniversary program, competitive maternity and paternity scheme)
+• Hybrid model of work from modern offices and from home, flexible working hours
+• Working in a friendly, dynamic, supportive and diverse environment including multiple affinity and social networks & voluntary activities to engage with
+• Structured onboarding process and extensive training offering (e.g. including Udemy, Degreed)
+• Opportunity to have an influence on the way you perform your tasks - our teams are constantly looking for new and better ways and we encourage all improvement ideas
+• Unlimited development opportunities within Citi global network.
+• Exposure to a wide range of internal stakeholders as well as to senior management
+
+Job Family Group:
+Operations - Services
+
+Job Family:
+Reference Data Management
+
+Time Type:
+Full time
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+Citigroup Inc. and its subsidiaries (""Citi) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review
+Accessibility at Citi ) .
+
+View the ""EEO is the Law ) "" poster. View the EEO is the Law Supplement ) .
+
+View the EEO Policy Statement ) .
+
+View the Pay Transparency Posting )
+Citi is an equal opportunity and affirmative action employer.
+
+Minority/Female/Veteran/Individuals with Disabilities/Sexual Orientation/Gender Identity","[{'link': 'https://www.google.com/search?q=The+Lancet&sa=X&ved=0ahUKEwj4iMyy8vL8AhWIF1kFHblfBnE4ChCYkAII9ww', 'text': 'See web results for The Lancet'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSpk1dsw_rLJFeS9h3ulAUv0ENKIGWAAk0kk-MPxQ&s,"['3 hours ago', 'Full-time']","{'posted_at': '3 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJSZWZlcmVuY2UgRGF0YSBNYW5hZ2VtZW50IEFuYWx5c3QiLCJodGlkb2NpZCI6IjVpdHJ5QUhXMXBnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVOUWQycHFVMHhtVDFGWmJHVjNZMVZqWVhVNFIxSkRiRFpIZERSUmVHZFBWWFkyTkdzeVQyZDFWakZ6UjFReE9ERTViVVJwVDFCUlNWTTJaMEUxWVVwNE5EazRYMnhrTjFWT2NYUnhZbXBrV2xSTlkwUnpTSFZuU2tOS2RuZHhjbkUwVW5SUGJscDVkbmxmUVdoc1RGTlNiVUZ5UVhKSVpuTkhOa3RyWlVKRVFVVlFZamR4VTJoclJFZEtNakZIWkRkS09XMDJaVUU0ZWtGWWFUSktSbFpvUjBkaldXZHhkMDVQUnpKblFWQjFNRU4zZFVFNEVoZEZTblphV1Y5cVFVTkphWFkxVG05UWRXSXRXbWxCWXhvaVFVWmZOazFCVGprMVFtTm9RV3RyYldaT1FYVmFhVXBOYUVKdFlubzNiMVV0UVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUcmFiYWpvLm9yZyIsImxpbmsiOiJodHRwczovL3BsLnRyYWJham8ub3JnL3phd29kLTE4MjQtMjAyMzAxMzEtZWIzZDE4MzZiMWY5ZjFkMGE2MzQ3NzJiMTliMmEzOWI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+7,Data Analyst – Technical Enablement,LanceSoft Europe,Anywhere,via Linkedin,"Job Title: Data Analyst – Technical Enablement
+
+Location: Poland – Remote
+
+Duration: 4+ Months Contract
+
+The Practice
+
+• Drive business metrics that add to the top-line and / or profitability for your business
+
+• Develop Descriptive (reporting) through to Prescriptive Analytics, based on your company’s need
+
+• Consolidate data across functional silos, standardize, analyze and visualize to support your decision-making
+
+• We apply next-gen technology to all parts of the analytics lifecycle from data extraction to visualization & analysis
+
+Location: Poland
+
+The Practice is looking for an Analyst to play a critical role in showcasing practice capability, driving revenue growth. This role-holder would be responsible for: -
+
+Responsibilities
+
+· Analyze the requirements with current technology/data framework
+
+· Perform Coding on the requirement
+
+· Deliver error free code with best coding practices
+
+· Performance Optimization
+
+· Time Adherence to deliver the code
+
+· Analytical skills on issue... resolution or troubleshooting issues
+
+· Perform BAU tasks as per schedule
+
+What are we looking for in you:
+
+o Excellent Technical skills on SSIS and SQL
+
+o Good Analytical skills on troubleshooting issues
+
+o Good Team player
+
+o Good (English) communication skills and the ability to interact and network with both external stakeholders, internal stakeholders.
+
+o Works effectively both independently and as a member of a cross-functional team
+
+o Knowledge of on any of the Reporting Tools Tableau, Power BI, SSRS would be a big plus. Microsoft Certifications are added advantage for the profile","[{'link': 'https://www.google.com/search?q=LanceSoft+Europe&sa=X&ved=0ahUKEwj4iMyy8vL8AhWIF1kFHblfBnE4ChCYkAIIpQ0', 'text': 'See web results for LanceSoft Europe'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqsC-0pJBrFNCWzuNvIIxVAwOPaXTs4tWufMlkp3E&s,"['9 hours ago', 'Work from home', 'Contractor', 'No degree mentioned']","{'posted_at': '9 hours ago', 'schedule_type': 'Contractor', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3Qg4oCTIFRlY2huaWNhbCBFbmFibGVtZW50IiwiaHRpZG9jaWQiOiI1R2o5YUgwSVI1b0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVWtWQ1VXUnhiVk52YTBwclFrTmpUa0ZDUVMwdFluaGtkbTlQY1RKQ1IyVTVUM1pmUVdrdGJXSm9SM00wUm5adFZVZFlOVk55TW01cU9VSnJTVWQxUkhCRmNGRk9kV3hYU0haSE9YQnhWMHhLUWtobVJIcFhkMnBIVjFKaWNTMVdjRGh4TW01Tk1TMTZOVlJ4VFdaVU1EUmtNak5QWjFkMlZWWk5VVVZoWWt4WlNHRmxZVFJ0VVhwT2JGbHNOMlZNVTBNdE1tUjVNMjlTWDJOMGVtdHVjM0JsWDFoUWVsZzVTVWcyUjE5V09USkpFaGRGU25aYVdWOXFRVU5KYVhZMVRtOVFkV0l0V21sQll4b2lRVVpmTmsxQlVHTlplVVJ4WWsxUlgzcE9ORkpxUkhGdlNFUlZWWE5VUjNJeWR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkaW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L2RhdGEtYW5hbHlzdC0lRTIlODAlOTMtdGVjaG5pY2FsLWVuYWJsZW1lbnQtYXQtbGFuY2Vzb2Z0LWV1cm9wZS0zNDU2MDcwMDc3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+8,Player Support Data Analyst,Keywords Studios,"Katowice, Poland",via Jobrapido.com,"The successful candidate will have the ability to turn information from multiple data locations within the Player Support operation into actionable data by providing insight and help Player Support Management and Project Managers make informed decisions on how they improve their programs and operations.
+
+The data analyst responsibilities include conducting full lifecycle analysis to identify requirements, data required, data validation, design. The data analysts will develop analysis and reporting capabilities. They will also monitor performance and quality control plans to identify improvements.
+
+Key responsibilities:
+• Handle large amounts of complex data: facts, figures, and number crunching.
+• Responsible for ensuring data integrity through governance and compliance while processing data requests from the corporate and business stakeholders.
+• Data clean up and processing, correlation of different types of data.
+• Data interpretation, results analysis and deliver excellently... substantiated data analyses using standard techniques and tools, which lead to improved business decisions or better data quality.
+• Use front end reporting tools to create datasets, reports, dashboards.
+• Present findings effectively to support stakeholders in important decision-making.
+• Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.
+• Drive automation of data and information for business efficiency.
+• Creates technical documentation/user manual (database architecture which involves table formats, ETL structure, dependencies of table (back end), data dictionary, database schema, etc.).
+
+Requirements:
+• Fluency in English.
+• A strong background in Mathematics, Computer and Statistics.
+• A college degree holder in e.g. Mathematics, Informatics, Econometrics, Computer/Data Science, Information Management or Statistics.
+• Experience in creating data models, reporting packages and dashboards.
+• Ability to analyze large data sets.
+• Ability to leverage Python.
+• Nice to have: knowledge of C#, SQL/BigQuery, Javascript, Spark, Data Bricks, Datastudio, Power BI to deliver reporting with a high level of quality and accuracy.
+• An expert on MS excel and Google spreadsheet.
+• An excellent communicator and able to build bridges between different stakeholders.
+• Ability to work autonomously.
+• Proactively works to continually improve processes and delivery of reporting and analysis.
+• Strong attention to detail.
+
+Opportunities:
+• An insider's view into the gaming industry, with lots of growth potential.
+• Employment contract with the option of private medical care and shared-cost coverage for your MultiSport card.
+• We're proud of our friendly and inclusive atmosphere. You're more than free to enjoy video games with your colleagues in our chill-out zone.
+• Employee referral program - make an impact by inviting your friends to become a fellow Keywordian.
+• Virtual company parties.
+• Possibility to work from home.
+Sound interesting? We can’t wait to hear from you","[{'link': 'http://www.keywordsstudios.com/', 'text': 'keywordsstudios.com'}, {'link': 'https://www.google.com/search?q=Keywords+Studios&sa=X&ved=0ahUKEwj4iMyy8vL8AhWIF1kFHblfBnE4ChCYkAII1Q0', 'text': 'See web results for Keywords Studios'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwhzPN_JyCxu3FWT0FktMnkydGdrt-sEQwo5HO&s=0,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJQbGF5ZXIgU3VwcG9ydCBEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6Il9SUEdkZktnTTJzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVvd0NDc3dCUVVOUWQycHFVMUpYTUhnMVpHdDRlRVowUVZCZk5tOW5ha0pyU1RGRE5Ya3ljRkptVW5SbE16aGlUbUphY0ZWQ1ZuZHhaVUYwYVhwNVIxaHNUSGM0YzFsbFZubzJRbVYzVTNaeGNHdENkbFZZV1dWUVUxRXlNazEyZGxCMllqRXRaMmgxWnkxMk4zb3pNVEJhTUVKNlVWOTJiMUE0TlZKd2JWSklWbkF4TmxoVFdFcENjRlYzWmxoS05GSlZhMVZmTjJOMWNUaFNZbG94UjJWa09UZDBjelk1U2toa2RIUk1hbE5oTUVkWlQwRlFXalpPUlRSU1RIWnFabEUyWmxwclNUSmhPV3BTVTBkT1dGRm5FaGRGU25aYVdWOXFRVU5KYVhZMVRtOVFkV0l0V21sQll4b2lRVVpmTmsxQlRsaDRXR2N6T0RaTFVVdDRRVFZ2YjNWVVgxaDFjR3hVZDNGU1VRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icmFwaWRvLmNvbSIsImxpbmsiOiJodHRwczovL3BsLmpvYnJhcGlkby5jb20vam9icHJldmlldy83NzUxMzgxNj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+9,Commercial Analyst Intern,O-I,"Poznań, Poland",via SmartRecruiters Job Search,"Company Description
+
+Remember the last time you opened a bottle of champagne, a cold beer after a hard day’s work or a bottle of sparkling mineral water to quench the thirst, well it was probably made by us, we are O-I and we love that we make more glass containers than anyone in the world.
+
+O-I has more than a century of experience crafting pure, sustainable, brand-building glass packaging for many of the world’s best-known food and beverage brands. We are proud to provide high quality glass packaging for beer, wine, spirits, food, non-alcoholic beverages, cosmetics and pharmaceuticals.
+
+With nearly 25,000 employees and an unparalleled footprint spanning almost 72 plants in 20 countries, O-I is a truly global maker of glass packaging.
+
+From engineering and manufacturing to brand development, design and innovation, we are dedicated to providing unique solutions to exceed our customers’ expectations and fuel consumers’ desire for glass.
+
+Job Description
+• Track and analyze customer and... market data to identify insights that can be used to drive key decisions across the organization (market share, growth projections and trends, and market forces etc.).
+• Clearly communicate findings and conclusions for strategic account and market analysis to internal and external audiences.
+• Perform data integration and preparation for further analysis.
+• Support in defining and developing econometrical or machine learning models.
+
+Qualifications
+• Student of 3rd-4th year, preferably in marketing, econometrics, statistics, finance, or similar,
+• Previous work / internship experience in data analysis is a plus,
+• Strong verbal and written communication skills. Comfortable presenting and debating work with internal and external audiences,
+• Ability to work independently and a strong self-starter,
+• English fluency a must. Multiple language capabilities are a plus,
+• Highly developed analytical thinking,
+• Strong computer skills, including Microsoft Excel, Word, PowerPoint and SharePoint,
+• Experience with R (or other programming languages) for data preparation, visualization, and modelling is a plus
+
+Additional Information
+
+We offer:
+• Employee referral program
+• Flexible working hours
+• Remote work from Poland
+
+If you are smart, passionate, innovative, culturally open, curious and collaborative, we’d like to hear from you.
+
+O-I is committed to fostering an inclusive environment that attracts and embraces the brightest minds and creates a culture that welcomes a diversity of ideas and perspectives while encouraging growth and rewarding performance","[{'link': 'http://www.o-i.com/', 'text': 'o-i.com'}, {'link': 'https://www.google.com/search?q=O-I&sa=X&ved=0ahUKEwj4iMyy8vL8AhWIF1kFHblfBnE4ChCYkAIIgw4', 'text': 'See web results for O-I'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_cRnOzcAiu8uswL40gRtIN0art1SrolEPPcbw&s=0,"['7 hours ago', 'Full-time']","{'posted_at': '7 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJDb21tZXJjaWFsIEFuYWx5c3QgSW50ZXJuIiwiaHRpZG9jaWQiOiJzOXNILXFjYld1MEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFdmNCQ3JjQlFVTlFkMnBxVVZwd1pIZHpVMGcxYjNwWFpFUmFRbk53YTNkRGR6TjVXRko0YTFOTVZYTnhiSHB6YWs5UVExUktZbVUzYjBwVVYydEtXV1ZYTjB4d1IwODFWMUZZVDBsUk5qaEZiVW93YW5OT1lrRmlVbHBYVVZGdk4zRldaVWhwYWkxWFZrZFhWMk5SWms5VFYwMHlOMFI2ZFd4VmJEQlRla2wxUlU4MWJYQldSMkl6TVdaVGJrdzNObmh3TTBvNFZtSnBWRjluWVc5bVl6aHJNR2d3VnpsU1F6TkxkRE5pYjI1R1IweGFaV2RNYURKM1IyOUpFaGRGU25aYVdWOXFRVU5KYVhZMVRtOVFkV0l0V21sQll4b2lRVVpmTmsxQlRucFRTMWRpZFRGQ1NuRlBVRzVYZEV0RlRHWnBjamMwWTBKU1VRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gU21hcnRSZWNydWl0ZXJzIEpvYiBTZWFyY2giLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLnNtYXJ0cmVjcnVpdGVycy5jb20vTy1JLzc0Mzk5OTg4MDI0NzU1Mi1jb21tZXJjaWFsLWFuYWx5c3QtaW50ZXJuP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=

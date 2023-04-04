@@ -1,0 +1,364 @@
+,title,company_name,location,via,description,thumbnail,extensions,detected_extensions,job_id
+0,Data Analyst - Gamma Retail Catalyst,"BCG GAMMA, Boston Consulting Group","Warsaw, Poland",via Boston Consulting Group,"WHAT YOU'LL DO
+
+BCG is seeking a Data Analyst, based in Warsaw, Poland. You will join the rapidly growing Retail Catalyst team, which helps build and implement advanced analytics software for our Retail case teams and clients. Retail Catalyst is part of BCG GAMMA, BCG’s data science and software products business unit. The Warsaw-based team is in charge of building, configuring, and delivering world-class analytics software and apps.
+
+In particular, you will be in charge of:
+• Supporting the Customer Success Managers (CSMs) to deliver excellent and seamless client delivery service
+• Rapidly take responsibility for expanding / improving use cases and help our clients achieve their analytics goals
+• Developing, customizing, and performance-tuning Tableau dashboards
+• Building and maintaining ETL flows in Dataiku
+• Overseeing and executing client data ingestion and data quality control
+• Performing analytics to support the software / apps and generating insights
+• Providing technical... solution and domain expertise to our clients and case teams
+• Coordinating with clients / case teams and maintaining a close sync with our engineering, data science, and devops teams
+• Proactively collecting and incorporating client and case team feedback to make the Retail Catalyst platform the best it can be
+• Over time, become a leader of the Warsaw Retail Catalyst team and take on management responsibility
+
+JOB REQUIREMENTS:
+The Data Analyst will have two major areas of responsibilities:
+Client Service (80%)
+• Support onsite Customer Success Managers (CSMs) to successfully deliver Retail Catalyst projects
+• Work directly with clients, BCG case teams, and product team on a project-by-project basis to conduct hands-on rigorous quantitative analysis, leveraging advanced analysis software (e.g., Dataiku and Tableau for visualization)
+• Ingest, clean, transform, maintain, and analyze client data on Retail Catalyst platform
+• Rapidly configure standard and custom Tableau dashboards per CSM, client, and case team’s directions / requirements
+• Oversee and quality-control all things ETL and Tableau for our client deployments
+• Coordinate the Warsaw delivery team to provide world-class quality output and hyper-responsive client service
+Product and IP development (20%)
+• Maintain library of client-agnostic Tableau dashboards and ETL flows
+• Improve setup and preparation of standard / starting point components so that they can be rapidly deployed and configured for client use cases
+• Support Retail Catalyst product team in client development efforts with ad hoc analysis, problem solving on best analytical approach, and client demos
+• Study and understand Retail sector terminology and industry (analytics-) knowledge
+• Over time, identify new areas of application/use cases for Retail Catalyst and help embed these into the platform and apps
+Your success in this role will be measured in your ability to support our clients and case teams with highly responsive and top quality outputs. You will also be measured on your level of proactivity in terms of improving and expanding the technical platforms and analytical use cases. Finally, we will expect you to, over time, take responsibility for the Warsaw team, including development and mentorship for junior team members and overall quality control
+YOU'RE GOOD AT
+
+Technical skills
+• Tableau (Advanced / World class)
+• ETL / SQL (Advanced / World class)
+• Excel (Advanced)
+• Statistics and math (Intermediate)
+• Python knowledge is a plus
+• Data automation knowledge (e.g., Airflow) is a plus
+• Cloud knowledge (Google Cloud and Azure) is a plus
+
+Non-technical skills
+• Meticulous attention to detail
+• Highly efficient – you get a lot of work done in very little time
+• Willingness to work hard and prioritize team success vs. regular working hours
+• Highly proactive and strong drive for (self-) improvement
+• Dedicated team player
+• Excellent communication skills in English
+• World class problem-solving skills
+• Self-motivated and is able to operate autonomously in a structured manner
+• Ability to coach others
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+
+Education or Certifications
+• Bachelor’s or Master’s degree in engineering, computer science, data science / statistics, or business administration
+
+Work Experience
+• Minimum of 2 years of deep experience in Tableau, including Tableau server tuning, Tableau APIs, Hyper, recent and upcoming product innovations, etc.
+• Minimum of 2 years of deep experience in ETL for very large data sets (terabyte+)
+• Deep expertise in SQL, ideally PostgreSQL
+• Experience in conducting thorough quality checks on ETL flows
+• Experience with data ingestion and automation of ingestion is a big plus
+• Experience with visualized ETL tools (Alteryx, Dataiku) is a big plus
+• Experience in working with global teams
+• Client service experience is a plus
+• Cloud platform experience is a plus
+YOU'LL WORK WITH
+
+• Client success team
+• Tableau delivery team
+• Devops team
+• Product engineering and platform team
+• Commercial and product leadership",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE7LGK80sgQuXG9g5Fkoks60uucVDsjR5vVEBv1U&s,"['7 hours ago', 'Full-time']","{'posted_at': '7 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBHYW1tYSBSZXRhaWwgQ2F0YWx5c3QiLCJodGlkb2NpZCI6Imh6dEhZdFFJcnhvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVyY0NDdmNCUVVGMFZteGlRbmRDWTFkVU5UaGxZMU5HVDNkb1dVWXlUMFJRUnkxNkxWWmtlVmhVVEc1VU9WaHZYMkpYVFdGNWEzWXhXVXh3VjJ0bVVHMU1VVWRuWXpOSWVqTTVhVWRaUzJsNlpYVTBaVGRqUlhSU1UycDJSV3RtVTJsSVowSkNOMWRVWlVSV1dIUnlMV0pwTVRKdlpFVkhkMjQxVTFsUlVuWjRlRFZoUlZoQlZsUTJPRFkxWW1Kc1FYaHJURWt0Uld4TVJGUmphMlk1Y0VGdVoyUnpkRFZsTnpaWVVUZG5iM2t6WkU4MGRITkxSWGN3YWxJMk9FSm9XV1ZJYUZFeldqQk5TemQyT1hobmVWbHVaa0p6VTNwQmRFWlFkVGRXTkZaTVRsWkJZbk5RUW10WU5XVlpVRFJLWmpGT1QyUkxNeTFtVkhCYU1CSVhWbkJwWmxrM04zUkxUbTFLZDJKclVITTNZVjl0UVRnYUlrRkVWWGxGUjJOaFpFcFdhWFo1ZHpSV2FIUmZjM0ZLZDBGeVNuUnBZM0EwTkVFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBCb3N0b24gQ29uc3VsdGluZyBHcm91cCIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuYmNnLmNvbS9qb2IvMTYwMjFCUi9EYXRhLUFuYWx5c3QtR2FtbWEtUmV0YWlsLUNhdGFseXN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+1,Data Science Sr Analyst - AML,Citi,"Warsaw, Poland",via Recruit.net,"Job Location: Warszawa, ul. Grzybowska 60
+
+We are pleased to announce that we are expanding our Compliance Hub at Citi Solutions Center in Warsaw! As a result, we are looking for a Senior Data Science Analyst to join our Independent Compliance Risk Management (ICRM) function. ICRM is responsible for establishing internal strategies, policies and procedures to prevent violations of law or regulation, and design a risk management framework that maintains risk levels within Citi and protects the franchise.
+
+Candidate Profile:
+
+This job will suit a person with a background in coding, business/data analysis, knowledge of Python/SQL. Some hands-on experience and understanding of Financial Crimes/Sanctions/AML Technology would be a great advantage but is not a must.
+
+Job Purpose:
+
+As the member of our Automation and Innovation Team, the Senior Analyst will work in an international environment with data from analytical, visual and statistical perspective. This is also the opportunity to... improve technical skills by working in Big Data environment. The Senior Analyst will be responsible for identifying key risks, controls and corrective action plans related to the regulatory projects as well as automate and innovate processes existing in Compliance Assurance.
+Key Responsibilities:
+• Collaborate with business partners, data engineers and infrastructure partners to gather requirements, extract insights and develop viable solutions
+• Perform solution reviews and update requirements to align with changing environment needs
+• Possess a strong sense of visual design to present analytical results with exceptional customer experience as a priority
+• Active ownership and accountability for tracking on all assigned development and operational projects
+• Stay current with emerging tools, techniques and technologies in machine learning, statistical modelling & analytics
+
+Key Skills and Qualifications:
+• Coding experience in Python and good command of SQL
+• Tableau and Tableau Prep Builder experience
+• Previous involvement with AML Technology/Sanctions roles is a plus
+• Min. 4 years of experience in business and data analysis
+• Solid background in process improvement and project management
+• Ability to effectively use complex analytical, interpretive and problem solving techniques.
+• Demonstrated interpersonal, verbal and written communication skills.
+• Methodical attention to detail
+• Must be a self-starter, flexible, innovative and adaptive
+• Work collaboratively with regional and global partners in other functional units; ability to navigate a large-scale, complex organization
+• Proficient in MS Office applications (Excel, Word, PowerPoint)
+
+Education:
+• Bachelor’s degree; Advanced degree is a plus
+
+What we offer:
+• A chance to develop in an international environment in one of the greatest financial institutions worldwide. Working in our organization involves working on international projects, in a culturally diverse and dynamic environment as well as learning top quality organizational culture.
+• An enjoyable and challenging learning path, which leads to a deep understanding of Citi’s products and services as well as development of your personal skills.
+• Consideration for a Yearly discretionary bonus and competitive social benefits (medical care, multisport, life insurance, award-winning pension plan, holiday allowance, hybrid work model , paternity/maternity scheme, very attractive employee referral program, recognition system and other).
+• A supportive workplace for professionals returning to the office from childcare leave
+• High internal mobility - huge opportunities for further development, countless job opportunities in Warsaw and globally
+• Opportunity for participation in career development initiatives for managerial/leadership role
+• Inclusive and friendly corporate culture where gender diversity and equality is widely recognized
+
+-------------------------------------------------
+
+Job Family Group:
+Compliance and Control
+
+-------------------------------------------------
+
+Job Family:
+Testing
+
+------------------------------------------------------
+
+Time Type:
+Full time
+
+------------------------------------------------------
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries (""Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the ""EEO is the Law"" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAUaya0VbOqG8bqF5zveHzqhI3C43F_2BKjXWbTio&s,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVuY2UgU3IgQW5hbHlzdCAtIEFNTCIsImh0aWRvY2lkIjoiVHVPbGJZdzFGUW9BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVUYwVm14aVFXZFRkVzV4ZVdkTVdXUjZaM290TTNKMmFXSjVWRXg2VVZWaldVMUxNM2MzVFd3eU1VdGpaMlJJVjBsR1RGRTVSV290VURSWlRVRjFTemxxYURkclkwTXRjRlJzTUdOdFVFMW5ZWG96T1ZoRE9TMUZjRFpJYVVJdFEwUXliMnRCYTNoRllWZG1hbGR0TlhSWk1VczNkVlp1ZFhaWVkydDRPRFpJWW1Oa1lVTTFXamRwTWs0Mk4wbGZNRXBUYkUxVVN6TmphVGxtUm10QmJrSnFTM1JEV205a09ERmZTbEEyYUdodlZuVXRkSE5qRWhkV2NHbG1XVGMzZEV0T2JVcDNZbXRRY3pkaFgyMUJPQm9pUVVSVmVVVkhaVkJUUjNsVmQwbE5ORVkxUVdkRk5uY3RlVXQxVEVWYVNtdGlVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gUmVjcnVpdC5uZXQiLCJsaW5rIjoiaHR0cHM6Ly93d3cucmVjcnVpdC5uZXQvam9iL2RhdGEtc2NpZW5jZS1qb2JzL0FBRjQyRTAyMTdGMDAyREE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+2,Senior Command Center Specialist - Data Analyst,Capgemini,"Kraków, Poland",via LinkedIn,"Recruitment process for this position and onboarding trainings are conducted online.
+
+What do you need to start?
+• Fluent in English.
+• Hands-on experience in reports & analytics.
+• Knowledge of VBA and basic knowledge of HTML, Javascript
+• Ability to recognize and interpret business requirement and turn this need into technical solution.
+• Ability to clearly communicate technical details to business and working in close alignment with various stakeholders.
+• Demonstrating good organizational skills.
+• Knowledge of Python or other scripting language would be an asset
+• Knowledge of Microsoft Cloud Technologies would be an asset.
+
+What duties will help you grow?
+• Building the data reporting (financial and non-financial) and analytics function & processes for the Digital Employee Operations Practice.
+• Developing measurement of volumes, activities (services) and performance (quality).
+• Building reports and dashboards in Microsoft Power BI.
+• Designing and creating data models and... support Power BI Data modelling.
+• Support business initiatives by identifying necessary data sources, metrics and analytical methods.
+
+What have we prepared for you?
+
+Personal And Professional Development
+• Development programs, external courses, education & certificates co-funding
+• NEXT platform with free access to Pluralsight, TED talks, Coursera materials, and virtual trainings: Excel, VBA, RPA, customer care and more.
+
+Our Legendary Atmosphere
+• We don't have a rigid dress code, but what we do have are awesome communities (e.g OUTfront, Women@Capgemini, Foreigners Community) and world – changing initiatives like Grant Program. We are a big company with unique atmosphere – we make friendships, share important moments, and… simply like each other!
+
+A Lot Of Benefits
+• Private medical care, which can be extended by a package of dental services purchased on preferential terms.
+• Private life insurance which can be extended by oncology package purchased on preferential terms.
+• Referral bonuses for recommending your friends to Capgemini.
+• Access to Inspiro Audiobooks & Nais (cinema tickets, Multisport and more).
+• Offices in great locations, car leasing program, carpooling options and bicycle parking.
+
+Who are we?
+
+Being one of us means stability of employment and constant development among other great people. We want to share with you our experience and exchange it for yours in a mutual partnership.
+
+Capgemini is a global leader in consulting, technology services and digital transformation. Our scope is wide. One of our units is Business Services created by extraordinary people who provide solutions to our international clients in areas such as HR, Finance & Accounting, Supply Chain or Business Transformation.
+
+Do you want to get to know us better? Watch a short video: https://youtu.be/K8v_UJ7CH8c
+
+Do you have any additional questions about working at Capgemini? Check our Instagram (@capgeminipl) or visit our Facebook profile (Capgemini Polska",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1s-hIk1EhiswW8tit0mCSj9d0zIb8Eav4qrQ5BBQ&s,"['23 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgQ29tbWFuZCBDZW50ZXIgU3BlY2lhbGlzdCAtIERhdGEgQW5hbHlzdCIsImh0aWRvY2lkIjoiZ2lZdy05ZWRwR29BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXFJQ0N1SUJRVUYwVm14aVFWazRia1kwYUhKSU0zTk5WRWR0WTJKWVN6ZGxXa3g2VkhkNGVITkxhbk5ZVkhNM2MxOHpUMGczYTFGeWJtcExlR3RyYUZaeU1HUk1YM0ZCU0c1WlowOHdUMTlPTm5OUk0wWkpaRlZQYVhVNFRWaERYM1puU0daS1JWUjJZblJZU1VkM2VtSm1Sa2xSWkdOSFVreGlaVEJXYm14TmRtVmFkM00zWkd0NU5HNXRUWGhYVGxOeU5UVndaMko0TVRjd1kyODBkMTkxWjFkYWIyRXlOblpsVFVVNGRWRmxUQzB0U0dOYU4ydFJXaTB4Y0c1Q1NWSjBia1ZYYUc4MmMyaGtXalZJWkd0U1R6UXRRVkkwV0dOdU5VeHJVM2RYV0VaMVRHYzFaeElYVm5CcFpsazNOM1JMVG0xS2QySnJVSE0zWVY5dFFUZ2FJa0ZFVlhsRlIyUktUMk5UUjBjNFgyTlJlVUpOWDBJMU5rRTJOV2hTVmsxd2VVRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L3Nlbmlvci1jb21tYW5kLWNlbnRlci1zcGVjaWFsaXN0LWRhdGEtYW5hbHlzdC1hdC1jYXBnZW1pbmktMzM5ODEyODEzMT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+3,Manager - Data & Analytics,General Electric,"Kraków, Poland",via Recruit.net,"Job Description Summary
+The Manager - Data & Analytics will be GE Healthcare Leader responsible for Data & Analytics areas of program execution with broad analytics scope and high impact to the GEHC businesses. In this role, you will be responsible for leading, executing and operationalization of world class data driven methods, advanced algorithms and capabilities to support needs of the businesses.
+GE Healthcare is a leading global medical technology and digital solutions innovator. Our mission is to improve lives in the moments that matter. Unlock your ambition, turn ideas into world-changing realities, and join an organization where every voice makes a difference, and every difference builds a healthier world
+Job Description
+Roles and Responsibilities
+In this role, you will:
+• Be hands-on - develop ETL routines using Talend and build visualizations using Tableau for business projects.
+• Perform business analysis activities within the scope of your project
+• Support all data... analytics initiatives/projects
+• Continuously increase Data Coverage by working closely with the Data Scientists, understanding and evaluating their data requirements and delivering the data they need
+• Support the data requirements of the different functional teams like Finance, Risk, Engineering, Commercial and Fulfillment and all the regional KPI / Metrics initiatives
+• Provide visibility to Data Quality issues and work with the business owners to fix the issues
+• Perform any necessary data mapping, data lineage activities and document information flows
+• Build the Metadata model and Business Glossary by gathering information from multiple sources: business users, existing data sources, databases and other relevant documents and systems
+• Drive Data profiling and data exploration for basic understanding and profiling of the data
+Education Qualification
+For roles outside USA:
+Bachelor's Degree in Computer Science or “STEM” Majors (Science, Technology, Engineering and Math) with advanced experience.
+For roles in USA:Bachelor's Degree in Computer Science or “STEM” Majors (Science, Technology, Engineering and Math) with minimum years of experience6years
+Desired Characteristics
+Desired Characteristics:
+• Knowledge of data transfer and ingestion technologies including HVR
+• Knowledge of data management standards, data governance practices and data quality
+• Communicates complex solution concepts in simple terms
+• Quickly learn and adapt the capabilities of new technologies and share with the team.
+• Strong Oral and written communication skills
+Note
+Note:
+To comply with US immigration and other legal requirements, it is necessary to specify the minimum number of years' experience required for any role based within the USA. For roles outside of the USA, to ensure compliance with applicable legislation, the JDs should focus on the substantive level of experience required for the role and a minimum number of years should NOT be used.
+This Job Description is intended to provide a high level guide to the role. However, it is not intended to amend or otherwise restrict/expand the duties required from each individual employee as set out in their respective employment contract and/or as otherwise agreed between an employee and their manager.
+Additional Information
+Relocation Assistance Provided: No",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLk4oCR4aSj9DxSyDO9aMkCo-RtcUQqSTa2Oylx9A&s,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJNYW5hZ2VyIC0gRGF0YSBcdTAwMjYgQW5hbHl0aWNzIiwiaHRpZG9jaWQiOiJSaUZYVmJmeFJRNEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb3dDQ3N3QlFVRjBWbXhpUTNwNVJXWmpOVEZsWXpNM2RuUk5Wekl5TkVaelEyVXdVekpPWjFGWVRFVk1Za1ozUkdsNVVsbHpSV1pHV2pGTlMzbzFaVzgxV25SNFFtcDVXRzl5TUc1UVZqUjJUV2RzUVZOSlNsRnhYM3ByVERCWFYzWlVMVk01Wm1KeVZGUmhNbmxzY2kxR1NqZEhlV1V3Y2pkRlNsbzFiVkZsTkV3NE1ucEdVa0pFWkUxa1VFaDJXWFpTVWtodE5qVkRNRmxJWmxsU0xVRlNkSGhIZDNsV2MycFJWVVoxY1ZWRlgxOWFNM2wxYVVkQ00yVXpNMkpKUW5oUUxYTTFWVnBVZVdobWFUQm5kSFJ5RWhkV2NHbG1XVGMzZEV0T2JVcDNZbXRRY3pkaFgyMUJPQm9pUVVSVmVVVkhaVWxuVG5CSmNHbEVVV1JEWTBOWU0xOHRXV2gyZWs5UFZrWm9VUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gUmVjcnVpdC5uZXQiLCJsaW5rIjoiaHR0cHM6Ly93d3cucmVjcnVpdC5uZXQvam9iL21hbmFnZXItam9icy9EMzY3MzZENzNDMTM1RTkxP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+4,BI Developer,TST Poland,"Warsaw, Poland",via Recruit.net,"Responsibilities -
+
+Partner with business stakeholders to define their business intelligence needs and develop solutions for delivering against them
+
+Design, build, maintain, and optimize data visualizations and other self-service tools to provide actionable insights that enhance business decision making
+
+Set up tools and processes for effective data management.
+
+Lead the development of business and functional requirements for reports, ensuring the maintenance of effective working relationships with business departments
+
+Design, develop, test, and implement reports as necessary to fulfill business requirements
+
+Assist users with reporting and analysis activities and ad hoc reporting
+
+Support user training, testing, documentation, and roll-out of reports
+
+Shape best practices in visualization to deliver an excellent end-user experience
+
+Leverage a full range of PowerBI/QuickSight/Tableau platform technologies to design and implement production-ready solutions and create advanced BI... visualizations.
+
+Partner with enterprise data architects to define data requirements of business intelligence visualizations and tools
+
+Develop and provides documentation, training, and support for clients.
+
+Champion utilization of business intelligence technology across functional roles throughout the organization
+
+Manage a portfolio of business intelligence projects to ensure delivery
+
+Perform data analysis and identify business trends that can be turned into actionable insights
+
+Required Qualifications:
+
+5+ years working with PowerBI/Quicksight/Tableau Software; up to date on the latest version and product capabilities, familiar with PowerBI/Quicksight/Tableau API's.
+
+5+ years' experience in integrating data visualization tools successfully with Big data ecosystem
+
+Strong spirit of innovation, self-starter, independent, and with the ability to come up with solutions to meet business problems
+
+Strong desire to learn new things and pass knowledge acquired onto others
+
+Experience in implementation of end-to-end BI life-cycle projects including dimensional modeling, ETL/integration processes, and metadata modeling
+
+Must have experience in Agile reports delivery methodology
+
+Must have a deep understanding of data warehouse processes, dimensional modeling (star schema and snowflake schema), and ETL/Integration
+
+Keen attention to detail with deep quantitative and analytical skills and demonstrated capacity to solve problems and enhance reporting
+
+Strong relationship skills and ability to build alignment among customers and key stakeholders with demonstrated experience influencing without authority
+
+Self-starter with the ability to solve ambiguous/ open-ended business challenges
+
+Ability to work effectively in a fast-paced, deadline-driven, highly dynamic atmosphere and react quickly to changes and shifting priorities.
+
+Data interfaces such as Web Services, REST API, and XML",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJMMSM3JVIY8PKn3JqstTUcODytm3gCiug77YSW8Y&s,"['23 hours ago', 'PLN\xa0130 an hour', 'Full-time', 'No degree mentioned']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJCSSBEZXZlbG9wZXIiLCJodGlkb2NpZCI6IkVGOHNKYW9MOHZZQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlSRTFVVGpSd1FtOXJNbEV3TTE5clYxcHpaMG8xZEV4dlVXMUdlVzFmTW1wWWNsUkxaa2xCWW1oMFdHWkxhVkJCT1VNMWQyVlZSVE5UU2pjd05rVjJkRFJsYkVZeldHcGZiaTFWVUV4VVdGcFpWbkZrY1ZSc1lXUmpkazFyY21wdWJIQkVaazgzYmxwMFpGVkJURVIxYTBsU01VeEtORnB4Y0RkcU0wTjNibmxtV0ZCYVRWaDZORXRsTkRVM1FYbFFSMjlrTWtGcFpqVTNjblIzRWhkV2NHbG1XVGMzZEV0T2JVcDNZbXRRY3pkaFgyMUJPQm9pUVVSVmVVVkhZemxCTFhacFRVNVRXbUYwVWtGTWNuRk9aVk5uWjFCYVJraHFadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gUmVjcnVpdC5uZXQiLCJsaW5rIjoiaHR0cHM6Ly93d3cucmVjcnVpdC5uZXQvam9iL2JpLWRldmVsb3Blci1qb2JzLzk0NzVGRUZCNDZGMzRDOTg/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+5,"Data Engineer, Data & Analytics",GE,Poland,via Recruit.net,"Job Description Summary
+As a Senior Data Engineer for D&A, your role is to work closely with the team and to provide support on Continuous Improvement, maintaining existing Systems and working on Dashboards creation, Visualization. Performance Tuning. You will be a member of an integrated team (data scientists, data engineers, software engineers and a product owner) to deliver successful outcomes driving efficiency and creating new revenue streams.
+As a Data Engineer, you will need to understand the essence of large data sets, find the rhythm and collaborate with all business stakeholders and the technical team, also to excel in translating business process and needs into technical aspects and structures.
+We count on your creativity, fresh ideas and outside-in perspective to get even better, even further, even faster!
+
+Job Description
+
+Essential Responsibilities:
+• Excellent written and oral communication skills
+• Excellent interpersonal skills
+• Ability to articulate ideas to both... technical and non-technical audiences
+• Exceptionally self-motivated and directed
+• Comfortable to perform well under pressure.
+
+Area of Expertise:
+• Performance optimization of ADF pipelines and Synapse Datawarehouse
+• Knowledge of current business function and information technologies
+• Strong interpersonal skills
+• Fluent English (written and spoken)
+• Previous experience of working within a multi-disciplinary team
+• Knowledge of Enterprise Architecture Fundamentals; exposure to Enterprise Architecture software tools desirable
+• Knowledge of technology Azure Cloud Services
+• Collaborate with business stakeholders and data stewards to assess current pain points and areas for improvement.
+• Must be able to understand and communicate the data requirements of any future infrastructure needs.
+• Problem solving skills that use techniques to identify the root cause of the issue and then ability to clearly communicate (verbal/orally) this position.
+• Comfortable in adapting working hours to align with demands of communication across multiple time zones.
+• Overall pragmatism between keeping it simple and necessary complexities
+• Positive attitude and team player
+
+Min. Qualifications
+• Bachelor’s Degree in Information Systems, Information Technology, Computer Science, or Engineering
+• Minimum of 6 plus years of experience in creating logical and physical data models; demonstrated experience with relational and star schema data modelling; working with ADF pipelines and Databricks, Tableau/PowerBi Tools
+
+Desired Characteristics
+• Collaboration
+• Cultivates innovation
+• Customer focus
+• Demonstrates courage
+• Drives results
+• Ensures accountability
+• Instills trust and exemplifies integrity
+
+Additional Job Description
+
+Additional Information
+
+Compensation Grade
+LPB2
+
+Relocation Assistance Provided: No",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdUyU5Zj4n1NlDWNHBMREbl2-acCu5rAJTYDQE8ck&s,"['23 hours ago', 'Full-time']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyLCBEYXRhIFx1MDAyNiBBbmFseXRpY3MiLCJodGlkb2NpZCI6ImprU0t2MVBKczdjQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlRV2xmT1V4U1QzaElla2g2UlZkNGJGTklOWEJzZFVoWGNrMTNSM2hCU0ZoU2NXbDZhVmh2U1hobGEyUndPV3RTWkVSb1pFWnVRWEZLVm1NeGFWaENVbWwxYzJ0TFdXWktNM05mVVdkclVUQjZWRzFDWWpKT1YyUlZOMDg0TFV0TU5VeHBXR0ZpUmxKTVVWOVFhRXByVVUxVlh6SnlhazFhVlVjeVZtUlJaazFtVDFsd1ZVeElNMWxvUldwM09ESnRXbVZDWm01UFFraG9TSEphWjFsc1dXWXRaMHRTZWt4MGRVdDFUR3M0U0hoUkVoZFdjR2xtV1RjM2RFdE9iVXAzWW10UWN6ZGhYMjFCT0JvaVFVUlZlVVZIWTBWWUxWTlRSMnhXTldKaGFWbzVSRFJqZUhkRWFtMVlTbEl4VVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBSZWNydWl0Lm5ldCIsImxpbmsiOiJodHRwczovL3d3dy5yZWNydWl0Lm5ldC9qb2IvZGF0YS1lbmdpbmVlci1qb2JzLzk3QkM2QTQ5Mjk5NDc0MTE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+6,Senior Financial Analyst,"Warner Bros. Discovery, Warner Media","Warsaw, Poland",via Careers At Warner Bros. Discovery,"Overview:
+
+FP&A COE is known for its innovative thinking, best practices implementation and great customer service. Warner Bros. Discovery seeks to unlock value for the company through igniting curiosity in all of its team members, encouraging collaboration and constantly transforming the way we work.
+
+The Senior Financial Analyst will understand reporting deliverable schedules and do the heavy lift of all report and supporting file preparation (e.g., daily/weekly/monthly, incl. rolling of schedules) prepared by the Subscriber Reporting group. Perform self-review and ensure reporting metrics and financial dashboard summaries highlighting significant business trends is delivered timely and accurately to Reporting Manager for review.
+
+You will partake in daily calls with Data Insights and the Business Intelligence Data Pipeline teams to speak to the reconciliation of the data driven from daily power queries (Finance based reports) and Data Insights reports (Looker), understand data... discrepancies and issues that need to be presented back to team for next steps.
+
+As preparer and user of the reporting data, understand how to take business considerations needs into reportable action. You will proactively identify process inefficiencies and opportunities. Play a role in testing of reporting related projects and tasks within the DSR team.
+Responsibilities:
+• Preparation/Review of weekly global reporting metrics (Paid Subscriber balances & movements, Churn %, ARPU, etc.) and financial dashboard summaries highlighting significant business trends and financial results, by leveraging the BI created data analytics dashboards (e.g., Looker) and existing built reports from the data warehouse (e.g., Zeppelin and Snowflake) to provide accurate subscriber reporting that are distributed to various finance departments (Planning, etc.) and HBO Max department leads
+• Participate in the daily run of key subscriber reporting metrics (e.g., including subscriber acquisitions, conversions, reconnects and churn) used for reporting per plan offerings and participate in daily calls with Data Insights to review reporting data
+• Prepare all Promotional and Bounty reporting as it relates to subscriber metrics and contract and performance obligations
+• Participate in Reports reconciliations and analysis as needed (e.g., new initiatives for HBO Max; New IAP Partner reporting data; etc.)
+• Understand the reporting deliverable schedules of the weekly reporting metrics and financial dashboard summaries
+Qualifications:
+• Minimum 3 years relevant work experience. Entertainment industry and / or multinational business experience is a plus
+• Solid analytical, technical, organizational and interpersonal skills
+• Problem solver with ability to manage details
+• Proven ability to set and meet realistic deadlines and achieve successful results
+• Excellent oral, written communication skills, and financial presentation skills
+• Ability to handle multiple tasks simultaneously, prioritize and adhere to strict deadlines
+• Self-motivated individual, detail-oriented with ability to work independently and collaboratively
+• Strong Microsoft package skills a must (particularly Excel and PowerPoint)
+• BS in Accounting, Finance or Computer Science
+• CPA or BI certification is a plus
+
+What's in it for you?
+• Hybrid work model, flexible working hours
+• Free access to player.pl
+• Benefit package: private medical health care, life insurance, MyBenefit cafeteria including sport card, social funds, retirement pension plans, recognition platform, employee referral program
+• Work-life balance initiatives: wellbeing platform, yoga, educational webinars, Employee Assistance Program, internal media initiatives
+• Training & development: sharing the cost of English lessons, Employee Resource Groups, Bridge learning platform, sharing sessions with experts
+• CSR activities: volunteering, eco & social initiatives
+• Casual dress code
+• Parking space available for booking",,"['16 hours ago', 'Full-time']","{'posted_at': '16 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRmluYW5jaWFsIEFuYWx5c3QiLCJodGlkb2NpZCI6InljRzA0U3o4UFJvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVxSUNDdUlCUVVGMFZteGlSSFpxVWpWRlNsWXlSM2xCV1RRek5HTm5Na2xoY0VGSVJqTlNhMXBTV1dwV2JFdzRRbkZaYWxOS1oxTTBZalZuYzBseldETTBaa3hxZUVFNVZrMW9WR2xWYUVwbFFuZERjbWRHUmw5TlVqbE5kREpJWDFOamFHa3pOSGRQWDFOYWRuWk9RbU54Wm1VeVoxTk5aa2xMYTFWalkxbHRkRE50YjBkT1ZrWjNTMGhJWDFCVWVHdFpWa2hpZDNKeGFXVkZUQzFNYW14SE1HRnVUREZ2TUMxWldIUkdXSGRJYlROa1ZYaERMVTFOTFdZMGIxWnhTazFMYzJkUlUxaENjemRXYUhGcGJFbG5TMVJKT0dOMlFXUkdOSEZYWTFneVJtRkpjbWN0WnhJWFZuQnBabGszTjNSTFRtMUtkMkpyVUhNM1lWOXRRVGdhSWtGRVZYbEZSMk5vVlZCR1EyMUZOek5QT0U1bU5VeHlUSEptUmtSUVkxQlNZa0UiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBDYXJlZXJzIEF0IFdhcm5lciBCcm9zLiBEaXNjb3ZlcnkiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLndiZC5jb20vZ2xvYmFsL2VuL2pvYi8zMzQyOC9TZW5pb3ItRmluYW5jaWFsLUFuYWx5c3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==

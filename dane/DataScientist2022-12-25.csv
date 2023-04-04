@@ -1,0 +1,368 @@
+,title,company_name,location,via,description,thumbnail,extensions,detected_extensions,job_id
+0,Data Analyst - Gamma Retail Catalyst,"BCG GAMMA, Boston Consulting Group","Warsaw, Poland",via Boston Consulting Group,"WHAT YOU'LL DO
+
+BCG is seeking a Data Analyst, based in Warsaw, Poland. You will join the rapidly growing Retail Catalyst team, which helps build and implement advanced analytics software for our Retail case teams and clients. Retail Catalyst is part of BCG GAMMA, BCG’s data science and software products business unit. The Warsaw-based team is in charge of building, configuring, and delivering world-class analytics software and apps.
+
+In particular, you will be in charge of:
+• Supporting the Customer Success Managers (CSMs) to deliver excellent and seamless client delivery service
+• Rapidly take responsibility for expanding / improving use cases and help our clients achieve their analytics goals
+• Developing, customizing, and performance-tuning Tableau dashboards
+• Building and maintaining ETL flows in Dataiku
+• Overseeing and executing client data ingestion and data quality control
+• Performing analytics to support the software / apps and generating insights
+• Providing technical... solution and domain expertise to our clients and case teams
+• Coordinating with clients / case teams and maintaining a close sync with our engineering, data science, and devops teams
+• Proactively collecting and incorporating client and case team feedback to make the Retail Catalyst platform the best it can be
+• Over time, become a leader of the Warsaw Retail Catalyst team and take on management responsibility
+
+JOB REQUIREMENTS:
+The Data Analyst will have two major areas of responsibilities:
+Client Service (80%)
+• Support onsite Customer Success Managers (CSMs) to successfully deliver Retail Catalyst projects
+• Work directly with clients, BCG case teams, and product team on a project-by-project basis to conduct hands-on rigorous quantitative analysis, leveraging advanced analysis software (e.g., Dataiku and Tableau for visualization)
+• Ingest, clean, transform, maintain, and analyze client data on Retail Catalyst platform
+• Rapidly configure standard and custom Tableau dashboards per CSM, client, and case team’s directions / requirements
+• Oversee and quality-control all things ETL and Tableau for our client deployments
+• Coordinate the Warsaw delivery team to provide world-class quality output and hyper-responsive client service
+Product and IP development (20%)
+• Maintain library of client-agnostic Tableau dashboards and ETL flows
+• Improve setup and preparation of standard / starting point components so that they can be rapidly deployed and configured for client use cases
+• Support Retail Catalyst product team in client development efforts with ad hoc analysis, problem solving on best analytical approach, and client demos
+• Study and understand Retail sector terminology and industry (analytics-) knowledge
+• Over time, identify new areas of application/use cases for Retail Catalyst and help embed these into the platform and apps
+Your success in this role will be measured in your ability to support our clients and case teams with highly responsive and top quality outputs. You will also be measured on your level of proactivity in terms of improving and expanding the technical platforms and analytical use cases. Finally, we will expect you to, over time, take responsibility for the Warsaw team, including development and mentorship for junior team members and overall quality control
+YOU'RE GOOD AT
+
+Technical skills
+• Tableau (Advanced / World class)
+• ETL / SQL (Advanced / World class)
+• Excel (Advanced)
+• Statistics and math (Intermediate)
+• Python knowledge is a plus
+• Data automation knowledge (e.g., Airflow) is a plus
+• Cloud knowledge (Google Cloud and Azure) is a plus
+
+Non-technical skills
+• Meticulous attention to detail
+• Highly efficient – you get a lot of work done in very little time
+• Willingness to work hard and prioritize team success vs. regular working hours
+• Highly proactive and strong drive for (self-) improvement
+• Dedicated team player
+• Excellent communication skills in English
+• World class problem-solving skills
+• Self-motivated and is able to operate autonomously in a structured manner
+• Ability to coach others
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+
+Education or Certifications
+• Bachelor’s or Master’s degree in engineering, computer science, data science / statistics, or business administration
+
+Work Experience
+• Minimum of 2 years of deep experience in Tableau, including Tableau server tuning, Tableau APIs, Hyper, recent and upcoming product innovations, etc.
+• Minimum of 2 years of deep experience in ETL for very large data sets (terabyte+)
+• Deep expertise in SQL, ideally PostgreSQL
+• Experience in conducting thorough quality checks on ETL flows
+• Experience with data ingestion and automation of ingestion is a big plus
+• Experience with visualized ETL tools (Alteryx, Dataiku) is a big plus
+• Experience in working with global teams
+• Client service experience is a plus
+• Cloud platform experience is a plus
+YOU'LL WORK WITH
+
+• Client success team
+• Tableau delivery team
+• Devops team
+• Product engineering and platform team
+• Commercial and product leadership",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE7LGK80sgQuXG9g5Fkoks60uucVDsjR5vVEBv1U&s,"['22 hours ago', 'Full-time']","{'posted_at': '22 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBHYW1tYSBSZXRhaWwgQ2F0YWx5c3QiLCJodGlkb2NpZCI6Imh6dEhZdFFJcnhvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVyY0NDdmNCUVVGMFZteGlRVlZFY1hCRmFsOUVVa3RyYzBwWmRFTjFhMVU0U1hsUFJHOHdUR2hyVGt4d1drdEpUazlKTkY5dk1uQkRXbHBrVEVsdGFVUlBXV0ZIYlZOV1FrYzFSMmcyTlV4V2EwTndVRlZHWVRWdFgwdE1lVmRKWnpsQ1QxSklkbGhTYkRSSk5UZDJabXhFTFhwYU9HMVdNamR0Wkc5WVVYVjJjSGMxZGxkNlJ6bEJXVWhIUkdKaGQyNXlSSGt5UnkxeVlWVmllVXh4Y1hCaE4zbFhURkpqY1VacVpVd3phR1IyTnpOcFZrZGtZM2RCV1Zsb2JucHVjVko2VW1GVGVVVXlVRGR1VFdvME5qQmpPVTVqWm5obWRqZzRUMjVOTkhRNWJVbGFTbVY1VHpKQlVXczFOVzF4YUhKS1RVUkVhSFIzYkdGeVp4SVhhRVpoYjFrNU5rMUxTV2xaZDJKclVHNWFjV0pyUVdNYUlrRkVWWGxGUjJOS1JEVk5VVUZWYUVaWVluVk5SVnBaYms5b2VFczViRTFZVWxFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBCb3N0b24gQ29uc3VsdGluZyBHcm91cCIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuYmNnLmNvbS9qb2IvMTYwMjFCUi9EYXRhLUFuYWx5c3QtR2FtbWEtUmV0YWlsLUNhdGFseXN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+1,Data Scientist,MediaCom Warszawa,"Warsaw, Poland",via LinkedIn,"MediaCom Business Science is a team of econometricians, data scientists and researchers. We provide advanced analytics and measurement solutions focused on driving business outcomes for our clients.
+
+In order to lead the marketing measurement industry with best in class solutions, we are developing a new measurement service using Bayesian econometrics, cloud technology and R programming language to provide our clients with an available and globally scalable solution.
+
+We are looking for a skilled individual proficient in data science for a client-facing role, that will lead the projects from kick-off to results delivery. The long term vision of the role would be to contribute to the development of the process and methodology and automation of results reporting.
+
+If you want to…
+• Collaborate with a group of fast-paced, extremely dedicated co-workers who are all passionate about data science
+• Work with a team that is constantly innovating
+• Conduct & lead non-standard Data Science... projects with a clear business objective, but the analytical process and deliverables yet to be determined by the person filling the role
+
+We offer
+• High potential job offer in the field of Data Science, definitely working on high visibility projects
+• Having real and tangible impact on marketing strategies of outstanding brands, very often leaders of respective product categories
+• Opportunity to learn / develop competence in Cloud technologies (mainly Google Cloud Platform) in collaboration with our global experts
+• Great, collaborative and inspiring work atmosphere with open access to people at all positions
+• Gaining direct access to the biggest advertisers in the market, learning from the best
+• Various additional benefits like private health care and multisport card
+
+It's enough if you...
+• Are truly passionate about applying Data Science to actual business problems in the most efficient way rather than just writing lines of code
+• Have at least 2 years of experience in data science
+• Are proficient in R statistical programming language – R & R Studio
+• Are curious about new technologies, programming languages and not afraid of learning
+• Have a quantitative background: data science, Big Data, statistics, econometrics, BI
+• Have a very good command of English (able to lead conference calls in English): C1
+• Have very good communication skills and experience in having a client facing role",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0PDPf62RMVDs-IZer0XQhfIHxLsaaZxWEUq6eEQ&s,"['24 hours ago', 'Full-time']","{'posted_at': '24 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoiYlV0cDNYSXZ2Zk1BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVUYwVm14aVFVTjBRM2xFY0RkQ1JraEdURGN5YmkwMk1EVnlVRmR2UmxkWU4zQkdUMnhpWjFWblVXVnRiVmszTW14SVZGVkpOM3B5Wm01RWJHY3hTblpZTlRCT2N6bHJaMjluTUdSNFpVRnZlSEprT0hGcWRFbzNUa0p5ZVRoMloxRlNOWGREWkY5UVRGRXpZM3BXYTFJMFZtbFlSMjQxTVVScFFVaHRTbU5vYW5GRk5YYzBYMk10UmpCVWFUSlZUVVZKUlRkMVlYUlhTbGRrZWtaM1gzcDJOMnBtT0VsU1p6UkRSVzVTTTFBeWJYVmxRMFYzRWhkb1JtRnZXVGsyVFV0SmFWbDNZbXRRYmxweFltdEJZeG9pUVVSVmVVVkhaRTlLVm5seWVITk9XVGhDUW5BeU9Wb3plak52VVZGUmRVdGpadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L2RhdGEtc2NpZW50aXN0LWF0LW1lZGlhY29tLXdhcnN6YXdhLTMxMTczODM0NTY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+2,Lead Data Scientist w zespole Data Science,EY,"Warsaw, Poland",via LinkedIn,"Zespół Data Science to dynamicznie rozwijający się zespoł technologiczny, w którym ludzie realizują w swoją pasję. Budujemy komponenty analityczne/ML/AI, konstruujemy prototypy, pilotujemy nowe technologie, tworzymy architekturę rozwiązania i wdrażamy zaawansowane produkty. Aplikujemy najnowsze algorytmy do pozyskiwania informacji z tekstu, przetwarzamy duże wolumeny danych, tworzymy modele predykcyjne, oraz rozwiązania inteligentnej automatyzacji. Nasze rozwiązania wspierane przez najnowocześniejsze technologie i nowatorską platformę obejmują różne branże oraz sektory rynku.
+
+Możliwości, które na Ciebie czekają:
+
+Twoją rolą będzie projektowanie systemów wykorzystujących uczenie maszynowe, podział i odbiór prac w zespole projektowym, mentoring i wsparcie merytoryczne dla członków zespołu, czuwanie nad sprawną implementacją rozwiązań AI z zachowaniem dobrych praktyk programistycznych oraz komunikacja z wewnętrznymi i zewnętrznymi klientami. Będziesz pracował/a z najnowocześniejszym... technologiami, w zespole pasjonującym się rozwiązywaniem skomplikowanych problemów biznesowych i otwartym na nowe wyzwania.
+
+Kogo szukamy:
+• Ukończone studia wyższe (preferowane kierunki to informatyka, matematyka, statystyka lub pokrewne)
+• Szeroka znajomość i rozumienie algorytmów uczenia maszynowego (w tym głębokiego) i zagadnień związanych z wykorzystaniem sztucznej inteligencji
+• Doświadczenie w dziedzinie przetwarzania języka naturalnego (NLP)
+• Bardzo dobra znajomość języków programowania (Python)
+• Doświadczenie w stosowaniu narzędzi służących do uczenia maszynowego (pyTorch, h2o, scikit-learn, kedro)
+• Doświadczenie w tworzeniu kreatywnych rozwiązań analitycznych pod kątem złożonych potrzeb biznesowych
+• Unix/Linux
+• Minimum 5 lat doświadczenia w realizacji projektów związanych z użyciem uczenia maszynowego, w tym minimum 2 lata doświadczenia w prowadzeniu zespołu projektowego
+• Doświadczenie w metodykach zwinnych oraz w pracy z narzędziami wspierającymi współpracę zespołu w zakresie priorytetyzacji zadań, tworzenia kodu, kontroli wersji (GIT), dokumentacji
+• Pasja do tworzenia kompletnych rozwiązań i produktów
+• Umiejętność prowadzenia i motywowania zespołu
+• Umiejętność przystępnej komunikacji treści technicznych
+• Bardzo dobra znajomość języka angielskiego i polskiego w mowie i piśmie
+
+Dodatkowym atutem będzie:
+• Znajomość narzędzi służących do przetwarzania dużych zbiorów danych (Spark, Sparkling Water)
+• Doświadczenie w tworzeniu prostych web-owych interfejsów i serwisów (HTML, FastAPI, Plotly, Streamlit)
+
+Twoja przyszła rola:
+• Projektowanie rozwiązań wykorzystujących uczenie maszynowe we współpracy ze stroną biznesową
+• Prowadzenie zaawansowanych projektów Data Science i.e
+• merytoryczna odpowiedzialność za kierunek prac
+• zarządzanie poszczególnymi zadaniami i ich wykonaniem
+• dbałość o techniczną i merytoryczną jakość kodu
+• Ewaluacja nowych technologii, bibliotek, podejść oraz proponowanie innowacyjnych rozwiązań
+• Mentoring członków zespołu, ze szczególnym uwzględnieniem rozwoju kompetencji merytorycznych oraz współpracy projektowej
+
+Oferujemy:
+• rozwój zawodowy i szkolenia na najwyższym poziomie;
+• pracę w profesjonalnym zespole, w otoczeniu ludzi czerpiących radość z tego, co robią;
+• ambitne projekty dla największych firm krajowych i zagranicznych;
+• możliwość współpracy z międzynarodową grupą ekspertów EY.
+
+O EY Polska
+
+Jeśli możesz wykazać, że spełniasz powyższe kryteria, skontaktuj się z nami jak najszybciej. Wyjątkowe doświadczenie EY. To Twój projekt.
+
+EY | Budowanie lepszego świata pracy EY istnieje po to, aby budować lepiej pracujący świat, pomagając tworzyć długoterminową wartość dla klientów, ludzi i społeczeństwa oraz budować zaufanie na rynkach kapitałowych. Dzięki danym i technologii zróżnicowane zespoły EY w ponad 150 krajach zapewniają zaufanie i pomagają klientom rozwijać się, przekształcać i działać. Pracując w zakresie ubezpieczeń, doradztwa, prawa, strategii, podatków i transakcji, zespoły EY zadają lepsze pytania, aby znaleźć nowe odpowiedzi na złożone problemy, przed którymi stoi dziś nasz świat",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24qUNLu15pJEpJKPJ_MNVDbky2foh4TCjKZ19h48&s,"['22 hours ago', 'Full-time']","{'posted_at': '22 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgU2NpZW50aXN0IHcgemVzcG9sZSBEYXRhIFNjaWVuY2UiLCJodGlkb2NpZCI6IjJFN2pXWEFxbG9zQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVvd0NDc3dCUVVGMFZteGlRWEoyV1doelNXTnBZa2gwWlcxRGRtWTRka1ZWWTFKV2FtaHhVM0pSZVVjMWRHbG1XbVpNV1ZOTVZHZGplRzVqY21SeWRUWmxhRUpsU1RCZlltMDJaM2RXZUROeFdFRk1SMlEzVmpkb1ZuQjBkblZFV2xkTGFYQmhSbXREVW14SFdXRllZell3T1dkc04zRTFSRTVJZGxCd1IyUlVOM0pqUTBRM00ycGpiVUp4VjJFMmRIRkxVVUpxZG01bk9UWkhXVWt3Ym5oU1ZrbzBhbEJtTUZCdGFtUk1aRFp1YVdGa1RYRm1VMng0VTNCelZtb3lRbUZQVWtWMWJtSnZXVkJvUTBST1FqaElFaGRvUm1GdldUazJUVXRKYVZsM1ltdFFibHB4WW10Qll4b2lRVVJWZVVWSFpFeGtUa1l5YjNFMFN6SlVjRTA1YW1wSldFWmhXak53TFVoUFVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvbGVhZC1kYXRhLXNjaWVudGlzdC13LXplc3BvbGUtZGF0YS1zY2llbmNlLWF0LWV5LTMzMjM5OTYzMzA/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+3,Senior Solution Analyst- GAMMA Retail Catalyst,"BCG GAMMA, Boston Consulting Group","Warsaw, Poland",via Boston Consulting Group,"WHAT YOU'LL DO
+
+The Sr. Analyst for the GAMMA Retail Catalyst product will play a critical role in delivering, implementing, and supporting BCG's client-facing software solutions – independently taking direction from and guiding strategic approach with senior business leaders in our Retail and Pricing sectors as well as the Product Managers for GAMMA Retail Catalyst, AIR, and other GAMMA product teams. Key activities will include gathering requirements from internal and external clients, advising them on the application's usage best practices, and recommending processes to optimize the business value delivered by the application; then sourcing and preparing data, managing required client processes changes, overseeing deployment by setting up and configuring the application according to the requirements, and training client's end users. The Analyst will interact directly with both BCG case team members and clients and must understand and be able to navigate the clients' data and... requirements. He or she should be able to quickly learn methodologies and approaches used in GAMMA Retail Catalyst, understand the industry / client context, and learn analytical approaches used to transform data into business insights. The Analyst should also be able to work with the BCG team and clients to co-create new approaches for further development of software solutions. On the solution deployment side he or she must be able to determine what is needed for compliance with the client's business needs, security policies, deployment, and support, and leverage the right tools and resources to complete the implementation with the highest level of customer satisfaction. When confronted with technical challenges, he or she must work with the BCG platform team and (working together) find creative, economical, and scalable solutions within the application's technical specifications.
+YOU'RE GOOD AT
+
+Client Requirements, Business Processes Change, Data and Analytics Management, Application Setup
+• Works together with the BCG client team and the Retailer (either, the “customer”) to understand client's processes, business requirements, and data structure / challenges
+• Responds to customer inquiries and requests: Troubleshooting, system configurations, service issues
+• Demonstrates a proactive, solution-based approach to enhance client relations via meetings, calls, emails, and chat
+• Constructs and manages the implementation project plan with customer counterpart, including setting and managing customer expectations based on the current state of product offerings and services
+• Identifies required changes in client's business processes and supports process change management
+• Understands client's data situation, develops blueprint for future state data management and works on implementation of new data processes
+• Performs analysis of client data to determine parameter requirements for application's setup, including ETL and processing of data, as needed
+• Works with the Data Engineering, DevOps, and Product teams to implement requirements
+Application Delivery, Implementation, Training, and Support
+• Leads and oversees deployment of the software, configures the software to client's needs
+• Provides guidance to BCG case teams, client's business users and IT team to enable them to roll out, operate, monitor, and maintain the application
+• Collaborates with GAMMA Retail Catalyst technical teams, application software vendors and other resources to diagnose and resolve application's technical and/or non-technical problems, bugs, performance, and other issues
+• Collaborates with internal colleagues to construct appropriate training and support plans for the continuation of the customer’s users and deliverables after the implementation goes into production
+• Works on development of application user guides and other application related materials
+• Documents, tracks, and monitors application's bugs, problems, and issues to ensure timely resolution
+• Performs quality control tests and keeps logs of problems, issues, changes, and future enhancements
+• Tracks project progress against agreed to KPIs and any contractual obligations
+• Provides product feedback to development teams
+Other
+• Performs other projects and duties as assigned or required
+• Ability to travel up to 80% in a given week for periods of time depending on the supported products and implementation/support requirements
+
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+• Deep experience in brick-and-mortar Retail organizations (e.g. merchandizing, pricing, analytics, etc.)
+• Advanced degree with strong academic achievements in business management, engineering, mathematics or similar
+• Experience in areas such as data and / or analytics-related work, data management, end user training on data management / insights generation from data / software applications, end user support, or related activities
+• Preferred customer support experience in a SaaS environment or technology industry
+• Knowledge in the following fields, technologies, and tools:
+• Skills in interpreting data and generating business insights from data
+• Interest and ability to learn data management tools such as Alteryx, SQL, DataIKU, etc.
+• Knowledge of R-script and/or Python
+• MS Excel
+• MS PowerPoint
+
+YOU'LL WORK WITH
+
+Our data analytics and artifical intelligence professionals mix deep domain expertise with advanced analytical methods and techniques to develop innovative solutions that help our clients tackle their most pressing issues. We design algorithms and build complex models out of large amounts of data.
+Key Competencies
+Customer and business focus
+• A passion for customer success and support is essential
+• Interest in Technology and being able to learn quickly regarding tech-heavy topics and tools
+• Able to adjust approach to effectively interact with customers at all organizational and technical levels
+• Focus on excellent customer service and user needs; willingness to go above and beyond to deliver results
+• Able to confidently make decisions and escalate issues and decisions when appropriate
+• Flexibility and openness to ask for help when needed
+Communication, interpersonal and teaming skills
+• Excellent interpersonal and communication skills
+• Fluent written and spoken English
+• Able and willing to give and receive honest, balanced feedback
+Problem solving, analytical skills and decision making
+• Bright, ambitious, solution-oriented self-starter
+• Able to effectively handle difficult and stressful situations with poise, tact and patience, while demonstrating a sense of urgency
+• Able to anticipate, identify, and solve critical problems
+• Flexible, self-motivated, and proactive out-of-the-box and critical thinker
+Work management, organization and planning
+• Excellent organizational skills with strong attention to detail; efficient time management; able to prioritize work effectively
+• Independently and proactively communicates issues, priorities, and objectives
+• Able to thrive in a dynamic, fast-paced, demanding environment
+Values and ethics
+• Demonstrates competence and character that inspires trust
+• Ability to respect all BCG and client information as personal and confidential
+Work environment
+• Able to perform successfully in a fast-paced, intellectually intense, service-oriented environment and to interpret rules and guidelines flexibly to enhance the business in keeping with BCG’s values and culture
+• The ideal candidate must understand that client demands aren't always between 9-5pm and be available / flexible where necessary
+• Experience working successfully within a complex matrix structured organization
+• Able to understand and manage complex reporting relationships and incorporate multiple labor laws and cultures",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE7LGK80sgQuXG9g5Fkoks60uucVDsjR5vVEBv1U&s,"['10 hours ago', 'Full-time']","{'posted_at': '10 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29sdXRpb24gQW5hbHlzdC0gR0FNTUEgUmV0YWlsIENhdGFseXN0IiwiaHRpZG9jaWQiOiJYWnExaUlnTXo0OEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFc3dDQ293Q1FVRjBWbXhpUW5KUE0wRjVTbWR0YUdkd1gxZFRSRXhIV0ROdU0wSlpOV3BHWTFKclNYa3RTM2hRWlRZME1XODVORk5yTVdKbGVtUnBUalU1WTBOMk5tZExXWEF4VFc1SmFGWjFjbEZNWlZOTlUyVkVaV2h4WTBsMVMzbDBkbkJIY1VaRGRWUnZOMUYzWDE5WlJuUlhaMGxxYUhoeFowRndNMXAxWlRNMFgwZG1iV1JqZVVWbllYVldiRFZVVm1aTWFGaHpSa3d6TkhwdWVreFVSRFkzUjFWdldHNVRWVWR2UVU5d04wMU1NVTV2Y0RWU2RHVlFlRE5aU25FdGJsbFZkME5hUm1kNGIweFRNRlZuUVcxUFIxSm1hM1o0V1d0cmNEYzFkM2hRZFY5ak1rcEtPWFo0TjNodFltWldkMlJYY1VKWVUwdGlkM2M1WlZaSFdFSm1WM0pEVW1GaFlUVkRNRTR4TkJJWGFFWmhiMWs1TmsxTFNXbFpkMkpyVUc1YWNXSnJRV01hSWtGRVZYbEZSMk5uVjNKRldHcDFYM3BZVW1sU2EyUjJValJGTTNjMGQwMW9aV2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY183IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEJvc3RvbiBDb25zdWx0aW5nIEdyb3VwIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5iY2cuY29tL2pvYi8xNDUxM0JSP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+4,"Software Engineer, DevOps","BCG GAMMA, Boston Consulting Group","Warsaw, Poland",via Boston Consulting Group,"WHAT YOU'LL DO
+
+We are seeking an exceptional and experienced candidate to serve as DevOps Engineer for Retail Catalyst. This high-impact role will work directly with Developers, Data Scientists, Data Architects, other DevOps, Product Managers, Client Success Managers, and vendor partners (Google, Microsoft, Tableau, etc.) to own, define, improve, and implement Retail Catalyst’s DevOps roadmap. He or she will also play a crucial role in ensuring a smooth delivery of client projects, including the very important task of monitoring and improving our cloud-based platform and apps.
+YOU'RE GOOD AT
+
+You have lots of passion for cloud platforms, digital apps, and (large dataset) automation. At the same time, you also think of how to improve the business / processes and where and how you can utilize your skills to help streamline the current state of engineering & infrastructure. You should also have a relentless focus on delivering superior client service and making / keeping your... stakeholders happy.
+
+• Thoroughly understanding DevOps processes and tools like JIRA, Confluence, Octopus, Splunk, etc.
+• Knowing and being very comfortable with Tableau Server including setup, maintenance, user management, performance tuning, upgrades, etc.
+• Bringing deep experience with Google Cloud Platform (GCP), Microsoft Azure, and/or AWS – ideally in settings with very large (= billions of rows) of data
+• Bringing experience with Spark Cluster maintenance and performance tuning (especially auto-scaling)
+• Being on top of the latest security best practices and how to implement strong security / DevSecOps
+For more information on BCG please log onto:
+• Setting up Various Pipelines on Azure DevOps, especially automated deployments
+• Supporting the upgrade and maintenance of data platforms and cloud infrastructure (Dev and Prod)
+• Automating and proactively improving operations around environment provisioning, installation, upgrade and maintenance
+• Architecting, developing, and deploying tools for monitoring, logging, and alerting
+• Conducting hands-on troubleshooting, problem analysis and resolution
+• Supporting the software engineers in building a stronger a CI/CD pipeline using tools such as Gitlab, Octopus, Skaffold (GCP), etc
+• Retail industry / data experience is a plus
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+
+• Passion for providing world-class service levels to our clients and internal stakeholders (some of them very senior)
+• Experience and proven success in working with fast moving, globally distributed tech teams and going above and beyond (including flexing your working hours) to make things happen
+• Bachelors/Master’s degree in software engineering, computer science, mathematics, or related field
+• Experience in deploying / maintaining data platforms & software solutions (ideally GCP and Azure – AWS experience also a plus)
+• Experience working on cloud-based services (including SaaS, PaaS, IaaS) with a solid understanding of continuous integration, delivery and deployment challenges, Configuration management best practices for developing and deploying cloud applications.
+• Deep understanding of latest DevOps tooling and practices (Atlassian JIRA, Confluence, Gitlab, OctopusDeploy, Splunk, etc.)
+• High proficiency with monitoring tools
+
+YOU'LL WORK WITH
+
+Our technology consultants and specialists partner with our clients and colleagues to build and implement digital solutions through a broad spectrum of activities. Technology jobs and engineering jobs include design of IT architectures, large-scale transformation, agile development, software engineering, cybersecurity consulting, and risk management",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE7LGK80sgQuXG9g5Fkoks60uucVDsjR5vVEBv1U&s,"['14 hours ago', 'Full-time']","{'posted_at': '14 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgRGV2T3BzIiwiaHRpZG9jaWQiOiJaOWpfeWhvdncxTUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFcUlDQ3VJQlFVRjBWbXhpUTNnelNUWjVTa3czYlhaYWNuQXRibnBKYUhGR2JuVjJRVzFwZEZKSFpITnNTek01TkZkVlNUVXhkM0kyYTB4alUxRlZUREJZVTBNMVVURTVSMGQ2WkdKUGFrUnBWa2RQUjNsVWFHNUtXalJwUlVOVlNtVkZOa2RRU0VoaGRqazVTemd3VmxOUGJuWlpRVlJYWW5oVU5ERnBWM0YxTW5KVk1HWkdjRXcxZUZGMlIzRm1XbmRXVjJwNFkwZHlUbVpFVFRKQ1RGTTJOa1V5VWxZeWRraEVkbVZSZW01TWNHTlJRbHBGTUdkemJGSjFWMHM1V21vemRYZGpSVjlsTFdRNUxXTTBhRFJ0VUhWdWVURlJOV0Z2TVVWMVVEaFpkMmcxT0ZGV1VSSVhhRVpoYjFrNU5rMUxTV2xaZDJKclVHNWFjV0pyUVdNYUlrRkVWWGxGUjJZNWVISXRkelpYVVU5M2JIZFZkVFZ2UWxWaVVtUlhaVFJrUVdjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBCb3N0b24gQ29uc3VsdGluZyBHcm91cCIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuYmNnLmNvbS9qb2IvMTU4OTZCUi9Tb2Z0d2FyZS1FbmdpbmVlci1EZXZPcHM/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+5,Senior Software Engineer - GAMMA Retail Catalyst,"BCG GAMMA, Boston Consulting Group","Warsaw, Poland",via Boston Consulting Group,"WHAT YOU'LL DO
+
+We are seeking a dedicated and highly skilled candidate to join our team as a Senior Software Engineer for Retail Catalyst, BCG’s advanced analytics platform for Retail clients and case teams.
+BCG is investing significantly into building digital products to support enablement and new ways of working which complement our consulting offerings. The ideal candidate has worked on cloud-based data platforms and developed analytical applications, ideally in Python Flask and React.
+
+YOU'RE GOOD AT
+• Solving tricky dev problems, including data architecture, performance optimization, and front end / user experience
+• Developing and deploying containerized web applications, leveraging Kubernetes & Docker
+• Building a high-performing advanced analytics platform from the ground up and continuously improving performance
+• Operating in and managing a secure multi-tenant environment which complies with all infosec and client requirements
+• Writing high quality and scalable code... ideally with previous experience in a retail or very-large-dataset environment
+• Rapidly creating highly flexible and scalable frontend applications using Python Flask and React
+• Performing unit, integration, acceptance, and other relevant automated testing
+• Creating and consuming web APIs that use REST, gRPC or GraphQL
+• Leading technical discussions with key stakeholders on both BCG case teams and external client teams
+• Quickly building a knowledge of business logic and desired outcomes to better architect solutions for the business
+
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+• Bachelor’s degree in computer science or a related field
+• Experience and thought leadership in developing apps in a microservices structure
+• Experience developing on multiple tech stacks (ideally GCP and Azure)
+• Experience creating and using web APIs
+• Backend experience with Python
+• Frontend experience with React
+• Proven success in developing client facing applications in a multi-tenant environment
+• Understanding of web app security, mitigating potential issues before release
+
+YOU'LL WORK WITH
+
+Our technology consultants and specialists partner with our clients and colleagues to build and implement digital solutions through a broad spectrum of activities. Technology jobs and engineering jobs include design of IT architectures, large-scale transformation, agile development, software engineering, cybersecurity consulting, and risk management",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE7LGK80sgQuXG9g5Fkoks60uucVDsjR5vVEBv1U&s,"['22 hours ago', 'Full-time']","{'posted_at': '22 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgLSBHQU1NQSBSZXRhaWwgQ2F0YWx5c3QiLCJodGlkb2NpZCI6IjNCQlE2Y2R3bFVjQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVzd0NDb3dDUVVGMFZteGlRMkZRU1VGd01sUlFPRlpQT0d4NU5VUkdaMUJITmxaeFl6SlNhbDlLZG14MWNpMDJhUzF3Tm13dE4ybzNPWGRWV0VaTlNUTk1XR040Y0dwU2MwcHNaRWQ1YkdKTWRuZFVUbkphYVdOWWMyWjJWblowWm5BMGNtUndXR2hVVG1WZmJHOTVhRTVpU2xKVmNETXdPV1YxTVhwS05rRnVNV0ZhUWtaRlJVOU1TbkpMWnpGMGRqbExWM0phYjI5b2JEUjBiM2hDVHpWR2N6ZERVbVJJYjFOS2NXdzBObmRuUkd0bFlXWk5kbWRFYzJzME9XUldkRlZtUTNKVlVYUXlWazAwV2xGMWFrSndOVUphVUU5dE5GSTFNVXRITFRCeU16VlljMHhyUlZreWFFWnZaVzE1TmxNdFkxQTRUVEJyWjJSVlEwSnNjV2xoWWtOQ1dIWktORVpZYUZaQlNIRnJjaElYYUVaaGIxazVOazFMU1dsWmQySnJVRzVhY1dKclFXTWFJa0ZFVlhsRlIyUTVURmxNTFRWRE5YTkVlbXBQUmtOdmFrVkxTSGRzV2toSk9WRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEJvc3RvbiBDb25zdWx0aW5nIEdyb3VwIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5iY2cuY29tL2pvYi8xNTg2OUJSL1Nlbmlvci1Tb2Z0d2FyZS1FbmdpbmVlci1HQU1NQS1SZXRhaWwtQ2F0YWx5c3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+6,Senior Data Engineer,PandaDoc,Anywhere,via LinkedIn,"PandaDoc is looking for a Senior Data Engineer to join our growing Data Engineering team. This hire will be responsible for expanding and refining our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up.
+
+The Data Engineer will support data initiatives across the organization, working with Data Analysts, Product Analysts, Data Scientists and Revenue Operation Specialists, and will ensure optimal data delivery architecture is consistent throughout ongoing projects.
+
+They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+
+In This Role, You Will
+•... Create and maintain optimal data pipeline architecture
+• Assemble large, complex data sets that meet functional business requirements
+• Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, implementation of monitoring systems, etc
+• Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, SaaS ELT tools, Python, and AWS Redshift.
+• Contribute to the design of the data infrastructure roadmap and set up a project structure to implement it
+• Work with stakeholders including the Executive, Revenue Operations, Data Analytics and Data Science teams to assist with data-related technical issues and support their data infrastructure needs
+• Create data tools for analytics and data science team members that assist them in building and optimizing our product and business processes
+
+About You
+• Strong project management and organizational skills, preferably in an Agile environment.
+• Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+• Experience building and optimizing data pipelines, architectures and data sets.
+• Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+• Strong analytic skills related to working with unstructured datasets.
+• Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+• A successful history of manipulating, processing and extracting value from large disconnected datasets.
+• Experience supporting and working with cross-functional teams in a dynamic environment.
+• We are looking for candidates with 5+ years of experience in a Data Engineering role. They should also have experience using the following software/tools
+• Experience with Redshift and/or Snowflake
+• Hands-on experience with Python
+• Experience with orchestration tools such as Airflow or Prefect
+• Experience with ELT tools such as Stitch or Fivetran
+• Experience with data observability and cataloging tools such as Monte Carlo or Select Star
+
+Company Overview
+
+PandaDoc empowers more than 37,000 growing organizations to thrive by taking the work out of document workflow. PandaDoc provides an all-in-one document workflow automation platform that helps fast scaling teams accelerate the ability to create, manage, and sign digital documents including proposals, quotes, contracts, and more. For more information, please visit https://www.pandadoc.com.
+
+Company Culture
+
+We're known for our work-life balance, kind co-workers, & creative virtual team-bonding events. And although our Pandas are located across the globe, we stay connected with the help of technology and ensure that everyone on our team feels, well, like a team.
+
+Pandas work best when they're happy. We retain our talent by upholding our values of integrity & transparency, and selling a product that changes the lives of our customers.
+
+Check out our LinkedIn to learn more.
+
+Benefits
+
+Our benefits include tremendous career growth opportunities, a competitive salary, health and commuter benefits, company-paid life & disability, 20+ PTO days, regularly catered lunches, 401K and FSA plans, and of course, a fun team of Pandas to work with!
+
+PandaDoc is an Equal Opportunity Employer. We are committed to equal treatment of all employees without regard to race, national origin, religion, gender, age, sexual orientation, veteran status, physical or mental disability or other basis protected by law.
+
+EXTERNAL RECRUITERS
+
+Approval Requirement
+
+The use of external recruiters/staffing agencies requires prior approval from our HR Team. The HR Team at PandaDoc requests that external recruiters/staffing agencies not to contact PandaDoc employees directly in an attempt to present candidates. Complying with this request will be a factor in determining future professional relationships with PandaDoc",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_UycvTFd0osPIodmuLd2G3klgWgGyZktxZURAzBA&s,"['23 hours ago', 'Work from home', 'Full-time', 'No degree mentioned']","{'posted_at': '23 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciIsImh0aWRvY2lkIjoiSGRqcVZxaEpUYXNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVUYwVm14aVFVUjZlV2xOUVcweFEwcEthMWhxYWpCcFJURTFMVVJqVUhwM2J6Wk9ZbTk1VUZCTVVrbHhVMDR4V25oZlZERmllVzlQUVVKSGNVODJXWGxpVEZoT1RYSlViR0p2UmtaV1dqWldYMnRWUWtoNlYwbzJiblIxUVhBME9HSjFhakZFUlZkV2RuVTFjR1pRVkVkTWVsbFpZbGt5ZWw5SmNrNVVNVXh6Ym1saU9XVnFlbGg1UlhwMGVGTXliRnBrTkRKQ1RGQnlhMHQ1T1dkS05teHpibTAwT0d3eWMzZFBRamxWTmt4blUyUTVOREpGRWhkb1JtRnZXVGsyVFV0SmFWbDNZbXRRYmxweFltdEJZeG9pUVVSVmVVVkhabXBITTBoVGVGbEhSRjgxUm5wVWVIYzBhVzFQUVZwSlJEbDNkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3ItZGF0YS1lbmdpbmVlci1hdC1wYW5kYWRvYy0zMzg0NjAxODcyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+7,Senior Data Engineer,intive,Anywhere,via LinkedIn,"At intive we innovate through design and engineering to create people-centric digital products. We are more than 3000 people with a passion for digital, who partner with the world’s leading brands such as Dow Jones, FOX, Warner Bros., Verizon, Macmillan, Facebook, Google, BMW, BlackBerry, Discovery, and more.
+
+Our clients come to us to solve their biggest and the most complex business and technology challenges. We have over 20 years of experience working with companies across many industries, including Media & Entertainment, EdTech, Telecommunications, Retail, Automotive, FinTech, and Transportation.
+
+You Are a Good Match If You Have
+• Experience with large data processing pipelines
+• Good Python knowledge
+• Building and maintaining workflows in Airflow
+• Know of Spark, Hadoop, Dask and similar technologies with focus on their internals and configuration
+• Ability to diagnose performance bottlenecks and propose solutions
+• Understanding of data workloads deployments into production... (build, deployment, containerization, orchestration, monitoring)
+• Positive attitude towards knowledge sharing and working with data engineers and data analysts
+• Fluency in verbal and written English
+
+You Will Be Responsible For
+• Implement and maintain data processing pipelines
+• Acquire data from external data sources and integrate them with company Data Lake
+• Help data analysts and data scientists to make the best use of the platform
+• Analyse, debug and solve performance issues in the existing pipelines
+• Help to standardize data processing workflows across the organization
+• Maintain and improve existing codebase - Introduce additional platform monitoring capabilities
+
+Our Offer
+• You can choose how to work (tools, methods)
+• Comfortable employment model (you choose type of agreement)
+• Work-life balance - flexible hours and home office
+• You will be working with an experienced team where relationships are built on a strong, informal culture
+• Your health taken care of (Medicover & Mulitisport)
+• Life insurance (Nationale Nederlanden)
+• Learning from other experts
+• No stiff structure",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREGxBEyaT8gNbLPpKriJh0m1dKmg4QWMSZK7wbBSA&s,"['3 hours ago', 'Work from home', 'Full-time', 'No degree mentioned']","{'posted_at': '3 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciIsImh0aWRvY2lkIjoiVnpCV081Ml9ad29BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZjQkNyY0JRVUYwVm14aVFWUTVhRFZQUjBkaE9ERlFVbXRtZEZVemQxazJRaTF5UjFNMFdrbHRhbGQyZG05SFdUVm5VazVvVFhCalMxTkZNVk56WjBoSlRtOUNYMFF5VUdOa1YzSmtXSGxGVG5OU2FHcElaRzVrVlZWM2IyOURhV1JNYW1oWVF5MHdTVkkxTTBGQkxYWnRZbEZVWmtad1pXbzFiMDlNWTNkbVMzazBjM0J0ZFhkU2VXUnBiRGRwVkRseVpGYzVWblI1ZG1aV1ZFRTBOM2RVTVhGTGJ6UkNjbXRRVFY5VFFsQXpkRm90WTBZd2FWY3piR1U0RWhkb1JtRnZXVGsyVFV0SmFWbDNZbXRRYmxweFltdEJZeG9pUVVSVmVVVkhZMHBGYWxNeWRXTjBXVU5tYjBzM1prWnlkVlYzZEU5b1pqVTFadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vcGwubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3ItZGF0YS1lbmdpbmVlci1hdC1pbnRpdmUtMzE4Nzg0OTY5OD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19

@@ -1,0 +1,501 @@
+,title,company_name,location,via,description,related_links,thumbnail,extensions,detected_extensions,job_id
+0,Data Analyst - Gamma Retail Catalyst,"BCG GAMMA, Boston Consulting Group","Warsaw, Poland",via Boston Consulting Group,"WHAT YOU'LL DO
+
+BCG is seeking a Data Analyst, based in Warsaw, Poland. You will join the rapidly growing Retail Catalyst team, which helps build and implement advanced analytics software for our Retail case teams and clients. Retail Catalyst is part of BCG GAMMA, BCG’s data science and software products business unit. The Warsaw-based team is in charge of building, configuring, and delivering world-class analytics software and apps.
+
+In particular, you will be in charge of:
+• Supporting the Customer Success Managers (CSMs) to deliver excellent and seamless client delivery service
+• Rapidly take responsibility for expanding / improving use cases and help our clients achieve their analytics goals
+• Developing, customizing, and performance-tuning Tableau dashboards
+• Building and maintaining ETL flows in Dataiku
+• Overseeing and executing client data ingestion and data quality control
+• Performing analytics to support the software / apps and generating insights
+• Providing technical... solution and domain expertise to our clients and case teams
+• Coordinating with clients / case teams and maintaining a close sync with our engineering, data science, and devops teams
+• Proactively collecting and incorporating client and case team feedback to make the Retail Catalyst platform the best it can be
+• Over time, become a leader of the Warsaw Retail Catalyst team and take on management responsibility
+
+JOB REQUIREMENTS:
+The Data Analyst will have two major areas of responsibilities:
+Client Service (80%)
+• Support onsite Customer Success Managers (CSMs) to successfully deliver Retail Catalyst projects
+• Work directly with clients, BCG case teams, and product team on a project-by-project basis to conduct hands-on rigorous quantitative analysis, leveraging advanced analysis software (e.g., Dataiku and Tableau for visualization)
+• Ingest, clean, transform, maintain, and analyze client data on Retail Catalyst platform
+• Rapidly configure standard and custom Tableau dashboards per CSM, client, and case team’s directions / requirements
+• Oversee and quality-control all things ETL and Tableau for our client deployments
+• Coordinate the Warsaw delivery team to provide world-class quality output and hyper-responsive client service
+Product and IP development (20%)
+• Maintain library of client-agnostic Tableau dashboards and ETL flows
+• Improve setup and preparation of standard / starting point components so that they can be rapidly deployed and configured for client use cases
+• Support Retail Catalyst product team in client development efforts with ad hoc analysis, problem solving on best analytical approach, and client demos
+• Study and understand Retail sector terminology and industry (analytics-) knowledge
+• Over time, identify new areas of application/use cases for Retail Catalyst and help embed these into the platform and apps
+Your success in this role will be measured in your ability to support our clients and case teams with highly responsive and top quality outputs. You will also be measured on your level of proactivity in terms of improving and expanding the technical platforms and analytical use cases. Finally, we will expect you to, over time, take responsibility for the Warsaw team, including development and mentorship for junior team members and overall quality control
+YOU'RE GOOD AT
+
+Technical skills
+• Tableau (Advanced / World class)
+• ETL / SQL (Advanced / World class)
+• Excel (Advanced)
+• Statistics and math (Intermediate)
+• Python knowledge is a plus
+• Data automation knowledge (e.g., Airflow) is a plus
+• Cloud knowledge (Google Cloud and Azure) is a plus
+
+Non-technical skills
+• Meticulous attention to detail
+• Highly efficient – you get a lot of work done in very little time
+• Willingness to work hard and prioritize team success vs. regular working hours
+• Highly proactive and strong drive for (self-) improvement
+• Dedicated team player
+• Excellent communication skills in English
+• World class problem-solving skills
+• Self-motivated and is able to operate autonomously in a structured manner
+• Ability to coach others
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+
+Education or Certifications
+• Bachelor’s or Master’s degree in engineering, computer science, data science / statistics, or business administration
+
+Work Experience
+• Minimum of 2 years of deep experience in Tableau, including Tableau server tuning, Tableau APIs, Hyper, recent and upcoming product innovations, etc.
+• Minimum of 2 years of deep experience in ETL for very large data sets (terabyte+)
+• Deep expertise in SQL, ideally PostgreSQL
+• Experience in conducting thorough quality checks on ETL flows
+• Experience with data ingestion and automation of ingestion is a big plus
+• Experience with visualized ETL tools (Alteryx, Dataiku) is a big plus
+• Experience in working with global teams
+• Client service experience is a plus
+• Cloud platform experience is a plus
+YOU'LL WORK WITH
+
+• Client success team
+• Tableau delivery team
+• Devops team
+• Product engineering and platform team
+• Commercial and product leadership","[{'link': 'http://www.bcg.com/', 'text': 'bcg.com'}, {'link': 'https://www.google.com/search?q=BCG+GAMMA,+Boston+Consulting+Group&sa=X&ved=0ahUKEwj5pJqExqT8AhXoM1kFHT-TBwAQmJACCLoJ', 'text': 'See web results for BCG GAMMA, Boston Consulting Group'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE7LGK80sgQuXG9g5Fkoks60uucVDsjR5vVEBv1U&s,"['3 hours ago', 'Full-time']","{'posted_at': '3 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBHYW1tYSBSZXRhaWwgQ2F0YWx5c3QiLCJodGlkb2NpZCI6Imh6dEhZdFFJcnhvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVyUUNDdmNCUVVGMFZteGlRWEZaVVVkdFIzaG9ZblJqTlhCcVZrRnpkMDQzV1VSTWJrRjZMVlpSZWpRdFdHZGZOSGxQTUZvMVRtSk9TbmhWWjNaRGFFUTNXRkZGVWxrMGFuaElPSGhCTkhOYU9FZHdibVZpV0ZoV2NYTkllSGN6VEZkV1pXRTNOSFpTVkZSeVdsODRVREJVWlZKVmRqTm9hVEpFUlZOV1VEZG9SR014VG14cGNGUjVYMjVTVkZrMlJHTTNXVVZGYzI1YVJqWlhXSEpYVlRaZk5IWXRkRmhvYjA5R1ptRmZTazEyUW05c2EzRkxjV2h1TWpod01XOVFhR2RCU0Rnd1lYUndlR0ZLZUVSR2VrcDZNRk5yZFY5UFJYVXlVazA1UlRGbFJYQmxYMk5RUkc0M2RsRlBUSE5NTUc5SlFrMUJjRkJ4ZGpOTk1CSVVhMGxsZDFsZmJXTkNkV3B1TlU1dlVIWTJXV1VhSWtGRVZYbEZSMll6TVdkcmEySlpVR1J1U3psYVgyZHdTMWQyZFdVd2RHd3hUMmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIEJvc3RvbiBDb25zdWx0aW5nIEdyb3VwIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5iY2cuY29tL2pvYi8xNjAyMUJSL0RhdGEtQW5hbHlzdC1HYW1tYS1SZXRhaWwtQ2F0YWx5c3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+1,Senior Data Analyst,Ryanair - Europe's Favourite Airline,"Wrocław, Poland",via Linkedin,"Ryanair Holdings plc, Europe’s largest airline group, is the parent company of Buzz, Lauda, Malta Air & Ryanair DAC. Carrying over 154 m guests p.a. on more than 2,400 daily flights from 82 bases, the group connects over 200 destinations in 40 countries on a fleet of over 475 aircraft, with a further 210 Boeing 737’s on order, which will enable the Ryanair Group to lower fares and grow traffic to 200m p.a. by FY24. Ryanair has a team of over 19,000 highly skilled aviation professionals delivering Europe’s No.1 on-time performance, and an industry leading 34-year safety record. Ryanair is Europe’s greenest cleanest airline group and customers switching to fly Ryanair can reduce their CO₂ emissions by up to 50% compared to the other Big 4 EU major airlines.
+
+The Role:
+
+We are looking for a Senior Data Analyst to work in a multi-disciplined team alongside Developers, Designers and Product Owners, who will own their work from the initial idea to the final implementation. The role will... also involve mentoring junior members of the team who have an understanding of the area, but may need to lean on a more experienced colleague from time-to-time.
+
+The role sits inside the BI team. The BI team are made up of 80+ people split across the three Ryanair offices: Dublin, Madrid & Wroclaw. Within the BI team there is a range of different professions: Data Analysts, Data Scientists, Data Engineers, Optimization Specialists, Data Modellers, BI Analysts & BI Reporters.
+
+Requirements
+
+General Requirements
+• Education: Relevant Undergrad Degree in field of Analytics, Masters preferable.
+• Work Experience: 4+ years relevant work experience in Data Analytics/Data Science positions.
+• Commercially focussed. The Commercial team are the stakeholders for the majority of Data Analytics projects undertaken. The candidate must be commercially astute and be able to recognise the value of projects. Job performance is largely assessed by commercial value added.
+• Ability to work independently. Crucial to be a self-starter and consistently show initiative & diligence on a daily basis. The team is built up of people who generate ideas and show initiative in the work they do. Take full responsibility for projects, and ensure they are delivered on time.
+• Communication Skills: Candidate must be communicative – most projects involve multiple people across various teams in different departments across the three offices. It is very necessary to be comfortable speaking with people regularly on a daily basis.
+• Analytical mindset: Be inquisitive and curious with data. Be able to interpret and analyse data. Be able to construct a story through data. Ability to uncover answers to important business questions through data.
+• Confident Presenter: The role will involve very regular presentations to non-technical audiences. It is important to be a confident & skilled presenter.
+• Direct Reports: Ability to delegate work to & manage Junior Data Analysts.
+
+Technical - Requirements
+• Coding Language: Strong coding experience in Python/R (4+ years). Python/R are regularly used across the BI team.
+• SQL: Strong SQL experience (4+ years) from previous jobs is required. Need to be fluent in writing SQL queries to extract data from Data Warehouses.
+• Excel – extensive experience required. Spreadsheets very commonly used, need to be very comfortable working in Excel (pivot tables, extensive formula knowledge).
+• Data Visualization – A very important aspect of the role is to be able to explain analysis through the use of data visualizations. Experience with Data Viz software is preferred e.g. Tableau/PowerBI.
+• PowerPoint/Google Slides – Ability to quickly put together slide decks that summarize your analysis, and clearly tell a story. Have expertise in designing a range of styles of slide decks for varying audiences.
+• Data Validation: Important to be capable of validating datasets you work with contain correct information.
+
+Benefits
+
+FORMS OF EMPLOYMENT/BENEFITS
+
+Contract of employment (permanent contract after trial period)
+• Possible hybrid model (2 days from the office in a week)
+• Staff travel benefits from day one
+• Creative work tax deduction
+• Multisport card
+• Private health care
+• Group insurance scheme
+
+- - - or - - -
+
+B2B
+• Possible permanent place in the office
+
+- - -
+
+Other benefits:
+• Option to participate in trainings and conferences
+• Possibility to meet your colleagues in other offices
+• Annual events (i.e. St.Patrick’s Day)
+• Regular social meetings
+• Paid referral system
+• New office building surrounded by great dinettes right in the city centre","[{'link': 'https://www.google.com/search?q=Ryanair+-+Europe%27s+Favourite+Airline&sa=X&ved=0ahUKEwj5pJqExqT8AhXoM1kFHT-TBwAQmJACCOYJ', 'text': ""See web results for Ryanair - Europe's Favourite Airline""}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yTN-J9FQmJkgH5mCyKx43zYfsvybrtrjKFwELbI&s,"['24 hours ago', 'Full-time']","{'posted_at': '24 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJRTl9wN2ZJNTdXNEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb2tDQ3N3QlFVRjBWbXhpUTFKeFFqZzFNVmhEY0hOdmVsaHlUV0ZhWm5aV1NFUXhSakV0VDJWaFFWRnRhMWgyU0Y5SE1GbFpNbmxvYzNsaVR6UmFNVW94VFZSclRUWlZjbEZoTFV4UVJVVXphbDlYWTJGSGJEbGljbkpOZWpWdVUycG9aWEpQVTFKWmQzSkNiVkpOVFRsRmRHMTFlVFJIYXpWclRuSXRRM2QxTW05UFlsUlpkbGRTTkVSYU5IcExNVkF0VURCMk5sVnBUVUV6V2taWlVIWXhjM1Y0YzNOdE15MTNhbkpGWkVKd2FFcHJOVFpOZG1nMmVGWjBPRmhCUkZCR1ZtVm9abGhpTjBGTWFqbEdVM2RLRWhSclNXVjNXVjl0WTBKMWFtNDFUbTlRZGpaWlpSb2lRVVJWZVVWSFpIbEhUWE00UmpreFNreFdTVEIyZDJKamRVWmxWM0JyTUdOTFVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRpbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc2VuaW9yLWRhdGEtYW5hbHlzdC1hdC1yeWFuYWlyLWV1cm9wZS1zLWZhdm91cml0ZS1haXJsaW5lLTM0MjAwODMxMDk/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+2,Analyst in Remuneration Data Solutions Team,Marsh & McLennan Companies,"Warsaw, Poland",via Recruit.net,"Mercer is seeking candidates for the following position based in Warsaw:
+
+Analyst in Remuneration Data Solutions Team
+
+(full time employment contract - umowa o pracę na pełen etat)
+
+What can you expect?
+• Flexible working hours and a hybrid model of work (you should be comfortable with coming to the office 2/3 days in the week)
+• Induction Day – introduction to Mercer’s organizational culture
+• Senior colleague support during your first weeks of work
+• Casual dress code and integration events
+• Multilingual community with inclusive atmosphere
+• Comfortable office in Warsaw city center (Al. Jerozolimskie 98)
+
+What is in it for you?
+• You will have opportunities for professional development and career growth in a truly international company
+• You will attend trainings with dedicated coach which will prepare you to your daily task
+• You will become familiar with Kanban boards and other LEAN methods
+• Attractive benefits package (including private health care, life insurance... culture/sports card or a Multisport card, lunch/shopping card, co-financing of foreign language classes, retirement plan)
+
+We will count on you to:
+• Cooperate with analysts in Warsaw as well as other Mercer offices around the world
+• Collect, process and analyze compensation policy data
+• Lead Compensation & Benefits Surveys following Mercer standards and methodologies
+• Prepare compensation and policy reports for our clients
+• Participate in regional initiatives and process improvement projects
+
+What you need to have:
+• 1+ year of experience in a similar position working with databases and/or reporting
+• Strong analytical skills and problem-solving approach to work
+• Good organization and time-management skills
+• Strong communication and interpersonal skills
+• You should feel comfortable working in English and Polish
+• High attention to details and ability to work independently
+• Proficiency in MS Office (especially with MS Excel and MS Word - if you decide to apply, you should feel comfortable working with pivot tables, vlookups, and know how to use some most popular Excel formulas)
+• You should be available for a full time position (Monday-Friday, flexible 8-10 a.m. - 4-6 p.m.)
+
+What makes you stand out:
+• Project management experience
+• Knowledge of Spanish or Portuguese language
+
+If you are interested, please send your CV in English.
+
+Check out the vlog about this role!
+
+Mercer believes in building brighter futures by redefining the world of work, reshaping retirement and investment outcomes, and unlocking real health and well-being. Mercer’s more than 25,000 employees are based in 44 countries and the firm operates in over 130 countries. Mercer is a business of Marsh McLennan (NYSE: MMC), the world’s leading professional services firm in the areas of risk, strategy and people, with 76,000 colleagues and annual revenue of $17 billion. Through its market-leading businesses including Marsh, Guy Carpenter and Oliver Wyman, Marsh & McLennan helps clients navigate an increasingly dynamic and complex environment. For more information, visit [...] Follow Mercer on Twitter @Mercer.
+
+Marsh McLennan is committed to embracing a diverse, inclusive and flexible work environment. We aim to attract and retain the best people regardless of their sex/gender, marital or parental status, ethnic origin, nationality, age, background, disability, sexual orientation, gender identity or any other characteristic protected by applicable law","[{'link': 'http://www.mmc.com/', 'text': 'mmc.com'}, {'link': 'https://www.google.com/search?q=Marsh+%26+McLennan+Companies&sa=X&ved=0ahUKEwj5pJqExqT8AhXoM1kFHT-TBwAQmJACCJUK', 'text': 'See web results for Marsh & McLennan Companies'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCeiSV2kJ9F2op2LpQMo58mHcAQSzD_pdYKwDiVg&s,"['19 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '19 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJBbmFseXN0IGluIFJlbXVuZXJhdGlvbiBEYXRhIFNvbHV0aW9ucyBUZWFtIiwiaHRpZG9jaWQiOiJpNTlvb2loSDFQd0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFclFDQ3ZjQlFVRjBWbXhpUVRsM1RGaElZbTlwVUcwMlJHWnJXRXAxUTNjelNHZHpNM1I0VDBGa2FYVlNaV3hJUm5ocGVWQkdSRzFGUldkNWJtRlBUbTFNTmpoUlUyZDFZbXB1T0hZNWExOXBNWGwzZURGU09YRnlUR2hKU2pSSVkxZHdkbTFaYTFKeFZ6TmxNa0ptTW1oNE5rdGhUMWRGY0VGcFIyRkllVUZYTWpCVldrRTJXbDlQWkRoeFgza3dORWRFUm5kd1dtTnZaMkpIYm1GZmRFeDRRM1ZtZG1RMlZGOVZlbmx3VldobFJtNDRjbGx5UlZkRk1GcDRSblkwVnpOZlEwUnhVVXA0TTAxQ01uYzJNRTVYVWtsTldHbEVUSFpOVm1wWlMzSnNURVpGYUd4V1YxSmxUMmRqUVY5cVVTMXpaRU10VWtJdFZFUnVPQklVYTBsbGQxbGZiV05DZFdwdU5VNXZVSFkyV1dVYUlrRkVWWGxGUjJVek5YSXdOemRpZG5SS2EzYzRkRVZsY0hOQlJVZE9jRTVUZFZFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBSZWNydWl0Lm5ldCIsImxpbmsiOiJodHRwczovL3d3dy5yZWNydWl0Lm5ldC9qb2IvYW5hbHlzdC1pbi1qb2JzLzU4Q0YwNTdDNjkxOUQ2MEY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+3,Data Analyst Consultant,EPAM Systems,Anywhere,via Linkedin,"Description
+
+Currently we are looking for a Data Analytics Consultant for our Warsaw office to make the Team even stronger. We are supporting Employment Contract or B2B, depending on your preferences.
+
+#PL_HJ
+
+Responsibilities
+• Manage consulting engagements, overall delivery, and the quality of the output
+• Build and manage customer relationship
+• Plan and initiate required elicitation/discovery activities to engage both business and IT stakeholders
+• Contribute to building the data transformation strategies for our customers
+• Design and drive stakeholder workshops/interviews to define and prioritize their strategic and immediate needs
+• Own and actively contribute to the project consulting deliverables, such as vision statements, assessment deck, roadmaps, etc
+• Work in close collaboration with Solution Architects and Technical Leads to design the architecture that address strategic business needs
+• Implement industry best-practices following BI trends
+• Be Involved into... conceptualization to help Business Analysis and Data Analysis teams with direction setting
+• Contribute to data competency best practice materials
+• Drive presale activities
+• Mentor others
+
+Requirements
+• 5+ years of total experience in data and analytics domain, 2+ years on project/program leading roles
+• Experience in working with senior business and IT stakeholders, as well as end-users
+• Solid knowledge of data and analytics landscape and recent trends
+• Experience in end-to-end data and analytics project delivery as part of the team (i.e. data lake, DWH, advanced analytics solutions, BI/reporting, AI/ML, etc.)
+• Ability to take ownership for end results and manage others to get there
+• Excellent communication skills. Ability to manage customer expectations, present and explain project deliverables to senior stakeholders
+• English level: C1+
+
+We offer
+• Team & working conditions:
+• Friendly team and enjoyable working environment
+• Engineering community of industry’s professionals
+• Flexible schedule and opportunity to work remotely
+• Relocation within our offices
+• Corporate and social events
+• Benefits package (health insurance, multisport, shopping vouchers)
+• Stable income:
+• Employment Contract or B2B
+• Regular assessments and salary reviews
+• Participation in the Employee Stock Purchase Plan
+• Referral bonuses
+• Career development:
+• Innovative solutions delivery and engineering excellence
+• Outstanding career roadmap
+• Leadership development, career advising, soft skills and well-being programs
+• Certification (GCP, Azure, AWS)
+• Unlimited access to LinkedIn Learning, Get Abstract, O’Reilly, Cloud Guru
+• Language classes on English and Polish for foreigners
+• Please note that only selected candidates will be contacted","[{'link': 'http://www.epam.com/', 'text': 'epam.com'}, {'link': 'https://www.google.com/search?q=EPAM+Systems&sa=X&ved=0ahUKEwj5pJqExqT8AhXoM1kFHT-TBwAQmJACCMYK', 'text': 'See web results for EPAM Systems'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjxGnHOpGu_OUg_BGJ1WtDgOC8jWWMNiLPeAvfWg&s,"['7 hours ago', 'Work from home', 'Full-time', 'No degree mentioned']","{'posted_at': '7 hours ago', 'schedule_type': 'Full-time', 'work_from_home': True}",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgQ29uc3VsdGFudCIsImh0aWRvY2lkIjoiQXJ5T1d5alRoRUFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdVRzlzWVc1ayIsImZjIjoiRXZRQkNyY0JRVUYwVm14aVFuSlhhR0psWkVVd1VrNVRZbEpEYjA5T2EwTTFVMXBFZDFKb1ZDMXlSM3BsTURoS1FtRTFSM2R6WkdJdFVFZ3dOMk5sUkZKWlFUSmxXblZtUldSNlJWOUJXV1Y2T0VRemNERkxkWGh6Wkc1VWExbHpTV1ZSV25OblV5MXBhemhWWXpRNWJXeG9TRUZNT0VwT2NsQkVkV3hFUkdzdFVrWTFWRVUwU2tKak5URlJkM1U1ZEhGRVNXMW9jVU5rWnpGQ2N6VXRXbVp4YlZOeFZsZE1UbkpPYkVGcFVGOVpiRGRrT0U5U1NtdFdXa2RCRWhSclNXVjNXVjl0WTBKMWFtNDFUbTlRZGpaWlpSb2lRVVJWZVVWSFptbG9VemhpUTNkRGNtRXlWVVp5TkVOa1luazFXR2RQV2pSblFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRpbiIsImxpbmsiOiJodHRwczovL3BsLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvZGF0YS1hbmFseXN0LWNvbnN1bHRhbnQtYXQtZXBhbS1zeXN0ZW1zLTMzMjk5OTIzMTQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==
+4,Junior Data Scientist,Oil and Gas Job Search,"Kraków, Poland",via Oil And Gas Job Search,"Company Description
+
+We help the world see new possibilities and inspire change for better tomorrows. Our analytic solutions bridge content, data, and analytics to help business, people, and society become stronger, more resilient, and sustainable.
+
+Job Description
+• Under supervision, executes project plans for timely project completion.
+• Utilizes statistical and machine learning techniques to create high-performing models that comply with regulatory and privacy requirements and address business objectives and client needs.
+• Performs analyses of structured and unstructured data to solve multiple and complex business problems. utilizing advanced statistical, mathematical and machine learning technique.
+• Tests new statistical analysis methods, software and data sources for continual improvement of quantitative solutions. Implements as needed.
+• Creates clear and easy to understand documents for product support (technical).
+• Presents analysis ideas, progress reports and results to... internal managers, project managers.
+• Collaborates with other Data Scientists to develop technical/business approaches and new or enhanced technical tools. Participates in collaborations for implementation.
+
+Qualifications
+• Graduate-level degree preferred with concentration in a quantitative discipline such as statistics, mathematics, economics, operations research, computer science or aligned discipline.
+• Experience with data engineering, core data science analytic methodologies, and text mining.
+• Knowledge in and applied experience with statistical and machine learning.
+• Experience (0-2 years) using machine learning languages (e.g., R, Python, SLQ) and a working familiarity with cloud computing environments.
+• Logical, evidence-based problem solving and critical thinking skills.
+• Knowledge of time-series based methods is a plus.
+• Knowledge of basic insurance concepts is a plus.
+
+Additional Information
+
+In 2022, Verisk received Great Place to Work® Certification for our outstanding workplace culture for the sixth year in a row and second-time certification in the UK, Spain, and India. We’re also one of the 38 companies on the UK’s Best Workplaces™ list and one of 18 companies on Spain’s Best Workplaces™ list.
+
+For over fifty years and through innovation, interpretation, and professional insight, Verisk has replaced uncertainty with precision to unlock opportunities that deliver significant and demonstrable impact. From our historic roots in risk assessment, we’ve grown to provide analytic insights that help transform industries focused on some of the world’s most critical areas. Today, the insurance industry relies on Verisk to be, and to make the world, more productive, resilient, and sustainable.
+
+Verisk works in collaboration with our customers and at the intersection of people, data, and advanced technologies. Through proprietary platformed analytics, advanced modeling, and interpretation, we deliver immediate and sustained value to our customers and through them, to the individuals and societies they serve, with greater speed, precision, and scale. We’re 9,000 people strong, committed to translating big data into big ideas. We help others see new possibilities and empower certainty into big decisions that impact individuals and societies. And we relentlessly and ethically pursue innovation to help move our customers, and the world, toward better tomorrows.
+
+Everyone at Verisk—from our chief executive officer to our newest employee—is guided by The Verisk Way, to Be Remarkable, Add Value, and Innovate.
+
+• Be Remarkable by doing something better each day in service to our customers and each other
+
+• Add Value by delivering immediate and sustained results that drive positive outcomes
+
+• Innovate by redefining what’s possible, embracing challenges, and pushing boundaries
+
+Verisk Businesses
+
+[Link available when viewing the job] — provides underwriting and rating solutions for auto and property, general liability, and excess and surplus to assess and price risk with speed and precision
+
+[Link available when viewing the job] — supports end-to-end claims handling with analytic and automation tools that streamline workflow, improve claims management, and support better customer experiences
+
+[Link available when viewing the job] — offers property estimation software and tools for professionals in estimating all phases of building and repair to make day-to-day workflows the most efficient
+
+[Link available when viewing the job] — provides risk modeling solutions to help individuals, businesses, and society become more resilient to extreme events.
+
+[Link available when viewing the job] — provides an integrated suite of software for full end-to-end management of insurance and reinsurance business, helping companies manage their businesses through efficiency, flexibility, and data governance
+
+[Link available when viewing the job] — delivers data and insights to improve the reach, timing, relevance, and compliance of every consumer engagement
+
+[Link available when viewing the job] – offers end-to-end, data insight-driven core capabilities for carriers, distribution, and direct customers across the entire policy lifecycle of life and annuities for both individual and group.
+
+[Link available when viewing the job] — provides intelligence on sustainability, resilience, and ESG, helping people, business, and societies become stronger
+
+Verisk Analytics is an equal opportunity employer.
+
+All members of the Verisk Analytics family of companies are equal opportunity employers. We consider all qualified applicants for employment without regard to race, religion, color, national origin, citizenship, sex, gender identity and/or expression, sexual orientation, veteran's status, age or disability.
+
+[Link available when viewing the job]
+
+Unsolicited resumes sent to Verisk, including unsolicited resumes sent to a Verisk business mailing address, fax machine or email address, or directly to Verisk employees, will be considered Verisk property. Verisk will NOT pay a fee for any placement resulting from the receipt of an unsolicited resume.
+
+#LI-NS1","[{'link': 'https://www.google.com/search?q=Oil+and+Gas+Job+Search&sa=X&ved=0ahUKEwj5pJqExqT8AhXoM1kFHT-TBwAQmJACCPUK', 'text': 'See web results for Oil and Gas Job Search'}]",,"['19 hours ago', 'Full-time']","{'posted_at': '19 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6IkpQNWJTRWZuak5BQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVva0NDc3dCUVVGMFZteGlRelkyTVRneWNWaHhWMVJIVmtwRFVqSlFWV05hTjJwS2JUUXpkMDgxVjFaa1IyRk5NbFpSVmxGZldEWmpSMFZWWlRKck5tNVdORVpNZEV0UFlrZElXVWhZY1ZWR05qVTFXVXh0ZVhoT05YTkdja1k1T0daWFEyWlpObEJTWTJjd2RrOVlRVUZXT1dsWFZtZzRWRTR6TTNaVlRFb3pjbEYzWlRKNVRXVlBXazlTYVVKU1pEUlpaV2RrWlU1SGVESndRVGRTZVV0MFkwUk1MVnBtTTFSYVJYUXlZVE4zZW5SQ2NFUmlRbnBTYTJabWMzTkNXazlsU201NVpXaHNlWFpvVmxsbFRHVjRFaFJyU1dWM1dWOXRZMEoxYW00MVRtOVFkalpaWlJvaVFVUlZlVVZIWkhObU5UZFNSbVJXUVdWTFpHdFpaSFZNZDNweU1YVlNRbGQxVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIE9pbCBBbmQgR2FzIEpvYiBTZWFyY2giLCJsaW5rIjoiaHR0cHM6Ly93d3cub2lsYW5kZ2Fzam9ic2VhcmNoLmNvbS9qb2IvSjNQMFlNNlJMOUQ4QjZLS1lLVD9pcGF0aD1DUkpSMTBcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+5,Information and Data Analyst,Sii Poland,"Bydgoszcz, Poland",via Linkedin,"As an Information and Data Analyst, you will be a part of a community of experts with different capabilities in Information Digital Engineering, driving ideas to reality.
+
+The Information Data & Analytics (IDA) team is a community of data experts who create business value daily with their cutting-edge knowledge. We are looking for more members to join the IDA team.
+
+Your role
+• Deploying and embedding information and data standards, roles, responsibilities, competencies, initiatives, and services as defined in the business strategy
+• Monitoring and proposing work initiatives to improve information and data as well as the operational excellence in execution
+• Cooperating closely with Data Management teams
+• Identifying and documenting the information and data business needs of the clients and stakeholders
+• Helping determine solutions to meet the needs or resolve business problems
+• Analyzing, designing, developing, and maintaining the end-to-end information and data lifecycle... processes that meet business needs and integrate with business processes and IT architecture
+
+Your skills
+• At least 4 years of experience in working with data and its processing
+• Ability to gather requirements and propose improvements
+• Good work organization and an analytical mind
+• Knowledge of SharePoint and O365 tools
+• Willingness to learn information and data standards
+
+Optional
+• Understanding of Information & Data best practices
+• Knowledge of Information Management Policy and Processes and Record Management Policy and Processes
+
+Job no. 221103-C94T4
+
+Why Sii
+
+Great Place to Work since 2015 - it’s thanks to feedback from our workers that we get this special title and constantly implement new ideas
+
+Hundreds of fascinating projects - prestigious brands from around the world, long-term contracts and prferred partner status for many clients
+
+Project suited to you - Do you want to change your career path? Is your project coming to an end? We’ll find you a new one! We have an app for this – Job Changer
+
+We share the profit with Workers - Last year we allocated PLN 21 M to this benefit
+
+7 500 experts and many development opportunities - Tech Communities, workshops, a training platform, and a technology blog – you choose
+
+Employment stability - revenue of EUR 300 M, no debts, since 2006 on the market
+
+Attractive benefits package - private healthcare, benefits cafeteria platform, car discounts and more","[{'link': 'https://sii.pl/', 'text': 'sii.pl'}, {'link': 'https://www.google.com/search?q=Sii+Poland&sa=X&ved=0ahUKEwj5pJqExqT8AhXoM1kFHT-TBwAQmJACCKQL', 'text': 'See web results for Sii Poland'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaFpWybi8VqZmXTogPbgiOt6o6HRdgiog2RyOZ4Ws&s,"['8 hours ago', 'Contractor', 'No degree mentioned']","{'posted_at': '8 hours ago', 'schedule_type': 'Contractor'}",eyJqb2JfdGl0bGUiOiJJbmZvcm1hdGlvbiBhbmQgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJGY0ExbjFRdmgwd0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb2tDQ3N3QlFVRjBWbXhpUkRsR1dsRjJTVTV0U2xscVprTjVTR3QzTW1sU2JUVTBTMGczWTJacWREWm9iM2Q2YTNoTVpVdERTMU5yWW5SVldVcDZVblEyVGtoak9GZDJWWGg1Um1ObVgzRlhkVkZRY0hCemFtaE1PSFJOYTA5TFpFRjZaVEZKUm5kWGJFUjZWSFV0T0dKaVJqRXRjMFZRTURaeGJ6QndOV2huZFU5VGVUbEVjR3AxWmpSaVZuWTNRa0pFYmpoeGJFMXhVM2gwWDFCWk1GYzJhWEpWV0hST2EyVTJPRjk1WHpKTFlrNXFZalE0WjJ0RlNHbFdOVWsxVTBsd1RuSTVRMjQzWkdwT1VrcGpla2hXRWhSclNXVjNXVjl0WTBKMWFtNDFUbTlRZGpaWlpSb2lRVVJWZVVWSFpESXhSeTFOUWxCeGNYRXdTR3BFWW1GTE1HMUtRWEJoYmxaYVVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTAiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkaW4iLCJsaW5rIjoiaHR0cHM6Ly9wbC5saW5rZWRpbi5jb20vam9icy92aWV3L2luZm9ybWF0aW9uLWFuZC1kYXRhLWFuYWx5c3QtYXQtc2lpLXBvbGFuZC0zMzgzNzE0NjY5P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+6,Senior Solution Analyst- GAMMA Retail Catalyst,"BCG GAMMA, Boston Consulting Group","Warsaw, Poland",via Boston Consulting Group,"WHAT YOU'LL DO
+
+The Sr. Analyst for the GAMMA Retail Catalyst product will play a critical role in delivering, implementing, and supporting BCG's client-facing software solutions – independently taking direction from and guiding strategic approach with senior business leaders in our Retail and Pricing sectors as well as the Product Managers for GAMMA Retail Catalyst, AIR, and other GAMMA product teams. Key activities will include gathering requirements from internal and external clients, advising them on the application's usage best practices, and recommending processes to optimize the business value delivered by the application; then sourcing and preparing data, managing required client processes changes, overseeing deployment by setting up and configuring the application according to the requirements, and training client's end users. The Analyst will interact directly with both BCG case team members and clients and must understand and be able to navigate the clients' data and... requirements. He or she should be able to quickly learn methodologies and approaches used in GAMMA Retail Catalyst, understand the industry / client context, and learn analytical approaches used to transform data into business insights. The Analyst should also be able to work with the BCG team and clients to co-create new approaches for further development of software solutions. On the solution deployment side he or she must be able to determine what is needed for compliance with the client's business needs, security policies, deployment, and support, and leverage the right tools and resources to complete the implementation with the highest level of customer satisfaction. When confronted with technical challenges, he or she must work with the BCG platform team and (working together) find creative, economical, and scalable solutions within the application's technical specifications.
+YOU'RE GOOD AT
+
+Client Requirements, Business Processes Change, Data and Analytics Management, Application Setup
+• Works together with the BCG client team and the Retailer (either, the “customer”) to understand client's processes, business requirements, and data structure / challenges
+• Responds to customer inquiries and requests: Troubleshooting, system configurations, service issues
+• Demonstrates a proactive, solution-based approach to enhance client relations via meetings, calls, emails, and chat
+• Constructs and manages the implementation project plan with customer counterpart, including setting and managing customer expectations based on the current state of product offerings and services
+• Identifies required changes in client's business processes and supports process change management
+• Understands client's data situation, develops blueprint for future state data management and works on implementation of new data processes
+• Performs analysis of client data to determine parameter requirements for application's setup, including ETL and processing of data, as needed
+• Works with the Data Engineering, DevOps, and Product teams to implement requirements
+Application Delivery, Implementation, Training, and Support
+• Leads and oversees deployment of the software, configures the software to client's needs
+• Provides guidance to BCG case teams, client's business users and IT team to enable them to roll out, operate, monitor, and maintain the application
+• Collaborates with GAMMA Retail Catalyst technical teams, application software vendors and other resources to diagnose and resolve application's technical and/or non-technical problems, bugs, performance, and other issues
+• Collaborates with internal colleagues to construct appropriate training and support plans for the continuation of the customer’s users and deliverables after the implementation goes into production
+• Works on development of application user guides and other application related materials
+• Documents, tracks, and monitors application's bugs, problems, and issues to ensure timely resolution
+• Performs quality control tests and keeps logs of problems, issues, changes, and future enhancements
+• Tracks project progress against agreed to KPIs and any contractual obligations
+• Provides product feedback to development teams
+Other
+• Performs other projects and duties as assigned or required
+• Ability to travel up to 80% in a given week for periods of time depending on the supported products and implementation/support requirements
+
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+• Deep experience in brick-and-mortar Retail organizations (e.g. merchandizing, pricing, analytics, etc.)
+• Advanced degree with strong academic achievements in business management, engineering, mathematics or similar
+• Experience in areas such as data and / or analytics-related work, data management, end user training on data management / insights generation from data / software applications, end user support, or related activities
+• Preferred customer support experience in a SaaS environment or technology industry
+• Knowledge in the following fields, technologies, and tools:
+• Skills in interpreting data and generating business insights from data
+• Interest and ability to learn data management tools such as Alteryx, SQL, DataIKU, etc.
+• Knowledge of R-script and/or Python
+• MS Excel
+• MS PowerPoint
+
+YOU'LL WORK WITH
+
+Our data analytics and artifical intelligence professionals mix deep domain expertise with advanced analytical methods and techniques to develop innovative solutions that help our clients tackle their most pressing issues. We design algorithms and build complex models out of large amounts of data.
+Key Competencies
+Customer and business focus
+• A passion for customer success and support is essential
+• Interest in Technology and being able to learn quickly regarding tech-heavy topics and tools
+• Able to adjust approach to effectively interact with customers at all organizational and technical levels
+• Focus on excellent customer service and user needs; willingness to go above and beyond to deliver results
+• Able to confidently make decisions and escalate issues and decisions when appropriate
+• Flexibility and openness to ask for help when needed
+Communication, interpersonal and teaming skills
+• Excellent interpersonal and communication skills
+• Fluent written and spoken English
+• Able and willing to give and receive honest, balanced feedback
+Problem solving, analytical skills and decision making
+• Bright, ambitious, solution-oriented self-starter
+• Able to effectively handle difficult and stressful situations with poise, tact and patience, while demonstrating a sense of urgency
+• Able to anticipate, identify, and solve critical problems
+• Flexible, self-motivated, and proactive out-of-the-box and critical thinker
+Work management, organization and planning
+• Excellent organizational skills with strong attention to detail; efficient time management; able to prioritize work effectively
+• Independently and proactively communicates issues, priorities, and objectives
+• Able to thrive in a dynamic, fast-paced, demanding environment
+Values and ethics
+• Demonstrates competence and character that inspires trust
+• Ability to respect all BCG and client information as personal and confidential
+Work environment
+• Able to perform successfully in a fast-paced, intellectually intense, service-oriented environment and to interpret rules and guidelines flexibly to enhance the business in keeping with BCG’s values and culture
+• The ideal candidate must understand that client demands aren't always between 9-5pm and be available / flexible where necessary
+• Experience working successfully within a complex matrix structured organization
+• Able to understand and manage complex reporting relationships and incorporate multiple labor laws and cultures","[{'link': 'http://www.bcg.com/', 'text': 'bcg.com'}, {'link': 'https://www.google.com/search?q=BCG+GAMMA,+Boston+Consulting+Group&sa=X&ved=0ahUKEwj5pJqExqT8AhXoM1kFHT-TBwAQmJACCNML', 'text': 'See web results for BCG GAMMA, Boston Consulting Group'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE7LGK80sgQuXG9g5Fkoks60uucVDsjR5vVEBv1U&s,"['11 hours ago', 'Full-time']","{'posted_at': '11 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29sdXRpb24gQW5hbHlzdC0gR0FNTUEgUmV0YWlsIENhdGFseXN0IiwiaHRpZG9jaWQiOiJYWnExaUlnTXo0OEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFc2tDQ293Q1FVRjBWbXhpUTFjek5rVmpkREpLTUhaQ2FDMXpTV2xVVm5oWU1ITlVUMk5ZV25wWk5tSk5hbkpaVjA1SmQycE9lV04yZG1kWGQyMWxMWFp4TTNZM2FsbGpVemRpYVdoM2VtTTVhR0pzTjNkb1JVeGhPSGRoWmxwYWJWaGpjekp6WTI5R1JVVTRjRGxtVjJNNVZsSjNWMEpCZEVSZmJFWTFhWEpUWTAwelpuUk1ibWhVUWpCblFXMXFablJFU1hnNVgxZHhORGhNY2s0dFRVRjRhRXhwTjJWS2RsaG5USHB4TWxWT05WUkxObE5CY25CWVdsbEdNblV6V0dOT05sOW9hM1Z2WkRsR1FtdDZjVmgwWVcwek9FUnhRMDFYWm1GWVNVbHRYME5UZW1GeFdFcEhRa2xGWTA1NlZVRlNVbGR1WTFobmNqZDRTRXN6V1ZCSE5IbGtlVWhSZFMxQ04wdEhaekJhVVJJVWEwbGxkMWxmYldOQ2RXcHVOVTV2VUhZMldXVWFJa0ZFVlhsRlIyVmhVazFyU1UxNlQyRndkVE5WYUVGTFRIZE1OME5ST1hwTlozYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEJvc3RvbiBDb25zdWx0aW5nIEdyb3VwIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5iY2cuY29tL2pvYi8xNDUxM0JSP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
+7,Senior Financial Analyst,"Warner Bros. Discovery, Warner Media","Warsaw, Poland",via Careers At Warner Bros. Discovery,"Overview:
+
+FP&A COE is known for its innovative thinking, best practices implementation and great customer service. Warner Bros. Discovery seeks to unlock value for the company through igniting curiosity in all of its team members, encouraging collaboration and constantly transforming the way we work.
+
+The Senior Financial Analyst will understand reporting deliverable schedules and do the heavy lift of all report and supporting file preparation (e.g., daily/weekly/monthly, incl. rolling of schedules) prepared by the Subscriber Reporting group. Perform self-review and ensure reporting metrics and financial dashboard summaries highlighting significant business trends is delivered timely and accurately to Reporting Manager for review.
+
+You will partake in daily calls with Data Insights and the Business Intelligence Data Pipeline teams to speak to the reconciliation of the data driven from daily power queries (Finance based reports) and Data Insights reports (Looker), understand data... discrepancies and issues that need to be presented back to team for next steps.
+
+As preparer and user of the reporting data, understand how to take business considerations needs into reportable action. You will proactively identify process inefficiencies and opportunities. Play a role in testing of reporting related projects and tasks within the DSR team.
+Responsibilities:
+• Preparation/Review of weekly global reporting metrics (Paid Subscriber balances & movements, Churn %, ARPU, etc.) and financial dashboard summaries highlighting significant business trends and financial results, by leveraging the BI created data analytics dashboards (e.g., Looker) and existing built reports from the data warehouse (e.g., Zeppelin and Snowflake) to provide accurate subscriber reporting that are distributed to various finance departments (Planning, etc.) and HBO Max department leads
+• Participate in the daily run of key subscriber reporting metrics (e.g., including subscriber acquisitions, conversions, reconnects and churn) used for reporting per plan offerings and participate in daily calls with Data Insights to review reporting data
+• Prepare all Promotional and Bounty reporting as it relates to subscriber metrics and contract and performance obligations
+• Participate in Reports reconciliations and analysis as needed (e.g., new initiatives for HBO Max; New IAP Partner reporting data; etc.)
+• Understand the reporting deliverable schedules of the weekly reporting metrics and financial dashboard summaries
+Qualifications:
+• Minimum 3 years relevant work experience. Entertainment industry and / or multinational business experience is a plus
+• Solid analytical, technical, organizational and interpersonal skills
+• Problem solver with ability to manage details
+• Proven ability to set and meet realistic deadlines and achieve successful results
+• Excellent oral, written communication skills, and financial presentation skills
+• Ability to handle multiple tasks simultaneously, prioritize and adhere to strict deadlines
+• Self-motivated individual, detail-oriented with ability to work independently and collaboratively
+• Strong Microsoft package skills a must (particularly Excel and PowerPoint)
+• BS in Accounting, Finance or Computer Science
+• CPA or BI certification is a plus
+
+What's in it for you?
+• Hybrid work model, flexible working hours
+• Free access to player.pl
+• Benefit package: private medical health care, life insurance, MyBenefit cafeteria including sport card, social funds, retirement pension plans, recognition platform, employee referral program
+• Work-life balance initiatives: wellbeing platform, yoga, educational webinars, Employee Assistance Program, internal media initiatives
+• Training & development: sharing the cost of English lessons, Employee Resource Groups, Bridge learning platform, sharing sessions with experts
+• CSR activities: volunteering, eco & social initiatives
+• Casual dress code
+• Parking space available for booking
+
+#LI-Hybrid","[{'link': 'https://www.google.com/search?q=Warner+Bros.+Discovery,+Warner+Media&sa=X&ved=0ahUKEwj5pJqExqT8AhXoM1kFHT-TBwAQmJACCIAM', 'text': 'See web results for Warner Bros. Discovery, Warner Media'}]",,"['13 hours ago', 'Full-time']","{'posted_at': '13 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRmluYW5jaWFsIEFuYWx5c3QiLCJodGlkb2NpZCI6InljRzA0U3o4UFJvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVUc5c1lXNWsiLCJmYyI6IkVwOENDdUlCUVVGMFZteGlRVlZpVGkxT2REUTVORmxrWkRFdFlsTTNiWHBSTUhWM1kwY3lWMXB4ZVROaGIyUkxhRjlEYVdsdE9WOUxlamRxWWxaRE5HZDZOREJLVm1kRkxXUjFWR2hNY2pSVGVGUnpVMnRRVEdoNWNGWmxWekUxYlRocmVIRmxjRmhaTFc5d01uRkNORWxmUmtVdFRWZGlTazV6V2pKNmNIQkNjM1p0WVcxNmRVUkVNVFZsUjJVdFJ6UXdPREJ0YVVoek1FOWZZM1ZOU0hWU2Ewb3RZVkE0VEhGQlVtSlRaMVZtYTNkUlowcHlXRmxIZFdkNVlXMDFPRlpZY2pVMVZVWmxVMG80ZDNOQlpHaHdTM0ZQTFRBdGJHYzVjelZ6YzJ0eVFsSlFRbEF4ZHhJVWEwbGxkMWxmYldOQ2RXcHVOVTV2VUhZMldXVWFJa0ZFVlhsRlIyVkxMVVJSYlVKTUxVUkJlbVJhU0d4cE1XazFaVlJEZVZCeE5rRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE0IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIENhcmVlcnMgQXQgV2FybmVyIEJyb3MuIERpc2NvdmVyeSIsImxpbmsiOiJodHRwczovL2NhcmVlcnMud2JkLmNvbS9nbG9iYWwvZW4vam9iLzMzNDI4L1Nlbmlvci1GaW5hbmNpYWwtQW5hbHlzdD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19
+8,Data Loss Prevention Security Analyst,AXA,"Wrocław, Poland",via Jobrapido.pl,"We invent the new to help the world move forward. Combining powerful analytics and deeper insights with bigger ideas and innovative solutions, we free up our clients’ potential, thereby fulfilling our own. Take it seriously. Make it fun. Know it matters.
+
+The Security Analyst DLP is responsible for operating AXA XLs data loss prevention practice including Microsoft DLP and MIP products. The candidate will need to understand the technology behind these products to help guide decisions and prioritisations.
+
+What will your essential responsibilities include?
+• Respond to DLP alerts, investigate, and escalate if required
+• Follow up non-responsive policy owners to facilitate closing all alerts
+• Create and modify approved DLP rules and policies
+• Create and modify Microsoft MIP labels
+• Manage Azure Information Protection and operate AIP Scanners
+• Identify and implement tuning opportunities
+• Contribute to the data security vision and strategy at AXA XL
+• Contribute to the technology... roadmap for data security
+• Contribute to delivery of data security projects
+• Maintain and create DLP/MIP processes and operating model documents
+• Manage and create ad hoc and scheduled reporting
+• Troubleshoot and resolve incidents and issues
+• Mentor SOC analysts in DLP concepts and processes
+
+You will report to theSecurity Product Manager - DLP
+
+We’re looking for someone who has these abilities and skills:
+• Experience working in an data security role
+• Experience with Microsoft Compliance console MIP and DLP modules
+• Preferred experience with Azure Information Protection AIP scanners
+• Hands on experience with DLP
+• Cybersecurity certifications/qualifications
+• Strong English verbal and written communication skills with the ability to articulate complex ideas in easy to comprehend business terms.
+• Experience in working with geographically distributed cross-functional teams
+
+FIND your future
+
+AXA XL, the P&C and specialty risk division of AXA, is known for solving complex risks. For mid-sized companies, multinationals and even some inspirational individuals we don’t just provide re/insurance, we reinvent it.
+
+How? By combining a strong and efficient capital platform, data-driven insights, leading technology, and the best talent in an agile and inclusive workspace, empowered to deliver top client service across all our lines of business − property, casualty, professional, financial lines and specialty.
+
+With an innovative and flexible approach to risk solutions, we partner with those who move the world forward.
+
+At AXA XL we are happy to talk flexible working. We are committed to building a diverse and inclusive workforce and consider flexible ways of working for every role. Talk to us about how we can make flexibility work for you.
+
+Corporate Responsibility
+
+At AXA XL our approach to corporate responsibility (CR) is the same as our approach to business; constantly seeking to provide innovative solutions to the world’s most complex problems. From offering our expertise, products and services to help build more resilient communities, to advancing understanding and response to climate change, our strategy – Our Impact. Our Future. – aligns key issues that are pertinent to our business – climate, water and financial resilience - and contributes to AXA Group’s purpose to “Act for human progress by protecting what matters.”.
+• Climate: We’re reducing our carbon footprint, protecting ecosystems and exploring how our business can help build a better world.
+• Water: We’re developing water resilience where it is — and will be — needed most.
+• Financial resilience: We’re helping create opportunities for the unemployed and underemployed, so they can be better prepared for unexpected changes.
+• Hearts in Action:We have established volunteering and charitable giving programs to help colleagues support causes that matter most to them, known as our “Hearts in Action” programs.
+
+For more information please see theCorporate Responsibility sectionon our website.
+
+Diversity & Inclusion
+
+At AXA XL, we know that an inclusive culture and a diverse workforce enable business growth and are critical to our success. That’s why we have made a strategic commitment to attract, develop, advance and retain the most diverse workforce possible, while creating an inclusive culture where everyone can bring their full selves to work and can reach their highest potential. It’s about helping one another — and our business — to move forward and succeed.
+• Five Business Resource Groups focused on gender, LGBTQ+, race/ethnicity, disability and inclusion with 20 Chapters around the globe
+• Robust support for Flexible Working Arrangements
+• Enhanced family friendly leave benefits
+• Named to the Diversity Best Practices Index
+• Signatory to the UK Women in Finance Charter","[{'link': 'http://www.axa.com/', 'text': 'axa.com'}, {'link': 'https://www.google.com/search?q=AXA&sa=X&ved=0ahUKEwj5pJqExqT8AhXoM1kFHT-TBwAQmJACCK8M', 'text': 'See web results for AXA'}]",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlB_La17VUEgxVaDwHQqWcjUK2eFYhGdEt8uCo&s=0,"['19 hours ago', 'Full-time', 'No degree mentioned']","{'posted_at': '19 hours ago', 'schedule_type': 'Full-time'}",eyJqb2JfdGl0bGUiOiJEYXRhIExvc3MgUHJldmVudGlvbiBTZWN1cml0eSBBbmFseXN0IiwiaHRpZG9jaWQiOiJncHBsNlYzSGg1MEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1VHOXNZVzVrIiwiZmMiOiJFb2tDQ3N3QlFVRjBWbXhpUVdKNVNGSm9VRWRtVkRnelRqZGpORWhtYjNaV1dsbHRVR1kwWW1GSlV6RnRYMnN5TUdGT2VGZEpUME01YXpSYUxYWkxPRVpXTWpOYVp5MTBjRUpITldOdU9XWm5SRGhpT1U4NGRrUmpURWQxVDJKaFIwY3RTakJ3VVdGbWRGbHZZbFpEYkc0M1VEVjZkazVCVEZVMWVrNUpiV2xqU0VaeldYWnZVMGR4TjBnd1NGTkZSR3hET0VWek5FWkpObmhNTlhVNGNtSnRWRXRwWjFoVFdsOW9TV3BVY2pGMFMzQlNiSFZzTmsxYVRUWmhaVzlJYTJGelZYQTFPVzV6ZFZkTFJUTm1ibTl4RWhSclNXVjNXVjl0WTBKMWFtNDFUbTlRZGpaWlpSb2lRVVJWZVVWSFpUQjZUMkZNWVRKaGQzbFFhV3BuWkZoRVpYZFllR1Z1ZGxvdFVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icmFwaWRvLnBsIiwibGluayI6Imh0dHBzOi8vcGwuam9icmFwaWRvLmNvbS9qb2JwcmV2aWV3Lzc2OTM4MjY2P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=
